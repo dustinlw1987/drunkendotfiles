@@ -1,7 +1,12 @@
 # Ignoring:
 .neocon
+.gnome2*
+.gstreamer*
+.pki*
+.macromedia*
 .viminfo
 .secrets*
+.ssh*
 .zhistory
 examples.desktop
 .fasd
