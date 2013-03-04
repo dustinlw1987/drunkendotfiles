@@ -1,6 +1,7 @@
 # Ignoring:
 .secrets*
 .zhistory
+.fasd
 .dmrc*
 .adobe*
 .aptitude
