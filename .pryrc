@@ -1,1 +1,0 @@
-/home/dissimulo/.yadr/irb/pryrc
