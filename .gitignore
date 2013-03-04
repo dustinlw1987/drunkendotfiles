@@ -6,6 +6,7 @@
 .macromedia*
 .viminfo
 .secrets*
+.config/chromium/*
 .ssh*
 .zhistory
 examples.desktop
