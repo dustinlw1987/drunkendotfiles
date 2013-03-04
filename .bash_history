@@ -35,3 +35,31 @@ ls .git
 chsh -s /bin/zsh
 zsh
 exit
+chsh -s /bin/zsh
+/bin/zsh
+exit
+chsh -s /bin/zsh
+ls
+cd .yadr
+ls
+cd ..
+ls -la
+git clone https://github.com/dustinlw1987/drunkendotfiles.git ~
+git clone https://github.com/dustinlw1987/drunkendotfiles.git
+cd drunkendotfiles
+mv *.* ~
+mv .* ~
+man cp
+cp -Rfv * ~
+ls -la
+cd ..
+ls .yadr
+exit
+cd ~
+sudo su -
+exit
+cd .yadr
+cd ..
+rm -rf .yadr
+git clone https://github.com/skwp/dotfiles.git ~/.yadr
+cd ~/.yadr && rake install
