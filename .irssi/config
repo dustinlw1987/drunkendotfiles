@@ -195,4 +195,3 @@ settings = {
   "irc/core" = { cmds_max_at_once = "999999"; cmd_queue_speed = "0ms"; };
 };
 logs = { };
-ignores = ( { mask = "Sudos|PE2300"; level = "ALL"; } );
