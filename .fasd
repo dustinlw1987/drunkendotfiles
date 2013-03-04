@@ -7,6 +7,7 @@
 /home/dissimulo/.aprc|2|1362360403
 /home/dissimulo/.tmux-powerline/powerline.sh|4.56988|1358059050
 /etc/motd.tail|1|1360603940
+/home/dissimulo/.secrets|1|1362364723
 /home/dissimulo/.bitcoin/database/log.0000000001|1|1362360620
 /home/dissimulo/.zcompdump.zwc|1|1362360028
 /home/dissimulo/.zlogin|1|1362360028
@@ -24,7 +25,7 @@
 /home/dissimulo/.nano_history|1|1362360028
 /home/dissimulo/.bash_history|1|1362360028
 /home/dissimulo/drunkendotfiles/README.md|1|1362359974
-/home/dissimulo/.pryrc|2|1362360461
+/home/dissimulo/.pryrc|2.5|1362364662
 /home/dissimulo/drunkendotfiles/bsascii|1|1362364012
 /home/dissimulo/.zshenv|1|1362360028
 /home/dissimulo/.fasd|2|1362360476
@@ -49,7 +50,7 @@
 /root/.yadr|1|1357779983
 /home/dissimulo/.home/bin|1|1362360353
 /home/dissimulo/.vimrc|1|1362360028
-/home/dissimulo/.aptitude|1|1362360028
+/home/dissimulo/.aptitude|2.5|1362364625
 /home/dissimulo/.ctags|2|1362360447
 /home/dissimulo/.tmux-powerline/themes/default.sh|1|1358056762
 /home/dissimulo/.purple/logs|1|1362360421
@@ -73,7 +74,7 @@
 /home/dissimulo/.zpreztorc|1|1362360028
 /home/dissimulo/ascii/slowking|1|1358096658
 /sources/bitcoin-0.7.2-linux|2|1360620581
-/home/dissimulo/.gitignore|5.92866|1362363941
+/home/dissimulo/.gitignore|6.26134|1362364858
 /home/dissimulo/1|2|1360674602
 /home/dissimulo/drunkendotfiles/.git|1|1362360000
 /home/dissimulo/.home/themes|1|1362360353

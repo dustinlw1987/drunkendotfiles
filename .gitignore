@@ -1,6 +1,7 @@
 # Ignoring:
 .secrets*
 .dmrc*
+.adobe*
 .aptitude
 .aprc
 .ICEauthority
