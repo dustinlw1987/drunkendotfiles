@@ -1,0 +1,88 @@
+--- Log opened Mon Mar 12 20:00:39 2012
+20:00 -!- Irssi: Starting query in DeafGeeksIRC with Tandy|TERM2
+20:00 <Tandy|TERM2> WHAT THE HELL IS THE SUDO PASSWORD ON MY VM ;_;
+20:00 <Tandy|TERM2> I gotta install Javaids :|
+--- Log closed Mon Mar 12 20:06:45 2012
+--- Log opened Mon Mar 12 20:53:28 2012
+20:53 <`|dv9k> ah, i have to install 'em
+20:53 <`|dv9k> what package do you need, specifically?
+20:53 <`|dv9k> (or packages)
+20:53 <Tandy|TERM2> JRE
+20:53 <Tandy|TERM2> is what I need
+20:54 <Tandy|TERM2> whatever will let me execute java -Xmx1024M -Xms1024M -jar minecraft_server.jar nogui.
+20:54 <Tandy|TERM2> :P
+20:54 <`|dv9k> fuck.
+20:54 <`|dv9k> i forgot to add my own user to sudo
+20:54 <Tandy|TERM2> bahaha
+20:54 <`|dv9k> you'll have to wait like eh, 30 minutes?
+20:54 <Tandy|TERM2> su time
+20:54 <Tandy|TERM2> fine by me
+20:55 <`|dv9k> alright, since i gotta dig out my laptop and im already fucking with this shitty hp
+--- Log closed Mon Mar 12 21:00:45 2012
+--- Log opened Mon Mar 12 21:01:29 2012
+21:01 <Tandy|TERM2> lol
+21:01 <Tandy|TERM2> where'd you get that?
+21:01 <Tandy|TERM2> I have one of those lying around
+21:01 <Tandy|TERM2> busted mobo
+21:01 <Tandy|TERM2> but the screen and shit is all good ...
+21:01 <Tandy|TERM2> trying to part it out
+21:01 <Tandy|TERM2> ._.
+--- Log closed Mon Mar 12 21:06:45 2012
+--- Log opened Mon Mar 12 21:19:16 2012
+21:19 <`|dv9k> ah.
+21:19 <`|dv9k> busted mobo as in graphics card burnt out?
+21:19 <Tandy|TERM2> nope
+21:19 <Tandy|TERM2> it *works*
+21:19 <`|dv9k> but?
+21:19 <Tandy|TERM2> but the IDE controller is toast
+21:19 <`|dv9k> ahhh.
+21:19 <Tandy|TERM2> won't boot from HDD
+21:19 <Tandy|TERM2> it's in pieces now
+21:19 <Tandy|TERM2> ._.
+21:20 <`|dv9k> i coulda wired a USB stick inside the bay
+21:20 <Tandy|TERM2> I didn't even consider the notion of using it as a strictly boot-from USB machine
+21:20 <Tandy|TERM2> yeah
+21:20 <Tandy|TERM2> meh
+21:20 <`|dv9k> and lolusbboot
+21:20 <Tandy|TERM2> oh well
+21:20 <Tandy|TERM2> it's a shit computer, anyways
+21:20 <Tandy|TERM2> worth more to me in parts money
+21:20 <Tandy|TERM2> I need to save up for a car
+21:20 <`|dv9k> i guess so :P
+21:20 <Tandy|TERM2> You can get a good LT1 around here for less than $10
+21:20 <Tandy|TERM2> as in
+21:20 <Tandy|TERM2> erm
+21:20 <Tandy|TERM2> $10k
+21:20 <Tandy|TERM2> as in
+21:20 <Tandy|TERM2> FRESHLY rebuilt engine, new apolstry, etc.
+21:20 <Tandy|TERM2> for less than $10k
+21:20 <`|dv9k> yeah
+21:21 <`|dv9k> i'm mainly looking for a 'decent' looking beater
+21:21 <`|dv9k> as in, looks decent from the outside
+21:21 <Tandy|TERM2> heh
+21:21 <`|dv9k> but if the inside's fucked up, i can fix it up with shit
+21:21 <Tandy|TERM2> I wouldn't want to be caught dead with an HP
+21:21 <`|dv9k> since im planning to put in a laptop mount and all that shit
+21:22 <`|dv9k> Hostname: cookiemonster.deafgeeksdns.com - OS: Linux 2.6.32-5-xen-amd64/x86_64 - CPU: 4 x Quad-Core AMD Opteron(tm) Processor 2374 HE (2186383.926 MHz) - Processes: 94 - Uptime: 23d 12h 4m - Load Average: 0.00 - Memory Usage: 101.24MB/249.84MB (40.52%) - Disk Usage: 0.81GB/9.70GB (8.39%)
+21:23 <Tandy|TERM2> quad-core?
+21:23 <Tandy|TERM2> O_o
+21:23 <Tandy|TERM2> mine was a sempron or something weird
+21:23 <Tandy|TERM2> wait...
+21:23 <Tandy|TERM2> it wsa a dv6000
+21:23 <Tandy|TERM2> was a*
+21:24 <`|dv9k> lol no
+21:24 <Tandy|TERM2> no
+21:24 <Tandy|TERM2> a
+21:24 <Tandy|TERM2> zv6000
+21:24 <`|dv9k> that was my serve
+21:24 <Tandy|TERM2> it was a zv6000
+21:24 <Tandy|TERM2> it was a zv6000
+21:24 <Tandy|TERM2> it was a zv6000
+21:24 <`|dv9k> ah
+21:24 <`|dv9k> it's labeled as an uh
+21:24 <`|dv9k> fuck it 
+21:24 <`|dv9k> let me get on a real local instance
+21:24 <`|dv9k> but i need to download my scripts. ._.
+21:24 <`|dv9k> hold
+21:24 <Tandy|TERM2> lol
+--- Log closed Mon Mar 12 21:30:45 2012

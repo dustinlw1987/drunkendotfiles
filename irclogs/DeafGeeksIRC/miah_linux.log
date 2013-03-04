@@ -1,0 +1,100 @@
+--- Log opened Mon Feb 27 05:02:48 2012
+05:02 -!- Irssi: Starting query in DeafGeeksIRC with Miah|Linux
+05:02 <Miah|Linux> hey want to help me :)
+--- Log closed Mon Feb 27 05:08:20 2012
+--- Log opened Mon Feb 27 05:13:36 2012
+05:13 <`> er, gonna crash in a bit.
+05:14 <Miah|Linux> but, but, but...
+05:14 <`> i know
+05:14 <`> you can live. :P
+05:15 <Miah|Linux> lol
+05:15 <Miah|Linux> one question...
+05:15 <`> hmm?
+05:15 <Miah|Linux> GTK3 and GTK2...what are those? lol
+05:16 <`> GIMP ToolKit
+05:16 <`> then the version numbers.
+05:16 <`> http://www.gtk.org/
+05:17 <`> basically it's a bunch of frameworks and shared libraries for making GUIs
+05:17 <Miah|Linux> http://tiheum.deviantart.com/art/Holo-280076980?
+05:17 <Miah|Linux> do i need it for this?
+05:18 <Miah|Linux> or gnome tool kit?
+05:19 <`> you need it.
+05:19 <`> it's still useful
+05:19 <`> BUT
+05:20 <`> it depends on what engine you're using.
+05:20 <Miah|Linux> engine?
+05:20 <`> if you're using murrine and/or pixbuf engines, use GTK2 theme
+05:20 <`> if unico and/or adwaita engines, use GTK3
+05:21 <`> *GTK3 theme
+05:21 <Miah|Linux> lost me lol
+05:22 <`> then i suggest learning about it
+05:22 <`> http://gnome-look.org/
+05:22 <`> that site should have the appropriate info
+05:22 <`> and it has EVERYTHING too
+05:22 <Miah|Linux> lol ok
+05:22 <`> in fact, that's the site i learnt my shit from
+05:23 <`> at least for theming
+05:24 <`> alright bro
+05:24 <`> im braindead
+05:24 <Miah|Linux> alright man
+05:24 <`> ZOMBIE, MAH NIGGA
+05:24 <Miah|Linux> i will let ya go and i shale read up
+05:25 <`> think about it, as uou read youll get more info that way and learn faster
+05:25 <Miah|Linux> nod
+05:26 <Miah|Linux> but are these all the same for linux/ubuntu/debian
+05:26 <`> no
+05:26 <`> it's slightly different
+05:26 <Miah|Linux> i ask because i dont know if i am going to stay with linux mint or go back to ubuntu
+05:27 <`> well
+05:27 <`> both are kinda the same
+05:27 <Miah|Linux> ok
+05:27 <`> but still with fundamental differents
+05:27 <`> *differences
+05:27 <`> like where shit is
+05:27 <`> but how it runs shit should be fairly the same
+05:28 <`> i.e. apt-get shit should be same
+05:28 <Miah|Linux> okay bro
+05:28 <`> yup
+05:28 <Miah|Linux> well you go to bed lol
+05:28 <Miah|Linux> i got to shit
+05:28 <`> lol
+05:28 <`> i'm eating croutons in the last of the nacho cheese
+05:28 <`> just so the bowl's totally empty
+05:28 <`> }:A
+05:29 <Miah|Linux> nice haha
+05:29 <`> this nacho cheese is expensive
+05:29 <`> and it kinda turns into liquid if you dont eat it/use it right away
+05:29 <`> no preservatives, bro
+05:30 <Miah|Linux> high quality
+05:30 <`> yup
+05:30 <`> so i threw some croutons in there
+05:30 <`> and ate it all
+05:31 <`> now i'm done, and gonna finish it up with some milk, brush teeth, go into coma
+05:31 <`> and then hallucinate wildly
+05:31 <Miah|Linux> yeah i just got hit with tiredness
+05:31 <Miah|Linux> fucking sand man
+05:31  * Miah|Linux smh
+05:32 <`> and THEN suffer amnesia when i wake up
+05:32 <`> }:A
+05:32 <`> (in other words, sleep, dream, wake up, forget dream)
+05:32 <`> u c what i did thar
+05:33 <Miah|Linux> nod
+05:33 <`> okay, now im gonna gtfo
+05:33 <`> later.
+05:33 <Miah|Linux> when you wake up (if you wake up :P) PM miah-mobile
+05:33 <`> k
+05:33 <`> i'll just nickalert miah*
+05:33  * Miah|Linux shrug
+05:33 <Miah|Linux> okay...? lol
+05:34 <`> i'm saying i'll nickalert all of the miahs in the channel.
+05:34 <Miah|Linux> sounds good lol
+05:34 <`> only i've denegerated into using unix regex in normal conversation
+05:34 <Miah|Linux> now time for me to shit, read, sleep :)
+05:34 <`> must be time for me to sleep
+05:35 <`> :P
+05:35 <`> lates
+--- Log closed Mon Feb 27 05:35:16 2012
+--- Log opened Mon Feb 27 05:35:34 2012
+05:35 -!- Irssi: Starting query in DeafGeeksIRC with Miah|Linux
+05:35 <Miah|Linux> G'night
+--- Log closed Mon Feb 27 05:41:20 2012

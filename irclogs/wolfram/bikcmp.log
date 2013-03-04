@@ -1,0 +1,854 @@
+--- Log opened Tue Jun 19 17:01:28 2012
+17:01 -!- Irssi: Starting query in wolfram with bikcmp
+17:01 <bikcmp> blargh
+17:01 <bikcmp> joey is pissing me off
+17:01 <bikcmp> joey = shadow
+17:01 <bikcmp> 14:51:17  <@Shadow> bikcmp, but how would i implement that into the ircd
+17:01 <bikcmp> 14:57:57  < bikcmp> Shadow: uh
+17:01 <bikcmp> 14:57:59  < bikcmp> Shadow: dude
+17:02 <bikcmp> 14:58:01  < bikcmp> it's already in there
+17:02 <bikcmp> 14:58:14  <@Shadow> okay so like
+17:02 <bikcmp> 14:58:18  <@Shadow> what do i do to use it
+17:02 <bikcmp> 14:58:24  < bikcmp> ... you uncomment the line
+17:02 <bikcmp> 14:58:26  < bikcmp> that's it
+17:02 <bikcmp> 14:58:28  < bikcmp> lol
+17:02 <bikcmp> 14:58:34  <@Shadow> which line
+17:02 <bikcmp> 14:58:39  < bikcmp> i don't know?
+17:02 <bikcmp> 14:58:45  < bikcmp> learn to do it yourself?
+17:02 <bikcmp> 14:58:58   * Shadow mentions something about a managed vps :\
+17:02 <bikcmp> 14:59:16  < bikcmp> Shadow: in which case you should have no access to the vps at all
+17:02 <bikcmp> 14:59:19  < bikcmp> :p
+17:03 <bikcmp> 14:59:33  < bikcmp> Shadow: i told you from the start that i would help with an occasional thing, but not do everything for
+17:03 <bikcmp>                     you
+17:03 <bikcmp> i told him before he did /anything/ that i wouldn't do everything for him
+--- Log closed Tue Jun 19 17:09:09 2012
+--- Log opened Tue Jun 19 17:42:02 2012
+17:42 <`> yeah.
+17:42 <`> sue bitched at one point.
+--- Log closed Tue Jun 19 17:47:09 2012
+--- Log opened Tue Jun 19 18:42:01 2012
+18:42 <bikcmp> well
+18:42 <bikcmp> 15:00:10  <bikcmp> 14:59:16  < bikcmp> Shadow: in which case you should have no access to the vps at all
+18:42 <bikcmp> entirely true
+18:42 <bikcmp> but i told him before he bought the vps that i'd help him on occasion
+18:42 <bikcmp> and understandably not hold his hand or give him any code/tips from irondust, since we'd be a competing network
+18:42 <bikcmp> well
+18:43 <bikcmp> you know, not competing like that
+--- Log closed Tue Jun 19 18:48:11 2012
+--- Log opened Tue Jun 19 21:16:53 2012
+21:16 <`> just tell the idiot that your code is proprietary and that's that.
+21:17  * ` is really not happy with shit today.
+21:20 <bikcmp> yeah
+21:20 <bikcmp> what's wrong with you?
+21:21 <`> people is my fucking problem.
+21:21 <`> they're assholes.
+21:22 <`> im sorry - i just have an extremely low tolerance today.
+21:22 <bikcmp> yeah
+21:23 <bikcmp> http://i.imgur.com/4iG79.jpg
+21:25 <`> whoever did that was british
+21:26 <bikcmp> i know
+21:30 <bikcmp> http://i.imgur.com/CR9fg.png
+--- Log closed Tue Jun 19 21:36:11 2012
+--- Log opened Tue Jun 19 22:52:54 2012
+22:52 <bikcmp> 20:51:25  -!-  hostname : cookiemonster.deafgeeksdns.com 108.166.7.184
+22:52 <bikcmp> lol
+22:53 <bikcmp> cookiemonster?
+--- Log closed Tue Jun 19 22:58:11 2012
+--- Log opened Tue Jun 19 23:02:18 2012
+23:02 <`> why the hell not?
+23:02 <`> based it mostly on this single image:
+23:02  * bikcmp wait?
+23:02 <bikcmp> lol
+23:03 <`> http://dgd.io/NJ6l
+23:04 <bikcmp> hah
+23:05 <`> the flywheel is pretty amazing in its engineering.
+23:07 <bikcmp> pff
+23:07 <bikcmp> people are annoying me too
+23:07 <`> yeah.
+23:07 <bikcmp> i have these, like, moods.
+23:07 <bikcmp> i think i have a degree of bipolar.
+23:07 <bikcmp> (i stay off irc when i don't feel ok)
+23:08 <bikcmp> so you don't see it
+23:08 <bikcmp> but anyway
+23:08 <bikcmp> this dude in #social on this network was like
+23:08 <bikcmp> going on about how he has a 5 gig text file
+23:08 <bikcmp> and can't open it.
+23:08 <bikcmp> so, i asked him to pastebin the first 100 lines.
+23:08 <bikcmp> i coded something for him to use in python.
+23:08 <bikcmp> and, it wouldn't hog his memory.
+23:09 <bikcmp> then he's like, "I WANT TO DO IT IN PHP AND I KNOW PHP CAN DO IT"
+23:09 <bikcmp> so i'm like
+23:09 <bikcmp> WHY DID YOU ASK ME THEN?
+23:09 <bikcmp> he's like, "i thought you'd have shut up by now"
+23:09 <`> lol
+23:09 <`> that's an asshole, if i heard anything
+23:10 <bikcmp> 21:04:49  < langkid1> I used PHP
+23:10 <bikcmp> 21:04:58  < langkid1> it can read it in a way that doesn't hog memory
+23:10 <bikcmp> 21:05:07  < bikcmp> langkid1: then why are you asking us for help?
+23:10 <bikcmp> 21:05:10  < langkid1> that paste was just the first 1000 lines
+23:11 <bikcmp> 21:05:12   * bikcmp rolls eyes
+23:11 <bikcmp> 21:05:18  < langkid1> I dunno, I thought you would've stopped talking by now
+23:11 <bikcmp> 21:05:23  -!- Irssi: Nick set to 'langkid1' from 'langkid1 ', reason set to 'you should know better'.
+23:11 <bikcmp> 21:05:23  -!- Irssi: I've wanted to kick,ban langkid1 in #social on  since 1340165123
+23:11 <bikcmp> 21:05:23  -!- Irssi: DEBUG: try to get op in #social
+23:11 <bikcmp> 21:05:23  -!- Irssi: QUOTE CS op #social
+23:11 <bikcmp> 21:05:23  -!- Irssi: We've been opped
+23:11 <bikcmp> 21:05:23  -!- Irssi: Banning langkid1 from #social with hostname ibbpocd7.me
+23:11 <bikcmp> 21:05:23  -!- Irssi: Kicking langkid1 from #social
+23:11 <bikcmp> 21:05:23  -!- Irssi: MODE #social -o bikcmp
+23:11 <bikcmp> 21:05:23  -!- mode/#social [+o bikcmp] by ChanServ
+23:11 <bikcmp> 21:05:23  -!- mode/#social [+b *!*@ibbpocd7.me] by bikcmp
+23:12 <bikcmp> 21:05:23  -!- langkid1 was kicked from #social by bikcmp [you should know better]
+23:12 <bikcmp> 21:05:23  -!- mode/#social [-o bikcmp] by bikcmp
+23:13 <bikcmp> #social fucking annoys me at times.
+23:14 <bikcmp> 21:05:53  -!- langkid1 ~langkid1@ibbpocd7.me is messaging you, and you have umode +g.
+23:14 <bikcmp> ffs
+23:14 <bikcmp> 21:12:52  -!- langkid1 ~langkid1@ibbpocd7.me is messaging you, and you have umode +g.
+23:14 <bikcmp> he keeps trying to message me.
+23:14 <bikcmp> sorry, i feel like I'm ranting at you.
+--- Log closed Tue Jun 19 23:20:09 2012
+--- Log opened Wed Jun 20 00:11:14 2012
+00:11 <`> not at all, it's cool
+00:11 <`> was afk
+--- Log closed Wed Jun 20 00:17:09 2012
+--- Log opened Wed Jun 20 00:20:25 2012
+00:20 <bikcmp> bah
+00:20 <bikcmp> so 
+00:20 <bikcmp> i unban the guy about 2 hours later
+00:20 <bikcmp> 21:51:31  -!- mode/#social [+o bikcmp] by ChanServ
+00:20 <bikcmp> 21:51:31  -!- mode/#social [-bbo *!*@ibbpocd7.me$1340171809 *!*@ibbpocd7.me bikcmp] by bikcmp
+00:20 <bikcmp> 21:51:31  -!- #social You're not a channel operator
+00:20 <bikcmp> 22:08:57  -!- langkid1 [~langkid1@ibbpocd7.me] has joined #social
+00:21 <bikcmp> 22:08:59  < langkid1> herro
+00:21 <bikcmp> 22:15:08  < Nightmare> 8======D
+00:21 <bikcmp> 1
+00:21 <bikcmp> sorry
+00:25 <`> hope you dont mind me asking; how old are you?
+--- Log closed Wed Jun 20 00:31:15 2012
+--- Log opened Wed Jun 20 00:39:48 2012
+00:39 <bikcmp> sorry
+00:39 <bikcmp> didn't see your pm
+00:39 <bikcmp> i'm 16
+00:40 <bikcmp> why
+00:42 <`> just wondering.
+00:42 <bikcmp> fwiw, sue is aware
+00:45 <bikcmp> the reason i'm doing some stuff that you wouldn't imagine a kid doing is because i'm growing up in an extremely extremely dysfunctional family.
+00:45 <bikcmp> dad is pretty much paralized and extremely lazy: the only reason he gets up out of this chair is to go to the bathroom. 
+00:46 <bikcmp> mom is getting the backlash from her smoking habbits, and it's too late to stop it.
+00:46 <bikcmp> brother has some sort of mental disability. 
+00:46 <bikcmp> so there I am.  :(
+00:47 <`> i'm deaf, my family has shunned me, and i had to drop out of school because admins were fucking me over.
+00:47 <`> etc.
+00:48 <`> nobodys perfect.
+00:48 <bikcmp> it seems as if everyone on irc has problems
+00:48 <bikcmp> s/on irc//
+00:48 <bikcmp> oh. and family won't bother taking me to any asl classes
+00:49 <bikcmp> since my hearing is definitely going to be completely gone within the next 5 years
+00:49 <bikcmp> so it's pretty much up to the internet.
+00:49 <bikcmp> that, or I learn to bike 30 miles a day. 
+00:50 <`> no public transportation?
+00:50 <bikcmp> hell
+00:50 <bikcmp> it'd be like
+00:50 <bikcmp> a hell of a hard time trying to get there
+00:50 <bikcmp> a train would take me /very/ far away from where i want
+00:50 <bikcmp> and like, an hour before it starts
+00:51 <bikcmp> and it'd be pitch black out 
+00:51 <bikcmp> so yeah
+00:51 <bikcmp> it isn't an option
+00:51 <bikcmp> it's online or nothing
+00:53 <`> where the hell are you? you sound as if you're from bumsville, idaho
+00:55 <bikcmp> haha
+00:55 <bikcmp> i'm from like
+00:55 <bikcmp> cherry hill nj
+00:55 <bikcmp> a small town around it
+00:55 <bikcmp> the ironic part is that it's a really expensive place to live
+00:55 <bikcmp> but like
+00:55 <bikcmp> all the money is going towards dad's healthcare
+00:55 <bikcmp> when he doesn't even care if he gets better
+00:56 <`> jersey?
+00:56 <`> you actually live in jersey?
+00:56 <bikcmp> yes
+00:56 <bikcmp> i do
+00:56 <bikcmp> it sucks fucking ass
+00:57 <`> so i've heard.
+00:57 <bikcmp> i'm so moving the day I turn 18
+00:57 <bikcmp> that, or go and stay at a college.
+00:58 <bikcmp> i got tired of living at home when I was ten.
+00:58 <bikcmp> so yeah.
+00:59 <`> i actually moved out when i was 16
+00:59 <`> but i digress.
+00:59 <bikcmp> eh?
+00:59 <bikcmp> did you get a court order?
+01:00 <bikcmp> i do forget what it's called.
+01:00 <bikcmp> it's when they deem you not a minor.
+01:00 <`> no, got my mom to sign away her rights to me
+01:00 <bikcmp> eh?
+01:00 <bikcmp> that's legal?
+01:00 <`> then i moved out of state
+01:00 <bikcmp> plus, who paid for your housing?
+01:00 <`> here's the thing
+01:00 <`> Social Security Disability
+01:01 <`> also happens to 'cover' deafness.
+01:01 <`> so i draw a check from uncle sam every month
+01:01 <bikcmp> so you used funds from that, and lived frugally?
+01:01 <`> yep.
+01:01 <bikcmp> ah
+01:01 <`> ended up in South Carolina
+01:01 <bikcmp> you sound like my uncle.  
+01:02 <bikcmp> he's, like, the most cheap person you could imagine.
+01:02 <`> got a rentfree house all to myself
+01:02 <bikcmp> eh? rentfree? how did you manage that
+01:02 <bikcmp> loan?
+01:02 <bikcmp> no, wait
+01:02 <bikcmp> you can't take a loan out at 16
+01:02 <bikcmp> that's the thing
+01:02 <bikcmp> contracts at 16 are not legally binding
+01:02 <bikcmp> ie, who would sell you a house
+01:02 <bikcmp> who would rent you an apt?
+01:02 <`> went to school there - they gave me a hell of a time since i was a minor
+01:03 <`> and i had a online friend
+01:03 <`> who happened to inherit his mom's property
+01:03 <`> it was dirty as fuck when i moved in, but i made it livable
+01:03 <bikcmp> ahh
+01:04 <bikcmp> and taxes
+01:04 <bikcmp> ?
+01:04 <`> the house doesn't exist anymorefucking screen.
+01:04 <`> fixed.
+01:04 <`> anyway, he paid the taxes (which amounted to something like 50 a year or something
+01:05 <`> so all i paid was my living expenses (utilites and bs)
+01:05 <bikcmp> $50?
+01:05 <bikcmp> the taxes were $50 a year?
+01:05 <`> something like that
+01:05 <bikcmp> ... what
+01:05 <`> i could be wrong
+01:05 <bikcmp> the taxes in new jersey are about $20,000
+01:05 <`> it was out in the in the country
+01:05 <bikcmp> (fuck nj)
+01:05 <bikcmp> yeah
+01:05 <bikcmp> i know
+01:05 <bikcmp> i'm either going to canada or CA
+01:05 <bikcmp> i fucking hate nj
+01:05 <`> 110 N. Perkins Creek Rd. Seneca, SC 29678
+01:06 <`> crazy that i still remember the address
+01:06 <bikcmp> you live at 130 something now
+01:06 <bikcmp> 1606 something
+01:06 <`> 13063
+01:06 <bikcmp> that's it
+01:06 <bikcmp> i've never heard of Yucaipa before in my life
+01:06 <bikcmp> small town?
+01:07 <`> ish
+01:07 <bikcmp> 20k?
+01:07 <`> http://dgd.io/dtCm
+01:07 <bikcmp> ah
+01:07 <bikcmp> that isn't too bad
+01:07 <bikcmp> 60k is a nice size
+01:07 <bikcmp> what's the avg temp?
+01:08 <bikcmp> nj has these crazy hot summers and these FUCKING COLD winters
+01:08 <bikcmp> like, tomorrow it'll be 100f
+01:08 <bikcmp> 6 months ago it was like, 15f
+01:09 <bikcmp> how far away is SF, too
+01:10 <bikcmp> oh 
+01:10 <bikcmp> lol
+01:10 <bikcmp> 7 hours, uh
+01:10 <`> yeah
+01:10 <`> not that far with public transportation
+01:10 <bikcmp> uh
+01:10 <bikcmp> 7 hours is a bit far
+01:10 <bikcmp> lol
+01:11 <`> you can get all the way up to Northridge using bus, train, subway, train in that order
+01:11 <bikcmp> ooh
+01:11 <bikcmp> so wait
+01:11 <`> and i can get up there in about 4-5 hours.
+01:11 <bikcmp> you could take a train from yukohaijsdj to san fran?
+01:11 <`> no
+01:11 <bikcmp> aww
+01:11 <bikcmp> sounded too good to be true
+01:11 <`> nearest train station is San Bernardino
+01:11 <`> which is... 35ish miles away
+01:11 <bikcmp> and how far away is that?
+01:11 <bikcmp> ah
+01:11 <`> so bus direct to san berdo
+01:11 <bikcmp> 35 miles is a bit of a drive, still
+01:12 <`> (theres even a bus that takes me directly there, even)
+01:12 <bikcmp> hah
+01:12 <bikcmp> nj's public transport sucks ass
+01:12 <`> then train directly into Downtown Los Angeles
+01:12 <`> for $5
+01:12 <bikcmp> yeah
+01:12 <bikcmp> then in la?
+01:12 <`> then it's about $2 for the subway directly into West Hollywood / Universal City
+01:13 <bikcmp> how far away is that?
+01:13 <`> then one more bus directly into Northridge
+01:13 <`> here, lemme get you the route
+01:13 <bikcmp> i'm not actually going to do it... but it's kinda involved!
+01:14 <`> not for me
+01:14 <`> it's actually fun.
+01:14 <bikcmp> eh
+01:14 <bikcmp> maybe
+01:14 <`> http://goo.gl/maps/TaLZ
+01:14 <bikcmp> <# google
+01:15 <`> heh yeah.
+01:15 <`> but yeah
+01:15 <`> using my iphone with google maps
+01:15 <`> it's fucking impossible to get lost
+01:15 <`> coupled with public transportation
+01:15 <`> equals epic win
+01:16 <`> southern Cali is real nice,
+01:16 <`> talk in #hh
+01:16 <bikcmp> ick, iphone is bleh
+01:16 <bikcmp> sure
+--- Log closed Wed Jun 20 01:22:05 2012
+--- Log opened Mon Jun 25 16:30:42 2012
+16:30 -!- nux is now known as bikcmp
+--- Log closed Mon Jun 25 16:36:08 2012
+--- Log opened Mon Jul 23 17:29:29 2012
+17:29 -!- Irssi: Starting query in wolfram with bikcmp
+17:29 <`> yeah.
+17:29 <bikcmp> your nick is so small i don't see when you highlight me
+17:29 <bikcmp> so
+17:29 <bikcmp> basically
+17:29 <`> lol
+17:29 <`> < minimalist asshole
+17:29 <bikcmp> you know what happened with the whole spitfire/nightmare flooding shit
+17:29 <bikcmp> right
+17:30 <`> yeah. go on.
+17:30 <bikcmp> so
+17:30 <bikcmp> a friend of mine (who isn't affiliated with this and has no idea what's going on, i haven't talked to him since may)
+17:30 <bikcmp> owns the biggest chan on id.
+17:30 <bikcmp> #terraria
+17:30 <bikcmp> spitfire and i had equal power, including founder.
+17:31 <bikcmp> spitfire removed that and banned me from it.
+17:31 <`> not cool.
+17:31 <bikcmp> he's also doing the floods.
+17:31 <bikcmp> there have been a lot of floods on id, in chans he's all in.
+17:31 <`> if he's still continuing doing that
+17:31 <`> give me netadmin, damn it
+17:31 <bikcmp> i've also seen logs of him talk to his 'friend'
+17:31 <bikcmp> asking for floods.
+17:31 <`> gline the hell out of him
+17:31 <`> you know what
+17:31 <bikcmp> what should i do re: #terraria
+17:31 <bikcmp> and, yes
+17:32 <bikcmp> if you are interested and can be on irondust more
+17:32 <`> your ircds do not allow you to have finer-grain control over stuff
+17:32 <bikcmp> i'd be more than happy to give you oper.
+17:32 <`> which sorta bugs me :P
+17:32 <bikcmp> well
+17:32 <bikcmp> we removed a lot of that stuff.
+17:32 <bikcmp> if i wanted to do it, i can do it.
+17:32 <`> yes, well
+17:32 <bikcmp> just, only i and one other person who i entirely trust can do it
+17:32 <bikcmp> others can't touch it.
+17:32 <`> right.
+17:32 <bikcmp> so
+17:32 <`> with me, i do NOT tolerate abuse of my networks
+17:32 <bikcmp> what are your thoughts?
+17:32 <`> so i typically remove all 'powers'
+17:33 <bikcmp> ban him, restore normal flags in #terraria before him
+17:33 <bikcmp> yeah?
+17:33 <bikcmp> i have a backup of services from a while ago, i could look up exactly what flags i had.
+17:33 <`> and then use my operoverride to get back in to a channel
+17:33 <bikcmp> we don't have operoverride
+17:33 <`> that's another problem.
+17:33 <bikcmp> we /do/ have a services mode that can let us do some stuff.
+17:33 <bikcmp> but, it's basically "Only bikcmp can do that."
+17:33 <`> operoverride is TOO useful in situations like this
+17:33 <`> and
+17:34 <`> i require the use of SVSJOIN and SVSPART
+17:34 <bikcmp> we don't have /any/ way to do svsjoin/part
+17:34 <bikcmp> i couldn't do it even if i wanted to
+17:34 <bikcmp> well
+17:34 <bikcmp> svspart a bit
+17:34 <`> there you go.
+17:34 <`> too limited.
+17:34 <bikcmp> i can make a channel die.
+17:34 <`> on the admin side
+17:34 <bikcmp> /clearchan kick #xyz.
+17:34 <`> yeah, well
+17:34 <bikcmp> let's not get into that now
+17:34 <bikcmp> should i do it, yes/no
+17:34 <bikcmp> i emailed the owner of the channel a while ago
+17:34 <`> yes.
+17:34 <bikcmp> i say restore it to where it was pending resolution
+17:35 <`> he's abusing.
+17:35 <bikcmp> if the owner of the chan wants it the way it is right now, fair enough
+17:35 <`> plain and simple.
+17:35 <bikcmp> ok
+17:35 <`> violating the TOS
+17:35 <`> by flooding.
+17:35 <bikcmp> he could come back and say "it wasn't me"
+17:35 <`> fuck him.
+17:35 <bikcmp> ikr
+17:35 <bikcmp> lol
+17:35 <`> im sorry to be an hardass
+17:35 <bikcmp> no, i like that.
+17:35 <`> but seriously, you have logs
+17:35 <bikcmp> yeah
+17:35 <bikcmp> well
+17:35 <`> he can't go "it wasnt me"
+17:35 <`> it was his system
+17:36 <bikcmp> let me restore the channel as to where it was 3 weeks ago.
+17:36 <`> he's responsible for it.
+17:36 <`> even if it was hacked or bullshit, he's still responsible
+17:36 <bikcmp> hacked, eh
+17:36 <bikcmp> if it was a one time 'i'm hacked' thing
+17:36 <bikcmp> i'd be more leanient
+17:36 <bikcmp> but if it's repetive, yeah
+17:36 <bikcmp> and it was
+17:36 <`> i.e. he says "oh dude, it wasnt me, i was hacked"
+17:36 <`> to cover up, i'll call bullshit
+17:36 <`> yeah.
+17:36 <bikcmp> ok, i'm going back to the way #terraria was july 6
+17:36 <`> okies.
+17:37 <`> let me know once its restored
+17:37 <bikcmp> i'm then going to freeze his account, so he can no longer make any changes.
+17:37 <bikcmp> well
+17:37 <bikcmp> right now i'm loading up the archive
+17:37 <`> so i can get into #terraria or whatever it was.
+17:37 <bikcmp> i make backups every 2 days or so on my local computer.
+17:37 <bikcmp> and backups every minute to other remote machines
+17:37 <`> nice.
+17:38 <bikcmp> man
+17:38 <bikcmp> that's sick
+17:38 <bikcmp> MDA #terraria:*!ddoscomin@ebbnjey.irondust.net reason you're a very bad girl ;
+17:38 <bikcmp> that's a memo to his girlfriend
+17:38 <bikcmp> i need to go deep into the database to find the flags
+17:38 <bikcmp> hm
+17:39 <bikcmp> it actually looks like he planned for this to happen.
+17:39 <bikcmp> there are no flags whatsoever in #terraria.
+17:39 <bikcmp> as far back as my backups go.
+17:39 <bikcmp> so as of july 6, i was not banned
+17:39 <bikcmp> but i was not an op.
+17:39 <`> then kill him off entirely. he's being unsafe to the security of the network.
+17:39 <bikcmp> i plan to
+17:39 <bikcmp> but i mean
+17:39 <bikcmp> what should i do in regards to flags
+17:39 <bikcmp> if my oldest backup says i have no flags...
+17:40 <bikcmp> and i'm killing off the most active op off of #terraria...
+17:40 <bikcmp> you know?
+17:41 <`> most active or not, he's being active in bascially destroying the network
+17:41 <`> (sorry, laptop died)
+17:42 <`> should i go into there?
+17:44 <bikcmp> if you want
+17:44 <bikcmp> well
+17:44 <bikcmp> ok
+17:44 <bikcmp> so
+17:44 <bikcmp> i'm going to restore the channel exactly how it was july 6
+17:44 <bikcmp> before this bullcrap mostly happened
+17:44 <bikcmp> i know i had flags in there before july 6
+17:44 <bikcmp> but hey
+17:44 <bikcmp> whatever
+17:45 <`> yeah.
+17:45 <bikcmp> i have proof i wasn't banned on the 6
+17:45 <`> let me know once it's restored
+17:45 <bikcmp> well
+17:45 <bikcmp> here's the thing
+17:45 <bikcmp> i think it's going to say "bikcmp forced flags -b" as a notice.
+17:45 <bikcmp> lol
+17:45 <bikcmp> which understandably would make me look really bad.
+17:46 <bikcmp> i'm thinking modify the database while services are dead, but like
+17:46  * bikcmp shrug.
+17:48 <`> yeah.
+17:48 <`> or let me do it.
+17:48 <bikcmp> if you want
+17:48 <bikcmp> i'd like it if you picked a name that isn't one character though
+17:48 <bikcmp> lol
+17:48 <`> and i'll just come in and be all "now what, bitches" (not literally, but yeah)
+17:48 <bikcmp> i can't even see it
+17:48 <bikcmp> it looks like < > is pm'ing me
+17:48 <bikcmp> lol
+17:48 <`> haha
+17:49 <`> epic.
+17:49 <bikcmp> yeah thoug
+17:49 <bikcmp> i'm afraid that people are not going to be able to see your name ;p
+17:49 <`> :P
+17:49 <dissimulo> happy?
+17:50 <bikcmp> dissimulo?
+17:50 <bikcmp> wtf is that
+17:50 <bikcmp> lol
+17:52 <dissimulo> latin word.
+17:52 <dissimulo> Verb
+17:52 <dissimulo> present active dissimulō, present infinitive dissimulāre, perfect active dissimulāvī, supine dissimulātum.
+17:52 <dissimulo> I conceal or hide
+17:52 <dissimulo> I dissemble or disguise
+17:52 <dissimulo> I ignore
+17:53 <bikcmp> lol.
+17:53 <bikcmp> i need a new nick
+17:53 <bikcmp> i've been using bikcmp since i was like, 6
+17:53 <bikcmp> seriously, 5 or 6.
+17:53 <bikcmp> "mom, what should be my screen name for AIM?"
+17:53 <bikcmp> :)
+17:54 <dissimulo> sue's full nick is equally as weird
+17:54 <dissimulo> suigintoulain
+17:54 <dissimulo> i memorized it as sui gin tou lain :P
+17:54 <bikcmp> ... wtf.
+17:54 <dissimulo> yup
+17:54 <bikcmp> if his nick is that complex
+17:54 <dissimulo> that's why his nick is Sue
+17:54 <bikcmp> wtf is his password
+17:54 <bikcmp> lol
+17:54 <bikcmp> well, give me 20
+17:54 <dissimulo> k
+17:55 <bikcmp> be back later
+17:55 <dissimulo> suddenly
+17:55 <dissimulo> i want some Weinerschnitzel
+17:55 <dissimulo> (dont ask me how i even know how to spell that)
+17:56 <dissimulo> forgot the i.
+17:56 <dissimulo> Wienerschnitzel
+--- Log closed Mon Jul 23 18:02:08 2012
+--- Log opened Mon Jul 23 18:06:30 2012
+18:06 <dissimulo> im fucking pissed.
+18:06 <dissimulo> my cat is missing
+18:06 <dissimulo> and sue let him fucking out
+18:06 <dissimulo> now i really cant wait till he moves out.
+18:06 <dissimulo> for fucks sake.
+18:06 <dissimulo> i cant even find him outside.
+18:10 <dissimulo> fuck.
+18:10 <dissimulo> just fucking.
+18:10 <dissimulo> i cant even find my fucking cat.
+18:13 <dissimulo> i. am. FUCKING. angry. right now.
+18:13 <dissimulo> i'll brb.
+18:14 <dissimulo> i really want to hurt sue right fucking now.
+18:14 <dissimulo> i dont fucking allow my cats to go outsdie
+18:15 <dissimulo> because thats how my fucking other cat died
+18:15 <dissimulo> fucking asshole.
+18:16 <dissimulo> i just killed him off of my network, twice.
+18:16 <dissimulo> feels slightly but only fucking slightly better.
+18:16 <bikcmp> ok
+18:16 <bikcmp> did you find him?
+18:16 <bikcmp> the cat?
+18:16 <bikcmp> poor cat :(
+--- Log closed Mon Jul 23 18:22:08 2012
+--- Log opened Mon Jul 23 18:24:19 2012
+18:24 <dissimulo> no.
+18:24 <dissimulo> not even.
+18:24 <dissimulo> im fucking worried.
+18:24 <dissimulo> it's fuckign hot outside
+18:24 <dissimulo> he has no fucking water
+18:24 <dissimulo> no fucking food
+18:24 <dissimulo> FUCKING ASSHOLE
+18:24 <bikcmp> .... 
+18:25 <bikcmp> when's he moving out
+18:25 <bikcmp> i don't want you to get a felony charge
+18:25 <bikcmp> lol
+18:25 <dissimulo> not fucking soon enough
+18:25 <bikcmp> so
+18:25 <bikcmp> in terms of numbers
+18:25 <bikcmp> when?
+18:25 <bikcmp> 5 days?
+18:25 <dissimulo> i. have. no. fucking. clue.
+18:25 <bikcmp> he paid you for the month how long ago
+18:25 <dissimulo> first of the month.
+18:27 <bikcmp> so
+18:27 <bikcmp> it's the 23rd
+18:27 <bikcmp> which means the next payment would be the... 31st.
+18:28 <bikcmp> er
+18:28 <bikcmp> well
+18:28 <bikcmp> last day paid
+18:28 <bikcmp> so i'd say kick him out today
+18:28 <bikcmp> or let him know you want him out
+18:28 <bikcmp> and give him 5 days
+18:29 <bikcmp> hmm
+18:30 <bikcmp> i hope that the cat is ok
+18:35 <dissimulo> fuck it.
+18:35 <dissimulo> he's moving out.
+18:35 <dissimulo> whateve.r
+18:35 <dissimulo> he knows my displeasure re: the cat.
+18:35 <dissimulo> and lets leave it at that.
+18:35 <bikcmp> sigh
+18:35 <bikcmp> so
+18:35 <bikcmp> what's going on with the cat now
+18:35 <bikcmp> still can't find it?
+18:36 <dissimulo> no.
+18:37 <bikcmp> :(
+18:42 <bikcmp> still no cat?  
+18:42 <bikcmp> aren't you kind of concerned?
+18:42 <dissimulo> yes i am.
+18:42 <dissimulo> fucking concerned.
+18:43 <dissimulo> i've been going out every ten minutes or so
+18:43 <bikcmp> so what
+18:43 <bikcmp> is sue out there too?
+18:43 <bikcmp> inb4 no.
+18:43 <dissimulo> no
+18:43 <bikcmp> fucking asshole
+18:43 <dissimulo> we're arguing/discussing on skype
+18:43 <bikcmp> logs
+18:45 <bikcmp> i can only imagine what you're saying
+18:45 <bikcmp> "fuck you fuck you fuck you"
+18:48 <dissimulo> nothing like that.
+18:48 <dissimulo> it basically envolved into a discussion of why he's moving up
+18:48 <bikcmp> wtf
+18:48 <bikcmp> join #help
+18:48 <bikcmp> 19:46:19  < SilentNigger> HI
+18:48 <bikcmp> 19:46:26  < SilentNigger> I'm  A NIGGER
+18:48 <bikcmp> 19:46:36  < SilentNigger> THAT'S RIGHT A NIGGER A FUCKING BLACK NIGGER
+18:48 <bikcmp> 19:46:39  < SilentNigger> SHIT STICKS
+18:48 <bikcmp> 19:47:16  < SilentNigger> Ragnot bikcmp you're all little faggots and TheVoid you're a cock sucker
+18:48 <bikcmp> 19:47:32  <@bikcmp> lol
+18:48 <bikcmp> and #social
+18:49 <dissimulo> lolwat
+18:49 <bikcmp> 19:46:52  -!- SilentNigger [~chatzilla@146.196.o.rk] has joined #social
+18:49 <bikcmp> 19:47:27  < SilentNigger> Ragnot bikcmp you're all little faggots and TheVoid you're a cock sucker
+18:49 <bikcmp> 19:47:39  < SilentNigger> Ragnot bikcmp you're all little faggots and TheVoid you're a cock sucker ErikMouse
+18:51 <dissimulo> just kill him off
+18:51 <dissimulo> he's just being annoying
+18:51 <bikcmp> lol
+18:51 <bikcmp> i guess
+18:52 <dissimulo> i 
+18:52 <dissimulo> i'm tempted to /kick LOL COCKWAFFLES
+18:52 <dissimulo> but nah.
+18:52 <bikcmp> ok
+18:52 <bikcmp> that's weird
+18:52 <bikcmp> i jus tadded the ban
+18:52 <bikcmp> and it isn't killing him.
+18:53 <bikcmp> 19:51:15  -OperServ(OperServ@services.)- Timed AKILL on *@146.196.4.62 was successfully added and will expire in 2 days,  12:00:00.
+18:53 <bikcmp> 19:51:51  -OperServ(OperServ@services.)- AKILL list synchronized to servers.
+18:53 <dissimulo> which means your ircds are compromised
+18:53 <bikcmp> no
+18:53 <bikcmp> something is up
+18:53 <dissimulo> very definition of "compromised."
+18:53 <bikcmp> 19:52:26  < SilentNigger> Ragont you're a black fucker
+18:53 <bikcmp> 19:52:27  -!- SilentNigger [~chatzilla@146.196.o.rk] has quit [K-lined]
+18:53 <bikcmp> 19:52:27  -OperServ(OperServ@services.)- Timed AKILL on *@146.196.4.62 was successfully added and will expire in 2 days,  12:00:00.
+18:53 <bikcmp> worked
+18:53 <bikcmp> we lagged.
+18:55 <dissimulo> yeah.
+18:55 <dissimulo> re: #terrestria or whatever
+18:55 <dissimulo> whats up?
+18:56 <bikcmp> well
+18:56 <bikcmp> spitfire was that person
+18:56 <dissimulo> i know
+18:57 <bikcmp> i'm ready to do it right now
+18:57 <dissimulo> go for it.
+18:57 <bikcmp> i'd like for you to do the flags, or i'll do it from another account
+18:58 <dissimulo> though i dont know how to do it on this.
+18:58 <dissimulo> i'm a unrealircd guy, so...
+18:58 <bikcmp> yep
+18:58 <bikcmp> 19:57:07  -ChanServ:#staff- bikcmp set flags +AORVfiorstv on `.
+18:58 <bikcmp> it will
+18:58 <bikcmp> join #staff
+18:58 <dissimulo> wont let me
+18:58 <bikcmp> oh right
+18:58 <bikcmp> oops
+18:58 <bikcmp> now
+18:58 <dissimulo> irssi seems to try to create an window and immediately closes
+18:58 <bikcmp> yeah
+19:01 <dissimulo> oh fun
+19:01 <dissimulo> he just came into #hh
+19:01 <dissimulo> spitfire, that is
+--- Log closed Mon Jul 23 19:07:08 2012
+--- Log opened Mon Jul 23 19:45:03 2012
+19:45 <bikcmp> ? @ staff.
+--- Log closed Mon Jul 23 19:50:08 2012
+--- Log opened Mon Jul 23 19:55:24 2012
+19:55 <dissimulo> yeah. hm.
+19:56 <bikcmp> 20:50:01  <@bikcmp> he gave me all of his contact details. at first i'm like, i'll give you an iline.
+19:56 <bikcmp> 20:50:07  <@bikcmp> though, it might be really useful to have qwebirc.
+19:56 <bikcmp> 20:50:12  <@bikcmp> especially if i don't need to manage it.
+19:56 <bikcmp> 20:50:22  <@bikcmp> thoughts about giving him a cgiirc block?
+19:56 <bikcmp> thoughts
+19:57 <bikcmp> ?
+20:02 <bikcmp> did you share those logs with spitfire?
+20:03 <dissimulo> no.
+20:03 <dissimulo> i didn't.
+20:03 <dissimulo> i'm just watching it as it happens.
+20:03 <bikcmp> 21:01:19  <Spitfire> Some guy called like dusomsongism or something told me.
+20:03 <dissimulo> pft
+20:04 <dissimulo> he sees a new person and LOL LETS BLAME IT ON HIM
+20:04 <dissimulo> but trust me, i did not.
+20:04 <bikcmp> i trust you more than i-spied-on-my-gf-two-times
+20:04 <bikcmp> 21:02:58  <bikcmp> 21:01:19  <Spitfire> Some guy called like dusomsongism or something told me.
+20:04 <bikcmp> 21:03:01  <bikcmp> why are you inclined to lie
+20:04 <bikcmp> 21:03:13  <Spitfire> Heh.
+20:04 <bikcmp> 21:03:21  <Spitfire> I thought that was a pretty obvious joke. =p
+20:04 <bikcmp> 21:03:32  <bikcmp> ... yeah.
+20:04 <bikcmp> 21:03:36  <Spitfire> Was a reference to the guy you just added as a staffer who no one has heard of. ^_^
+20:04 <dissimulo> ...figures
+20:05 <bikcmp> 21:03:36  <Spitfire> Was a reference to the guy you just added as a staffer who no one has heard of. ^_^
+20:05 <bikcmp> 21:03:47  <bikcmp> he's been around with different nicks.
+20:05 <bikcmp> 21:03:48  <Spitfire> There's a difference between a joking brush off and a lie. 
+20:05 <bikcmp> 21:03:53  <Spitfire> Anyway, those logs please?
+20:05 <dissimulo> i totally called that.
+20:08 <bikcmp> 21:06:13  <bikcmp> why are you relaying our pm
+20:08 <bikcmp> 21:06:32  <Spitfire> You seem to like relaying PMs as well, you have no room to talk
+20:08 <bikcmp> he's sending logs to his friends
+20:12 <bikcmp> sigh
+--- Log closed Mon Jul 23 20:18:08 2012
+--- Log opened Tue Jul 24 23:21:24 2012
+23:21 <bikcmp> do you happen to have a spare server?
+--- Log closed Tue Jul 24 23:27:08 2012
+--- Log opened Fri Jul 27 19:08:26 2012
+19:08 <dissimulo> i noticed that Sue also lets everything defeat him so easily
+19:08 <dissimulo> he gives up too quickly
+19:08 <dissimulo> ._________.
+19:08 <dissimulo> point of example: #hh
+19:13 <dissimulo> :
+19:13 <dissimulo> :|
+--- Log closed Fri Jul 27 19:19:08 2012
+--- Log opened Fri Jul 27 19:27:24 2012
+19:27 <bikcmp> wtf.
+19:28 <dissimulo> yeah.
+19:28 <bikcmp> sigh
+19:28 <bikcmp> joey paid for 3 months
+19:29 <bikcmp> i told him that sue was a good guy
+19:29 <dissimulo> i know.
+19:29 <dissimulo> we got burned in different ways.
+19:29 <bikcmp> guess i should trust people on the internet even less than i already did
+19:29 <bikcmp> which is essentially now none
+19:29 <bikcmp> lol
+19:29 <dissimulo> yeah, well
+19:29 <dissimulo> i'm much more conservative than sue is
+19:29 <bikcmp> in what way
+19:29 <dissimulo> as in, i'm way smarter with this kind of stuff
+19:29 <bikcmp> yes
+19:29 <bikcmp> well
+19:29 <dissimulo> so i dont go screwing myself emotionally
+19:30 <dissimulo> like boo hooo HH is dead
+19:30 <bikcmp> the general idea is "don't do stuff you don't know if you can provide"
+19:30 <dissimulo> like him /topic'ing
+19:30 <bikcmp> he is a drama queen
+19:30 <bikcmp> seriously
+19:30 <dissimulo> yeah.
+19:30 <bikcmp> gives his clients 1 day notice
+19:30 <dissimulo> when shit happens for me
+19:30 <bikcmp> "btw, your vps dies"
+19:30 <bikcmp> lol
+19:30 <dissimulo> i make sure shit gets transitioned over
+19:30 <dissimulo> i treat my clients like tenants
+19:30 <dissimulo> i recognize that they cannot just move shit in 24h
+19:30 <bikcmp> well
+19:31 <dissimulo> as in, 30d notice if server goes down, etc
+19:31 <dissimulo> not a last min 24h notice :|
+19:31 <bikcmp> i got about 8 hours notice
+19:31 <bikcmp> not happy
+19:32 <dissimulo> yeah.
+19:32 <bikcmp> if it wasn't for the dc being sympthathetic to sue
+19:32 <bikcmp> joey would be utterly fucked
+19:32 <dissimulo> yeah.
+19:32 <dissimulo> ._.
+19:33 <dissimulo> at least he's backing up his shit
+19:33 <bikcmp> id automatically backs up stuff
+19:33 <dissimulo> joey.
+19:33 <dissimulo> his personal shit.
+19:33 <dissimulo> im sure thats not backed up with id
+19:35 <bikcmp> yeah
+19:35 <bikcmp> secbackups@den03s06-in-f229.rev.irondustcdn.net:~$ ls backups/fra07s07-in-f57.rev.irondustcdn.net/
+19:35 <bikcmp> home.encfs irondust-files.encfs  irondust.encfs etc.encfs
+19:35 <bikcmp> i can also remotely shred systems ;p
+19:35 <bikcmp> see: spitfire's removal
+19:35 <bikcmp> lol
+19:35 <bikcmp> tried to lock me out, but i had a daemon listening for a shred request
+19:36 <dissimulo> wow
+19:36 <dissimulo> that just goes to show how spitfire is an asshole
+19:36 <dissimulo> locking YOU out
+19:36 <bikcmp> ikr
+19:36 <bikcmp> and he tries to, hm
+19:36 <dissimulo> did this fact come to light?
+19:36 <bikcmp> picture me
+19:36 <bikcmp> as a power hungry person
+19:36 <bikcmp> when in reality i'm just the person trying to make sure that this net doesn't end up like myspace did :P
+19:38 <dissimulo> good god
+19:38 <dissimulo> linux is being infected now
+19:38 <bikcmp> ?
+19:38 <bikcmp> eh?
+19:38 <dissimulo> http://linuxforniggers.us/about
+19:38 <bikcmp> give that to caption
+19:38 <dissimulo> http://hannahmontana.sourceforge.net/
+19:38 <dissimulo> a fucking Hannah Montana Linux distribution.
+19:38 <dissimulo> what.... the fuck
+19:38 <dissimulo> etc
+19:40 <bikcmp> lol
+19:40 <bikcmp> man
+19:40 <bikcmp> <3 linux for niggers.
+19:40 <bikcmp> i love the gnaa
+19:40 <bikcmp> lol
+19:41 <bikcmp> LOL
+19:41 <bikcmp> it's a real distro
+19:41 <bikcmp> hahahahahahahahahhaha
+19:45 <bikcmp> by the way
+19:46 <bikcmp> did you find a server or whatever
+--- Log closed Fri Jul 27 19:51:08 2012
+--- Log opened Fri Jul 27 20:33:42 2012
+20:33 <bikcmp> i'm seriously po'ed at sue
+--- Log closed Fri Jul 27 20:39:08 2012
+--- Log opened Fri Jul 27 20:51:28 2012
+20:51 <dissimulo> not yet
+--- Log closed Fri Jul 27 20:57:08 2012
+--- Log opened Fri Jul 27 22:50:54 2012
+22:50 -!- bikcmp [~jason@staff/bikcmp] has quit [Ping timeout: 258 seconds]
+22:54 -!- bikcmp [~jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Fri Jul 27 23:00:08 2012
+--- Log opened Sun Jul 29 16:14:41 2012
+16:14 <bikcmp> ok
+16:14 <bikcmp> give me a hash of your password
+16:14 <dissimulo> what type of hash
+16:14 <bikcmp> and what ips will you be connecting from
+16:14 <bikcmp> any
+16:14 <dissimulo> i kinda use ripemd
+16:14 <bikcmp> md5, sha1
+16:15 <bikcmp> what
+16:15 <bikcmp> mkpasswd
+16:15 <bikcmp> use mkpasswd
+16:15 <bikcmp> lol
+16:15 <dissimulo> i use mkpasswd with ripemd
+16:15 <dissimulo> :P
+16:15 <bikcmp> then it'll probably work.
+16:15  * bikcmp :X
+16:15 <bikcmp> lol
+16:15 <bikcmp> also, get off of wolfram.
+16:15 <dissimulo> why
+16:15 <bikcmp> wolfram isn't an active server, so oper blocks won't propgate to it
+16:16 <bikcmp> wolfram is going down, well
+16:16 <bikcmp> two days ago
+16:16 <bikcmp> lol
+16:16 <dissimulo> lol
+16:16 <dissimulo> well
+16:16 <dissimulo> since i can't /map
+16:16 <dissimulo> give me the /map
+16:16 <bikcmp> use irc.irondust.net
+16:16 <bikcmp> it's automatic
+16:16 <dissimulo> i know
+16:16 <bikcmp> never connect to a single server
+16:16 <dissimulo> i'm weird enough to not like roundrobin'd
+16:17 <bikcmp> it isn't round robin
+16:17 <bikcmp> lol
+16:17 <dissimulo> whatever
+16:17 <dissimulo> every time i irc.
+16:17 <dissimulo> it goes to wolfram
+16:17 <dissimulo> all the time
+16:17 <dissimulo> for me
+16:17 <bikcmp> it will not this time
+16:17 <bikcmp> i assure you
+16:17 <bikcmp> irc.g.irondust.net descriptive text "client is 76.96.13.151 / client's region is unknown / server is fra07s07-in-f57.rev.irondust.net / server version is r9"
+16:17 <dissimulo> also
+16:18 <dissimulo> which ripemd
+16:18 <bikcmp> i have no idea 
+16:18 <bikcmp> lol
+16:18 <dissimulo> ._.
+16:18 <dissimulo> fine, i'll use ripemd128
+16:18 <bikcmp> i don't use ripemd
+16:18 <bikcmp> seriously
+16:18 <bikcmp> lol
+16:18 <dissimulo> ripemd is secure than md5/sha1
+16:18 <dissimulo> just saiyan
+16:18 <bikcmp> i use sha512
+16:19 <bikcmp> the way i hash user passwords would be rather hard to crack
+16:19 <dissimulo> :P
+16:20 <dissimulo> fuck it
+16:20 <dissimulo> i'll just save you time
+16:20 <bikcmp> just give me a fucking hash
+16:20 <bikcmp> lol
+16:20 <bikcmp> i don't care if it's md1
+16:21 <bikcmp> (exists?)
+16:21 <dissimulo> use
+16:21 <dissimulo> md1 is not even secure
+16:21 <dissimulo> it's considered unencrypted
+16:22 <bikcmp> i know :p
+16:22 <dissimulo> >mfw mkpasswd isnt found
+16:22 <dissimulo> time to get in as root
+16:24 <dissimulo> ircd@cookiemonster:~/Unreal3.2$ ./unreal mkpasswd sha1 xxxxxxxxxxxxxx
+16:24 <dissimulo> Encrypted password is: $yYpUZ9l1$HnVW9oO98xSkAchpFhN9vMW42Eg=
+16:24 <bikcmp> ok
+16:25 <bikcmp> reconnect to irc.irondust.net
+16:25 <bikcmp> wolfram's files are wiped
+--- Log closed Sun Aug 05 15:08:12 2012

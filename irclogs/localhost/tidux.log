@@ -1,0 +1,108 @@
+--- Log opened Thu Aug 02 19:43:36 2012
+19:43 -!- Irssi: Starting query in localhost with tidux
+19:43 <tidux> I already glined mibbit and set up qwebirc
+19:43 <tidux> now you just need to spin one up too
+--- Log closed Thu Aug 02 19:48:53 2012
+--- Log opened Thu Aug 02 20:42:04 2012
+20:42 <`> no no
+20:42 <`> for the retrobox ircd
+20:42 <`> but for deafgeeksirc, yeah
+20:42 <`> once this moves to ipv6, i'll have to recompile.
+--- Log closed Thu Aug 02 20:47:53 2012
+--- Log opened Fri Aug 03 10:23:42 2012
+10:23 -!- tidux|sleep is now known as tidux
+--- Log closed Fri Aug 03 10:28:53 2012
+--- Log opened Fri Aug 03 23:27:43 2012
+23:27 -!- Macbot is now known as tidux
+--- Log closed Fri Aug 03 23:33:09 2012
+--- Log opened Sun Aug 05 09:31:39 2012
+09:31 -!- tidux|sleep is now known as tidux
+--- Log closed Sun Aug 05 09:36:56 2012
+--- Log opened Sun Aug 05 15:09:53 2012
+15:09 -!- tidux [jon@dongs-6B466DAD.hsd1.nh.comcast.net] has quit [Killed (` (samefagging the kill))]
+--- Log closed Sun Aug 05 15:14:56 2012
+--- Log opened Sun Aug 05 15:30:08 2012
+15:30 -!- tidux [jon@dongs-6B466DAD.hsd1.nh.comcast.net] has quit [[irc.rubbermallet.org] Local kill by tidux (testing)]
+--- Log closed Sun Aug 05 15:35:56 2012
+--- Log opened Sun Aug 05 23:14:31 2012
+23:14 -!- tidux|watchingnasa is now known as tidux
+--- Log closed Sun Aug 05 23:19:56 2012
+--- Log opened Mon Aug 06 08:02:42 2012
+08:02 -!- tidux|sleep is now known as tidux
+--- Log closed Mon Aug 06 08:07:56 2012
+--- Log opened Wed Aug 08 19:46:34 2012
+19:46 -!- tidux|vacation is now known as tidux
+--- Log closed Wed Aug 08 19:51:58 2012
+--- Log opened Thu Aug 09 07:09:02 2012
+07:09 -!- tidux|sleep is now known as tidux
+--- Log closed Thu Aug 09 07:14:58 2012
+--- Log opened Fri Aug 10 00:04:07 2012
+00:04 -!- tidux|copingmechanism is now known as tidux
+--- Log closed Fri Aug 10 00:09:58 2012
+--- Log opened Mon Jan 21 14:58:32 2013
+14:58 -!- Irssi: Starting query in localhost with tidux
+14:58 <tidux> ok here
+14:58 <tidux> magnet:?xt=urn:btih:ed9a7b0fdcf9245598179ac4fa752d82dc80f5b9&dn=linux-3.7.2-tidux.tar.gz
+14:59 <`> lol
+14:59 <tidux> I'm seeding this from my own laptop
+14:59 <tidux> fuck trackers
+14:59 <`> >mfw magnet link
+14:59 <tidux> it's 500MB
+14:59 <tidux> of open source data
+14:59 <`> how difficult is it to roll my own?
+14:59 <tidux> exactly what bittorrent was meant to enable
+15:00 <tidux> not difficult
+15:00 <tidux> just time consuming
+15:00 <`> i kinda wanted linux-3.2.7-dissimulo
+15:00 <`> ;)
+15:00 <tidux> oh
+15:00 <tidux> well then
+15:00 <`> typo on ver, but you get what i mean
+15:00 <`> but regardless, i'll grab your magnet
+15:00 <tidux> I'll just sprunge my .config and then you s/tidux/dissimulo/ and run 'make deb-pkg -j $NUMBER_OF_CORES'
+15:00 <`> that's it?
+15:00 <tidux> yeah
+15:01 <`> sweet.
+15:01 <`> please.
+15:01 <tidux> well you'll need the upstream 3.7.2 source
+15:01 <tidux> fetch, boy
+15:01 <`> that, i can do.
+15:01 <`> do this as root?
+15:01 <tidux> the make command yes
+15:01 <tidux> everything else no
+15:01 <`> kay, lets see.
+15:02 <`> wow
+15:02 <tidux>  http://sprunge.us/FHOS <== wget into top level of source tree as .config
+15:02 <`> there's already 3.7.4
+15:02 <tidux> wow
+15:03 <`> what do? :P
+15:04 <tidux> get the 3.7.4 and run "make menuconfig" to pick your own options off a nice 'dialog' menu system
+15:04 <`> i can apparently get linux-3.7.2.tar.gz
+15:04 <tidux> the local version string is where you can add -dissimulo
+15:04 <`> i'll probably fuck it up
+15:04 <`> lol
+15:04 <tidux> if you're that concerned just grab 3.7.2 and use my .config
+15:05 <`> because i dont know linux THAT well to know what the kernel might need
+15:05 <tidux> honestly it's mostly picking device drivers
+15:05 <`> so i'll probably be all fatginering it
+15:05 <`> ah.
+15:05 <tidux> schedulers, memory, etc. are just left alone IMO
+15:05 <tidux> you get to choose what's baked in to the kernel and what's left as a module
+15:05 <tidux> brotip: leave everything as a module if you can
+15:05 <tidux> except for like 
+15:05 <tidux> filesystems
+15:05 <tidux> things you really actually need to boot
+15:06 <`> okay
+15:06 <`> i'll try grabbing 3.7.4
+15:06 <`> and see what i can fuck up
+15:06 <tidux> and don't worry if you fuck it up
+15:06 <tidux> if you install it as a Debian package it just adds it to your GRUB menu automatically
+15:07 <tidux> if it fucks up, reboot into the old kernel, aptitude purge the new one, and start over
+15:07 <`> okies.
+15:07 <`> grabbing 3.7.4
+15:07 <`> continue this convo in #wtfpwnt?
+15:08 <tidux> sure
+--- Log closed Mon Jan 21 15:13:47 2013
+--- Log opened Mon Jan 21 17:50:19 2013
+17:50 -!- tidux [tidux@4A96B954.980906CE.B9407173.IP] has quit [Quit: leaving]
+--- Log closed Mon Jan 21 17:55:47 2013

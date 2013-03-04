@@ -1,0 +1,116 @@
+--- Log opened Tue Feb 14 21:58:54 2012
+21:58 -!- Irssi: Starting query in DeafGeeksIRC with Miah-mobile|
+21:58 <Miah-mobile|> install the GRUB boot loader to the master boot loader?
+21:59 <Miah-mobile|> ...master boot record?*
+--- Log closed Tue Feb 14 22:05:30 2012
+--- Log opened Tue Feb 14 22:06:27 2012
+22:06  * Miah-mobile| is tempted to press <Yes>
+22:10 <`> Yes
+22:10 <`> sorry, i zonked out
+22:10 <Miah-mobile|> lol
+22:11 <Miah-mobile|> hey why when I am not WiFi on phone, irc times out?
+22:11 <`> no idea, i dont use andchat
+22:11  * Miah-mobile| removes cd and presses enter to reboot system
+22:12  * Miah-mobile| presses F1 because Dell is gay
+22:13 <Miah-mobile|> ...and desktop
+22:14 <Miah-mobile|> I have a network manager in icon bar that wasn't there before
+22:14  * Miah-mobile| scratches head
+22:15 <`> good. that means something fucked up before.
+22:15 <`> now see if it picks up on your wireless card
+22:16 <Miah-mobile|> wireless networks...none
+22:17 <`> okay
+22:17 <`> we'll sort that out later
+22:17 <`> explains why DONGS had you dl wireless firmware
+22:17  * Miah-mobile| nod and shrug
+22:18 <`> do this
+22:18 <`> apt-get install irssi screen figlet cowsay fortune multiget wget curl  build-essential
+22:21 <Miah-mobile|> note, selecting 'fortune-mod' instead of 'fortune'
+22:21 <Miah-mobile|> and...
+22:23 <Miah-mobile|> package figlet is not available, but is referred to by another package. this may mean that the package is missing, has been obsoleted, or is only available from another source
+22:24 <Miah-mobile|> E: package 'figlet' has no installation candidate
+22:24  * Miah-mobile| cracks knuckles
+--- Log closed Tue Feb 14 22:30:30 2012
+--- Log opened Tue Feb 14 22:32:45 2012
+22:32 <Miah-mobile|> found out why irc keeps timing out. juice defender turns off background data when screen is off.
+22:33 <`> aha, gotcha.
+22:33 <`> leave out figlet, then
+22:33 <`> we'll sort out figlet
+22:33 <`> later
+22:34 <Miah-mobile|> kk
+22:34 <Miah-mobile|> so type again -figlet
+22:36 <`> no
+22:37 <`> well yeah, just leave out figlet.
+22:37 <Miah-mobile|> oh sorry I see how that was confusing now lol
+22:39 <Miah-mobile|> wants me to insert debian disk. do it?
+22:39 <`> ugh, no
+22:40 <`> cancel apt-get
+22:40 <`> nano /etc/apt/sources.list
+22:40 <`> remove the line where it uses the CD
+22:40 <`> (the first line)
+22:42 <Miah-mobile|> there are 2 'cdrom' lines. one is blue, and other 'deb' is gold
+22:42 <`> one blue one, it starts with #, right?
+22:42 <Miah-mobile|> yes
+22:42 <`> then yes, delete both lines
+22:43 <Miah-mobile|> leaving the #?
+22:44 <`> including the #
+22:45 <Miah-mobile|> Ctrl o, enter, Ctrl x...back to terminal
+22:45 <`> apt-get update
+22:46 <Miah-mobile|> 7 error messages
+22:46 <`> give them to me
+22:48 <Miah-mobile|> 6 of them are 'failed to fetch...' and last one is 'some index files failed to download, they have been ignored, or old ones used instead'
+22:48 <`> okay
+22:48 <`> apt-get clean
+22:48 <`> apt-get update
+22:49 <Miah-mobile|> what happens when apt-get clean?
+22:49 <Miah-mobile|> just went to new line
+22:50 <`> normal.
+22:51 <Miah-mobile|> apt-get update resolves in same outcome
+22:51 <`> ping google.com
+22:52 <Miah-mobile|> 64 bytes from ord08s06
+22:52 <`> ord08s06?
+22:52 <`> wtf
+22:53 <`> internet is fucked up somehow
+22:53 <`> can you browse online?
+22:54 <`> oh no no
+22:54 <Miah-mobile|> ord08s06-in-f6.le100.net to be exact
+22:54 <`> that's normal
+22:54 <`> i just looked it up
+22:54 <`> ok
+22:54 <Miah-mobile|> sorry I shorten things lol thumbs are getting sore haha
+22:54 <`> nano /etc/apt/sources.list
+22:54 <`> make sure it's identical to this:
+22:55 <`> deb http://mirror.rit.edu/debian/ squeeze main contrib non-free
+22:55 <`> deb-src http://mirror.rit.edu/debian/ squeeze main contrib non-free
+22:55 <`>  
+22:55 <`> deb http://security.debian.org/ squeeze/updates main contrib non-free
+22:55 <`> deb-src http://security.debian.org/ squeeze/updates main contrib non-free
+22:55 <`>  
+22:55 <`> # squeeze-updates, previously known as 'volatile'
+22:55 <`> deb http://mirror.rit.edu/debian/ squeeze-updates main contrib non-free
+22:55 <`> deb-src http://mirror.rit.edu/debian/ squeeze-updates main contrib non-free
+22:57 <Miah-mobile|> k
+22:58 <Miah-mobile|> was missing contrib non-free from all lines
+22:59 <`> oh ok
+23:00 <`> brb for a bit.
+23:01  * Miah-mobile| slams head down
+23:01 <Miah-mobile|> I want a pc in my room lol
+--- Log closed Tue Feb 14 23:07:30 2012
+--- Log opened Tue Feb 14 23:11:39 2012
+23:11 <`> heh
+23:11 <`> i'm back, btw
+23:11 <`> once the changes to /etc/apt/sources.list has been done
+23:11 <`> do
+23:11 <`> apt-get clean
+23:12 <`> apt-get update
+23:13 <Miah-mobile|> a lot of 'failed to fetch'
+23:13 <`> fuck me
+23:14 <`> i just did an apt-get update
+23:14 <`> it worked for me.
+23:14 <`> do this, exactly
+23:14 <Miah-mobile|> network tools indicates Ethernet is active
+23:14 <`> obviously
+23:15 <`> it can ping, etc
+23:15 <`> you know what
+23:15 <`> connect it directly to the att modem
+23:15 -!- Miah-mobile| [Miah-mobil@dongs-F2FF76E2.lightspeed.cicril.sbcglobal.net] has quit [Connection reset by peer]
+--- Log closed Tue Feb 14 23:21:30 2012

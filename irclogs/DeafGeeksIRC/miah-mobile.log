@@ -1,0 +1,483 @@
+--- Log opened Tue Feb 14 16:57:45 2012
+16:57 -!- Irssi: Starting query in DeafGeeksIRC with Miah-mobile
+16:57 <`> yo?
+16:58 <Miah-mobile> Debian is Pissing me off
+16:59 <Miah-mobile> And now win7 won't load cuz grub error. Fml
+16:59 <`> dude.
+17:00 <`> lets reinstall debian
+17:00 <`> but lets do it step-by-step
+17:02 <Miah-mobile> I did a reinstall with LAN connected and I had web, but only debian.org. wiki Google etc would work 
+17:03 <Miah-mobile> Okay we can do that. I had Dongs walk me thru but he was in a hurry to leave so
+17:07 <Miah-mobile> Wouldn't* work. Sorry
+17:12 <Miah-mobile> Walk me thru
+17:13 <`> wait wait
+17:13 <`> you have debian installed
+17:13 <`> but?
+17:13 <`> we can get internet working on it
+17:13 <`> we'll need to get it to update stuff
+17:14 <`> but what was wrong with it?
+17:14 <Miah-mobile> It won't update anything
+17:14 <Miah-mobile> The only connection I have is www.debian.org and the rest of the sites map
+17:14 <Miah-mobile> No other domain works
+17:15 <`> pull the terminal
+17:15 <Miah-mobile> And apt-get won't work
+17:15 <`> just pull the terminal
+17:15 <`> then do this
+17:15 <`> ifconfig
+17:15 <`> then it should spit out various internet interfaces
+17:15 <Miah-mobile> Okay one sec
+17:16 <`> i want you to give me one that says something like "192.168.1.6" (the last 2 digits can be different), or "10.0.0.0" (also last 2 digits can be different)
+17:16 <`> for its IP address
+17:16 <Miah-mobile> BTW Dongs had me Dl a firmware zip and its on my phone (for WiFi devices)
+17:17 <`> yeah. hold on, though, since you can load debian.org
+17:17 <`> that means it's gotta have some kind of internet connection
+17:17 <`> did you connect to wifi or something?
+17:18 <`> if connected to wifi
+17:18 <Miah-mobile> 'bash: ifconfig: command not found
+17:18 <`> kk
+17:18 <`> do this
+17:18 <`> traceroute debian.org
+17:18 <`> and then tell me the first 3 hops
+17:18 <Miah-mobile> Is this all root?
+17:18 <`> nope
+17:18 <`> traceroute can be done as normal user
+17:19 <Miah-mobile> debian.org: name or service not known
+17:19 <`> that means it's not even connected to the internet
+17:19 <`> AT ALL
+17:20 <`> you never answered my question.
+17:20 <`> WIFI NOR NOT?
+17:20 <`> *OR
+17:20 <Miah-mobile> cannot handle 'host' cmdline Wth 'debian.org' or position 1 (argc1)
+17:20 <`> IS IT WIFI
+17:20 <`> IS IT WIFI
+17:20 <`> IS IT WIFI
+17:20 <`> IS IT WIFI
+17:20 <`> IS IT WIFI
+17:20 <`> IS IT WIFI
+17:20 <`> IS IT WIFI
+17:20 <`> IS IT WIFI
+17:20 <Miah-mobile> No with LAN
+17:20 <`> okay.
+17:20 <Miah-mobile> I'm not at LAN anymore
+17:20 <`> ....
+17:21 <`> youre not making sense
+17:21 <`> IS IT LAN OR WIFI?
+17:21 <Miah-mobile> LAN is in kitchen, I am in my room atm
+17:21 <`> it needs to be connected to LAN for now, can you do that?
+17:21 <Miah-mobile> I got connection via LAN!!!
+17:21 <`> ok
+17:21 <`> do this first
+17:21 <Miah-mobile> Yes I can
+17:22 <`> do you have a connection via lan now?
+17:22 <Miah-mobile> No. Do u want me to go connect it?
+17:22 <`> yes, please.
+17:22 <Miah-mobile> Okay give me a few mins to move everything lol
+17:22 <`> (i'm half tempted to buy a plane ticket, tell u to stfu, fly over there, fix all your shit. :D)
+17:23 <`> (jk)
+17:23 <Miah-mobile> I wouldn't mind lol
+17:24 <`> heh $$$
+17:25 <`> so once it's on LAN
+17:25 <`> we can configure it very quickly
+17:25 <`> if we can have you link me in by ssh, like before
+17:26  * Miah-mobile 's machine boots up
+17:27 <`> Meanwhile, at Dustin's home...
+17:27  * ` does a bong rip.
+17:27  * Miah-mobile clicks on epiphany and gets debian.org
+17:28 <Miah-mobile> ...
+17:28 <`> hi
+17:28 <Miah-mobile> High*
+17:28 <Miah-mobile> :P
+17:31 <Miah-mobile> What say you?
+17:35 <`> hold.
+17:37 <Miah-mobile> ifconfig:
+17:38 <Miah-mobile> inet addr: 192.168.0.120
+17:38 <Miah-mobile> Bcast: 192.168.0.225
+17:39 <Miah-mobile> 192.168.0.255 *
+17:39 <`> that's good
+17:39 <`> go to a internet browser
+17:39 <`> go to 192.168.0.1
+17:39 <Miah-mobile> Mask: 255.255.255.0
+17:40 <Miah-mobile> Okay there
+17:45 <`> what router is it?
+17:45 <Miah-mobile> Cisco...?
+17:46 <`> must be a linksys
+17:46 <`> k
+17:46 <`> can you skype?
+17:46 <Miah-mobile> Linksys E1200
+17:46 <Miah-mobile> Won't let me do anything dude lol
+17:47 <Miah-mobile> Debian.org only
+17:47 <`> why the fuck are you using epiphany
+17:47 <`> you should have Iceweasel in Applications > Internet
+17:47 <`> epipany is COMPLETE UTTER SHIT
+17:47 <`> :D
+17:48 <Miah-mobile> Hey lol
+17:48 <`> i'm just saying
+17:48 <Miah-mobile> This browsed faster as well
+17:48 <`> eh, lets use iceweasel
+17:49 <`> and in terminal
+17:49 <`> do
+17:49 <`> actually
+17:49 <`> when you look at the IP info
+17:49 <`> can you find gateway?
+17:49 <Miah-mobile> No
+17:52 <`> wtf
+17:52 <`> ok
+17:52 <`> so debian is installed
+17:52 <`> you have an LAN IP
+17:52 <`> but you cannot browse to anywhere?
+17:53 <`> in terminal
+17:53 <`> do
+17:53 <`> ping google.com
+17:54 <Miah-mobile> How long is that suppose to last?
+17:54 <`> what is it saying
+17:54 <`> it should be something like
+17:54 <`> "64 bytes from"
+17:55 <Miah-mobile> Yeah 64bytes from its08s09
+17:55 <`> ok
+17:55 <`> CTRL C
+17:55 <Miah-mobile> ord* not its
+17:55 <`> what
+17:55 <`> okay
+17:56 <Miah-mobile> Auto correct issues lol
+17:56 <`> so it CAN talk to the internet
+17:56 <`> fyi
+17:56 <`> so DNS is cockblocking you
+17:56 <`> do this
+17:56 <Miah-mobile> Why can't it be friends with the internet? Lol
+17:56 <`> nslookup iamat.endofinternet.org
+17:56 <`> Miah-mobile dude, it's connected to internet
+17:56 <`> something got fucked up somehow
+17:57 <Miah-mobile> What info from that u need?
+17:57 <`> fuck, just tell me if you can get to google.com on iceweasel, ok?
+17:57 <Miah-mobile> No I can't
+17:57 <`> ok
+17:57 <`> as for nslookup
+17:58 <`> i need the first 2 lines, the "Server:" and "Address:"
+17:58 <`> you can scroll up if necessary
+17:58 <Miah-mobile> Server: 192.168.7.254
+17:58 <`> what the fuck
+17:58 <`> your router is fucking weird
+17:58 <`> go here
+17:59 <`> in iceweasel
+17:59 <`> 192.168.7.254
+17:59 <Miah-mobile> Address: 192.168.7.254#53
+17:59 <`> who setup your router?
+17:59 <Miah-mobile> It's ATT modem
+17:59 <`> who set it up?
+18:00 <Miah-mobile> Uh its self setup. Pnp
+18:00 <`> gay.
+18:00 <`> completely gay.
+18:00 <`> anyway
+18:00 <`> are you able to load the router?
+18:00 <`> at 192.168.7.254?
+18:00 <Miah-mobile> That's the ATT modem
+18:01 <`> i'm aware.
+18:01 <`> why are you using a linksys router WITH an ATT router?
+18:01 <`> that's going to cause problems.
+18:02 <Miah-mobile> We have ATT modem linksys is WiFi
+18:02 <`> ok
+18:02 <Miah-mobile> Out of wall to ATT Motorola modem, modem to linksys router
+18:02 <`> forget the routers
+18:03 <`> can you get into the configuration for the LAN?
+18:03 <`> and change the DNS servers?
+18:03 <Miah-mobile> I seen that in linksys url
+18:03 <`> no
+18:03 <`> you want that *in* Debian
+18:04 <Miah-mobile> How do I do that?
+18:04  * Miah-mobile is a noob remember
+18:05 <`> when you did nslookup
+18:05 <`> what non-authoritative answers did it give?
+18:06 <Miah-mobile> Name: iamat.endofinternet.org
+18:06 <Miah-mobile> Address: 96.299.299.209
+18:06 <Miah-mobile> That's all
+18:07 <`> wait what
+18:07 <`> what did you nslookup
+18:08 <`> i am utterly confused
+18:08 <`> nslookup google.com
+18:08 <`> right?
+18:08 <`> okay
+18:08 <`> sorry, my bad
+18:08 <`> your computer IS connected to the internet
+18:08 <`> but for some reason
+18:08 <Miah-mobile> nslookup iamat.endofinternet.org
+18:08 <`> programs are not letting you online
+18:09 <`> do this
+18:09 <`> sudo su -
+18:09 <Miah-mobile> Already root
+18:09 <`> apt-get update
+18:10 <Miah-mobile> Okay it got some things
+18:10 <`> then
+18:10 <`> apt-get upgrade
+18:10 <Miah-mobile> 0
+18:11 <`> nothing to be upgraded?
+18:11 <Miah-mobile> Correct
+18:11 <`> apt-get install irssi screen figlet cowsay fortune multiget wget curl build-essential
+18:12 <Miah-mobile> Unable to locate
+18:12 <`> which one.
+18:12 <`> you have to be specific.
+18:14 <`> unable to locate WHAT PACKAGE
+18:15 <`> if you tell me, i know what problem it may be.
+18:15 <`> and know how to fix it.
+18:15 <`> come on.
+18:16 <Miah-mobile> irssi, screen, figlet, cowsay, fortune, and multiget
+18:16  * Miah-mobile had a phone call
+18:20 <`> okay
+18:20 <`> nano /etc/apt/sources.list
+18:21 <`> tell me the last 2 words for deb and deb-src
+18:22 <Miah-mobile> Both say...
+18:23 <`> basically
+18:23 <`> (ideally)
+18:23 <`> it'd say
+18:23 <`> squeeze-updates main contrib non-free
+18:23 <Miah-mobile> Http://security.debian.org/ squeeze/updates main
+18:23 <`> for everything.
+18:23  * Miah-mobile nod
+18:23 <Miah-mobile> Yes
+18:23 <`> so do the appropriate edits
+18:24 <`> CTRL O to save
+18:24 <`> CTRL X to exit
+18:24 <`> let me know when complete
+18:24 <`> actually
+18:24 <`> make sure
+18:24 <`> the first 2 lines
+18:25 <`> squeeze main contrib non-free
+18:25 <`> fuck it, i'll just paste it here so you know what it should look like
+18:25 <`> deb http://mirror.rit.edu/debian/ squeeze main contrib non-free
+18:25 <`> deb-src http://mirror.rit.edu/debian/ squeeze main contrib non-free
+18:25 <`> deb http://security.debian.org/ squeeze/updates main contrib non-free
+18:25 <`> deb-src http://security.debian.org/ squeeze/updates main contrib non-free
+18:25 <`> # squeeze-updates, previously known as 'volatile'
+18:25 <`> deb http://mirror.rit.edu/debian/ squeeze-updates main contrib non-free
+18:25 <`> deb-src http://mirror.rit.edu/debian/ squeeze-updates main contrib non-free
+18:26 <Miah-mobile> K
+18:26 <Miah-mobile> Ctrl O
+18:26 <`> to save
+18:27 <`> it'll ask you what filename
+18:27 <`> just press enter
+18:27 <`> then ctrl x
+18:27 <Miah-mobile> Okay
+18:27 <`> apt-get update
+18:28 <Miah-mobile> Fetched 1,529 B
+18:28 <`> kk
+18:28 <`> then do up arrow until you see the apt-get install command i had you do
+18:28 <`> do that.
+18:29 <Miah-mobile> The irssi one
+18:29 <`> apt-get install irssi screen figlet cowsay fortune multiget wget curl build-essential
+18:30 <Miah-mobile> Same results
+18:30 <`> hum
+18:31 <`> fuck it
+18:31 <`> lets do a clean reinstall
+18:32 <`> and do it THE WAY I DO IT SO IT HAS EVERYTHING
+18:32 <`> GOOD GOD
+18:32 <Miah-mobile> Lol okay
+18:33 <`> GOOD HOLY FUCKING GOD
+18:33 <`> i just realized my mom left valentines day shit on my desk
+18:33 <`> (was sitting up on my bed this whole time)
+18:33 <`> and it's FULL OF CANDY
+18:33 <`> i knew i liked that lady
+18:33 <`> lol
+18:33 <Miah-mobile> Lol
+18:33 <Miah-mobile> Okay first screen click install?
+18:33 <`> yes
+18:34 <`> it must be exact
+18:34 <`> step-by-step
+18:34 <`> so be patient with me and walk it through
+18:34 <Miah-mobile> English
+18:34 <`> yep, then american english
+18:34 <Miah-mobile> USA
+18:34 <`> yup
+18:35 <Miah-mobile> American English
+18:35 <`> nod
+18:35 <Miah-mobile> Is loading add components 
+18:35 <`> okay.
+18:35 <Miah-mobile> Hostname
+18:36 <`> pick out a name for the computer
+18:36 <Miah-mobile> Domain name
+18:36 <`> press enter
+18:36 <Miah-mobile> Password lol
+18:36 <`> root, right?
+18:36 <Miah-mobile> Yes
+18:37 <`> input yours.
+18:37 <Miah-mobile> Name
+18:37 <`> your usual username i guess
+18:37  * Miah-mobile is giving step-by-step
+18:37 <`> yeah, appeciate it, so i know theres no surprises, etc
+18:38 <Miah-mobile> Password for user
+18:38 <Miah-mobile> Time zone
+18:38 <`> go ahead
+18:38 <`> set your tz
+18:38 <Miah-mobile> Blue blank screen...
+18:39 <`> is cd drive reading data?
+18:39 <Miah-mobile> Yes
+18:39 <`> leave it alone
+18:39  * Miah-mobile nod
+18:40 <Miah-mobile> Starting partitioner
+18:40 <Miah-mobile> 50%...
+18:41 <Miah-mobile> Partitioning method 
+18:41 <`> what does it list
+18:41 <Miah-mobile> The options?
+18:41 <`> nod.
+18:43 <Miah-mobile> Guide - use entire disk, guide - use entire disk and set up LVM, guide - use entire disk and set up encrypted LVM, and manual
+18:44 <`> guided - use entire disk
+18:44 <`> all in one partition
+18:45 <Miah-mobile> Select disk (only external available)
+18:45 <`> it doesnt list any disks?
+18:46 <Miah-mobile> I only have my external HDD hooked up
+18:46 <`> k, then use that disk
+18:46 <Miah-mobile> And all in one partition
+18:46 <`> nod
+18:47 <Miah-mobile> Gives me an overview 
+18:47 <`> what's the options to proceed?
+18:48 <Miah-mobile> Undo changes to partition or finish partitioning and write changes to disk
+18:48 <`> finish partitioning; write changes to disk.
+18:48 <Miah-mobile> Warns me that everything will be lost
+18:49 <`> yup
+18:49 <Miah-mobile> Write changes to disks? <Yes> <>
+18:49 <`> yes
+18:50 <`> then wait while your external has a seizure
+18:51 <Miah-mobile> Creating ext3 file system for / in partition #1 of SCSI5 (0,0,0) (sda)
+18:51 <`> yup
+18:51 <Miah-mobile> Installing base system
+18:51 <`> nod.
+18:53 <Miah-mobile> Off topic: go on my fb wall and look at stick fig pic lol
+18:54 <`> i saw.
+18:54 <Miah-mobile> Scan another cd or dvd?
+18:54 <`> no
+18:54 <`> graphics environment, ssh server, standard system utilities
+18:54 <Miah-mobile> Use a network mirror?
+18:54 <`> yes.
+18:54 <`> select mirror.rit.edu
+18:54 <Miah-mobile> USA
+18:55 <`> from the list
+18:55 <Miah-mobile> Http proxy info
+18:56 <`> leave blank or skip if appliable
+18:56 <Miah-mobile> Config apt
+18:56 <Miah-mobile> ~2 mins remaining
+18:57 <`> it's all connected, right?
+18:57 <`> dont mess with it if it already is
+18:58 <Miah-mobile> Yeah its half way through 
+18:58 <`> goody.
+18:59 <`> you used mirror.rit.edu, correct?
+18:59 <Miah-mobile> Yup
+18:59 <`> cool
+19:00 <Miah-mobile> Retrieving at 96%
+19:01 <Miah-mobile> Install at 11%
+19:01 <Miah-mobile> This reminds me of old Windows OS :P
+19:02 <Miah-mobile> The look of it 
+19:02 <Miah-mobile> Participate in the ackage usage survey?
+19:02 <`> yep
+19:03 <Miah-mobile> Software selection screen
+19:03 <`> yeah, it's typically called ncurses
+19:03 <`> graphical environment, ssh server, standard system utilities
+19:03 <`> what others are listed?
+19:04 <`> and will this be plugged into a laptop, then select any laptop stuff if appliable
+19:05 <Miah-mobile> Web server, print server, DNS server, file server, mail server, SQL database, laptop
+19:06  * Miah-mobile waits for reply
+19:11 <`> yeah, select laptop too
+19:12 <`> sorry, had to take a call.
+19:12 <`> then proceed
+19:13 <Miah-mobile> It's okay
+19:13 <Miah-mobile> Now we are even lol
+19:13 <Miah-mobile> Retrieving files 2h 5m remaining
+19:14 <`> kk
+19:15 <Miah-mobile> Do I have to sit here the entire time?
+--- Log closed Tue Feb 14 19:20:30 2012
+--- Log opened Tue Feb 14 19:21:33 2012
+19:21 <`> not necessarily
+19:21 <`> lol
+19:21 <`> you can go pass out for 2h or something
+19:21 <`> :P
+19:22 <Miah-mobile> Watch some Chicago blackhawks hockey :D
+19:22 <`> lol
+19:23 <Miah-mobile> But when its done, last thing to do would be remove media and reboot right?
+19:23 <Miah-mobile> Or should be anyways?
+19:23 <`> probably
+19:23 <`> but lets see.
+19:24  * ` munches on pizza rolls.
+19:24 <Miah-mobile> How much data you think andchat would use if I turned WiFi off my phone?
+19:24 <`> irc is pretty much very minimal
+19:24 <`> so you dont have to worry that much
+19:25 <`> (aka it's text only)
+19:25 <Miah-mobile> Even if its on 24/7
+19:25 <`> even if.
+19:25 <`> i have a 2GB limit on my iphone
+19:25 <Miah-mobile> Same here
+19:25 <`> and i have a irssi instance on it 24/7
+19:26 <`> and i have to hit even 0.1gb
+19:26 <Miah-mobile> But I too use fb mobile and Twitter a lot
+19:26 <Miah-mobile> Plus YouTube lol
+19:26 <`> that too
+19:26 <`> well, not youtube
+19:26 <`> but yeah
+19:26 <Miah-mobile> I'm always watching randumb videos :P
+--- Log closed Tue Feb 14 19:32:30 2012
+--- Log opened Tue Feb 14 19:48:49 2012
+19:48 <Miah-mobile> May switch user names (turning off WiFi)
+19:51 -!- Miah-mobile [Miah-mobil@dongs-F2FF76E2.lightspeed.cicril.sbcglobal.net] has quit [Ping timeout]
+--- Log closed Tue Feb 14 19:57:30 2012
+--- Log opened Tue Feb 14 21:56:26 2012
+21:56 <Miah-mobile> its almost finished :)
+21:59 -!- Miah-mobile [Miah-mobil@dongs-A7159109.mycingular.net] has quit [Ping timeout]
+--- Log closed Tue Feb 14 22:05:30 2012
+--- Log opened Tue Feb 14 23:19:06 2012
+23:19 <Miah-mobile> still here?
+23:22 <Miah-mobile> Kay direct connect
+23:26 <Miah-mobile> why not just use ubuntu? I can use a different irc client
+23:26 <Miah-mobile> I'm pissed now I have grub error for win7 HDD
+23:28 <`> np
+23:29 <`> i told you to unplug all other hard drives
+23:29 <Miah-mobile> I did unplug it
+23:30 <Miah-mobile> Sept for that one time I had grub error for ubuntu
+--- Log closed Tue Feb 14 23:35:30 2012
+--- Log opened Tue Feb 14 23:39:26 2012
+23:39 <`> sigh.
+23:41 <Miah-mobile> nod
+23:42 <Miah-mobile> so are we giving up?
+--- Log closed Tue Feb 14 23:48:30 2012
+--- Log opened Tue Feb 14 23:51:49 2012
+23:51  * Miah-mobile waits for answer while laying in bed
+23:55 <`> im not sure
+23:59 <Miah-mobile> well right now family pc is unplugged for this one (LAN monitor keyboard and mouse) and I don't feel like really carrying it back and forth lol
+23:59 <Miah-mobile> ubuntu had interwebs connection via WiFi
+23:59 <`> i'm not even sure what's going on, even.
+--- Day changed Wed Feb 15 2012
+00:00 <`> i guess ubuntu is the only way for you
+00:00 <Miah-mobile> what about an older get
+00:00 <Miah-mobile> ver*
+00:00 <Miah-mobile> or debian that is
+00:00 <Miah-mobile> of* 
+00:00 <Miah-mobile> let's try again...
+00:01 <Miah-mobile> what about and older stable version of debian?
+00:02 <Miah-mobile> more importantly can my Windows 7 be saved? I have like 100GB of movies and stuff on that HDD
+00:07  * Miah-mobile says goodbye to debian and hello to ubuntu
+00:12 <`> i'd try lenny
+00:12 <`> but meh.
+00:13 <Miah-mobile> ill just stick with ubuntu I guess
+00:13 <Miah-mobile> irssi isn't a need, ya know?
+00:13 <`> my point is
+00:13 <`> it's supposed to be in every repository
+00:13 <`> but for some reason it's all lolnoep
+00:14 <Miah-mobile> Ik Ik
+--- Log closed Wed Feb 15 00:20:30 2012
+--- Log opened Wed Feb 15 01:34:49 2012
+01:34 <Miah-mobile> was bored while install was running so I wp7 my phone lol
+--- Log closed Wed Feb 15 01:40:30 2012
+--- Log opened Wed Feb 15 20:42:42 2012
+20:42 -!- Miah-mobile [Miah-mobil@dongs-A1FE7E5A.mycingular.net] has quit [Ping timeout]
+--- Log closed Wed Feb 15 20:48:30 2012
+--- Log opened Wed Feb 15 22:40:06 2012
+22:40 -!- Miah-mobile [Miah-mobil@dongs-A1FE7E5A.mycingular.net] has quit [Ping timeout]
+--- Log closed Wed Feb 15 22:45:30 2012
+--- Log opened Thu Feb 16 04:16:11 2012
+04:16 -!- Irssi: Starting query in DeafGeeksIRC with Miah-mobile
+04:16 <Miah-mobile> you still up? lol
+--- Log closed Thu Feb 16 04:21:30 2012
+--- Log opened Thu Feb 16 17:51:47 2012
+17:51 <`> now i am.
+--- Log closed Thu Feb 16 17:57:30 2012
+--- Log opened Thu Feb 16 18:16:36 2012
+18:16 -!- Miah-mobile [Miah-mobil@dongs-A1FE7E5A.mycingular.net] has quit [Ping timeout]
+--- Log closed Thu Feb 16 18:22:30 2012
+--- Log opened Thu Feb 16 18:44:58 2012
+18:44 <Miah-mobile> hiya
+--- Log closed Thu Feb 16 18:50:30 2012

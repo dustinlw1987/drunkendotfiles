@@ -1,0 +1,225 @@
+--- Log opened Sun Feb 05 21:50:31 2012
+21:50 -!- Irssi: Starting query in DeafGeeksIRC with Jaek
+21:50 <`> gimme a oline on your ircd
+21:50 <`> :D
+21:53 <Jaek> my server's down :/
+21:54 <Jaek> I would, tho
+21:54 <Jaek> but I don't even have one :P
+21:55 <`> lolwat
+21:55 <`> what happened to it
+21:55 <Jaek> power outage accidentally my Unreal and mysql servers
+21:55 <Jaek> the database files are intact
+21:55 <Jaek> as well as the unreal configs
+21:56 <Jaek> but it all got fucked royal
+21:56 <Jaek> couldn't get either to start again
+21:56 <`> so just lemme get at it
+21:56 <Jaek> were complaining of not enough disk space but >mfw 30gb free
+21:56 <Jaek> meh
+21:56 <`> so backup the relevant shit
+21:56 <Jaek> I'm gonna reinstall debian tomorrow, upgrade to the latest version while I'm at it
+21:56 <`> renuke with debian
+21:56 <`> yeah.
+21:56 <Jaek> then just recompile unreal
+21:56 <Jaek> moving the website to the company server
+21:56 <`> "company server"?
+21:57 <Jaek> since we have a lot of pictures on the forum and >loading pictures from a 40kbps connection
+21:57 <`> i should setup xen on one of my more powerful machines
+21:57 <`> and give you a VM for servan
+21:57 <`> want?
+21:59 <Jaek> i dunno
+21:59 <Jaek> somanychoices.png
+21:59 <Jaek> what're your server's specs?
+21:59 <`> no idea yet.
+22:01 <Jaek> lol
+22:01 <Jaek> advantage of that would be I'd get shell access
+22:01 <Jaek> which would be neato
+22:01 <Jaek> unless I do something stupid like I did on my windows server when I enabled automatic backups every night and filled up the hard drive in about two days.
+22:02 <Jaek> <dustin> WHUR THE FUCK DID MY HDD SPACE GO?!
+22:02 <`> lol
+22:02 <`> this would be on an isolated machine
+22:03 <`> as in, you can do whatever the fuck you wanted.
+22:03 <`> short of doing some illegal shit, like HURRDURRIMMAHACK
+22:05 <Jaek> lol
+22:06 <Jaek> torrent proxy?
+22:06  * Jaek runs
+22:06 <`> lol
+22:06 <`> i'm already doing a seedbox already
+22:06 <`> so err
+22:07 <Jaek> hah
+22:07 <Jaek> k
+22:07 <Jaek> hmm
+22:07 <Jaek> I'll think on it
+22:07 <Jaek> see if what I'm doing now will work
+22:09 <`> kk
+--- Log closed Sun Feb 05 22:14:57 2012
+--- Log opened Mon Feb 06 00:23:21 2012
+00:23 -!- Jaek [jake@dongs-4F545AE5.dsl.wchtks.sbcglobal.net] has quit [Ping timeout]
+--- Log closed Mon Feb 06 00:28:57 2012
+--- Log opened Wed Feb 08 09:56:28 2012
+09:56 -!- Jaek [Tandy_7540@dongs-2CB3E3B8.lightspeed.wchtks.sbcglobal.net] has quit [Ping timeout]
+--- Log closed Wed Feb 08 10:01:57 2012
+--- Log opened Sun Dec 23 00:01:14 2012
+00:01 -!- Irssi: Starting query in DeafGeeksIRC with Jaek
+00:01 <`> i need to know your DNS info
+00:01 <`> nameservers, to be precise.
+00:01 <Jaek> pff
+00:01 <Jaek> I haven't the slightest idea
+00:02 <`> because i seem to remember either one of you guys had me switch DNS to someone else's
+00:02 <`> by either one of you, i mean you and sean
+00:02 <`> and i just did a mass update in my admin backend
+00:02 <`> went oh shit
+00:03 <Jaek> I have no idea how my domain is set up, to be perfectly honest
+00:03 <Jaek> I know binki manages part of it
+00:03 <Jaek> I tell him when I need a subdomain redirected or something
+00:03 <`> then that's the thing
+00:03 <`> i need his nameserver info
+00:03 <`> otherwise retrobox is dead in the water
+00:03 <`> :|
+00:04 <`> so get him to grab info, so i can input it and sort it all out.
+00:04 <Jaek> I just highlighted him in #retrobox
+00:05 <Jaek> but we'll see if he's awake
+00:08 <`> okies
+--- Log closed Sun Dec 23 00:13:32 2012
+--- Log opened Sun Dec 23 21:31:05 2012
+21:31 -!- Jaek [JaekWin8@dongs-B96F8B06.lightspeed.wchtks.sbcglobal.net] has quit [Killed (Sudos|E265M (gay))]
+--- Log closed Sun Dec 23 21:36:32 2012
+--- Log opened Sun Dec 23 22:59:55 2012
+22:59 <Jaek> <binki> jaek|obelisk: ns1.ohnopub.net, ns2.ohnopub.net, ns3.ohnopub.net
+22:59 <Jaek> <binki> jaek|obelisk: ns1.ohnopub.net, ns2.ohnopub.net, ns3.ohnopub.net
+22:59 <Jaek> <binki> jaek|obelisk: ns1.ohnopub.net, ns2.ohnopub.net, ns3.ohnopub.net
+22:59 <Jaek> <binki> jaek|obelisk: ns1.ohnopub.net, ns2.ohnopub.net, ns3.ohnopub.net
+22:59 <Jaek> <binki> jaek|obelisk: ns1.ohnopub.net, ns2.ohnopub.net, ns3.ohnopub.net
+22:59 <Jaek> <binki> jaek|obelisk: ns1.ohnopub.net, ns2.ohnopub.net, ns3.ohnopub.net
+--- Log closed Sun Dec 23 23:05:32 2012
+--- Log opened Mon Dec 24 01:00:40 2012
+01:00 <`> got it! updating.
+01:01 <`> updated.
+01:02 <`> Domain name: retro-box.net
+01:02 <`> Registrant Contact: Bickhard c/o Deaf Geeks Design Jake Bickhard ()
+01:02 <`> Fax: Box 253 Rimforest, CA 92352 US
+01:02 <`> Status: Locked
+01:02 <`> Name Servers: ns1.ohnopub.net ns2.ohnopub.net ns3.ohnopub.net
+01:03 <`> that's the direct whois output
+01:03 <`> :D
+--- Log closed Mon Dec 24 01:08:32 2012
+--- Log opened Mon Dec 24 09:55:26 2012
+09:55 <Jaek> yay ^_^
+--- Log closed Mon Dec 24 10:00:32 2012
+--- Log opened Mon Dec 24 13:24:54 2012
+13:24 <`> sorry about that, lols
+13:25 <`> i've got that noted in your account so i dont accidentally include you in global edits
+--- Log closed Mon Dec 24 13:30:32 2012
+--- Log opened Mon Dec 24 13:34:13 2012
+13:34 <Jaek> haha, ok
+13:34 <Jaek> noone even noticed the domain was borked
+13:34 <Jaek> that's how important it is :P
+13:35 <`> :P
+13:36 <`> tho the irc.retro-box.net would be dead
+13:36 <Jaek> yeah
+13:36 <Jaek> but noone ever logs off there
+13:37 <`> haha, yeah, well
+13:37 <`> better safe then sorry
+13:37 <Jaek> yep
+13:37 <Jaek> I need to get the HTTPd back up
+13:37 <`> :P
+13:37 <Jaek> the server is sitting in my basement ._.
+13:37 <`> or just power it up in the basement
+13:37 <`> (unless it's dusty as fuck)
+13:38 <Jaek> it needs Debian reinstalled on it
+13:38 <Jaek> and I need to rehash the site a bit
+13:38 <`> yeah
+13:38 <`> beige-box.com is actually decent
+13:39 <Jaek> it is
+13:39 <Jaek> I wonder what linuxlove used to make that
+13:39 <Jaek> the background is... huge, though
+13:39 <`> looks like
+13:39 <`> handmade
+13:39 <Jaek> it's just kind amateurish to open a site and have the background sit there and load
+13:39 <`> the code is fucking clean
+13:39 <Jaek> I didn't know sean was that good with html
+13:39 <Jaek> it is
+13:40 <Jaek> wait
+13:40 <Jaek> wtf
+13:40 <`> i kinda forced him to handwrite his first beige-box.com site
+13:40 <Jaek> erm
+13:40 <`> that may be why
+13:40 <Jaek> the hell
+13:40 <Jaek> I just went to look at the code again
+13:40 <Jaek> it's just an iframe
+13:40 <Jaek> ...what on earth is going on here
+13:40 <`> yes
+13:40 <`> iframe to www.*
+13:40 <`> we need to fix that
+13:40 <Jaek> ...why
+13:40 <Jaek> yeah, no kidding
+13:40 <`> cheapass forwarding
+13:40 <Jaek> aaah
+13:41  * Jaek view frame source
+13:41 <Jaek> wow
+13:41 <`> i can forward to www in DNS
+13:41 <Jaek> that's some compact code
+13:41 <`> yeah
+13:41 <`> he even validated it
+13:41 <`> damn. he's got better.
+13:41 <Jaek> no kidding
+13:42 <Jaek> I validate my code and the W3C is like NIGGA WHUT
+13:42 <Jaek> >tables, tables everywhere
+13:42 <Jaek> I haven't learned how to use div tags and such
+13:42 <`> either that
+13:42 <`> or he had help:
+13:42 <`> http://www.beige-box.com/about.php
+13:42 <`> note: all of the shit is in PHP
+13:43 <`> which means he's probably using <?php include(); ?> code
+13:43 <`> to easily update shit
+13:43 <Jaek> I have no idea what that means
+13:43 <Jaek> is that so he can change body text and such without editing the html itself?
+13:43 <`> i.e. header.php; body_$PAGE.php; footer.php
+13:44 <Jaek> or change the menu in one file and it updates globally?
+13:44 <`> all included into index.php with that include();
+13:44 <`> edit that one file
+13:44 <Jaek> because I am so sick if manually editing the menu for EVERY PAGE ON MY FRIGGEN SITE
+13:44 <`> and it affects the whole thing
+13:44 <Jaek> dude
+13:44 <Jaek> I need that
+13:44 <Jaek> inside me
+13:44 <`> lol
+13:44 <`> EDUCATION TIEM
+13:44 <Jaek> WHOO
+13:44 <`> bring up your damn httpd
+13:44 <`> :D
+13:44 <Jaek> yep
+13:44 <Jaek> I'm about to go slap debian on a PIII
+13:45 <Jaek> >running a server over wifi
+13:45 <Jaek> unfortunately, I have to
+13:45 <Jaek> yep, linuxlove coded all that himself, more or less
+13:45 <Jaek> just went on the w3c schools site and educated himself
+13:46 <`> holy hell
+13:46 <`> he's even using git!
+13:46 <Jaek> wat
+13:46 <`> https://github.com/LBBNetwork
+13:46 <`> he's not a dumbass anymore.
+13:47 <Jaek> yeah he's stopped being an immature child in my channel, finally
+13:47 <`> yeah
+13:49 <Jaek> meh, I'm going to go all babbymode on this server and install Crunchbang
+13:49 <Jaek> less to mess with as far as configuring wireless goes
+13:49 <Jaek> I can pretty much just install it and then leave and SSH into it from here
+13:50  * ` points to #wtfpwnt
+13:50 <`> and wicd/wicd-curses is fuckeasy to configure on the console
+13:50 <`> just saying.
+13:50 <Jaek> eeh, but then I have to use ethernuts to install the OS
+13:51 <Jaek> and I don't feel like unplugging the PIII, dragging it over to the router, grabbing a monitor, mouse, keyboard, installing the OS, configuring wicd, then dragging it back
+13:51 <Jaek> the only downside of crunchbang is it has X running by default
+13:54 <`> or just shove it running under your bed? :P
+13:57 <Jaek> lol
+13:59 <Jaek> load it with porn
+13:59 <Jaek> PORN UNDER MAH BED
+--- Log closed Mon Dec 24 14:04:32 2012
+--- Log opened Mon Dec 24 16:52:37 2012
+16:52 <`> insta-localhost-access
+--- Log closed Mon Dec 24 16:58:32 2012
+--- Log opened Tue Dec 25 10:40:46 2012
+10:40 -!- Jaek [JaekWin8@dongs-B96F8B06.lightspeed.wchtks.sbcglobal.net] has quit [Quit: ]
+--- Log closed Tue Dec 25 10:46:33 2012
+--- Log opened Tue Dec 25 22:22:29 2012
+22:22 -!- Jaek [JaekWin8@B48536AC.C81F67EA.6650BBE1.IP] has quit [Ping timeout]
+--- Log closed Tue Dec 25 22:27:33 2012

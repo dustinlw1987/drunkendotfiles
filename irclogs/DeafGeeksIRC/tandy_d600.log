@@ -1,0 +1,65 @@
+--- Log opened Tue May 01 12:47:46 2012
+12:47 -!- Irssi: Starting query in DeafGeeksIRC with Tandy|D600
+12:47 <Tandy|D600>                     __..,,;;ggNNNgg;;,,__                  
+12:47 <Tandy|D600>               _.,gjNNNNNNNNNNNNNNNNNNNNNNNjp,              
+12:47 <Tandy|D600>            ,-TNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNNT;            
+12:47 <Tandy|D600>          .dNPjNNNNNNNNNNNNP *4NPA!NNP!NNMMANNNNb           
+12:47 <Tandy|D600>         dNNNjNNNNNNNNNNNp ;! dP.A!NP. NNNN NNNNNb          
+12:47 <Tandy|D600>        dNNNNNNNNNNNNNNN! dP dP.AR!P.A,'NN';.NNNNNb         
+12:47 <Tandy|D600>       .GP*_'MNNNNNNNNNP,d{ P oARR'.ARR !" RR NNNNN.        
+12:47 <Tandy|D600>       (.4Øb YNNNNNNOp',dR ,RRRRRRRRRRRRRRRRR !A VN!        
+12:47 <Tandy|D600>     ,:a.'*" ANNNNNN",dRRRRRRVRRRRRRRRRRRRRRR ,M NNB)       
+12:47 <Tandy|D600>    dMMMMb NP^**4NNN RRRRP*"  "*qRRRRRRP*"  "*qR NNN o.     
+12:47 <Tandy|D600>   dMMMMMB  pTBb."NN RRRRRRA  ARRRRRRRRRRA  ARRV NNV MN     
+12:47 <Tandy|D600> .dUMMIMMB)dp(^\R NN RRRRRRR,,RRRRRRRRRRRR,,RRRV NN!.NN.    
+12:47 <Tandy|D600> dMMMIIMMR DRR(R( NN RbbRRRRRRRRRRRRR^VRRRRRRddR 4V'!NNb    
+12:47 <Tandy|D600> NMMMMMMM! q4RNd! NN RRRRRRRRRRRRRRRRb RRRRRRRRR,! ,dNNN.   
+12:47 <Tandy|D600> 'V\NRMVR   Vbooo YV RRRRRRRRRRRRRRRR,4RRRRRRRRR!'.VNRN\!   
+12:47 <Tandy|D600>      ^      "*CC "P 'qRRRRRRRRRRRRRRRRRRRRRRRRRb  ^ ^      
+12:47 <Tandy|D600>                'qccd,,_^qYRRRRRRPPPPRRRRRRRRP-*^.          
+12:47 <Tandy|D600>                  'qDNNNb ¯^*qRRbgggg4RP-*^¯    ^^          
+12:47 <Tandy|D600>                    'q"V^\ 4m-.,¯^**^¯vd/                   
+12:48 <Tandy|D600>                        .., MMMMMMMYM  ,.                   
+12:48 <Tandy|D600>                     _-dP* ;MMMMMMMMM; ^4Gbg,_              
+12:48 <Tandy|D600>              ..gggp^qG!.d4MMMY****HYMbp BGPdPdbg.,         
+12:48 <Tandy|D600>            dGGGGGGbqbqG .,;ooodHHb.'""'dDPdPdBGGGGO        
+12:48 <Tandy|D600>           GGGGGGGGGbqbqb qPdNNMMNNbdb.dDPdPdGGGGGP*,g.     
+12:48 <Tandy|D600>          o'qGGGGGGGGbqbGb \odNЙЙNbo/ dDPdPdGGGGP",dSSS)    
+12:48 <Tandy|D600>         dSb qGGGGGGGGbqbGb.'qNNNNN .dDPdPdGGGGP,dSSSSS!    
+12:48 <Tandy|D600>         SSSb qGGGGGGGGbqbqGb.'qNN dDP'dPdGGGP",SSSSSSS!    
+12:48 <Tandy|D600>         SSSSb.'4GGGGGGGb"b'qGb V dDPdPdDGGP*,SSSSSSSSS!    
+12:52 -!- Tandy|Dong600 is now known as Tandy|D600
+--- Log closed Tue May 01 12:57:55 2012
+--- Log opened Tue May 01 15:22:12 2012
+15:22 -!- Tandy|D600 [TandyD600@dongs-4F545AE5.dsl.wchtks.sbcglobal.net] has quit [Killed (Sudos|i9100 (don't think I don't have opers while at starbucks bro))]
+--- Log closed Tue May 01 15:27:55 2012
+--- Log opened Mon May 07 18:48:42 2012
+18:48 -!- Irssi: Starting query in DeafGeeksIRC with Tandy|D600
+18:48 <Tandy|D600> for some reason or another the Mumble server is a couple versions out of date and it's causing problems O_o
+18:48 <Tandy|D600> If you'd just stick me in the damn sudoers file I'd be able to fix it :P
+18:49 <`> wolololo
+18:49 <`> what ver's is it at
+18:50 <`> as i see two distinct versions provided by debian's repos
+18:50 <`> mumble and mumble-1.1.x
+18:51 <Tandy|D600> 1.2.3 is the current version
+18:52 <Tandy|D600> server is 1.2,2
+--- Log closed Mon May 07 18:57:55 2012
+--- Log opened Mon May 07 19:08:33 2012
+19:08 <`> can't be helped, then
+19:08 <`> that's the upstream from debian
+--- Log closed Mon May 07 19:13:55 2012
+--- Log opened Mon May 07 21:01:50 2012
+21:01 <Tandy|D600> hmm
+21:01 <Tandy|D600> I could compile it from source...
+--- Log closed Mon May 07 21:07:55 2012
+--- Log opened Mon May 07 23:55:16 2012
+23:55 <`> you could.
+23:56 <`> any deps you need
+23:56 <`> let me know
+--- Log closed Tue May 08 00:01:55 2012
+--- Log opened Tue May 08 07:53:30 2012
+07:53 -!- Tandy|D600 [TandyD600@dongs-4F545AE5.dsl.wchtks.sbcglobal.net] has quit [Killed (tidux (EXTERMINATUS))]
+--- Log closed Tue May 08 07:58:55 2012
+--- Log opened Tue May 08 21:44:30 2012
+21:44 -!- Tandy|D600 [TandyD600@dongs-4F545AE5.dsl.wchtks.sbcglobal.net] has quit [Quit: ]
+--- Log closed Tue May 08 21:49:55 2012

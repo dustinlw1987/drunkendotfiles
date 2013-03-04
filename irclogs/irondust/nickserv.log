@@ -1,0 +1,163 @@
+--- Log opened Wed Jul 04 01:35:01 2012
+01:35 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+01:35 -!- Irssi: Starting query in irondust with nickserv
+01:35 <`> identify seifer8
+01:35 -NickServ(NickServ@services.)- You are now identified for `.
+--- Log closed Wed Jul 04 01:35:15 2012
+--- Log opened Tue Jul 17 17:33:53 2012
+17:33 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Tue Jul 17 17:34:06 2012
+--- Log opened Sun Jul 29 16:25:27 2012
+16:25 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+16:25 -!- Irssi: Starting query in irondust with nickserv
+16:25 <`> identify seifer8
+16:25 -NickServ(NickServ@services.)- You are now identified for `.
+--- Log closed Sun Jul 29 16:26:27 2012
+--- Log opened Sun Jul 29 16:31:37 2012
+16:31 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+16:31 -!- Irssi: Starting query in irondust with nickserv
+16:31 <`> identify seifer8
+16:31 -NickServ(NickServ@services.)- You are now identified for `.
+--- Log closed Sun Jul 29 16:37:08 2012
+--- Log opened Sun Jul 29 16:41:39 2012
+16:41 -!- Irssi: Starting query in irondust with nickserv
+16:41 <`> group grave
+16:41 -NickServ(NickServ@services.)- Nick ` is already registered to your account.
+16:41 <`> help group
+16:41 -NickServ(NickServ@services.)- ***** NickServ Help *****
+16:41 -NickServ(NickServ@services.)- Help for GROUP:
+16:41 -NickServ(NickServ@services.)-  
+16:41 -NickServ(NickServ@services.)- GROUP registers your current nickname to your account.
+16:41 -NickServ(NickServ@services.)- This means that NickServ protects this nickname the
+16:41 -NickServ(NickServ@services.)- same way as it protects your account name. Most
+16:41 -NickServ(NickServ@services.)- services commands will accept the new nickname as
+16:41 -NickServ(NickServ@services.)- an alias for your account name.
+16:41 -NickServ(NickServ@services.)-  
+16:41 -NickServ(NickServ@services.)- Please note that grouped nicks expire separately
+16:41 -NickServ(NickServ@services.)- from accounts. To prevent this, you must use them.
+16:41 -NickServ(NickServ@services.)- Otherwise, all properties of the account are shared
+16:41 -NickServ(NickServ@services.)- among all nicks registered to it.
+16:41 -NickServ(NickServ@services.)-  
+16:41 -NickServ(NickServ@services.)- Syntax: GROUP
+16:41 -NickServ(NickServ@services.)-  
+16:41 -NickServ(NickServ@services.)- Examples:
+16:41 -NickServ(NickServ@services.)-     /msg NickServ IDENTIFY OldNick SecretPassword
+16:41 -NickServ(NickServ@services.)-     /msg NickServ GROUP
+16:41 -NickServ(NickServ@services.)- ***** End of Help *****
+16:42 <grave> identify ` seifer8
+16:42 -NickServ(NickServ@services.)- You are already logged in as `.
+16:42 <grave> group
+16:42 -NickServ(NickServ@services.)- Nick grave is now registered to your account.
+--- Log closed Sun Jul 29 16:48:08 2012
+--- Log opened Fri Aug 03 15:28:32 2012
+15:28 -NickServ(NickServ@services.)- Account ` dropped, forcing logout
+--- Log closed Fri Aug 03 15:34:08 2012
+--- Log opened Fri Aug 10 10:37:23 2012
+10:37 -!- Irssi: Starting query in irondust with nickserv
+10:37 <`> identify seifer8
+10:37 -NickServ(NickServ@services.)- ` is not a registered nickname.
+10:37 <dissimulo> identify seifer8
+10:37 -NickServ(NickServ@services.)- dissimulo is not a registered nickname.
+--- Log closed Fri Aug 10 10:37:44 2012
+--- Log opened Sat Aug 18 18:28:53 2012
+18:28 -!- Irssi: Starting query in irondust with nickserv
+18:28 <`> help
+18:28 -NickServ(NickServ@services.)- ***** NickServ Help *****
+18:28 -NickServ(NickServ@services.)- NickServ allows users to 'register' a nickname, and stop
+18:28 -NickServ(NickServ@services.)- others from using that nick. NickServ allows the owner of a
+18:28 -NickServ(NickServ@services.)- nickname to disconnect a user from the network that is using
+18:28 -NickServ(NickServ@services.)- their nickname.
+18:28 -NickServ(NickServ@services.)-  
+18:28 -NickServ(NickServ@services.)- For more information on a command, type:
+18:28 -NickServ(NickServ@services.)- /msg NickServ help <command>
+18:28 -NickServ(NickServ@services.)- For a verbose listing of all commands, type:
+18:28 -NickServ(NickServ@services.)- /msg NickServ help commands
+18:28 -NickServ(NickServ@services.)-  
+18:28 -NickServ(NickServ@services.)- The following commands are available:
+18:28 -NickServ(NickServ@services.)- FDROP           Forces dropping an account registration.
+18:28 -NickServ(NickServ@services.)- FREEZE          Freezes an account.
+18:28 -NickServ(NickServ@services.)- FUNGROUP        Forces removal of a nickname from an account.
+18:28 -NickServ(NickServ@services.)- GHOST           Reclaims use of a nickname.
+18:28 -NickServ(NickServ@services.)- IDENTIFY        Identifies to services for a nickname.
+18:28 -NickServ(NickServ@services.)- INFO            Displays information on registrations.
+18:28 -NickServ(NickServ@services.)- LISTCHANS       Lists channels that you have access to.
+18:28 -NickServ(NickServ@services.)- MARK            Adds a note to a user.
+18:28 -NickServ(NickServ@services.)- REGISTER        Registers a nickname.
+18:28 -NickServ(NickServ@services.)- RELEASE         Releases a services enforcer.
+18:28 -NickServ(NickServ@services.)- SENDPASS        Email registration passwords.
+18:28 -NickServ(NickServ@services.)- VHOST           Manages user virtualhosts.
+18:28 -NickServ(NickServ@services.)-  
+18:28 -NickServ(NickServ@services.)- Other commands: ACC, BADMAIL, DROP, FREGISTER, FVERIFY, 
+18:28 -NickServ(NickServ@services.)-                 HELP, LIST, LISTMAIL, LISTVHOST, LOGOUT, 
+18:28 -NickServ(NickServ@services.)-                 REGAIN, REGNOLIMIT, RESETPASS, RETURN, SETPASS, 
+18:28 -NickServ(NickServ@services.)-                 STATUS, TAXONOMY, VERIFY
+18:28 -NickServ(NickServ@services.)- ***** End of Help *****
+18:29 <`> help register
+18:29 -NickServ(NickServ@services.)- ***** NickServ Help *****
+18:29 -NickServ(NickServ@services.)- Help for REGISTER:
+18:29 -NickServ(NickServ@services.)-  
+18:29 -NickServ(NickServ@services.)- This will register your current nickname with NickServ.
+18:29 -NickServ(NickServ@services.)- This will allow you to assert some form of identity on
+18:29 -NickServ(NickServ@services.)- the network and to be added to access lists. Furthermore,
+18:29 -NickServ(NickServ@services.)- NickServ will warn users using your nick without
+18:29 -NickServ(NickServ@services.)- identifying and allow you to kill ghosts.
+18:29 -NickServ(NickServ@services.)- The password is a case-sensitive password that you make
+18:29 -NickServ(NickServ@services.)- up. Please write down or memorize your password! You
+18:29 -NickServ(NickServ@services.)- will need it later to change settings.
+18:29 -NickServ(NickServ@services.)-  
+18:29 -NickServ(NickServ@services.)- You have to confirm the email address. To do this,
+18:29 -NickServ(NickServ@services.)- follow the instructions in the message sent to the email
+18:29 -NickServ(NickServ@services.)- address.
+18:29 -NickServ(NickServ@services.)-  
+18:29 -NickServ(NickServ@services.)- Syntax: REGISTER <password> <email-address>
+18:29 -NickServ(NickServ@services.)-  
+18:29 -NickServ(NickServ@services.)- Examples:
+18:29 -NickServ(NickServ@services.)-     /msg NickServ REGISTER bar foo@bar.com
+18:29 -NickServ(NickServ@services.)- ***** End of Help *****
+18:29 <`> register seifer8 connect@dustin-williams.com
+18:29 -NickServ(NickServ@services.)- An email containing nickname activation instructions has been sent to connect@dustin-williams.com.
+18:29 -NickServ(NickServ@services.)- If you do not complete registration within one day, your nickname will expire.
+18:29 -NickServ(NickServ@services.)- ` is now registered to connect@dustin-williams.com, with the password seifer8.
+18:33 <`> VERIFY REGISTER ` pxygpaxqpgbi
+18:33 -NickServ(NickServ@services.)- ` has now been verified.
+18:33 -NickServ(NickServ@services.)- Thank you for verifying your e-mail address! You have taken steps in ensuring that your registrations are not exploited.
+--- Log closed Sat Aug 18 18:38:11 2012
+--- Log opened Wed Aug 29 23:08:19 2012
+23:08 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+23:08 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+23:09 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+23:10 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Wed Aug 29 23:16:18 2012
+--- Log opened Fri Aug 31 01:19:13 2012
+01:19 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Fri Aug 31 01:24:18 2012
+--- Log opened Fri Aug 31 15:05:51 2012
+15:05 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Fri Aug 31 15:11:18 2012
+--- Log opened Fri Aug 31 15:30:03 2012
+15:30 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Fri Aug 31 15:35:18 2012
+--- Log opened Sat Sep 01 10:27:58 2012
+10:27 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Sat Sep 01 10:33:18 2012
+--- Log opened Sun Sep 02 21:24:02 2012
+21:24 -NickServ(NickServ@NickServ.Services.IronDust.net)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Sun Sep 02 21:29:18 2012
+--- Log opened Tue Sep 04 16:33:49 2012
+16:33 -NickServ(NickServ@NickServ.Services.IronDust.net)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Tue Sep 04 16:39:18 2012
+--- Log opened Tue Sep 04 16:45:05 2012
+16:45 -NickServ(NickServ@NickServ.Services.IronDust.net)- Welcome to IronDust, `_! Here on IronDust, we provide services to enable the registration of nicknames and channels! For details, type /msg NickServ help and /msg ChanServ help.
+--- Log closed Tue Sep 04 16:50:18 2012
+--- Log opened Fri Sep 07 11:21:19 2012
+11:21 -NickServ(NickServ@NickServ.Services.IronDust.net)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Fri Sep 07 11:27:18 2012
+--- Log opened Fri Sep 07 13:02:17 2012
+13:02 -NickServ(NickServ@NickServ.Services.IronDust.net)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Fri Sep 07 13:07:18 2012
+--- Log opened Wed Sep 19 03:25:44 2012
+03:25 -NickServ(NickServ@NickServ.Services.IronDust.net)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Wed Sep 19 03:31:19 2012
+--- Log opened Fri Nov 09 21:37:09 2012
+21:37 -NickServ(nickserv@services.ircnode.org)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+--- Log closed Fri Nov 09 21:42:41 2012

@@ -1,0 +1,48 @@
+--- Log opened Tue Jul 17 23:51:39 2012
+23:51 -!- Irssi: Starting query in localhost with nickserv
+23:51 <`> help
+--- Log closed Tue Jul 17 23:51:41 2012
+--- Log opened Thu Aug 30 19:42:50 2012
+19:42 -!- Irssi: Starting query in localhost with nickserv
+19:42 <`> help
+19:42 -NickServ(services@localhost.net)- NickServ allows you to "register" a nickname and
+19:42 -NickServ(services@localhost.net)- prevent others from using it. The following
+19:42 -NickServ(services@localhost.net)- commands allow for registration and maintenance of
+19:42 -NickServ(services@localhost.net)- nicknames; to use them, type /msg NickServ command.
+19:42 -NickServ(services@localhost.net)- For more information on a specific command, type
+19:42 -NickServ(services@localhost.net)- /msg NickServ HELP command.
+19:42 -NickServ(services@localhost.net)-  
+19:42 -NickServ(services@localhost.net)-     REGISTER   Register a nickname
+19:42 -NickServ(services@localhost.net)-     GROUP      Join a group
+19:42 -NickServ(services@localhost.net)-     GLIST      Lists all nicknames in your group
+19:42 -NickServ(services@localhost.net)-     IDENTIFY   Identify yourself with your password
+19:42 -NickServ(services@localhost.net)-     ACCESS     Modify the list of authorized addresses
+19:42 -NickServ(services@localhost.net)-     SET        Set options, including kill protection
+19:42 -NickServ(services@localhost.net)-     DROP       Cancel the registration of a nickname
+19:42 -NickServ(services@localhost.net)-     RECOVER    Kill another user who has taken your nick
+19:42 -NickServ(services@localhost.net)-     RELEASE    Regain custody of your nick after RECOVER
+19:42 -NickServ(services@localhost.net)-     GHOST      Disconnects a "ghost" IRC session using your nick
+19:42 -NickServ(services@localhost.net)-     ALIST      List channels you have access on
+19:42 -NickServ(services@localhost.net)-     INFO       Displays information about a given nickname
+19:42 -NickServ(services@localhost.net)-     LIST       List all registered nicknames that match a given pattern
+19:42 -NickServ(services@localhost.net)-     LOGOUT     Reverses the effect of the IDENTIFY command
+19:42 -NickServ(services@localhost.net)-     STATUS     Returns the owner status of the given nickname
+19:42 -NickServ(services@localhost.net)-     UPDATE     Updates your current status, i.e. it checks for new memos
+19:42 -NickServ(services@localhost.net)-     OINFO         Add / Del an OperInfo line to a nick
+19:42 -NickServ(services@localhost.net)-  
+19:42 -NickServ(services@localhost.net)- Nicknames that are not used anymore are subject to 
+19:42 -NickServ(services@localhost.net)- the automatic expiration, i.e. they will be deleted
+19:42 -NickServ(services@localhost.net)- after 21 days if not used.
+19:42 -NickServ(services@localhost.net)-  
+19:42 -NickServ(services@localhost.net)- NOTICE: This service is intended to provide a way for
+19:42 -NickServ(services@localhost.net)- IRC users to ensure their identity is not compromised.
+19:42 -NickServ(services@localhost.net)- It is NOT intended to facilitate "stealing" of
+19:42 -NickServ(services@localhost.net)- nicknames or other malicious actions.  Abuse of NickServ
+19:42 -NickServ(services@localhost.net)- will result in, at minimum, loss of the abused
+19:42 -NickServ(services@localhost.net)- nickname(s).
+19:42 <`> register
+19:42 -NickServ(services@localhost.net)- Syntax: REGISTER password email
+19:42 -NickServ(services@localhost.net)- /msg NickServ HELP REGISTER for more information.
+19:43 <`> register seifer8 connect@dustin-williams.com
+19:43 -NickServ(services@localhost.net)- Nickname ` registered under your account: *dissimulo@*.deafgeeksirc.com
+--- Log closed Thu Aug 30 19:48:18 2012

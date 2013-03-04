@@ -1,0 +1,51 @@
+--- Log opened Fri Feb 24 18:34:03 2012
+18:34 -!- Irssi: Starting query in ohnopub with CommanderHurricane
+18:34 <CommanderHurricane> link ohnopublishing.net
+18:34 <CommanderHurricane> {
+18:34 <CommanderHurricane> username *;
+18:34 <CommanderHurricane> hostname ohnopublishing.net;
+18:34 <CommanderHurricane> bind-ip *; 
+18:34 <CommanderHurricane> port 6697;
+18:34 <CommanderHurricane> hub *;
+18:34 <CommanderHurricane> password-connect *;
+18:34 <CommanderHurricane> password-receive "ohnopublishing.net.cert.perm" { sslclientcert; };
+18:34 <CommanderHurricane> class servers;
+18:34 <CommanderHurricane> options {
+18:34 <CommanderHurricane> ssl;
+18:34 <CommanderHurricane> autoconnect;
+18:34 <CommanderHurricane> };
+18:34 <CommanderHurricane> /this is what my linkblock looks like
+18:34 <`> link ohnopublishing.net { username                *; hostname                ohnopublishing.net; bind-ip                 *; port                    6697; hub                     *; password-connect        *; password-receive        "unrealircd_ohnopublishing.net_cert.pem" { sslclient$ class servers; options { autoconnect; ssl; nohostcheck; };
+18:34 <`> };
+18:34 <`> for some reason, it doesnt do linebreaks
+18:34  * ` shrugs
+18:34 <CommanderHurricane> interesting. very interesting.
+18:35 <`> here's a screenshot, actually
+18:35 <`> http://cl.ly/1m1V3k3F2o1b0L0d0n1r
+18:37 <`> the drpass line i removed prior to screenshot
+18:37 <CommanderHurricane> only difference i can see is that i don't have the nohostcheck flag set in my block
+18:37 <`> yeah
+18:37 <`> lets see if i can kill off that option
+18:37 <`> and see what happens
+18:38 <`> nope
+18:38 <`> it's all LOLNOEP
+18:42 <`> even if i changed it to ohnopub.net
+--- Log closed Fri Feb 24 18:47:34 2012
+--- Log opened Fri Feb 24 22:12:02 2012
+22:12 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Quit: AWAY!]
+--- Log closed Fri Feb 24 22:17:34 2012
+--- Log opened Sat Feb 25 22:00:34 2012
+22:00 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Quit: multicolored manes]
+--- Log closed Sat Feb 25 22:05:34 2012
+--- Log opened Sun Feb 26 07:35:38 2012
+07:35 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Connection reset by peer]
+--- Log closed Sun Feb 26 07:41:34 2012
+--- Log opened Sun Feb 26 18:30:35 2012
+18:30 -!- CH|Away is now known as CommanderHurricane
+--- Log closed Sun Feb 26 18:36:34 2012
+--- Log opened Sun Feb 26 19:13:41 2012
+19:13 -!- hitler is now known as CommanderHurricane
+--- Log closed Sun Feb 26 19:19:34 2012
+--- Log opened Sun Feb 26 20:42:06 2012
+20:42 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Quit: lightning bolt]
+--- Log closed Sun Feb 26 20:47:34 2012

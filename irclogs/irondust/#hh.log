@@ -1,0 +1,889 @@
+--- Log opened Wed Jul 04 01:35:26 2012
+01:35 -!- ` [~dissimulo@btfeilhqdkktc.deafgeeksdns.com] has joined #hh
+01:35 -!- Irssi: #hh: Total of 9 nicks [3 ops, 0 halfops, 0 voices, 6 normal]
+01:35 -!- Irssi: Join to #hh was synced in 0 secs
+01:35 -!- mode/#hh [+o `] by ChanServ
+01:35 <@`> that's better
+01:35 <@`> ._.
+01:35 -!- grave [~webchat@vo2.simplinetworks.com] has quit [Quit: lightIRC.com Flash IRC Client]
+01:37 < interwarbls> `: got an answer for me questions?
+01:37 <@`> gimmeh questions again, please.
+01:37 < interwarbls> [23:32] <interwarbls> gonna do a pingtest of cdn's tomorrow
+01:37 < interwarbls> [23:32] <interwarbls> what less-shitty network tests can I do?
+01:37 < interwarbls> [23:32] <interwarbls> thorughput is likely important too, but I dunno how to measure it.
+01:37 <@`> ask Sue
+01:37 < interwarbls> you ask him, he's at your fucking abode
+01:38 <@`> lols
+01:39 < interwarbls> Sue:) DICKS ^
+01:45 < interwarbls> Why do I spend so much time waiting for chrome to coordinate its actions
+01:45 < interwarbls> the main CPU consumer process of chrome is the parent process
+01:45 < interwarbls> indeed, it's the main consumer on my entire computer
+01:46 < interwarbls> I'm really fucking tired of this
+01:47 < interwarbls> I open a tab and have to wait >15seconds for chrome to open it
+01:47 < interwarbls> Every other operation on my computer happens instantaneously
+02:07 < interwarbls> I'm just going to rage until I can manage to restart chrome in a few days
+02:07 < interwarbls> :>
+02:22 <@Sue> lol
+02:28 < interwarbls> Sue:) cuntnuggets do say something more than lol
+02:29 < interwarbls> Sue:) I've tired of hearing that from you, it conveys nothing
+02:33 <@bikcmp> Sue: you are a faggot
+02:33 <@bikcmp> i mean
+02:33 <@bikcmp> i love you
+10:18 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has quit []
+12:42 <@`> >mfw i memorized Sue's full nick
+13:53 <@bikcmp> `: mfw?
+14:51 <@`> http://dgd.io/uIME
+15:00 <@bikcmp> `: can you use iprelay for (legit, of course) business?
+15:02 <@`> yes.
+15:06 <@bikcmp> `: how's sue doing with sign
+15:06 <@bikcmp> i've got a sign for him
+15:06 <@bikcmp> the middle finger.
+15:06 <@bikcmp> ;p
+15:07 <@bikcmp> 1/3
+15:40 <@Sue> i don't even know what aranje was asking me
+15:40 <@Sue> something about cdns
+15:45 <@bikcmp> Sue: learn sign
+15:45 <@bikcmp> already
+17:15 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has joined #hh
+17:16 < interwarbls> hahaha win
+17:16 < interwarbls> I finally know why chrome runs so slowly on an atom
+17:16 < interwarbls> 32bit chrome sandboxing model uses segment registers, and atoms don't have a real implementation of those. So it's slower than shit to use chrome's sandbox.
+17:43 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has quit []
+18:00 -!- N0T0R10US [Mibbit@ufdb-28-024-195-565.nwrknj.fios.verizon.net] has joined #hh
+18:40 -!- N0T0R10US [Mibbit@ufdb-28-024-195-565.nwrknj.fios.verizon.net] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+19:16 <@bikcmp> haha
+19:24 <@bikcmp> `: wtf
+19:24 <@bikcmp> `: (08:23:43 PM) My IP Relay: We're sorry, we are unable to process your call. FCC rules require all text relay calls contain IP addresses. We did not receive your IP address.  Please check with your wireless provider and try your call again.  You may also place your call by going to our website at IP-Relay.com. Thank you for using Purple.
+19:24 <@bikcmp> lol
+22:12 <@bikcmp> Sue: tomorrow you're going to learn sign
+22:12 <@bikcmp> if you don't i'll be a sad panda.
+22:55 -!- Nightmare [Nightmare@Spitfire/Husband/TheTFEF] has quit [Excess Flood]
+22:56 -!- Nightmare [Nightmare@Spitfire/Husband/TheTFEF] has joined #hh
+--- Day changed Thu Jul 05 2012
+22:54 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has joined #hh
+22:55 < interwarbls> Sue: No wonder you're foreveralone.jpg, you're playing on the fucking reddit server
+22:56 < interwarbls> also, the fuck is koth
+22:58 < interwarbls> Sue: Jesus christ, their ping is unstable as shit
+23:00 < interwarbls> nevermind, my faggot roommate had his vuze set on auto
+23:01 < interwarbls> their metrics are terrible, apparently
+23:01 < interwarbls> my utorrent on auto is quite fine
+23:05 <@`> Vuze is banned by the trackers i'm on
+23:05 <@`> aka it's fucking PURE shit
+23:07 <@bikcmp> lol
+23:07 <@bikcmp> `: vuze sucks ass
+23:08 <@`> exactly
+23:09 < interwarbls> not my choice
+23:09 <@`> i need to figure out how to block packets by certain software on my router
+23:09 <@bikcmp> `: when are you and sue going to learn sign already
+23:09 <@bikcmp> sue is laaaaaaaazy
+23:09 <@bikcmp> haha
+23:09 <@`> so i can be all LOL BLOCK VUZE, SUCK MY DONG
+23:09 < interwarbls> I want to disable dht too, but vuze is sort of based on it
+23:10 < interwarbls> so I settled for turning his upload speed from auto to 125kbyte, and turning on udp traffic preffered
+23:11 < interwarbls> also enabling and prefering protocol encryption
+23:11 < interwarbls> none of those are turned on by default
+23:11 < interwarbls> >_>
+23:11 < interwarbls> shit client, seriously
+23:11 < interwarbls> so we should be good now
+23:12 < interwarbls> even his rampant disregard for how things work shouldn't bother me
+23:12 < interwarbls> I'm still going to actually light him on fire while he's sleeping if I get a letter from charter because of some shit /he/ downloads
+23:14 <@bikcmp> lol
+23:14 <@bikcmp> interwarbls: hi, we noticed you're downloading tons of japanese porno.  please stop.
+23:15 < interwarbls> I wish it were japanese porno, I'd just ask him to share
+23:15 < interwarbls> mostly it's movies I already have
+23:16 < interwarbls> and because he's a fucking cunt and a retard, he refuses to learn how to simply ftp them off my computer at blistering speeds
+23:16 < interwarbls> I'd have him join our homegroup, but his faggoty computer won't talk to us
+23:16 <@bikcmp> aw
+23:16 < interwarbls> cause that shit is easymode if it works
+23:17 < interwarbls> and of fucking course, all my shit is ALSO shared over homegroup
+23:17 < interwarbls> videos in video library, etc, I even have a lib for my torrents directories
+23:17 < interwarbls> Can't get much more retard friendly
+23:17 <@bikcmp> silly
+23:17 <@bikcmp> interwarbls: but wait
+23:17 <@bikcmp> you can
+23:17 <@bikcmp> upload them to youtube.
+23:17 <@bikcmp> :)
+23:17 <@bikcmp> lol
+23:18 <@`> interwarbls: then block the HELL out of him
+23:18 <@`> and THEN blame it on his shitty computer
+23:19 < interwarbls> can't, don't own the router anymore
+23:19 <@`> i would definitely have NO obligation to serve the bastard.
+23:19 <@`> interwarbls: etherkill his computer
+23:19 <@`> interwarbls: problem solved.
+23:20 < interwarbls> no idea what that is, but since it has eth in it I'll assume it doesn't apply because he's on wireless
+23:20 <@`> http://dgd.io/erF8
+23:20 <@`> THAT is a etherkiller
+23:20 <@`> would fry the fuck out of the computer
+23:21  * interwarbls shrugs
+23:21 < interwarbls> I'm not that much of a dick
+23:21 < interwarbls> I'd rather just adjust his settings without asking
+23:21 <@`> well, i was
+23:21 < interwarbls> knowing he'll never notice
+23:21 <@`> etherkilled an entire network of computers at school
+23:21 <@`> by plugging the damn thing DIRECTLY into a switch
+23:21 < interwarbls> lol
+23:21 <@`> i did them a favor, really
+23:21 <@`> fucking windows 98 machines in 2004
+23:21 < interwarbls> I'm surprised the eth carried the current
+23:22 < interwarbls> I'm not going to say anything
+23:22 <@`> then ALL OF THE SUDDEN
+23:22 <@`> upgrade to winXP machines
+23:22 <@`> honestly
+23:22 <@`> they were bad
+23:22 <@`> took 30 minutes to boot
+23:22 <@`> if that.
+23:23 <@`> and the 98 machines used some bullshit "freeze" software
+23:23 <@`> that would revert everything at every reboot
+23:23 < interwarbls> My grandmother still ran win98se on computers at her school as recently as 2009
+23:23 < interwarbls> She was the IT person
+23:23 <@bikcmp> ... lol
+23:23 < interwarbls> Wanna know how well they worked?
+23:23 <@bikcmp> they didn't!
+23:23 < interwarbls> Fucking beautifully.
+23:23 < interwarbls> You want to know what new operating systems don't run?
+23:23 < interwarbls> educational software.
+23:24 <@bikcmp> BAHAHAHA EDUCATIONAL SOFTWARE
+23:24 <@bikcmp> <.<
+23:24 < interwarbls> Especially educational software made for windows 98.
+23:24 < interwarbls> None of it has been updated.
+23:24 <@bikcmp> interwarbls: tbh. i kinda like windows 98
+23:24 < interwarbls> It was the only good OS they made
+23:24 < interwarbls> It's the only one I've found to be actually stable
+23:24 < interwarbls> Not anymore due to viruses and whatnot
+23:24 < interwarbls> but back then? rock fucking solid
+23:25 < interwarbls> keep that shit off the internet (the games don't need it anyway) and they'll run for another two decades
+23:25 < interwarbls> my grandma's a boss
+23:26 < interwarbls> her network had win 95->7 on the same network
+23:26 < interwarbls> every single version
+23:26 < interwarbls> And they all interfaced (the newer ones!) with the same server 2003 adv box
+23:27 < interwarbls> that's fucking prowess right there
+23:34 <@bikcmp> 11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:40 <@`> CRANK IT UP TO ELEVEN!!!1!11
+23:41 <@bikcmp> `: you should force sue to learn asl
+23:42 <@bikcmp> just saying
+23:44 < interwarbls> oh my god, finally a movie makes an actually PC racist joke
+23:44 <@`> interwarbls: which movie
+23:44 <@`> interwarbls: and what joke, exactly
+23:44 < interwarbls> journey 2 the mysterious island
+23:44 <@`> hm.
+23:45 < interwarbls> "spf 100? You squeeze it and a sweater comes out?" "Yeah, that's funny Navy Man. Don't come crying to me when you're as red as a tomato" "Do I look like I burn?"
+23:46 < interwarbls> do I look like I burn is `dwayne the rock johnson`
+23:46 < interwarbls> he's black-ish
+23:46 < interwarbls> lol
+23:46 <@bikcmp> lol
+23:46 < interwarbls> half black? something
+23:46 < interwarbls> dunno his origin
+23:46 <@bikcmp> caramel
+23:46 < interwarbls> not white at any rate
+23:46 < interwarbls> yeah, basically
+23:46 < interwarbls> a good medium roasted caramel
+23:47 <@bikcmp> mmm
+23:47 <@bikcmp> <.<
+23:47 <@bikcmp> lol
+--- Day changed Fri Jul 06 2012
+00:14 < interwarbls> This movie is like one giant chunk of social conditioning
+00:15 < interwarbls> not as bad as the shit I was raised with eithee
+00:19 < interwarbls> Okay after the initial awkward in this movie
+00:19 < interwarbls> I'm rolling with laughter
+00:19 < interwarbls> LETS PLAY CHICKEN WITH BEES
+00:24 < interwarbls> oh man
+00:24 < interwarbls> so many lulz
+00:36 < interwarbls> hahaha meta jokes
+00:36 < interwarbls> fuck yeah
+00:36 < interwarbls> and SHAAAARK
+00:53 < interwarbls> Oh honey what could possible go wrong? It's only the moon!
+00:53 < interwarbls> cute movie
+00:56 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has quit []
+13:01 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has joined #hh
+13:01 < interwarbls> warble warble warble
+13:06 < interwarbls> so I've got like 3 copies of a directory and I want to combine them all
+13:06 < interwarbls> you think systematically is the best way?
+13:07 < interwarbls> (note, all three copies are in different places on different computers on different networks)
+13:07 < interwarbls> arguably 6 copies, but whatever
+13:08 < interwarbls> Trying to decide if I want to keep all the exfiltrated data I've got in it as well
+13:17  * interwarbls grabs filezilla for its only useful feature - synchronized directory viewing
+13:22 < interwarbls> the bandwidth boggles!
+14:19 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has quit []
+14:42 <@bikcmp> `: how would you sign like
+14:42 <@bikcmp> as in 
+14:42 <@bikcmp> i like that
+--- Day changed Sat Jul 07 2012
+00:22 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has joined #hh
+00:23 < interwarbls> `: What's the ping like at your house?
+00:27 < interwarbls> You've got 35/35 iirc?
+00:28 <@bikcmp> interwarbls: sup
+00:28 < interwarbls> bikcmp: Do you live at his house?
+00:28 <@bikcmp> interwarbls: uh
+00:28 <@bikcmp> not yet
+00:28 < interwarbls> bikcmp: Then shut the fuck up :D
+00:28 <@bikcmp> rude
+00:29 <@bikcmp> you mad :(
+00:29 < interwarbls> Nah, just drunk
+00:29 < interwarbls> :D
+00:29 < interwarbls> nosy motherfucker
+00:29 < interwarbls> :P
+00:30 < interwarbls> bikcmp: This is rude: http://board.explodie.org/kareha.pl/1323705357/
+00:30 <@bikcmp> never clicking
+00:30 < interwarbls> It's a thread, not a photo, and there's nothing even NSFW on it :)
+00:31 < interwarbls> best answer I've seen
+00:32 < interwarbls> I want cdn damnit
+00:33 < interwarbls> fuck this whole `must pay lots of money` thing
+00:33 < interwarbls> for those of us who just want to fucking host a few big images or sound files or whatever... god damn
+00:33 < interwarbls> so hard
+00:33 < interwarbls> giant fucking cockoff
+00:35 <@bikcmp> interwarbls: ec2 fag
+00:39 < interwarbls> that's compute
+00:40 < interwarbls> either s3 or ebs
+00:40 < interwarbls> but, both are too expensive I think
+00:41 < interwarbls> s3, even. ebs is for ec2
+00:41 < interwarbls> I can probably scrape by on free tier
+00:41 < interwarbls> heh
+00:51 < interwarbls> amazon says 1.23/mo
+00:51 < interwarbls> roughly
+00:51 < interwarbls> Basically, it's 7c every time someone downloads aranjepack
+00:52 < interwarbls> well, more like 8.5 but whatever
+00:52 < interwarbls> lol
+01:01 < interwarbls> that's a huge overestimate, too
+01:01 < interwarbls> haha
+01:02 < interwarbls> assuming 30gb of transfer per month
+11:08 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has quit [Quit: FUCK YEAH LOL]
+14:51 -!- TheVoid [~root@user/TheVoid] has joined #hh
+20:06 <@bikcmp> TheVoid: I LOVE YOU BABY
+20:06 <@bikcmp> wrong chan
+21:43 -!- Sue|phone [~sue@lntc-71-947-11-423.lsanca.dsl-w.verizon.net] has joined #hh
+21:43 < Sue|phone> Middle of goddamn nowhere
+21:48 <@bikcmp> Sue|phone: y
+21:48 <@bikcmp> o
+21:48 <@bikcmp> Sue|phone: sup
+21:48 < Sue|phone> Hi
+21:48 <@bikcmp> Sue|phone: where the heck have you been lately
+21:48 <@bikcmp> lol
+21:49 < Sue|phone> Middle of goddamn nowhere
+21:49 <@bikcmp> aka yahama
+21:49 <@bikcmp> or whatever `'s place is called
+21:49 <@bikcmp> right?
+21:51 <@bikcmp> Sue|phone: i got a job
+21:56 < Sue|phone> Nice
+21:58 -!- Sue|admire [~sue@lntc-71-947-11-423.lsanca.dsl-w.verizon.net] has joined #hh
+21:58 -!- Sue|phone [~sue@lntc-71-947-11-423.lsanca.dsl-w.verizon.net] has quit [Read error: Connection reset by peer]
+22:28 -!- Sue|phone [~sue@lntc-71-947-11-423.lsanca.dsl-w.verizon.net] has joined #hh
+22:28 -!- Sue|admire [~sue@lntc-71-947-11-423.lsanca.dsl-w.verizon.net] has quit [Read error: Connection reset by peer]
+22:30 -!- Sue|admire [~sue@174.141.zsw.ls] has joined #hh
+22:33 -!- Sue|phone [~sue@lntc-71-947-11-423.lsanca.dsl-w.verizon.net] has quit [Ping timeout: 276 seconds]
+23:03 -!- Sue|admire [~sue@174.141.zsw.ls] has quit [Ping timeout: 276 seconds]
+--- Day changed Sun Jul 08 2012
+05:17 -!- TheVoid [~root@user/TheVoid] has quit [Ping timeout: 246 seconds]
+05:29 -!- TheVoid [~root@user/TheVoid] has joined #hh
+13:56 -!- Aranje [~Aranje@user/Aranje] has joined #hh
+13:56 -!- mode/#hh [+o Aranje] by ChanServ
+15:41 <@bikcmp> `: yo
+15:41 <@bikcmp> Sue: here?
+15:43 <@bikcmp> 8
+17:57 -!- questionmark [questionma@216.231.jzv.yp] has quit [Quit: ...]
+19:24 -!- TheVoid_ [~root@user/TheVoid] has joined #hh
+19:27 -!- TheVoid [~root@user/TheVoid] has quit [Ping timeout: 246 seconds]
+19:28 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+23:00 <@Aranje> Alright. Just finished spending at least 10 hours figuring out typography and css shit for readability
+23:00 <@Aranje> product of my work: http://mirror.explodie.org/readable.css
+23:01 <@Aranje> It's like 2 screens tall on my shit laptop, less than a screen tall on my real monitor :D
+23:01 <@Aranje> that's motherfucking dedication
+23:01 <@Aranje> example usage: http://explodie.org/writings/venezuela-political-analysis.html
+23:06 <@Aranje> And now, my work is done.
+23:07  * Aranje sits back and basks in the glory of a product nobody will ever see
+23:55 <@bikcmp> lol
+23:58 <@Aranje> Sue:) Who runs superdickery
+23:58 <@Aranje> Sue:) and why is it familiar
+23:59 <@Aranje> Sue:) got hacked, if you know the guy, tell 'im
+--- Day changed Mon Jul 09 2012
+00:22 <@Sue> :(
+02:41 -!- rih [Mibbit@84.237.xsx.ypr] has joined #hh
+02:41 -!- rih [Mibbit@84.237.xsx.ypr] has quit [Client Quit]
+05:40 -!- questionmark [01101010@216.231.jzv.yp] has quit [Quit: ...]
+05:45 -!- bikcmp is now known as bisexual_cumpooper
+05:48 -!- bisexual_cumpooper is now known as bikcmp
+06:04 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+10:22 -!- TheVoid_ [~root@user/TheVoid] has quit [Read error: Connection reset by peer]
+13:38 -!- TheVoid [~root@user/TheVoid] has joined #hh
+13:46 -!- Joey [~Joey@sml/staff/Joey] has joined #hh
+14:41 <@Aranje> People still ask me why I don't put files on public file hosts, and instead host it myself
+14:41 <@Aranje> I've taken to answering "Because fuck you!"
+14:57 -!- Nightmare [Nightmare@Spitfire/Husband/TheTFEF] has quit [Write error: Connection reset by peer]
+15:19 -!- Nightmare [Nightmare@Spitfire/Husband/TheTFEF] has joined #hh
+16:38 <@bikcmp> Sue: yo.
+16:38 <@bikcmp> Sue: here?
+16:39 <@bikcmp> or `
+16:39 <@bikcmp> i need advice.
+16:40 <@`> here.
+16:40 <@`> what's up
+16:41 <@bikcmp> `: hey
+16:41 <@bikcmp> `: i don't want to say it in here
+16:41 <@bikcmp> pm
+17:42 <@Aranje> dongs
+17:42 <@`> COCKS.
+17:42  * ` runs away again.
+17:43  * Aranje shrugs
+17:43 <@`> what sucks
+17:43 <@`> is http://google.com weather 92399
+17:44 <@Aranje> hot?
+17:44 <@`> even my a/c is struggling
+17:44  * Aranje shrugs
+17:44 <@Aranje> nice and cool here
+17:44 <@Aranje> crisp 75
+17:44 <@`> lol imma murder you and move in
+17:44 <@`> }:A
+17:44 <@Aranje> n.n
+17:44 <@`> lolnotrly
+17:44 <@`> so what's up
+17:45 <@Aranje> fuckall
+17:45 <@`> heh
+17:45 <@Aranje> sue walked away with lol running again
+17:45 <@Aranje> I'm still not sure why he does that
+17:45  * ` shrugs
+17:45 <@Aranje> It rapes cpu when it's open in the background
+17:45 <@Aranje> the store shit is adobe air
+17:45 <@Aranje> aka not efficient at ALL
+17:46 <@`> tell Sue that
+17:46 <@Aranje> I would but he's not paying attention to it
+17:46 <@`> and he's the one in the hottest room in the house
+17:46 <@Aranje> lol
+17:46 <@Aranje> oh?
+17:46 <@`> he's probably frying his CPU as we speak
+17:46 <@Aranje> geographically or because of computers
+17:46 <@Aranje> lol
+17:46 <@`> geographically in his room, his room is the hottest
+17:46 <@Aranje> highest in the house?
+17:46 <@Aranje> o so
+17:46 <@Aranje> or so
+17:47 <@`> nope, ground-floor house
+17:47 <@`> he has no a/c
+17:47 <@`> he needs to get one
+17:47 <@Aranje> ahh
+17:47 <@`> i've been finding a bunch of real good $50 ones on craigslist
+17:47 <@Aranje> he toootally won't
+17:48 <@`> yeah, except it's essential
+17:48 <@Aranje> be the nagging wife
+17:48 <@Aranje> that was my old job
+17:48 <@`> i'd probably be naked on the damn floor if not for my a/c
+17:48 <@Aranje> I confer this responsibility to you
+17:49 <@`> i'll hafta get some weather sensors and hook them to a linux box
+17:49 <@`> outside, and then internal temps
+17:49 <@`> maybe run motion with webcams
+17:49 <@Aranje> set it up so it turns on the coolers automatically
+17:50 <@`> difficult to do considering if you shut off power to it, you have to manually turn it on
+17:50 <@`> it's some kenmore a/c
+17:50 <@Aranje> outside box?
+17:50 <@`> window a/c
+17:50 <@Aranje> well uh
+17:50 <@Aranje> you just rewire it
+17:50 <@Aranje> a/c's aren't complicated at all
+17:50 <@`> lol no, they're not
+17:50 <@`> i just rather not fuck with my only a/c
+17:51 <@`> if i get a 2nd one, sure
+17:51 <@Aranje> well that's boring
+17:51 <@`> yeah, well
+17:51 <@`> it's really hot here
+17:51 <@`> and i cant stand even 5 minutes of the sweltering heat
+17:51 <@Aranje> well, then there's impetus to not fuck it up 
+17:51 <@`> heh
+17:52 <@Aranje> dude fucking piffle
+17:52 <@`> been drinking some water.
+17:52 <@Aranje> It's 95 at your house
+17:52 <@Aranje> you don't even get to complain
+17:52 <@Aranje> that's not even hot
+17:52 <@Aranje> Hot is 112.
+17:53 <@`> according to google its 102
+17:53 <@Aranje> Hot is 118 or 122
+17:53 <@Aranje> http://www.wunderground.com/cgi-bin/findweather/getForecast?query=92399
+17:53 <@`> but due to how the house is constructed (fucking metal roof), it's actually a bit hotter
+17:53 <@`> and the fact that the house comes under DIRECT sunlight all day
+17:53  * Aranje shrugs
+17:53 <@Aranje> insulate the roof
+17:53 <@`> my room is
+17:54 <@`> but heres the thing
+17:54 <@`> Sue's room's not
+17:54 <@`> so it's like a farking sauna in there
+17:54 <@Aranje> why phrase that like an excuse?
+17:54 <@`> he uses a bunch of fans to keep the air circulating, though
+17:54 <@Aranje> so insulate it or tell him to
+17:54 <@Aranje> lol
+17:54 <@`> lol, he wont
+17:54 <@Aranje> then do it yourlse
+17:54 <@Aranje> yourself
+17:54 <@`> dont have the materials for it.
+17:54  * ` shrugs
+17:54 <@Aranje> make em :D
+17:55 <@`> i'm thinking of getting foam mix
+17:55 <@Aranje> or buy them, but that's less fun
+17:55 <@`> and foam the edges
+17:55 <@Aranje> blankets stapled to the roof does the same thing
+17:55 <@`> that'd help with insulation, ill do it to my room too
+17:55 <@Aranje> I seal windows with curtains and shit
+17:55 <@`> i also need to do a bit of rewiring
+17:55 <@Aranje> cause my house is old as fuck
+17:55 <@`> yeah
+17:55 <@`> i have single-paned windows
+17:55 <@`> giant ones
+17:56 <@Aranje> so even just having proper window curtains drops our energy costs
+17:56 <@Aranje> lol
+17:56 <@`> so they insulate nothing
+17:56 <@Aranje> ours aren't huge, but there's tons of em
+17:56 <@`> yeha
+17:56 <@Aranje> no less than 2 per wall
+17:56 <@Aranje> lol
+17:56 <@Aranje> every wall :|
+17:56 <@`> im wanting to get the binary and pi fleece blankets
+17:56 <@`> and cover my 2 windows with 'em
+17:56 <@`> simple but effective
+17:56 <@Aranje> lol
+17:56 <@Aranje> yap
+17:57 <@`> oh nice
+17:57 <@`> i can feel the temps dropping finally
+17:57 <@`> usually after 3:45-4, temps drop since the sun is at such an angle that it doesn't hit the house as much
+17:57 <@Aranje> yup
+17:57 <@`> im at the point
+17:58 <@`> i'm considering constructing a solar water heater
+17:58 <@`> basically a shitload of alumium cans
+17:58 <@`> painted waterproof black
+17:58 <@Aranje> I used to do field work with my mom out in the desert east of you
+17:58 <@`> 29 palms?
+17:58 <@Aranje> roughly, yeah
+17:58 <@Aranje> little north
+17:58 <@`> victorville-ish?
+17:58  * Aranje forgets the town
+17:59 <@Aranje> half on china like, half off
+17:59  * ` shrugs
+17:59 <@Aranje> sec
+17:59 <@Aranje> ridgecrest
+17:59 <@`> ah
+17:59 <@Aranje> and sometimes up by bishop
+18:00 <@`> oh that's waaaay north
+18:00 <@Aranje> not far to me lol
+18:00 <@`> 135ish miles
+18:00 <@`> past victorville lol
+18:00 <@Aranje> well under 2 hours
+18:00 <@Aranje> lol
+18:00 <@`> :P
+18:00 <@Aranje> long ways is montana
+18:00 <@Aranje> :P
+18:00 <@Aranje> 135 miles? pfffff
+18:01 <@`> not having a car does limit one's range
+18:01 <@`> x.x
+18:01 <@Aranje> and really
+18:01 <@Aranje> you can make it to montana in a day
+18:01 <@`> i know
+18:01 <@`> i went from CA to SC in 2 and half days
+18:01 <@Aranje> yup
+18:01 <@Aranje> my mom did the same from ohio out here in like 48 hours
+18:01 <@Aranje> heh
+18:02 <@`> nod nod.
+18:02 <@`> lol this user
+18:02 <@`> 17:59 < dn_lap2> try crushing up some l2 cache modujles and sniffing them KC17:59 < dn_lap2> makes u feel like a pentium 1 running at 5ghz
+18:02 <@`> damn linebreaks, it didnt copy 'em
+18:02 <@`> but yeah
+18:03 <@Aranje> heh, reminds me of a guy who did that
+18:03 <@Aranje> p3 800mhz -> 3.4xghz
+18:04 <@Aranje> stable, too
+18:04 <@`> :P
+18:04 <@Aranje> aka single core i7
+18:04 <@Aranje> :D
+18:04 <@Aranje> cause really they're the same fucking thing
+18:04 <@Aranje> just `smaller`
+18:04 <@`> heh yeah
+18:04 <@`> 18:03 < king_crimson> i just tranq darted jenny alexander a whole bunch directly in the vadge
+18:04 <@`> 18:03 < king_crimson> http://rubbermallet.org/jennytranq.jpg
+18:04 <@`> 18:03 < ekduo> hot
+18:04 <@`> 18:03 < `> lmao
+18:05 <@Aranje> fuckin rubbermallet
+18:05 <@`> hmm?
+18:05 <@Aranje> buncha tards :P
+18:05 <@`> lol, they're hilarious
+18:05 <@`> they're the ones who came up with "cockear"
+18:06 <@Aranje> irc level: nerd
+18:06 <@Aranje> <passstab> aranjedeath, /msg send kusangi $MESSAGE
+18:06 <@Aranje> <aranjedeath> who is send
+18:07 <@Aranje> I have zero idea what game that is
+18:07 <@Aranje> heh
+18:07 <@Aranje> the one you linked in the picture
+18:07 <@Aranje> It's got pretty water though
+18:11 <@Aranje> quick! how do I jungle!?
+18:11 <@`> lol
+18:11 <@Aranje> SHIT
+18:11 <@Aranje> they told me to jungle D:
+18:11 <@Aranje> I DON'T KNOW HOW
+18:11 <@Aranje> D;
+18:11 <@Aranje> D;
+18:11 <@Aranje> D;
+18:11 <@Aranje> ;_;
+18:12 -!- Joey is now known as MestarBTB
+18:13 <@`> D:
+18:13 <@`> it just got hotter again
+18:14 <@`> damned heatwaves.
+18:36 <@Aranje> haha we surrendered
+18:36 <@Aranje> my team was getting their asses handed to them
+18:36 <@Aranje> that was pretty bad
+18:37 <@Aranje> I was second best on the team, and I was a first time jungler
+19:24 <@Sue> Aranje: what.cd neutral leech user picks
+20:09 -!- MestarBTB is now known as Joey
+20:42 <@bikcmp> Sue: ever use those greendot cards
+20:44 <@`> ugh
+20:44 <@`> so hot
+20:45 <@`> i wanna try clearing what doesnt need to be in my room or Sue's
+20:45 <@`> then take a shower.
+20:45 <@bikcmp> `: ever use those greendots?
+20:45 <@`> bikcmp: technically, yes
+20:45 <@`> bikcmp: i use a walmart money card
+20:45 <@bikcmp> technically?
+20:45 <@bikcmp> oh
+20:45 <@bikcmp> `: well
+20:45 <@`> which is based on green dot
+20:45 <@bikcmp> `: like
+20:45 <@bikcmp> i'm trying to set it up
+20:45 <@bikcmp> i bought it in store
+20:45 <@bikcmp> and it'as sking for my ssn
+20:45 <@`> yeah
+20:46 <@bikcmp> one, i have no idea what my ssn is
+20:46 <@`> you have to give it
+20:46 <@bikcmp> two, i'm a minor.
+20:46 <@`> fucking Patriot Act
+20:46 <@bikcmp> fucking
+20:46 <@bikcmp> this dude told me i didn't
+20:46 <@bikcmp> ass
+20:46 <@`> unless you got a reload card
+20:46 <@`> in which case you can load that directly into paypal
+20:46 <@`> or some bullshit like that
+20:47 <@bikcmp> yes
+20:47 <@bikcmp> `: i got the prepaid visa reloadable card
+20:47 <@bikcmp> i need to be able to reload it.
+20:47 <@`> i'd recommend you know your ssn, etc
+20:48 <@bikcmp> `:  You are under 18 and will need a parent or guardian to register your Personalized Card by calling (866) 785-6963. If they are unable to do so, you can continue with the registration of only your temporary card. The temporary card cannot be reloaded and has no PIN access. You will only be able to spend the funds on the card. If you choose this option, you will no longer be able to request a personalized card.
+20:48 <@`> Yep.
+20:48 <@`> inb4 your parents wont do it
+20:53 <@bikcmp> ikr
+20:56 < Joey> so i edited sites-enabled for nginx to add a subdomain
+20:56 < Joey> and the subdomain doesn't work
+20:56 < Joey> someone please help me
+21:15 <@Aranje> go read the internet
+21:15 <@Aranje> it knows everything
+21:17 <@Aranje> Sue:) Thanks!
+21:57 -!- Joey [~Joey@sml/staff/Joey] has quit [Quit: i liek havng fun to, you can call me mr. giggless i like to laf]
+23:16 <@Aranje> time for a bedtime shot?
+--- Day changed Tue Jul 10 2012
+00:13 -!- Netsplit *.net <-> *.split quits: @ChanServ
+00:13 -!- bikcmp [~jason@staff/bikcmp] has quit [Quit: Reconnecting]
+00:13 -!- bikcmp [jason@194-707-12-13.ip9.cn.rev.irondust.net] has joined #hh
+00:18 -!- Netsplit over, joins: @ChanServ
+00:18 -!- Netsplit *.net <-> *.split quits: TheVoid, Nightmare, @Aranje, @Sue, Spitfire
+00:18 -!- bikcmp is now known as Guest55410
+00:18 -!- Guest55410 [jason@194-707-12-13.ip9.cn.rev.irondust.net] has quit [Changing host]
+00:18 -!- Guest55410 [jason@staff/bikcmp] has joined #hh
+00:18 -!- mode/#hh [+o Guest55410] by ChanServ
+00:18 -!- Guest55410 is now known as bikcmp
+00:22 -!- Sue [~sue@fwfnoz.hardestyhosting.com] has joined #hh
+00:22 -!- Aranje [~Aranje@user/Aranje] has joined #hh
+00:22 -!- mode/#hh [+o Aranje] by ChanServ
+00:23 -!- Nightmare [Nightmare@Spitfire/Husband/TheTFEF] has joined #hh
+00:23 -!- TheVoid [~root@uvnq14-421-33-002.range14-426.btcentralplus.com] has joined #hh
+00:23 -!- TheVoid [~root@uvnq14-421-33-002.range14-426.btcentralplus.com] has quit [Changing host]
+00:23 -!- TheVoid [~root@user/TheVoid] has joined #hh
+00:57 <@bikcmp> `: ok
+00:57 <@bikcmp> `: it's done.
+00:57 <@`> so i noticed.
+00:57 <@`> pm.
+03:08 <@`> hm.
+03:09 <@bikcmp> `: yeah.
+03:14 <@`> really stoned, is all.
+07:31 <@Aranje> jiggly
+10:11 -!- Joey [~Joey@sml/staff/Joey] has joined #hh
+19:59 <@Aranje> fuuuuck does torrenting heat the shit out of my laptop
+20:20 -!- Nightmare [Nightmare@Spitfire/Husband/TheTFEF] has quit [K-lined]
+20:25 -!- Joey [~Joey@sml/staff/Joey] has quit [Quit: i liek havng fun to, you can call me mr. giggless i like to laf]
+21:15 -!- Aranje [~Aranje@user/Aranje] has quit [Ping timeout: 276 seconds]
+21:28 -!- Aranje [~Aranje@user/Aranje] has joined #hh
+21:28 -!- mode/#hh [+o Aranje] by ChanServ
+21:37 -!- Aranje [~Aranje@user/Aranje] has quit [Ping timeout: 258 seconds]
+21:53 -!- Aranje [~Aranje@user/Aranje] has joined #hh
+21:53 -!- mode/#hh [+o Aranje] by ChanServ
+21:58 -!- Aranje [~Aranje@user/Aranje] has quit [Quit: ShamWow!]
+--- Day changed Wed Jul 11 2012
+01:06 -!- Void[BNC] [void@94.249.znu.su] has joined #hh
+01:49 -!- TheVoid [~root@user/TheVoid] has quit [Quit: lol i quit]
+04:43 -!- rih [Mibbit@84.237.yug.rg] has joined #hh
+05:04 -!- rih [Mibbit@84.237.yug.rg] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+05:23 -!- rih [Mibbit@84.237.yug.rg] has joined #hh
+06:07 -!- rih [Mibbit@84.237.yug.rg] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+06:30 -!- rih [Mibbit@84.237.yug.rg] has joined #hh
+06:32 -!- NCam [Mibbit@46.11.um.six] has joined #hh
+06:32 < rih> hi cam
+06:32 < NCam> Hai
+06:32 < rih> wrong capz
+06:32 < NCam> Looks like it works
+06:33 -!- NCam [Mibbit@46.11.um.six] has quit [Client Quit]
+06:38 -!- rih [Mibbit@84.237.yug.rg] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+07:18 -!- Void[BNC] [void@94.249.znu.su] has quit [Quit: ZNC - http://znc.sourceforge.net]
+07:20 -!- Void[BNC] [void@94.249.znu.su] has joined #hh
+09:15 -!- TheVoid [~root@user/TheVoid] has joined #hh
+12:21 -!- TheVoid [~root@user/TheVoid] has quit [Ping timeout: 246 seconds]
+12:25 -!- TheVoid [~root@user/TheVoid] has joined #hh
+12:30 -!- TheVoid [~root@user/TheVoid] has quit [Ping timeout: 246 seconds]
+12:33 -!- TheVoid [~root@user/TheVoid] has joined #hh
+18:23 -!- TheVoid_ [~root@user/TheVoid] has joined #hh
+18:23 -!- TheVoid [~root@user/TheVoid] has quit [Ping timeout: 258 seconds]
+--- Day changed Thu Jul 12 2012
+01:56 -!- TheVoid_ [~root@user/TheVoid] has quit [Quit: lol i quit]
+03:45 -!- Sue [~sue@fwfnoz.hardestyhosting.com] has quit [Ping timeout: 276 seconds]
+04:08 -!- Sue [~sue@fwfnoz.hardestyhosting.com] has joined #hh
+07:37 -!- ncam1 [Mibbit@46.11.um.six] has joined #hh
+07:39 -!- ncam1 [Mibbit@46.11.um.six] has quit [Client Quit]
+09:15 -!- TheVoid [~root@user/TheVoid] has joined #hh
+14:09 <@bikcmp> hm
+14:32 <@`> bikcmp: ?
+14:32 <@bikcmp> `: well
+14:32 <@bikcmp> `: i'm trying to decide if i should do the web based thing.
+14:33 <@bikcmp> `: i want all 'irondust' account operations to be done on the web.
+14:33 <@bikcmp> it'll make it a /fuckload/ easier for me to do stuff.
+14:33 <@bikcmp> but, users can't modify stuff like their email using nickserv anymore if i did this
+14:33 <@bikcmp> or register.
+14:33 <@bikcmp> thoughts?
+14:41 <@`> bikcmp: i think it should stay irc-based
+14:42 <@bikcmp> `: you do? :(
+14:43 <@bikcmp> `: frankly i think tht it would be great this way
+15:09 <@`> yeah, i do.
+15:14 <@bikcmp> hm
+15:14 <@bikcmp> `: even for just /account/ operations?
+15:14 <@bikcmp> you'd need to go to the site to register, to delete your account and change your email.
+15:14 <@bikcmp> lol
+17:59 <@`> yeah, no
+17:59 <@`> irc is irc
+17:59 <@`> you can plug web-based ifaces to it, but the primary mode of access/maintainence must be via irc itself
+18:06 <@`> i know of unreal/anope setups that is able to plug a web-based iface to the anope database
+18:07 <@`> and scaled very well.
+19:58 <@bikcmp> `: 23:06:18  <@`> i know of unreal/anope setups that is able to plug a web-based iface to the anope database
+19:58 <@bikcmp> 23:06:31  <@`> and scaled very well.
+19:58 <@bikcmp> `: yes, but the type of redundancy i want will only work with web.
+19:58 <@bikcmp> irc's structure isn't what i want.
+--- Day changed Fri Jul 13 2012
+15:14 -!- Void[BNC]_ [void@94.249.znu.su] has joined #hh
+15:14 -!- Sue_ [~sue@fwfnoz.hardestyhosting.com] has joined #hh
+15:14 -!- Void[BNC] [void@94.249.znu.su] has quit [Ping timeout: 258 seconds]
+15:14 -!- Sue [~sue@fwfnoz.hardestyhosting.com] has quit [Ping timeout: 258 seconds]
+15:15 -!- Void[BNC]_ is now known as Void[BNC]
+--- Day changed Sat Jul 14 2012
+00:48 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has joined #hh
+02:31 -!- Ncam [Mibbit@46.11.um.six] has joined #hh
+02:31 < Ncam> Sui
+02:31 < Ncam> There's a problem on Tekkit
+02:31 < Ncam> Get there as soon as possible
+02:31 -!- Ncam [Mibbit@46.11.um.six] has quit [Client Quit]
+02:36 <@bikcmp> Sue_: i think that was for you
+03:18 -!- Sue_ is now known as Sue
+20:28 -!- interwarbls [interwarbl@72-843-365-348.dhcp.wtvl.ca.charter.com] has quit []
+--- Day changed Sun Jul 15 2012
+06:52 -!- TheVoid [~root@user/TheVoid] has quit [Quit: lol i quit]
+06:55 -!- TheVoid [~rootperso@user/TheVoid] has joined #hh
+14:54 -!- Joey [~Joey@sml/staff/Joey] has joined #hh
+14:54 < Joey> http://pastebin.com/xbAfE2Wm
+14:54 < Joey> is that right
+14:55 < Joey> because the rh subdomain doesn't work
+16:24 -!- TheVoid_ [~rootperso@user/TheVoid] has joined #hh
+16:25 -!- TheVoid [~rootperso@user/TheVoid] has quit [Ping timeout: 246 seconds]
+17:53 <@bikcmp> `: i'm so excited
+17:53 <@bikcmp> lol
+17:53 <@bikcmp> {'transactionid': 'ahNzfmlyb25kdXN0LWFjY291bnRzcg0LEgVBdXRocxjRhgMM', 'request': {'DATEREGISTERED': 1342392490.2016189, 'ACCOUNTNAME': 'bikcmp', 'EMAIL': 'bikcmp2@gmail.com', 'UID': 'ahNzfmlyb25kdXN0LWFjY291bnRzcg0LEgVVc2Vycxjq_gIM'}, 'time': 1342392526.2052491}
+17:53 <@bikcmp> it worked. flawlessly.
+18:18 -!- TheVoid_ [~rootperso@user/TheVoid] has quit [Ping timeout: 246 seconds]
+18:24 < Joey> bikcmp
+18:24 < Joey> http://pastebin.com/6CvR9KYd
+18:24 <@bikcmp> Joey: ?
+18:24 < Joey> is that right
+18:25 <@bikcmp> i don't know
+18:25 < Joey> is there any error in that
+18:25 < Joey> oh
+18:25 < Joey> mmph
+18:25 < Joey> the rh subdomain isn't working
+18:25 <@bikcmp> Joey: do remember your vps was supposed to be completely managed by ue
+18:25 <@bikcmp> sue
+18:25 <@bikcmp> i have no idea where the fuck he is at
+18:29 -!- TheVoid_ [~rootperso@user/TheVoid] has joined #hh
+22:02 -!- Joey [~Joey@sml/staff/Joey] has quit [Quit: <martel> okay bye]
+22:35 -!- TheVoid_ [~rootperso@user/TheVoid] has quit [Ping timeout: 258 seconds]
+22:38 -!- TheVoid_ [~rootperso@user/TheVoid] has joined #hh
+--- Day changed Mon Jul 16 2012
+11:43 -!- Joey [~Joey@sml/staff/Joey] has joined #hh
+13:38 -!- Joey [~Joey@sml/staff/Joey] has quit [Quit: <martel> okay bye]
+--- Day changed Tue Jul 17 2012
+08:25 -!- TheVoid_ [~rootperso@user/TheVoid] has quit [Ping timeout: 246 seconds]
+08:38 -!- TheVoid_ [~rootperso@user/TheVoid] has joined #hh
+--- Log closed Tue Jul 17 09:26:51 2012
+--- Log opened Tue Jul 17 09:26:53 2012
+09:26 -!- `_ [~dissimulo@btfeilhqdkktc.deafgeeksdns.com] has joined #hh
+09:26 -!- Irssi: #hh: Total of 8 nicks [3 ops, 0 halfops, 0 voices, 5 normal]
+09:26 -!- Irssi: Join to #hh was synced in 1 secs
+09:32 -!- Netsplit *.net <-> *.split quits: @bikcmp, @`, questionmark
+09:40 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+14:57 -!- TheVoid_ is now known as TheVoid
+15:04 -!- bikcmp [~jason@staff/bikcmp] has joined #hh
+15:04 -!- mode/#hh [+o bikcmp] by ChanServ
+15:43 -!- TheVoid [~rootperso@user/TheVoid] has quit [Ping timeout: 258 seconds]
+15:44 -!- TheVoid [~rootperso@user/TheVoid] has joined #hh
+17:12 -!- bikcmp is now known as 02CAAACPU
+17:12 -!- bikcmp [jason@staff/bikcmp] has joined #hh
+17:12 -!- ServerMode/#hh [+o bikcmp] by zinc.irondust.net
+17:13 -!- Netsplit *.net <-> *.split quits: @bikcmp
+17:25 -!- 02CAAACPU is now known as bikcmp
+17:33 < `_> so
+17:33 < `_> what's going on here.
+17:33 -!- You're now known as `
+--- Log closed Tue Jul 17 17:34:05 2012
+--- Log opened Sun Jul 29 17:10:00 2012
+17:10 -!- ` [~dissimulo@btfeilhqdkktc.deafgeeksdns.com] has joined #hh
+17:10 -!- Irssi: #hh: Total of 6 nicks [3 ops, 0 halfops, 0 voices, 3 normal]
+17:10 -!- mode/#hh [+o `] by ChanServ
+17:10 -!- Irssi: Join to #hh was synced in 0 secs
+17:11 <@`> tsk.
+17:12 -!- ` changed the topic of #hh to: Hardesty Hosting is dead. | For those who still want simple hosting, please contact ` or go to http://deafgeeksdesign.com/
+17:17 <@Aranje> wow partial blindness is a new experience
+17:17 <@Aranje> I think it's the caffeine :/
+17:19 <@`> lol
+17:21 <@Aranje> Huh
+17:21 <@Aranje> It's like afterimages
+17:21 <@Aranje> But I've done nothing
+17:23 <@Aranje> getting better though
+17:23 <@Aranje> I think
+17:23 <@Aranje> hmm, both eyes
+17:23 <@Aranje> so it's not an eye problem
+17:24 <@`> ;w2
+17:25 <@`> ah
+17:25 <@`> whats up?
+17:25 <@`> is it fading?
+17:25 <@Aranje> It just changed, didn't actually fade
+17:25 <@Aranje> I can read text now
+17:26 <@Aranje> I couldn't before, had no ability to recognize shape
+17:26 <@Aranje> Still, the right side of my vision is pretty fucking blown right now
+17:27 <@Aranje> There's a crescent of fuzz
+17:27 <@Aranje> Looks like snow flakes on a tv
+17:43 <@Aranje> fixed :D
+17:44 <@`> by consuming activated charcoal?
+17:58 <@Aranje> vomiting? Hell no.
+17:59 <@Aranje> I defocused my eyes and chilled for bit, enjoying the sensation
+17:59 <@Aranje> :)
+19:50 -!- TheVoid- [~odiv@user/TheVoid] has quit [Ping timeout: 240 seconds]
+20:03 -!- TheVoid- [~odiv@user/TheVoid] has joined #hh
+22:23 -!- TheVoid- [~odiv@user/TheVoid] has quit [Ping timeout: 240 seconds]
+22:36 -!- TheVoid- [~odiv@user/TheVoid] has joined #hh
+--- Day changed Mon Jul 30 2012
+00:55 -!- TheVoid- [~odiv@user/TheVoid] has quit [Ping timeout: 240 seconds]
+01:00 -!- questionmark [01101010@216.231.jzv.yp] has quit [Quit: ...]
+01:05 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+01:09 -!- TheVoid- [~odiv@user/TheVoid] has joined #hh
+01:10 -!- questionmark [01101010@216.231.jzv.yp] has quit [Quit: ...]
+01:37 -!- jason_ [~jason@staff/bikcmp] has joined #hh
+01:37 -!- mode/#hh [+o jason_] by ChanServ
+01:37 -!- Netsplit *.net <-> *.split quits: @jason_
+01:37 -!- Netsplit over, joins: @jason_
+01:43 -!- Netsplit *.net <-> *.split quits: @jason_
+01:43 -!- jason [~jason@127.0.y.p] has joined #hh
+01:44 -!- jason [~jason@127.0.y.p] has quit [Changing host]
+01:44 -!- jason [~jason@staff/bikcmp] has joined #hh
+01:44 -!- mode/#hh [+o jason] by ChanServ
+01:47 -!- Netsplit *.net <-> *.split quits: @jason
+01:47 -!- jason [~jason@127.0.y.p] has joined #hh
+01:48 -!- jason is now known as Guest78689
+01:50 -!- Netsplit *.net <-> *.split quits: Guest78689
+01:50 -!- jason [~jason@127.0.y.p] has joined #hh
+01:50 -!- jason is now known as Guest18963
+01:54 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+01:55 -!- Netsplit *.net <-> *.split quits: Guest18963
+01:55 -!- jason [~jason@127.0.y.p] has joined #hh
+01:55 -!- jason is now known as Guest98040
+01:57 -!- Guest98040 [~jason@127.0.y.p] has quit [Changing host]
+01:57 -!- Guest98040 [~jason@staff/bikcmp] has joined #hh
+01:57 -!- mode/#hh [+o Guest98040] by ChanServ
+05:40 -!- TheVoid- [~odiv@user/TheVoid] has quit [Ping timeout: 258 seconds]
+05:53 -!- TheVoid- [~odiv@user/TheVoid] has joined #hh
+10:24 -!- TheVoid- [~odiv@user/TheVoid] has quit [Ping timeout: 240 seconds]
+10:38 -!- TheVoid- [~odiv@user/TheVoid] has joined #hh
+14:23 -!- questionmark [01101010@216.231.jzv.yp] has quit [Ping timeout: 258 seconds]
+14:33 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+15:04 -!- Irssi: #hh: Total of 7 nicks [5 ops, 0 halfops, 0 voices, 2 normal]
+17:35 -!- TheVoid- [~odiv@user/TheVoid] has quit [Ping timeout: 240 seconds]
+17:36 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+21:08 -!- Joey [~Joey@sml/staff/Joey] has joined #hh
+21:09 -!- Joey [~Joey@sml/staff/Joey] has left #hh [I don't/do like this channel/network so I am leaving/staying.]
+--- Day changed Tue Jul 31 2012
+05:20 -!- rih [Mibbit@95.68.rxv.qyh] has joined #hh
+05:21 -!- rih [Mibbit@95.68.rxv.qyh] has quit [Client Quit]
+16:36 -!- TheVoid [~odiv@user/TheVoid] has quit [Ping timeout: 240 seconds]
+16:50 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+21:08 -!- Joey [~Joey@sml/staff/Joey] has joined #hh
+21:11 -!- Joey [~Joey@sml/staff/Joey] has left #hh [I don't/do like this channel/network so I am leaving/staying.]
+23:02 -!- mib_q5ql7p [Mibbit@h-16-32-33-78.hsd2.il.comcast.net] has joined #hh
+23:03 -!- mib_q5ql7p [Mibbit@h-16-32-33-78.hsd2.il.comcast.net] has quit [Client Quit]
+23:15 -!- TheVoid [~odiv@user/TheVoid] has quit [Ping timeout: 258 seconds]
+23:27 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+--- Day changed Wed Aug 01 2012
+09:19 -!- TheVoid [~odiv@user/TheVoid] has quit [Quit: lol i quit]
+11:27 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+12:56 -!- Aranje [~Aranje@user/Aranje] has quit [Quit: ShamWow!]
+22:32 -!- TheVoid [~odiv@user/TheVoid] has quit [Ping timeout: 258 seconds]
+22:32 -!- Aranje [~Aranje@user/Aranje] has joined #hh
+22:32 -!- mode/#hh [+o Aranje] by ChanServ
+22:45 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+--- Day changed Thu Aug 02 2012
+01:05 -!- Aranje [~Aranje@user/Aranje] has quit [Quit: ShamWow!]
+11:33 -!- TheVoid [~odiv@user/TheVoid] has quit [Quit: lol i quit]
+15:58 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+23:43 -!- TheVoid [~odiv@user/TheVoid] has quit [Ping timeout: 240 seconds]
+23:57 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+--- Day changed Fri Aug 03 2012
+15:05 -!- Netsplit *.net <-> *.split quits: @ChanServ
+15:17 -!- Netsplit over, joins: @ChanServ
+15:21 -!- Netsplit *.net <-> *.split quits: @ChanServ
+15:21 -!- Netsplit over, joins: @ChanServ
+15:21 -!- ChanServ [ChanServ@services.] has quit [shutting down]
+16:02 -!- questionmark [01101010@216.231.jzv.yp] has quit [Excess Flood]
+16:06 -!- Joey [~Joey@sml/staff/Joey] has joined #hh
+16:07 -!- Joey [~Joey@sml/staff/Joey] has left #hh [hi]
+16:11 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+16:14 -!- questionmark [01101010@216.231.jzv.yp] has quit [Excess Flood]
+16:22 -!- questionmark [01101010@216.231.jzv.yp] has joined #hh
+23:33 -!- ` [~dissimulo@staff/grave] has quit [Ping timeout: 240 seconds]
+--- Log closed Fri Aug 03 23:34:07 2012
+--- Log opened Fri Aug 03 23:48:45 2012
+23:48 -!- ` [~dissimulo@btfeilhqdkktc.deafgeeksdns.com] has joined #hh
+23:48 -!- Irssi: #hh: Total of 5 nicks [2 ops, 0 halfops, 0 voices, 3 normal]
+23:48 -!- Irssi: Join to #hh was synced in 19 secs
+--- Day changed Sat Aug 04 2012
+19:01 -!- TheVoid [~odiv@user/TheVoid] has quit [Quit: lol i quit]
+20:29 -!- Jason [~quassel@staff/bikcmp] has joined #hh
+20:31 -!- Jason [~quassel@staff/bikcmp] has quit [Client Quit]
+20:33 -!- Jason [jason@staff/bikcmp] has joined #hh
+20:33 -!- Jason [jason@staff/bikcmp] has quit [Remote host closed the connection]
+20:33 -!- Jason [jason@staff/bikcmp] has joined #hh
+20:43 -!- Jason [jason@staff/bikcmp] has quit [Quit: quitting]
+20:44 -!- Jason [NJQXG33O@staff/bikcmp] has joined #hh
+20:50 -!- Jason [NJQXG33O@staff/bikcmp] has quit [Quit: quitting]
+20:54 -!- bikcmp [~jason@staff/bikcmp] has quit [Quit: quitting irc forever]
+20:54 -!- bikcmp [NJQXG33O@staff/bikcmp] has joined #hh
+--- Day changed Sun Aug 05 2012
+05:05 -!- TheVoid [~odiv@user/TheVoid] has joined #hh
+11:42 -!- TheVoid [~odiv@user/TheVoid] has quit [Quit: lol i quit]
+15:03 -!- Irssi: #hh: Total of 4 nicks [1 ops, 0 halfops, 0 voices, 3 normal]
+15:03 < `> eh.
+--- Log closed Sun Aug 05 15:04:36 2012

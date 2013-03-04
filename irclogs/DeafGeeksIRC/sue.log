@@ -1,0 +1,724 @@
+--- Log opened Sun Feb 26 03:52:10 2012
+03:52 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+03:52 <`> redeem code: 443TYEYMTLAH
+--- Log closed Sun Feb 26 03:53:31 2012
+--- Log opened Thu Mar 29 22:43:39 2012
+22:43 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+22:43 <`> heres the info
+22:44 <`> ssh -2 -p 7491 dongware@iamat.endofinternet.org
+22:44 <`> loldongs
+22:45 <Sue> not connecting
+22:46 <`> that's odd
+22:46 <`> it should work
+22:49 <`> fuck it
+22:49 <`> try
+22:49 <`> ssh -2 -p 222 root@iamat.endofinternet.org
+22:49 <`> uc7mayqq97
+22:49 <`> then select option 8
+22:49 <`> then ssh -2 dongware@10.0.1.1
+22:49 <`> loldongs
+22:50 <Sue> option 8
+22:50 <Sue> oh god
+22:50 <Sue> is that your router
+22:50 <`> it is.
+22:50 <`> lol
+22:50 <`> dont fuck with it plz
+22:50 <Sue> i won't
+22:50 <`> inb4 DONGS GALORE
+22:51 <`> packets filtered to "DONGSDONGSDONGSDONGSDONGSDONGSDONGSDONGSDONGSDONGSDONGSDONGS"
+22:51 <`> etc
+22:51 <`> lol
+22:51 <Sue> dude
+22:51 <`> but yeah
+22:51 <`> im just fucking with you
+22:51 <`> did you get in?
+22:51 <Sue> my nginx template
+22:51 <`> i can see that you're in :D
+22:51 <Sue> yeah
+22:51 <Sue> my nginx config template
+22:51 <`> yeah?
+22:52 <Sue> includes custom header X-DONGS: DONGS DONGS DONGS
+22:52 <Sue> in every page
+22:52 <`> Sue lol
+22:52 <`> what about lightdm?
+22:52 <Sue> >nickalert
+22:52 <Sue> lightdm sucks ass
+22:52 <`> i want a uberlight DM
+22:52 <`> running xfce
+22:52 <Sue> >not in sudoers
+22:52 <`> lol
+22:52 <`> fuck me
+22:52 <Sue> dm doesn't matter
+22:53 <`> lol
+22:53 <`> still
+22:53 <`> i want to be as fucking light as possible
+22:53 <Sue> if you want a light DM
+22:53 <`> i want this i7 to fucking SCREAM
+22:53 <Sue> install freebsd
+22:53 <Sue> i'm almost serious
+22:53 <`> EH
+22:53 <`> debian is as far as i'll go
+22:53 <`> :)
+22:53 <`> at least for now
+22:53 <Sue> weak :3
+22:53 <`> you're in sudoers now
+22:53 <Sue> fbsd isn't actually that
+22:53 <Sue> "hard"
+22:54 <Sue> actually, get this
+22:54 <`> the fact you have to airquote "hard"
+22:54 <`> ...
+22:54 <Sue> i airquote it
+22:54 <Sue> because it's got the stigma of it being hard attached to it
+22:54 <`> psh
+22:54 <Sue> unlike linux systems, you can actually cron most system maintenance
+22:54 <Sue> also
+22:54 <Sue> you know zfs, right?
+22:54 <Sue> you know what it is
+22:55 <`> notrly
+22:55 <`> wellyes
+22:55 <Sue> zfs is the filesystem sun made for solaris and opensourced
+22:55 <`> i know it as a filesystem that has raid features on steroids
+22:55 <Sue> not just that
+22:55 <Sue> so it has snapshotting
+22:55 <Sue> full filesystem snapshotting
+22:55 <`> see
+22:56 <`> i have a problem with changing platforms
+22:56 <Sue> you can safely rm -R /
+22:56 <`> i *know* how linux runs
+22:56 <`> i know where shit is
+22:56 <Sue> and push one button and all your files are there
+22:56 <`> with fbsd, i'd have to learn it
+22:56 <Sue> not really
+22:56 <`> i'd rather learn it while you're around
+22:56 <Sue> hah
+22:56 <`> so if i fuck something up
+22:56 <`> :D
+22:56 <Sue> >he wants a roommate
+22:56 <`> i fucking do
+22:56 <Sue> >he wants a roommate that knows what a computer is
+22:56 <`> im sick of this trailer
+22:56 <Sue> lol
+22:56 <`> this.
+22:56 <`> THIS.
+22:56 <`> THIS FUCKING FOREVER>
+22:57 <`> i want to have those places
+22:57 <`> where it's just geeks
+22:57 <`> working
+22:57 <Sue> >datacenter
+22:57 <`> like the guys in the garage in Antitrust
+22:57 <Sue> what's that
+22:57 <`> ....
+22:57 <`> you havent seen that movie?
+22:58 <Sue> >he thinks i've seen movies
+22:58 <`> it's campy, but is a good story/plot
+22:58 <`> about antitrust issues, stealing source, and bullshit like that
+22:58 <`> i REALLY REALLY want to get my hands on skullbocks.com
+22:58 <Sue> i have watched possibly 20 good movies in my life
+22:58 <Sue> heh
+22:58 <Sue> wait
+22:58 <Sue> is this a sid machine?
+22:58 <`> yes, upgraded from squeeze earlier today
+22:59 <Sue> oh
+22:59 <`> i386
+22:59 <`> not 64
+22:59 <Sue> oh i see you banged out
+22:59 <Sue> wait
+22:59 <Sue> is this an i7
+22:59 <`> i know i know
+22:59 <Sue> why
+22:59 <Sue> no
+22:59 <Sue> bad
+22:59 <`> tidux ate me on it
+22:59 <`> *ate me out about it
+22:59 <Sue> >he wants it to scream
+22:59 <Sue> >32 bit
+22:59 <Sue> pick one
+22:59 <`> FINE
+22:59 <Sue> hold on
+22:59 <Sue> there cowboy
+23:00 <`> can we do architecture upgrades
+23:00 <Sue> lemme see about shrinking shit
+23:00 <Sue> no
+23:00 <`> live
+23:00 <Sue> i'm not upgrading you to 64 bit
+23:00 <`> or have it boot into installer
+23:00 <Sue> you'd have to pay me a fuckload
+23:00 <`> then reinstall?
+23:00 <Sue> just hold
+23:00 <Sue> i'll take care of it
+23:00 <`> i'll pay you back in 28673496823762938576293586725496827 smokeouts
+23:00 <Sue> lol
+23:00 <`> you'll be high 24/7
+23:00 <`> :D
+23:00 <`> but yeah
+23:00 <Sue> you did upgrade to sid though, right
+23:00 <`> apt-get dist-upgrade
+23:00 <`> yes
+23:01 <Sue> good
+23:01 <`> look at root's history if you wish
+23:01  * Sue grabs debian-installer
+23:01 <`> but
+23:01 <`> there are a few drives
+23:01 <`> i dont want touched
+23:01 <Sue> oh?
+23:01 <`> so i need to identify which are which
+23:01 <`> and make sure it does NOT get touched
+23:01 <`> by the installer
+23:01 <Sue> rootfs                                                  145G   39G   98G  29% /
+23:01 <Sue> udev                                                    1.5G     0  1.5G   0% /dev
+23:01 <Sue> tmpfs                                                   304M  732K  303M   1% /run
+23:01 <Sue> /dev/disk/by-uuid/00932545-7bb9-4e8e-81e8-b43c809ce110  145G   39G   98G  29% /
+23:01 <Sue> what is this shit
+23:02 <Sue> two /
+23:02 <`> no idea
+23:02 <Sue> >this install
+23:02 <Sue> my face
+23:02 <`> lol
+23:02 <`> you get the challenge of finding wtf it did
+23:02 <`> *finding otu
+23:02 <`> *out
+23:02 <Sue> wait
+23:02 <Sue> you upgraded from stable to sid, right?
+23:02 <`> yes
+23:02 <`> it looks like it got mounted twice
+23:02 <Sue> you're supposed to stable -> testing -> sid
+23:02 <`> same size, same usage, shit
+23:02 <`> oh.
+23:02 <Sue> or that happens
+23:02 <`> tidux never told me that
+23:03 <`> oops?
+23:04 <`> what do?
+23:05 <Sue> but really freebsd has mostly gnu shit
+--- Log closed Thu Mar 29 23:10:20 2012
+--- Log opened Mon Apr 23 04:49:02 2012
+04:49 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+04:49 <Sue> rather than rage at yet another person about why i'm getting kicked out
+04:49 <Sue> i've got until the end of may to get out
+04:52 <`> weird.
+04:52 <`> i cant see shit in this window.
+04:52 <`> not even my own messages
+--- Log closed Mon Apr 23 04:52:36 2012
+--- Log opened Mon Apr 23 04:52:40 2012
+04:52 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+04:52 <`> how about now?
+04:52 <`> nope
+04:52 <`> wtf
+04:53 <`> ok
+04:53 <`> say again?
+04:54 <`> please repaste?
+04:54 <`> yo hoo?
+04:56 <Sue> oh
+04:56 <Sue> sorry
+04:57 <Sue> tab everywhere
+--- Log closed Mon Apr 23 05:02:55 2012
+--- Log opened Mon Apr 23 05:04:08 2012
+05:04 <`> lol
+05:04 <`> i'm here.
+05:06 <`> and then you're not there anymore ._. lol
+05:06 <Sue> there you are
+05:06 <Sue> did you read what i said up there?
+05:07 <Sue> i've got until the end of may to get out
+05:08 <`> no, i didn't :(
+05:08 <`> hence why i asked for a copypasta :P
+05:12  * ` pokes Sue 
+05:15 <Sue> ok
+05:15 <Sue> no that was it
+05:15 <Sue> i'm out of this house by may
+05:16 <Sue> gotta fix my car so i can go down there
+--- Log closed Mon Apr 23 05:21:55 2012
+--- Log opened Mon Apr 23 05:22:56 2012
+05:22 <`> okay
+05:23 <`> what happened, though?
+05:27 <Sue> long story short, i was told i couldn't do my day to day hardesty hosting business from home and i'd have to run it from somewhere else like a friend's house
+05:28 <Sue> like
+05:28 <Sue> i'd have to drive to my friends house to run daily support/pr/business management
+05:29 <Sue> if you haven't wtf'd yet, i've been doing it all night
+05:29 <Sue> i can't follow that term, so i have to be out by the end of may
+05:31 <`> i dont really get it
+05:31 <Sue> exactly
+05:31 <`> ??
+05:32 <Sue> i was told i can't "sit on my ass" and i'd need to work somewhere else
+05:32 <`> uhhhh
+05:32 <`> that's what i do, 99% of the time
+05:32 <`> oh well
+05:32 <Sue> "excuse me, have you tried abating a constant weeklong ddos"
+05:32 <Sue> "while supporting two other customers"
+05:32 <Sue> they'll never get it
+05:32 <Sue> so i have to leave
+05:32 <`> aha, okay.
+05:33 <Sue> and this isn't a back out, maybe
+05:33 <Sue> i absolutely have to be out end of may
+05:33 <`> no
+05:33 <Sue> or i'm on the street
+05:33 <`> ok, well, you better be serious this time.
+05:33 <Sue> i'm damn serious
+05:33 <`> because i'll prepare on this end.
+05:33 <Sue> i'm off my fucking pills
+05:34 <`> thought they were helping?
+05:34 <Sue> they caused me to be even more lazy, plus super forgetful
+05:34 <Sue> nope
+05:34 <`> :(
+05:36 <`> well, hopefully next month me and my mom will be getting a storage unit
+05:36 <`> so we can free up a whole lot of space here
+05:37 <Sue> i'm not gonna come with too much but i'll only have two seats
+05:37 <Sue> back seat and trunk full
+05:38 <`> yeah. i have way way more crap than that.
+05:38 <`> you should be more than fine.
+05:39 <`> i wonder if we should get bunk beds
+05:39 <`> at least for now.
+05:39 <`> until we're able to get an apartment or whatever
+05:41 <`> what do you think?
+05:42 <`> also, http://mosh.mit.edu/
+05:42 <`> been using it for a while now, loving it.
+05:44 <`> and what would be really fun is if i came up ahead, and then rode down with you to my place
+05:44 <`> :D
+05:44 <Sue> heh
+05:44 <Sue> meet with my extended friends
+--- Log closed Mon Apr 23 05:49:55 2012
+--- Log opened Mon Apr 23 05:50:21 2012
+05:50 <`> i really do think we'll accomplish quite a bit
+05:50 <`> than i have in 6 years with this deaf friend.
+05:50 <`> long story...
+05:54 <`> though i have habits i need to break
+05:54 <`> it's mostly the matter of motivation
+05:54 <`> i've had no friends who really are 'into' what i'm into
+05:54 <`> that is... computers
+05:54 <`> and _actually_ understand it.
+--- Log closed Mon Apr 23 05:59:55 2012
+--- Log opened Mon Apr 23 06:06:08 2012
+06:06 <`> what are you doing?
+--- Log closed Mon Apr 23 06:11:55 2012
+--- Log opened Mon Apr 23 06:12:25 2012
+06:12 <Sue> lo
+06:12 <Sue> playing on a customer's server
+06:12 <Sue> it's kinda morphed into the model for the company
+06:16 <`> nice nice.
+06:17 <Sue> ok
+06:17 <Sue> i'm going to bed
+06:17 <Sue> tomorrow morning i'm getting the part for my car
+06:18 <`> okay, cool.
+06:18 <Sue> so i can finish part one of fixing it
+06:18 <`> hopefully it'll still function after the trip down.
+06:19 <Sue> ofc it will
+06:19 <Sue> i'm doing all i can in my power to fix it up
+06:19 <Sue> so it'll be a decent car for down there
+06:19 <Sue> should last a good few more years
+06:20 <Sue> it just needs two things
+--- Log closed Mon Apr 23 06:25:55 2012
+--- Log opened Tue Apr 24 01:36:25 2012
+01:36 <`> you there?
+--- Log closed Tue Apr 24 01:41:55 2012
+--- Log opened Tue Apr 24 01:53:12 2012
+01:53 <`> cocks2dongs
+01:54 <Sue> dongware is not in the sudoers file.
+01:55 <`> i know
+01:55 <`> just told you i added you in
+01:55 <`> lols
+01:55 <`> but yeah, you're now in it
+--- Log closed Tue Apr 24 02:00:55 2012
+--- Log opened Tue Apr 24 02:35:05 2012
+02:35 <Sue> oi
+02:35 <Sue> wifi pass
+02:35 <`> 130635TH/havefunelmer
+02:35 <`> ssid/pass
+02:36 <`> wpa2
+02:36 <`> i see that you've got wicd up
+02:36 <`> :P
+02:36 <`> (i've got htop running)
+02:37 <Sue> >he's not looking at the screen
+--- Log closed Tue Apr 24 02:42:55 2012
+--- Log opened Wed Apr 25 16:35:29 2012
+16:35 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Client exited]
+--- Log closed Wed Apr 25 16:40:55 2012
+--- Log opened Tue May 22 15:01:20 2012
+15:01 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+15:01 <`> I need your whois email, account email, telephone, your choice of loginid, password
+--- Log closed Tue May 22 15:07:13 2012
+--- Log opened Tue May 22 22:16:33 2012
+22:16 <Sue> zachary@hardestyhosting.com
+22:16 <Sue> 9164705285
+22:16 <Sue> zhardesty Mm3YcVfO
+22:17 <`> was gonna create my own account since things are kinda cheaper at gandi than at enom
+22:17 <`> gonna balance the two, is that ok?
+22:17 <Sue> what do you mean
+22:17 <`> plus, i already have balance at enom, so i'll use that up for hardestynetworks.com
+22:17 <`> as in, i'll have two registrars: enom and gandi
+22:18 <`> gonna put dgd.io under my account and let you pay, is that ok?
+22:18 <Sue> sure
+22:18 <`> okay, registering hardestynetworks.com
+22:18 <Sue> and i'll pay with my paypal because i've got rubbish money there
+22:18 <Sue> ns1.hardestyhosting.com ns2.hardestyhosting.com
+22:22 <`> okay
+22:22 <`> here's my login, i guess
+22:23 <`> DW1531-GANDI
+22:23 <`> yaygeeky.io
+22:23 <`> confirming spelling: hardestynetworks.com
+22:23 <`> is that correct?
+22:24 <Sue> hardestynetworks.com
+22:24 <Sue> yep
+22:24 <`> ordered.
+22:24 <`> }:A
+22:24 <`> setting NSes now
+22:25 <Sue> where do you want your ns1.ns2 pointed
+22:25 <`> ns1.deafgeeksdns.com
+22:25 <`> ns2.deafgeeksdns.com
+22:28 <Sue> done
+22:29 <`> same here.
+22:29 <Sue> wait a bit, i'm watching pp
+22:29 <`> ;; Got SERVFAIL reply from 173.203.4.8, trying next server
+22:29 <`> ;; Got SERVFAIL reply from 173.203.4.8, trying next server
+22:29 <`> Server:		173.203.4.9
+22:29 <`> Address:	173.203.4.9#53
+22:29 <`> ** server can't find hardestynetworks.com: SERVFAIL
+22:29 <`> heh
+22:29 <`> hasn't propogated yet
+22:29 <`> and why aren't I using opendns
+22:30 <Sue> >opendns
+22:30 <Sue> >google dns
+22:30 <`> i prefer opendns
+22:30 <Sue> i don't like odns' bumper page
+22:30 <`> what do you mean?
+22:31 <`> okay, fixed the opendns lookup
+22:32 <`> errrrrr
+22:32 <`> sue, i cant find dgd.io in my control panel?
+22:32 <`> i gave u login info for it?
+22:34 <`> sue?
+22:38 <`> finally got the email
+22:38 <`> wow, it's a bit slow
+22:38 <`> :P
+22:39 <Sue> it's because
+22:40 <`> mm?
+22:40 <`> seriously, thanks!
+22:40 <`> i definitely owe you :D
+22:41 <Sue> paypal is holding 
+22:42 <Sue> convince your mom of 150 the first month
+22:42 <`> oh yeah, ACL transfer?
+22:42 <Sue> acl?
+22:42 <Sue> oh enom?
+22:42 <`> no
+22:42 <`> bank transfer
+22:42 <`> whatever it was called
+22:42 <Sue> no
+22:42 <Sue> it's uh
+22:42 <Sue> random hold
+22:42 <`> ACH
+22:42 <Sue> paypal sucks penis
+22:42 <`> yes.
+22:42 <`> at least it's convenient.
+22:43 <Sue> looks like it went through
+22:43 <`> :D
+22:44 <Sue> one moment, adding hardestynetworks
+22:45 <`> grr.
+22:45 <`> dgd.io isn't wanting to resolve for me
+22:45 <`> rather
+22:45 <`> chrome doesn't want to
+22:45 <`> fucker.
+--- Log closed Tue May 22 22:51:14 2012
+--- Log opened Tue May 22 22:56:42 2012
+22:56 <Sue> http://hardestynetworks.com
+22:57 <`> inb4 penile jokes from #wtfpwnt
+--- Log closed Tue May 22 23:02:14 2012
+--- Log opened Fri May 25 09:59:31 2012
+09:59 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Quit: FUCK YOU]
+--- Log closed Fri May 25 10:05:12 2012
+--- Log opened Wed Jun 27 19:31:29 2012
+19:31 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+19:31 <`> so what do you wanna do re: reinstall
+19:32 <Sue> this guy is playing music and it's retarded shit
+19:32 <`> #define the music
+19:32 <Sue> and by retarded i mean it's childrens shit
+19:32 <`> lame.
+19:32 <Sue> hurf durfy durf SHUT THE FUCK UP
+19:34 <`> rofl
+19:34 <`> cant you mute him temporarily
+--- Log closed Wed Jun 27 19:40:27 2012
+--- Log opened Fri Jun 29 00:58:42 2012
+00:58 -!- DONGS is now known as Sue
+00:58 <Sue> what do you think about the nickcolor.pl - does it help/
+--- Log closed Fri Jun 29 01:04:27 2012
+--- Log opened Fri Jun 29 13:43:00 2012
+13:43 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+13:43 <`> so
+--- Log closed Fri Jun 29 13:48:27 2012
+--- Log opened Sat Jun 30 03:27:40 2012
+03:27 -!- DONGS is now known as Sue
+--- Log closed Sat Jun 30 03:33:27 2012
+--- Log opened Sat Jun 30 03:37:41 2012
+03:37 <`> thought you were gonna get pizza?
+03:38 <Sue> dunno
+03:38 <`> eh, k
+03:40 <Sue> were you hungry?
+03:41 <`> more thirsty than hungry. i'll be fine.
+03:42 <Sue> D:
+03:42 <`> ? it's fine.
+03:44 <Sue> nothing, i let shit get to me
+03:47 <`> like?
+--- Log closed Sat Jun 30 03:53:27 2012
+--- Log opened Sat Jun 30 03:57:45 2012
+03:57 <`> ok
+--- Log closed Sat Jun 30 04:03:27 2012
+--- Log opened Sat Jun 30 04:21:16 2012
+04:21 <`> nothing like a fucking tiny router misconfig that cockblocked you from getting to certain routes on the VPN
+04:23 <`> router was configured for a 10.0.0.0/8
+04:23 <`> so that cockblocked me from reaching VPN'd networks
+04:23 <`> so i set it for 10.0.0.0/16
+04:23 <`> SUDDENLY COCKS
+04:24 <Sue> why not 24?
+04:24 <`> cuz 10.0.0.0/24 and 10.0.1.0/24
+04:24 <Sue> oh right
+04:24 <`> technically /23
+04:24 <`> but /16 is easier
+04:26 <`> you'll need to kick your DHCP lease
+04:26 <`> to pick up the new subnet mask
+04:27 <`> imagine this is what got my panties in a bunch today
+04:27 <`> i've been fighting with it
+04:27 <`> all
+04:27 <`> fucking
+04:27 <`> day
+04:28 <Sue> >first world nerd problems
+04:28 <`> no fucking shit
+04:28 <Sue> you had me all fucking worried
+04:28 <`> i even had rackspace support
+04:28 <`> on the line with me
+04:28 <Sue> wow
+04:28 <`> not one of the idiots either
+04:28 <`> one of the smart ones
+04:29 <`> a few, actually, conferenced in
+04:29 <`> we were trying different configurations and all that bs
+04:29 <`> isolated it to my machine
+04:29 <`> still couldnt figure it out
+04:29 <`> until i pointed out that i had a 10/8 network
+04:29 <`> imagine collective facepalming
+04:30 <Sue> that cat
+04:31 <`> so i quickly reconfigured router for /16
+04:31 <`> hopped back onto the vpn
+04:31 <`> worked well
+04:31 <`> but now i'm having them change out my password for one i can remember
+04:31 <`> lolusingciscoanyconnectclient
+04:32 <`> actually using an cisco ASA
+04:33 <`> sad part is
+04:33 <`> while i was on /8
+04:33 <`> this machine couldn't get a v6 ip
+04:33 <`> at all
+04:33 <`> once i set shit to /16
+04:33 <`> suddenly v6 long cock
+04:39 <`> i do remember ubuntu picking it up fine
+04:39 <`> >fuckin windows
+04:40 <`> kill the old tunnel. with fire.
+04:46 <`> okay
+04:46 <`> just killed off all ssh and mosh rules off the ASA facing the internet
+04:46 <`> the only way to touch it via those is via the VPN
+04:47 <`> ultrasecure, bitch.
+04:48 <`> here's the thing
+04:49 <`> fucking thing is a tunnel via hurricane electric
+04:51 <`> shortcut that bitch. you use it often enough.
+04:53 <`> i already called verizon multiple times, went as far as to getting to my regional head end - nope, no ipv6... at least, not yet.
+04:54 <Sue> same with comcast business and shit
+04:55 <`> almost 60 just for 5/5
+04:55 <`> fuckthatshit.jpg
+04:55 <Sue> business sla
+04:55 <`> i'd only do 50 and up
+04:56 <`> if we were to bother getting a line
+04:56 <Sue> yeah
+04:56 <`> and only twc and verizon
+04:56 <`> fyi
+04:56 <Sue> 50 syc
+04:56 <Sue> *sunc
+04:57 <`> we're typically 'included' in redlands
+04:57 <`> check out uh
+04:58 <`> what's that free shell thingy that tid-- SDF
+04:58 <`> Naked DSL = only internet, no phone.
+04:58 <`> but yeah
+04:59 <Sue> ffnhubii lol'd
+04:59 <Sue> oh god, the 80s-90s
+05:00 <Sue> >public access
+05:00 <`> fucking win
+05:00 <`> i wouldnt mind fucking with the DSL access
+05:00 <`> >$30ish
+05:01 <`> i wouldnt midn
+05:01 <`> strictly as a hot standby, actively loadbalanced
+05:01 <`> i mean
+05:01 <`> who wouldn't like geeky DSL?
+05:01 <`> you get direct access to DSLAM, supposedly
+05:02 <`> (stats, etc)
+05:03 <Sue> i really hate touching this monitor
+05:03 <`> yeah, but i saw that you needed to do it side-by-side to get it off
+05:03 <Sue> it's the first lcd in two years
+05:03 <`> yea
+05:04 <Sue> well actually i got it on sale for 89
+05:04 <Sue> but getting a new one: pricey as fuck
+05:04 <Sue> and i don't wanna need to get a new one
+05:05 <`> fuck comcast
+05:05 <Sue> i know i know
+05:05 <`> i will actively avoid living anywhere comcast has service
+05:05 <Sue> you have strong convictions with your hate of certain companies
+05:05 <`> you think?
+05:06 <Sue> i think i'm gonna go to bed
+05:06 <`> okay
+05:07 <`> also, thanks for the offer of soda, but i really don't like soda, i drink it like really rarely
+05:07 <`> just wanted to let you know
+05:08 <Sue> sall good
+05:09 <`> yeah. 'night
+--- Log closed Sat Jun 30 05:14:27 2012
+--- Log opened Sat Jun 30 14:47:04 2012
+14:47 <`> so
+14:47 <`> today, once after i get my gatorade
+14:47 <`> there will be fucking chaos in here.
+14:47 <Sue> lol
+14:47 <`> seriously, i hate my room right now
+14:47 <`> normally, i'd have you hang out with me now and then
+14:48 <`> but lately i didnt want you in here because of >mess
+14:48 <`> x.x
+14:48 <Sue> good luck getting me out of my chair
+14:49 <`> btw
+14:49 <`> we need to rebuild my mom's system
+14:49 <`> it's a eeebox running debian squeeze (vomit)
+14:50 <`> rebuild using xfce, etc
+14:50 <`> so it's as lean as possible (with wicd)
+14:50 <`> you down for it?
+14:50 <Sue> oh god
+14:51 <`> just shove the blue dildo into it
+14:51 <`> reinstall :D
+14:51 <Sue> let me do it, alright?
+14:51 <`> pft fine.
+14:52 <Sue> also, i'd recommend squeeze still
+14:53 <Sue> unless you wanna go in there every day and update it for her
+14:53 <Sue> every
+14:53 <Sue> day
+14:54 <Sue> squeeze, my way: light, duh proof
+--- Log closed Sat Jun 30 14:59:27 2012
+--- Log opened Sat Jun 30 19:54:06 2012
+19:54 -!- Irssi: Starting query in DeafGeeksIRC with Sue
+19:54 <`> sorry about my mom.
+19:54 <`> she makes things difficult when it doesn't need to be.
+--- Log closed Sat Jun 30 19:59:27 2012
+--- Log opened Sat Jun 30 19:59:35 2012
+19:59 <`> and please
+19:59 <`> learn fingerspelling and sign.
+--- Log closed Sat Jun 30 20:05:27 2012
+--- Log opened Sat Jun 30 20:05:30 2012
+20:05 <`> http://www.youtube.com/watch?v=60GRdhQYUQ4
+--- Log closed Sat Jun 30 20:11:27 2012
+--- Log opened Sun Jul 01 00:37:35 2012
+00:37 <`> yo?
+00:37 <`> you ok?
+--- Log closed Sun Jul 01 00:43:27 2012
+--- Log opened Sun Jul 01 00:48:05 2012
+00:48 <`> lolflippingoffgameopponentsvigorouslyirl
+--- Log closed Sun Jul 01 00:53:27 2012
+--- Log opened Sun Jul 01 02:45:21 2012
+02:45 <Sue> lol
+--- Log closed Sun Jul 01 02:50:27 2012
+--- Log opened Sun Jul 01 14:22:24 2012
+14:22 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Ping timeout]
+--- Log closed Sun Jul 01 14:27:27 2012
+--- Log opened Sun Jul 01 15:09:02 2012
+15:09 <`> here's the thing
+15:09 <`> it used old packages, etc etc
+15:09 <`> remember a whole bunch had to be kept back, etc
+--- Log closed Sun Jul 01 15:14:27 2012
+--- Log opened Sun Jul 01 15:27:14 2012
+15:27 <Sue> yeah
+15:28 <`> i can track bw usage
+15:28 <`> [7/1/12 1:23:21 PM] Dustin: more finely with bandwidthd
+15:28 <`> [7/1/12 1:23:26 PM] Dustin: but fffff no graphs
+15:28 <`> [7/1/12 1:23:58 PM] Dustin: it used to be in promsicuous mode
+15:28 <`> [7/1/12 1:24:03 PM] Dustin: so i killed that
+15:28 <`> [7/1/12 1:25:15 PM] Dustin: updating the router
+15:28 <`> [7/1/12 1:25:18 PM] Dustin: hold on to your panties.
+15:28 <`> [7/1/12 1:25:59 PM] Dustin: (updating to the latest build)
+15:28 <`> [7/1/12 1:26:23 PM] Dustin: i always have it perform a full backup prior.
+15:32 <`> we're back.
+15:32 <`> and it's reinstalling packages now.
+15:33 <`> we need to configure my UPSes for networking
+15:33 <`> they both have a RJ-45 jack.
+15:35 <`> one thing that i really hate
+15:35 <`> is that bandwidthd's data gets overwritten
+15:35 <`> every update.
+15:36 <`> due to the behavior of the update: it deinstalls the packages, and then reinstalls.
+15:36 <`> when it deinstalls, it also rips out the preexisting data
+15:36 <`> = me grr
+15:37 <`> so i need to figure out how to backup the bandwidthd data
+15:37 <`> it apparently stores it into a CDF logfile
+15:38 <`> yup
+15:38 <`> outputs it to htdocs/log.cdf
+15:38 <`> so i'll have to make sure i back that up
+15:38 <`> and update
+15:42 <`> seems you missed a whole bunch
+15:43 <`> i forgot you were connected to xo1
+15:43 <`> thats seriously my sign for jack in the box
+15:44 <`> and
+15:44 <`> i DID get jacked off in teh box
+15:44 <`> :D
+15:44 <`> ...in the bathrooms
+15:46 <`> im thinking of hitting up mentone if i cant get $5/g from the guys on the corner of 4th and wildwood
+15:46 <`> and FUCK
+15:46 <`> still no graphs
+15:46 <`> :D
+15:46 <`> * D:
+15:46 <`> reenabling promiscuous mode
+15:49 <`> where the fuck is htdocs
+15:49 <`> on a freebsd system
+15:54 <`> god
+15:54 <`> fuck
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:54 <`> freebsd can go fucking die
+15:55 <`> piece of shit wont do what i want it to do
+15:55 <`> cat *.log | grep 'keyword'
+15:55 <`> simply fucking returns THIS
+15:55 <`> (standard
+15:55 <`> Binary file (standard input) matches
+15:56 <`> i cant grep the fucking logfiles properly
+15:56 <`> it simply wont do it
+--- Log closed Sun Jul 01 16:01:27 2012
+--- Log opened Sun Jul 01 16:06:15 2012
+16:06 <`> oh cool
+16:06 <`> i can actually run an captive portal
+16:09 <`> FUCK
+16:09 <`> fucking piece of fucking shit
+--- Log closed Sun Jul 01 16:15:27 2012
+--- Log opened Sun Jul 01 16:16:29 2012
+16:16 <`> 'tres frsutustration
+16:16 <`> :D
+16:18 <`> also
+16:18 <`> define man(8)
+16:18 <`> the (8) part.
+--- Log closed Sun Jul 01 16:24:27 2012
+--- Log opened Sun Jul 01 16:51:11 2012
+16:51 <`> fuck yeah
+16:51 <`> disabled password login over ssh for the router
+16:51 <`> now it's all key-based.
+16:52 <`> so uh
+16:52 <`> hi
+--- Log closed Sun Jul 01 16:57:27 2012
+--- Log opened Sun Jul 01 17:00:57 2012
+17:00 <`> honestly
+17:01 <`> i love pfsense
+17:01 <`> it totally works and does leverage freebsd
+17:01 <`> sorry about me bitching about freebsd lol
+17:01 <`> sometimes i go FFFF before i rtfm
+17:01 <`> lol
+17:01 <`> so, my bad
+17:02 <Sue> sall good
+17:04 <`> you should check out Growl
+17:05 <`> pretty nifty notifications system
+17:05 <`> i believe theres ports of it for windows
+17:05 <`> http://www.growlforwindows.com/gfw/
+--- Log closed Sun Jul 01 17:11:27 2012
+--- Log opened Sun Jul 01 17:28:03 2012
+17:28  * ` pokes
+17:28 <`> go into #hh
+--- Log closed Sun Jul 01 17:33:27 2012
+--- Log opened Mon Jul 02 02:15:44 2012
+02:15 <Sue> http://i.imgur.com/X1vAc.jpg
+--- Log closed Mon Jul 02 02:21:27 2012
+--- Log opened Mon Jul 02 17:08:35 2012
+17:08 <`> talk here.
+--- Log closed Mon Jul 02 17:14:27 2012

@@ -1,0 +1,598 @@
+--- Log opened Tue Jun 05 04:17:54 2012
+04:17 -!- Irssi: Starting query in wolfram with Sue
+04:17 <Sue> sWEtRuTruFruteT2
+04:18 <Sue> http://billing.hardestyhosting.com/admin/
+--- Log closed Tue Jun 05 04:23:16 2012
+--- Log opened Wed Jun 06 02:58:36 2012
+02:58 <Sue> hey
+--- Log closed Wed Jun 06 03:04:16 2012
+--- Log opened Wed Jun 06 10:17:51 2012
+10:17 <`> whats up
+--- Log closed Wed Jun 06 10:23:16 2012
+--- Log opened Wed Jun 06 10:23:44 2012
+10:23 <Sue> i want assurance that if something is bothering me that i can go to you
+10:23 <Sue> i'm leaving my entire support network up here
+--- Log closed Wed Jun 06 10:29:16 2012
+--- Log opened Wed Jun 06 11:58:09 2012
+11:58 <`> yeah.
+11:58 <`> the same goes with you for me.
+--- Log closed Wed Jun 06 12:04:16 2012
+--- Log opened Wed Jun 06 12:13:11 2012
+12:13 <Sue> also, how much space do i have
+12:13 <Sue> so i can get a desk
+--- Log closed Wed Jun 06 12:18:16 2012
+--- Log opened Wed Jun 06 13:42:32 2012
+13:42 <`> you should have enough room
+13:42 <`> i was gonna go hit up thrift stores with you
+13:42 <`> if you want to do that.
+13:46 <`> Sue you should also have enough flat surfaces to serve as your desk, though
+--- Log closed Wed Jun 06 13:52:16 2012
+--- Log opened Wed Jun 06 13:58:51 2012
+13:58 <Sue> so do i need to buy a desk now or not
+13:59 <Sue> i'm being given money expressly for the purchase of a desk
+--- Log closed Wed Jun 06 14:04:16 2012
+--- Log opened Wed Jun 06 18:22:27 2012
+18:22 <`> hmm, ok go for it
+18:22 <`> we can work it in
+18:26 <`> so, which weekend we talking about, just to be clear?
+--- Log closed Wed Jun 06 18:31:16 2012
+--- Log opened Wed Jun 06 21:32:49 2012
+21:32 <Sue> weekend of the 16th
+--- Log closed Wed Jun 06 21:38:16 2012
+--- Log opened Thu Jun 07 00:22:38 2012
+00:22 <`> modifying my calendar.
+--- Log closed Thu Jun 07 00:28:16 2012
+--- Log opened Thu Jun 07 00:30:02 2012
+00:30 <Sue> my god i'm a stress case
+00:30 <`> why'd your dad flake?
+00:30 <`> this is a pretty important thing
+00:31 <Sue> have you ever met someone who was so overloaded you thought they were going to explode?
+00:31 <`> no.
+00:31 <Sue> really.
+00:31 <`> i'm so laid back to a fault.
+00:31 <`> i need to stop being so laid back.
+00:31 <Sue> well, he's 200% committed 200% of the time
+00:32 <Sue> he simply forgot and oh well, move it to next weekend
+00:32 <Sue> he's doing this for free mind you
+00:32 <`> ah.
+00:32 <Sue> anyway, i've got another 50$ customer coming in
+00:32 <Sue> we're reaching the limit of this box
+00:33 <`> good. that's good news.
+00:33 <`> have we been collecting?
+00:33 <Sue> collected from one
+00:34 <Sue> i'm really worried (as always)
+00:34 <Sue> this one is kinda dumb
+00:34 <Sue> i'm worried that you're going to vlan me and none of my outbound things are gonna work
+00:35 <`> sad thing is
+00:35 <`> i dont know how to create a vlan
+00:35 <`> i want to, but meh
+00:35 <Sue> please let me teach you everything i know
+00:35 <Sue> from scratch
+00:35 <`> lol
+00:35 <`> we'll see.
+00:35 <Sue> i'm serious about the scratch bit
+00:35 <Sue> we're gonna need like 3 different boxes
+00:36 <`> my pfsense box
+00:36 <`> is more than enough
+00:36 <Sue> oh good you have pfsense
+00:36 <Sue> is it 2.0 yet?
+00:36 <`> 2.1-DEVELOPMENT (i386) 
+00:36 <`> built on Fri May 25 06:13:59 EDT 2012 
+00:36 <`> FreeBSD 8.3-RELEASE-p1
+00:36 <Sue> eek
+00:37 <`> that has IPv6 bullshit (including DHCPv6)
+00:37 <Sue> sorry, i dislike dev software on production boxes
+00:37 <`> 2.0 doesn't.
+00:37 <`> this particular build is good
+00:37 <Sue> alright
+00:37 <`> i actually updated to a newer build
+00:37 <`> all ipv6 bs disappeared
+00:37 <`> so i restored back.
+00:38 <`> 12 Days 04 Hours 18 Minutes 58 Seconds
+00:38 <`> thats its uptime (after me adding the Hurricane Electric IPv6 tunnel)
+00:40 <`> and you do realize this is the most we've talked lately?
+--- Log closed Thu Jun 07 00:46:16 2012
+--- Log opened Thu Jun 07 00:46:49 2012
+00:46 <Sue> yes
+00:46 <Sue> i keep trying to contact you
+00:47 <Sue> i'm freaking out 70% of the time now, my stress levels are fucking shooting through the roof
+00:47 <Sue> fuck
+00:49 <`> well, when you're down here
+00:50 <`> you'll mellow out after a few hits.
+--- Log closed Thu Jun 07 00:55:16 2012
+--- Log opened Thu Jun 07 00:59:06 2012
+00:59 <`> i really wish i had some extra money to go up to sac
+00:59 <`> and just hang out
+--- Log closed Thu Jun 07 01:04:16 2012
+--- Log opened Thu Jun 07 01:05:43 2012
+01:05 <Sue> i'm gonna smoke less than you think
+01:05 <Sue> it makes me sick if i smoke too much
+01:05 <`> yeah, same thing with my mom
+01:06 <Sue> but i'm also not gonna abuse pills
+01:06 <`> it seems like i am, but i'm not
+01:06 <`> those are prescription for my back pain :P
+01:07 <`> i like to be all LOL GABAPENTIN in #wtfpwnt
+01:08 <`> what i mean by "few hits" is that you get high for your comfort
+01:08 <`> so you're not all FFFFUUUUUU
+01:09 <`> hmm. in the morning, i have to slap the storage people.
+01:09 <`> their systems aren't letting me register online/pay online.
+01:11 <Sue> :/
+01:11 <`> no biggie, due on the 12th
+01:11 <`> but yeah, we'll be ok
+01:13 <`> so what's up on your end?
+01:13 <`> whats the desk you want/looking at?
+--- Log closed Thu Jun 07 01:19:16 2012
+--- Log opened Thu Jun 07 01:19:30 2012
+01:19 <Sue> dunno
+01:19 <`> ?
+--- Log closed Thu Jun 07 01:25:16 2012
+--- Log opened Thu Jun 07 01:25:42 2012
+01:25 <`> and i just got a paypal card reader too.
+01:25 <`> since for me, paypal has been very helpful.
+01:25  * ` shrugs
+--- Log closed Thu Jun 07 01:31:16 2012
+--- Log opened Thu Jun 07 01:45:08 2012
+01:45 <`> just finished cleaning out my email inboxes
+01:45 <`> whats up with you
+--- Log closed Thu Jun 07 01:51:16 2012
+--- Log opened Thu Jun 07 01:54:58 2012
+01:54  * ` pokes
+01:55 <`> you ok, man?
+--- Log closed Thu Jun 07 02:00:16 2012
+--- Log opened Fri Jun 08 21:36:20 2012
+21:36 <Sue> you should come up here
+--- Log closed Fri Jun 08 21:42:18 2012
+--- Log opened Fri Jun 15 00:40:28 2012
+00:40 <`> yo?
+--- Log closed Fri Jun 15 00:45:36 2012
+--- Log opened Fri Jun 22 02:20:25 2012
+02:20 <Sue> hey
+02:20 <Sue> are you still there
+--- Log closed Fri Jun 22 02:26:06 2012
+--- Log opened Fri Jun 22 02:51:44 2012
+02:51 <`> yes.
+--- Log closed Fri Jun 22 02:57:06 2012
+--- Log opened Fri Jun 22 03:30:30 2012
+03:30 <`> ....?
+--- Log closed Fri Jun 22 03:36:06 2012
+--- Log opened Fri Jun 22 03:41:33 2012
+03:41 <Sue> how much ram does the i7 have
+--- Log closed Fri Jun 22 03:47:06 2012
+--- Log opened Fri Jun 22 03:53:43 2012
+03:53 <`> not much.
+03:53 <`> and im already using it for personal stuff :|
+03:55 <Sue> hrmm
+03:55 <Sue> i'm gonna need to find something with 8gb of ram
+03:55 <`> i have nothing like that
+03:57 <`> unless you can find something rackmountable, doable.
+03:58 <`> perhaps one of those old 4U chassis?
+03:58 <`> can fit almost anything in dem 4Us
+04:00 <`> also, im gonna be busyasfuck tomorrow
+04:01 <`> still a lot to do, and i HAVE been procrastinating a little >_>
+04:01 <`> *today
+04:01 <`> but yeah.
+04:01 <`> i'll repeat what i said at the beginning:
+04:02 <`> it's pretty fucking ghetto; and you'll be in the laundry room-turned bedroom
+04:02 <`> I've made it as hospitable for you, and it's 'shared' with my room
+04:03 <`> so ethernet runs are trivial, but i dont trust the long ones i have right now (record of intermittent reliability)
+04:03 <`> i'll also need to flash my WRT unit with a newer version of ddwrt
+04:03 <`> you'll help me with that once you get here, yes?
+04:04  * ` pokes
+--- Log closed Fri Jun 22 04:10:06 2012
+--- Log opened Fri Jun 22 04:17:55 2012
+04:17 <Sue> hi
+04:17 <Sue> sorry
+04:17 <Sue> dealing with people
+04:19 <`> np
+04:20 <`> i'll crash now so i can have more time in teh day to do shit
+04:21 <Sue> fuck
+04:21 <`> ?
+04:21 <Sue> basically, i've got a 120 dollar customer using 8gb of ram
+04:21 <Sue> and 10mbit of b/w
+04:21 <`> and not paying?
+04:21 <Sue> that's why i'm asking if you have a box with 8gb of ram
+04:21 <Sue> no, he's paying
+04:21 <Sue> but i lost the other customer
+04:21 <`> what happened
+04:21 <Sue> that was paying for that large box
+04:21 <Sue> he doesn't have enough money
+04:22 <`> ah.
+04:22 <`> no, no box with remotely near 8g of ram
+04:22 <Sue> we can probably fudge it or something
+04:22 <Sue> or i can use my desktop
+04:22 <Sue> 4gb of ram
+04:22 <`> yeah, use your desktop
+04:22 <Sue> won't be too horrid
+04:23 <`> i have like shitloads of desktops here you can use
+04:23 <Sue> oh, and i'm getting there saturday, not tomorrow
+04:23 <Sue> fyi
+04:23 <`> i know
+04:23 <Sue> wait, saturday is tomorrow
+04:23 <`> i know. :]
+04:23 <Sue> lol
+04:23 <Sue> and uh
+04:24 <Sue> yeah we'll need to find a home for the expensive customer
+04:24 <`> yeah.
+04:24 <Sue> because if i can not pay 120 to another company and put that directly into "buy a nice rack server" fund
+04:24 <Sue> we can fudge a mini-datacenter in your closet
+04:25 <`> no closet, but cabinet
+04:25 <`> but sure
+04:25 <Sue> that's what i mean
+04:25 <Sue> hey uh
+04:25 <Sue> are you comfortable with buying me beer
+04:25 <`> lol
+04:25 <`> i'll be buying you weed, bitch
+04:25 <Sue> beer beer beer
+04:25 <Sue> i'm super productive
+04:25 <`> weed weed weed
+04:25 <Sue> for some reason
+04:26 <`> but ok
+04:26 <Sue> schweet
+04:26 <Sue> ok, i'm gonna finish transferring this guy locally
+04:26 <Sue> i'm leaving my mail server here and putting the NAS stuff on my laptop for travel
+04:27 <`> thought you were gonna bring down the mail serve
+04:27 <`> ?
+04:28 <Sue> we'll set up another one and leave those people (and me) on the legacy system
+--- Log closed Fri Jun 22 04:34:06 2012
+--- Log opened Fri Jun 22 04:34:12 2012
+04:34 <Sue> are you gone
+04:34 <Sue> i'm not getting a desk up here
+04:35 <Sue> also i don't think it's fair that i'll be paying rent this month
+04:35 <Sue> if you can figure something about that
+--- Log closed Fri Jun 22 04:41:06 2012
+--- Log opened Fri Jun 22 04:50:28 2012
+04:50 <`> yeah, like you said, pay rent beginning first thing july
+04:50 <`> just cover your own food and whatnot, and we're cool
+04:55 <`> yeah, im gone now, i really do need the sleep.
+--- Log closed Fri Jun 22 05:01:06 2012
+--- Log opened Sun Jun 24 18:11:04 2012
+18:11 <Sue> http://i.imgur.com/zfOfG.png >getting high
+18:12 <`> lmao
+18:12 <`> that's um
+18:12 <`> foreveralone.jpg shit
+18:13 <`> depressing, actually
+18:13 <`> lol
+18:14 <Sue> lol
+18:14 <`> gif was awesome
+18:15 <Sue> >the connection to my server
+18:15 <Sue> so much fucking latency wtf
+18:16 <`> wtf?
+18:16 <`> wheres your serve?
+18:16 <Sue> folsom
+18:16 <`> hm
+18:16 <`> bad route?
+18:16 <Sue> i need mtr
+18:17 <`> i forget what mtr is
+18:17 <Sue> my traceroute
+18:17 <Sue> do you have a spare sata laptop hdd
+18:17 <`> no i dont think so
+18:17 <`> unless you pull one out of the laptops
+18:17 <`> i have a whole bunch of laptops remember
+--- Log closed Sun Jun 24 18:23:07 2012
+--- Log opened Sun Jun 24 21:03:07 2012
+21:03 <Sue> http://i.imgur.com/60ufe.jpg
+--- Log closed Sun Jun 24 21:08:07 2012
+--- Log opened Mon Jun 25 03:37:09 2012
+03:37 <Sue> http://imgur.com/1xOSP
+--- Log closed Mon Jun 25 03:43:07 2012
+--- Log opened Mon Jun 25 14:55:50 2012
+14:55 <`>  imgdurr
+14:56 <`> so what do you wanna do
+--- Log closed Mon Jun 25 15:01:08 2012
+--- Log opened Mon Jun 25 16:53:07 2012
+16:53 <Sue> http://i.imgur.com/kQoEV.jpg
+--- Log closed Mon Jun 25 16:58:08 2012
+--- Log opened Mon Jun 25 17:06:18 2012
+17:06 <Sue> http://www.reddit.com/r/trees/comments/vlchh/one_toke_over_the_language_barrier/
+--- Log closed Mon Jun 25 17:12:08 2012
+--- Log opened Mon Jun 25 19:53:14 2012
+19:53 <Sue> http://i.imgur.com/Y5jAr.jpg
+--- Log closed Mon Jun 25 19:59:08 2012
+--- Log opened Tue Jun 26 14:42:07 2012
+14:42 <Sue> http://www.reddit.com/r/AskReddit/comments/vmoaq/yesterday_a_woman_asked_me_if_her_phone_case/
+--- Log closed Tue Jun 26 14:47:08 2012
+--- Log opened Tue Jun 26 15:48:29 2012
+15:48 <`> lol ffs
+15:48 <`> clang crashes every time brew tries to update anything
+15:48 <`> LOL BETA
+15:49 <Sue> lol
+15:50 <`> good thing he killed everything
+15:51 <Sue> i'm alergic to bees so that pic is scary as shit
+15:51 <`> carry around epi pen and shit?
+15:52 <Sue> it's like apples to apples but offensiv
+15:53 <Sue> i usually don't click tl;dr shit
+--- Log closed Tue Jun 26 15:59:08 2012
+--- Log opened Tue Jun 26 16:00:17 2012
+16:00 <`> ok
+16:00 <`> fine
+16:00 <`> you've convinced me to use reddit
+16:00 <Sue> it's link porn
+16:00 <Sue> or info overload
+16:01 <Sue> tf2 update
+16:02 <Sue> 300th update, specifically
+16:02 <`> fuck
+16:02 <`> i need to lrn2gaem
+16:07 <`> lol at the very specific blur effect when switching angles quickly
+16:07 <`> lol
+16:07 <`> stop being a god
+16:08 <`> is there a hell there?
+16:08 <`> flames, monsters, and all that DOOM shit
+16:10 <`> immortal?
+16:13 <`> i still need to learn how to play fps
+16:13 <`> believe it or not
+16:13 <Sue> >inb4 r u sudos
+16:13 <`> i have never played doom
+16:14 <`> briefly, but that was trying to netplay from a 56k modem to a guy with dsl
+16:14 <`> if you can teach me
+16:14 <`> i kinda have this fascination with counterstrike
+16:14 <`> lemme see if theres mac versions
+16:15  * ` opens up Steam
+16:15 <`> okay, there's CS:S
+16:15 <`> CS:S+Garry's
+16:16 <`> and Source Multiplayer Pack
+16:16 <Sue> oh god, garry's mod
+16:16 <`> unfortunately, no $ :(
+16:16 <Sue> if i had the hdd space i'd show you garry's mod
+16:16 <`> is there a way to 'share' a same steam acct at once?
+16:16 <`> FFF
+16:16 <`> i wouldnt mind pulling the i7 right now
+16:17 <`> then properly hvming it for you
+16:17 <`> (as in a complete rebuild on debian)
+16:17 <`> but it has to be sid
+16:17 <`> }:A
+16:17 <Sue> testing
+16:17 <Sue> it's a slight bit safer
+16:17 <Sue> i'm trying to remember what this fucking prog was called
+16:18 <`> what're you looking for?
+16:18 <`> rEFIt?
+16:18 <Sue> bootmgr
+16:18 <Sue> not that
+16:18 <Sue> it's an editor for windows boot
+16:21 <`> tpb is dead to me
+16:21 <`> can you reach it?
+16:23 <`> roflbotnet
+16:27 <Sue> i'm so high i'm watching a video about fence post installation
+16:27 <`> me too
+16:27 <`> :D
+16:32 <Sue> exhaust pipe -> in
+16:33 <`> no more stump
+16:33 <Sue> holy FUK
+16:34 <Sue> he's chainsawing dirt derpderpderp
+16:35 <Sue> funny name crazy shit
+16:36 <Sue> it's fucking buffing away the tree
+16:38 <`> nice way to crack your pool's foundation
+16:39 <`> giantass fog generator
+--- Log closed Tue Jun 26 16:45:08 2012
+--- Log opened Tue Jun 26 16:46:00 2012
+16:46 <`> he put water on his hands first, so his hands are temporarily protected
+16:46 <`> awesome family
+16:49 <`> amazing how water retains its shape long
+16:52 <`> look for time warp compilation
+16:53 <`> dry ice bomb
+16:58 <`> beer force-emptied from the bottom
+17:01 <`> this was done by Time Warp + SF Firefighters as sort of a PSA
+17:05 <Sue> congradulations, you got tazed!
+17:05 <Sue> fuckin funfetti
+17:08 <`> that is so fucking gay
+17:08 <Sue> i mean, the muscle patterns are interesting
+17:09 <`> he wears a whole bunch of sensors and all that
+17:09 <`> it's his job to crash
+17:09 <`> lol
+17:09 <`> lucky bastard
+17:10 <`> whoever would have been in the other car... GONER
+17:11 <`> DO NOT FUCK WITH ANYONE WIELDING A .50 CAL
+--- Log closed Tue Jun 26 17:16:08 2012
+--- Log opened Tue Jun 26 17:16:56 2012
+17:16 <`> know what i wish
+17:17 <`> that there was a irl BOFH movie made, based on the original BOFH stories
+17:19 <Sue> old seagate
+17:19 <Sue> wd
+17:19 <Sue> maxton
+17:20 <`> maxtor
+17:20 <`> y'know
+17:20 <`> you should use youtube
+17:20 <`> to pick up on sign
+17:20 <`> fucking poison, even though it's fucking awesome
+--- Log closed Tue Jun 26 17:26:08 2012
+--- Log opened Tue Jun 26 17:29:29 2012
+17:29 <`> now i know how to break locks :D
+17:33 <`> i like nurdrage = actually captions his vides
+17:33 <`> *videos
+17:33 <Sue> oh shit you're right there's cc
+17:33 <Sue> i didn't even notice
+--- Log closed Tue Jun 26 17:39:08 2012
+--- Log opened Tue Jun 26 17:39:57 2012
+17:39 <`> if we tried doing that here, we'd get blamed for bombmaking.
+--- Log closed Tue Jun 26 17:45:08 2012
+--- Log opened Tue Jun 26 17:52:52 2012
+17:52 <Sue> >words
+--- Log closed Tue Jun 26 17:58:08 2012
+--- Log opened Tue Jun 26 18:01:07 2012
+18:01 <Sue> >more words
+18:01 <Sue> >science words
+18:06 <`> >WORDS
+18:09 <Sue> because magnets are magic bitch!
+18:09 <`> i want one of those that light up as you spin it
+18:09 <`> and it autospins for you
+18:11 <`> this guy is badass
+--- Log closed Tue Jun 26 18:17:08 2012
+--- Log opened Tue Jun 26 18:17:42 2012
+18:17 <Sue> fuckin magic
+--- Log closed Tue Jun 26 18:23:08 2012
+--- Log opened Tue Jun 26 18:57:27 2012
+18:57 <`> dont let me stop you lol
+--- Log closed Tue Jun 26 19:03:08 2012
+--- Log opened Tue Jun 26 20:06:36 2012
+20:06 <`> i love how i can make faces at you
+20:06 <`> and retreat out of sight
+20:06 <`> without you even knowing
+20:06 <`> LOLBOREDOM
+--- Log closed Tue Jun 26 20:12:08 2012
+--- Log opened Wed Jun 27 13:59:55 2012
+13:59 <`> for some reason
+14:00 <`> i think you should setup a totally arbitrary cron
+14:00 <`> that just simply restarts the fucker every X
+14:01 <`> XMLRPC?
+14:01 <`> sighup?
+14:02 <`> >java
+14:04 <`> can i put the tuner into the i7?
+14:04 <`> thanks
+14:04 <Sue> there's one thing i've never done though, it's use that tuner in linux
+14:04 <`> only one way to find out }:A
+14:05 <Sue> so i have the weirdest dreams
+14:05 <`> wanna me shut down the machine and let you check it out?
+14:05 <Sue> i built a server
+14:05 <Sue> then i installed debian on it
+14:05 <Sue> the whole setup process
+14:05 <Sue> vividly
+14:05 <`> i have those too
+14:06 <`> except the nightmare version would be fighting with windows install
+14:06 <Sue> >implying that's a hard thing to do
+14:06 <Sue> >next
+14:06 <Sue> >next
+14:06 <Sue> >next
+14:06 <`> lol, no
+14:06 <Sue> >next
+14:06 <Sue> >next
+14:06 <`> on a broken system
+14:06 <`> etc etc
+14:06 <Sue> done
+14:06 <`> just
+14:06 <Sue> lol
+14:06 <`> nightmare version
+14:06 <`> think about it
+14:06 <`> when you're literally pulling your hair out etc
+14:06 <`> anyway
+14:06 <`> wanna pull out the i7?
+14:07 <Sue> it's not running any public services, is it?
+14:07 <`> only httpd
+14:07 <Sue> >uptime
+14:07 <Sue> not that kind of uptime
+14:07 <Sue> website uptime
+14:07 <`> nothing major is being hosted
+14:07 <`> it's just supplemental shit
+14:07 <Sue> alright...
+14:08 <Sue> if there's one thing you'll learn very fast about me, i cannot have public shit go offline
+14:08 <`> i mostly use this httpd to move pirated stuff
+14:08 <`> or personal shit
+14:08 <`> so nothing critical at all
+14:08 <`> i fucking need to update my pingdom
+14:09 <`> i havent used that in almost a year
+14:11 <`> heavy motherfucker
+14:12 <Sue> can you tell where i was like ok uptime is important
+14:14 <Sue> already have a eth for you ready to be routed out here... its the yellow cable
+14:14 <Sue> i was saying use that as a switch
+14:15 <Sue> as we go along i'll figure this shit
+14:15 <Sue> also need i remind you of bookshelf
+14:16 <Sue> he's getting mad
+14:19 <Sue> we'll figure it out, lets get the heavy stuff placed down first
+14:22 <Sue> just put the tv card at the bottom, it'll fit just fine
+--- Log closed Wed Jun 27 14:28:09 2012
+--- Log opened Wed Jun 27 14:31:41 2012
+14:31 <Sue> holy mother of storage batman
+--- Log closed Wed Jun 27 14:37:09 2012
+--- Log opened Wed Jun 27 14:49:32 2012
+14:49 <Sue> all you have to do is unscrew the mobo, the drive caddies don't need eviction
+14:50 <Sue> i also dont have the modular cables for it
+--- Log closed Wed Jun 27 14:55:09 2012
+--- Log opened Wed Jun 27 15:21:07 2012
+15:21 <`> at least it's 1U
+--- Log closed Wed Jun 27 15:26:09 2012
+--- Log opened Wed Jun 27 15:27:14 2012
+15:27 <`> i actually remember a system with not only.... SEVEN DEAD FUCKING MICE in it
+15:27 <`> it made me gag, and i didnt touch it
+15:27 <`> until client came by and i was all THIS.
+15:28 <`> the idiots out there....
+15:28 <`> anyway lets move the shit into the 4u?
+15:29 <`> check out graylog2
+15:30 <`> imma use it
+15:31 <`> i would have gone "oops it's down"
+15:33 <`> GO OFFICE SPACE ON THAT MOTHERFUCKER
+--- Log closed Wed Jun 27 15:39:09 2012
+--- Log opened Thu Jun 28 14:08:11 2012
+14:08 <Sue> http://rogerebert.suntimes.com/apps/pbcs.dll/article?AID=/20120627/REVIEWS/120629973
+--- Log closed Thu Jun 28 14:14:10 2012
+--- Log opened Fri Jun 29 13:43:56 2012
+13:43 <`> you're not on rubbermallet
+13:43 <`> x.x
+13:44 <`> well
+13:44 <`> 'Sue' isn't in #wtfpwnt
+13:44 <Sue> there
+13:44 <Sue> dongs is
+13:44 <`> oh
+13:44 <`> durr
+13:44 <`> i forgot
+13:44 <`> ok well
+13:45 <`> today, gotta get shit sorted
+13:45 <`> it's friday for fucks sake :D
+13:45 <`> so lets get everything done
+13:45 <`> and then TGIF party it up
+13:45 <`> you seem pissed
+13:46 <Sue> just woke up
+13:46 <`> oh
+13:46 <Sue> yes
+13:46  * ` stfu's then
+13:46 <Sue> yes to "oh"
+13:46 <`> lol, sorry
+13:46 <Sue> sorry, this is why i need coffee
+13:47 <`> lol
+13:47 <`> suddenly im reminded of the snickers commercials
+13:47 <`> the ones where people bitch like a old woman or something
+13:48 <`> and then when they take a bite of a snickers
+13:48 <`> bam: back to normal
+13:48 <`> you're the same exact thing, except with coffee
+13:48 <Sue> coffee
+13:48 <`> go get it
+13:49 <`> also, i want to move the file cabinets before anything else
+13:49 <`> just so it's totally outta the way
+13:49 <`> but yeah.
+13:50 <`> i'm also SSL VPN'd via the Cisco AnyConnect client.
+13:50 <`> but it's hating me re: local LAN access
+13:50 <`> as in, while im VPNd, can't ping anything local
+13:50 <`> so, ive been working on that today
+13:50 <`> lol
+13:51 <Sue> lol
+13:51 <`> i want to be always perpetually VPN'd
+13:51 <`> so i need to solve those little things
+13:53 <Sue> why would you want that
+13:53 <`> why not
+13:54 <`> im able to achieve near-linespeed with it
+13:54 <`> (25-30mbit over it)
+13:54 <`> also
+13:54 <`> >laptop
+13:54 <`> >which is always roaming onto untrusted networks
+13:54 <`> >fuck yeah vpn
+13:55 <`> lol#wtfpwnt
+--- Log closed Fri Jun 29 14:01:10 2012
+--- Log opened Fri Jun 29 14:29:32 2012
+14:29 <Sue> poke
+14:29 <Sue> i'm skin alergic to most of those aerosols
+14:29 <Sue> not lung
+14:30 <Sue> it's only if people spray it at me
+14:30 <Sue> sorry about th
+--- Log closed Fri Jun 29 14:36:10 2012
+--- Log opened Fri Jun 29 18:52:07 2012
+18:52 <Sue> oi
+18:52 <Sue> are there spare towels
+18:52 <Sue> i've gotta take a shower
+--- Log closed Fri Jun 29 18:58:10 2012
+--- Log opened Fri Jun 29 20:53:24 2012
+20:53 <Sue> bless you
+--- Log closed Fri Jun 29 20:59:10 2012
+--- Log opened Fri Jun 29 23:43:40 2012
+23:43 <Sue> we fucked the other team
+23:43 <Sue> hard
+--- Log closed Fri Jun 29 23:49:10 2012
+--- Log opened Sat Jun 30 14:11:58 2012
+14:11 <`_> Sue: what other team? etc
+14:12 <`_> and why the fuck am i `_
+--- Log closed Sat Jun 30 14:17:10 2012
+--- Log opened Sun Jul 01 14:24:35 2012
+14:24 -!- Sue [~sue@bitch/Sue] has quit [Ping timeout: 246 seconds]
+--- Log closed Sun Jul 01 14:30:10 2012
+--- Log opened Sun Jul 01 20:15:10 2012
+20:15 -!- Sue [~sue@fwfnoz.hardestyhosting.com] has quit [Changing host]
+--- Log closed Sun Jul 01 20:20:10 2012
+--- Log opened Mon Jul 02 17:08:26 2012
+17:08 <`> talk here?
+--- Log closed Mon Jul 02 17:14:10 2012

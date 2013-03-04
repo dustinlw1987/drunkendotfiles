@@ -1,0 +1,69 @@
+--- Log opened Fri Feb 10 03:02:20 2012
+03:02 -!- Irssi: Starting query in DeafGeeksIRC with king_crimson
+03:02 <`> Dustin Williams
+03:02 <`> 13063 5th St. Spc. 51
+03:02 <`> Yucaipa, CA 92399
+03:02 <`> Thanks!
+03:02 <king_crimson> cool
+03:02 <king_crimson> will get this out
+03:03 <king_crimson> np brah
+03:03 <king_crimson> i hope it doesn't turn out to be mobo-related
+03:03 <`> that'd suck
+03:03 <king_crimson> and this chip does work, i tried it on a working board here a while ago after i pulled it off the dead one
+03:03 <`> but it did definitely choke hard on L2
+03:03 <king_crimson> didn't give it a hardcore test but it POSTs
+03:03 <king_crimson> yeah
+--- Log closed Fri Feb 10 03:09:30 2012
+--- Log opened Sat Feb 11 23:18:16 2012
+23:18 -!- ^ is now known as king_crimson
+--- Log closed Sat Feb 11 23:23:30 2012
+--- Log opened Wed May 30 21:37:44 2012
+21:37 -!- Irssi: Starting query in DeafGeeksIRC with king_crimson
+21:37 <king_crimson> hey dont connect new servers without even saying or asking
+21:38 <`> ...
+--- Log opened Wed Oct 24 15:41:05 2012
+15:41 -!- Irssi: Starting query in DeafGeeksIRC with king_crimson
+15:41 <king_crimson> telnet to irc.rubbermallet.org port 2323
+15:41 <king_crimson> username dustin
+15:41 <king_crimson> password turbotea
+15:41 <king_crimson> also, it doesn't have irssi
+15:41 <king_crimson> it has "irc"
+15:41 <king_crimson> slink is fucking ancient
+15:41 <king_crimson> but its the newest that runs fast on that thing
+15:42 <king_crimson> theres not too much on that box, pretty much just a base install of a 15 year old debian
+15:42 <king_crimson> with a few extras like irc etc
+15:42 <`> }:A
+15:43 <`> still, it's pretty damn cool
+15:43 <`> trying now
+15:43 <king_crimson> yeah
+15:43 <king_crimson> its a fun toy
+15:43 <king_crimson> im surprised how smoothly it runs actually
+15:43 <king_crimson> in only 16 MB RAM
+15:44 <`> wow
+15:44 <`> i forgot how much telnet sucked
+15:44 <king_crimson> lol
+15:44 <king_crimson> whats the problem
+15:44 <`> like during login
+15:44 <`> if i fuck up and backspace
+15:44 <king_crimson> if you've got a good client, it works great
+15:44 <king_crimson> oh
+15:44 <`> it doesn't backspace
+15:44 <king_crimson> well, after login its fine
+15:45 <`> wow
+15:45 <king_crimson> even if i bothered to compile an sshd, it would suck to use because of the encryption
+15:45 <`> it definitely doesnt like my term
+15:45 <king_crimson> hmm
+15:45 <king_crimson> in windows i use putty, works perfectly
+15:45 <`> :P
+15:45 <`> >windows
+15:45 <`> it's liek, designed to use telnet
+15:46 <`> which has been depreciated for a decade or possibly longer
+15:46 <king_crimson> nah the built in windows telnet client blows goat dongs
+15:46 <king_crimson> putty is way better
+15:46 <`> even then
+15:46 <`> iirc theres no true telnet client for mac
+15:46 <king_crimson> yeah
+--- Log closed Wed Oct 24 15:51:52 2012
+--- Log opened Fri Oct 26 02:15:00 2012
+02:15 -!- king_crimson [king_crims@9AEEEEEC.ED5D9C8B.ACA6E65E.IP] has quit [Quit: ]
+--- Log closed Fri Oct 26 02:20:52 2012

@@ -1,0 +1,112 @@
+--- Log opened Mon Oct 08 13:56:42 2012
+13:56 -!- Irssi: Starting query in localhost with audist
+13:56 <audist> Chain FORWARD (policy ACCEPT 0 packets, 0 bytes)
+13:56 <audist> pkts bytes target prot opt in out source destination
+13:56 <audist> 0 0 ACCEPT 47 -- * vlan2 192.168.1.0/24 0.0.0.0/0
+13:56 <audist> 0 0 ACCEPT tcp -- * vlan2 192.168.1.0/24 0.0.0.0/0 tcp dpt:1723
+13:56 <audist> 0 0 ACCEPT 0 -- br0 br0 0.0.0.0/0 0.0.0.0/0
+13:56 <audist> 0 0 TCPMSS tcp -- * * 0.0.0.0/0 0.0.0.0/0 tcp flags:0x06/0x02 TCPMSS clamp to PMTU
+13:56 <audist> 0 0 lan2wan 0 -- * * 0.0.0.0/0 0.0.0.0/0
+13:56 <audist> 0 0 ACCEPT 0 -- * * 0.0.0.0/0 0.0.0.0/0 state RELATED,ESTABLISHED
+13:56 <audist> 0 0 DROP tcp -- * * 0.0.0.0/0 192.168.1.118 tcp spt:49152
+13:56 <audist> 0 0 DROP tcp -- * * 0.0.0.0/0 192.168.1.102 tcp spt:49153
+13:56 <audist> 0 0 DROP tcp -- * * 0.0.0.0/0 192.168.1.102 tcp spt:9090
+13:56 <audist> 0 0 DROP udp -- * * 0.0.0.0/0 192.168.1.102 udp dpt:9090
+13:56 <audist> 0 0 DROP udp -- * * 0.0.0.0/0 192.168.1.102 udp dpts:60000:61000
+13:56 <audist> 0 0 ACCEPT tcp -- * * 0.0.0.0/0 192.168.1.125 tcp dpt:11720
+13:56 <audist> 0 0 ACCEPT tcp -- * * 0.0.0.0/0 192.168.1.125 tcp dpt:11532
+13:56 <audist> 0 0 ACCEPT udp -- * * 0.0.0.0/0 192.168.1.125 udp dpt:11532
+13:56 <audist> 0 0 ACCEPT tcp -- * * 0.0.0.0/0 192.168.1.125 tcp dpt:50060
+13:56 <audist> 0 0 ACCEPT udp -- * * 0.0.0.0/0 192.168.1.125 udp dpt:50060
+13:56 <audist> 0 0 TRIGGER 0 -- vlan2 br0 0.0.0.0/0 0.0.0.0/0 TRIGGER type:in match:0 relate:0
+13:56 <audist> 0 0 trigger_out 0 -- br0 * 0.0.0.0/0 0.0.0.0/0
+13:57 <audist> 0 0 ACCEPT 0 -- br0 * 0.0.0.0/0 0.0.0.0/0 state NEW
+13:57 <audist> 0 0 DROP 0 -- * * 0.0.0.0/0 0.0.0.0/0
+13:57 <audist> i tried literally everything, and my iptables looks like this, exactly
+--- Log closed Mon Oct 08 14:02:34 2012
+--- Log opened Mon Oct 08 17:43:02 2012
+17:43 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [Ping timeout]
+--- Log closed Mon Oct 08 17:48:34 2012
+--- Log opened Tue Oct 09 15:47:27 2012
+15:47 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [Ping timeout]
+--- Log closed Tue Oct 09 15:52:34 2012
+--- Log opened Wed Oct 10 01:46:25 2012
+01:46 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [FFFFFFFFFff-- ]
+--- Log closed Wed Oct 10 01:51:35 2012
+--- Log opened Wed Oct 10 11:33:30 2012
+11:33 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [FFFFFFFFFff-- ]
+--- Log closed Wed Oct 10 11:38:35 2012
+--- Log opened Thu Oct 11 03:47:14 2012
+03:47 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [Ping timeout]
+--- Log closed Thu Oct 11 03:52:36 2012
+--- Log opened Thu Oct 11 19:21:45 2012
+19:21 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [FFFFFFFFFff-- ]
+--- Log closed Thu Oct 11 19:27:36 2012
+--- Log opened Fri Oct 12 15:48:37 2012
+15:48 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [Client exited]
+--- Log closed Fri Oct 12 15:53:37 2012
+--- Log opened Sat Oct 13 03:47:14 2012
+03:47 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [Ping timeout]
+--- Log closed Sat Oct 13 03:52:37 2012
+--- Log opened Sun Oct 14 15:47:07 2012
+15:47 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [Ping timeout]
+--- Log closed Sun Oct 14 15:52:37 2012
+--- Log opened Mon Oct 15 10:54:17 2012
+10:54 -!- audist [audist@dongs-ADAFBC4.socal.res.rr.com] has quit [FFFFFFFFFff-- ]
+--- Log closed Mon Oct 15 10:59:38 2012
+--- Log opened Tue Feb 05 11:36:51 2013
+11:36 -!- Irssi: Starting query in localhost with audist
+11:37 <`> CP user: zfleming
+11:37 <`> CP pass: RM2eUGg*sc68i>Zny49j]@XxF,BY
+11:37 <`> site: zeusflemingstone.com
+11:37 <`> user: zeusf
+11:37 <`> pass: RM2eUGg*sc68i>Zny49j]@XxF,BY
+--- Log closed Tue Feb 05 11:42:41 2013
+--- Log opened Fri Feb 08 02:16:45 2013
+02:16 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Fri Feb 08 02:22:41 2013
+--- Log opened Sat Feb 09 01:19:44 2013
+01:19 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Sat Feb 09 01:25:41 2013
+--- Log opened Mon Feb 11 00:45:16 2013
+00:45 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Mon Feb 11 00:50:41 2013
+--- Log opened Tue Feb 12 01:47:55 2013
+01:47 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Tue Feb 12 01:53:41 2013
+--- Log opened Wed Feb 13 01:19:01 2013
+01:19 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Wed Feb 13 01:24:41 2013
+--- Log opened Wed Feb 13 16:59:26 2013
+16:59 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [Ping timeout]
+--- Log closed Wed Feb 13 17:04:41 2013
+--- Log opened Thu Feb 14 02:00:47 2013
+02:00 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Thu Feb 14 02:06:41 2013
+--- Log opened Fri Feb 15 03:08:05 2013
+03:08 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Fri Feb 15 03:13:41 2013
+--- Log opened Sat Feb 16 02:22:06 2013
+02:22 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Sat Feb 16 02:27:41 2013
+--- Log opened Sat Feb 16 21:35:36 2013
+21:35 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [Ping timeout]
+--- Log closed Sat Feb 16 21:40:41 2013
+--- Log opened Sun Feb 17 01:57:42 2013
+01:57 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Sun Feb 17 02:03:41 2013
+--- Log opened Mon Feb 18 02:22:47 2013
+02:22 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Mon Feb 18 02:28:41 2013
+--- Log opened Tue Feb 19 01:58:08 2013
+01:58 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Tue Feb 19 02:03:41 2013
+--- Log opened Wed Feb 20 03:43:19 2013
+03:43 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Wed Feb 20 03:48:41 2013
+--- Log opened Thu Feb 21 03:19:15 2013
+03:19 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Thu Feb 21 03:24:41 2013
+--- Log opened Fri Feb 22 04:25:56 2013
+04:25 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+--- Log closed Fri Feb 22 04:31:41 2013

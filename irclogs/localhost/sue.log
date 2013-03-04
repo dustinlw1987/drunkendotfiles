@@ -1,0 +1,277 @@
+--- Log opened Tue Jul 03 21:50:17 2012
+21:50 -!- Irssi: Starting query in localhost with Sue
+21:50 <`> yo.
+21:51 <Sue> sup
+21:51 <`> i might need to head somewhere else
+21:52 <`> for a few days
+21:52 <`> is that cool?
+21:52 <`> a good friend of mine from high school wants me to hang at his house for a few days
+21:52 <Sue> er
+21:52 <Sue> ok
+21:52 <`> yea
+21:53 <`> i havent seen him in too long
+21:53 <`> names Jerry Ward, btw
+21:53 <`> lemme pull a pic
+21:55 <`> dude
+21:55 <`> i need a wifi stick capable of executing airoscript-ng/aircrack-ng
+21:55 <`> is that d-link capable of it?
+21:56 <`> i need it in the netbook
+21:56 <`> and tonight.
+21:57 <`> i may be leaving tonight, which leaves me near-to-zero prep time.
+21:57 <`> fortunately, now that i have legit tethering, but i still dont want to use that data unless absolutely necessary.
+--- Log closed Tue Jul 03 22:02:53 2012
+--- Log opened Tue Jul 03 22:06:42 2012
+22:06 <Sue> i know this is cliche, but use backtrack
+22:06 <`> BCM94313
+22:06 <`> why.
+22:07 <Sue> because i don't want to custom compile a kernel for that thing to support that chip
+22:07 <Sue> and backtrack doesn't need installation
+22:07 <`> can you get me a stick with the latest backtrack?
+22:07 <Sue> yeah
+22:07 <Sue> get me a stick
+22:07 <`> i'll return it when i get back.
+22:07 <Sue> alright
+22:07 <`> i dont have one :|
+22:08 <`> or
+22:08 <`> er
+22:08 <`> yeah, newp. dont have it.
+22:09 <`> appreciate it, btw
+22:11 <`> yeah no
+22:11 <`> i just looked it up
+22:11 <`> backtrack forums is full of bcm4313 clusterfuck
+22:12 <`> D:
+22:12 <`> i need something that i can do aircrack-ng with
+22:12 <Sue> whut
+22:13 <`> yeah
+22:13 <`> monitor mode is NOT possible
+22:13 <Sue> 09-21-2010, 05:03 AM\
+22:13 <Sue> >two years ago
+22:13 <`> well
+22:13 <`> it needs to work before i go
+22:14 <`> D:
+--- Log closed Tue Jul 03 22:19:53 2012
+--- Log opened Tue Jul 03 22:27:20 2012
+22:27 <Sue> it's writing
+22:27 <Sue> to the usb
+22:27 <`> kk
+22:29 <`> sry about the rushjob
+22:29 <Sue> sall good
+22:34 <`> hm.
+22:39 <`> okay, my friend's on his way right now.
+22:39 <`> so i have to get shit together.
+--- Log closed Tue Jul 03 22:44:53 2012
+--- Log opened Tue Jul 03 23:07:41 2012
+23:07 <`> ah fuck it
+23:07 <`> i just need the install media for windows
+23:07 <`> here's the thing
+23:07 <`> i'm not even sure what's the system
+23:07 <`> .______________.
+--- Log closed Tue Jul 03 23:13:53 2012
+--- Log opened Tue Jul 03 23:41:47 2012
+23:41 <`> looks like i got it moved to next week
+23:42 <`> so i'll be more prepared then.
+23:42 <`> x.x
+23:42 <`> i'll have a binder just for OS installs
+--- Log closed Tue Jul 03 23:47:53 2012
+--- Log opened Wed Jul 04 00:18:40 2012
+00:18 <`> is it just me
+00:18 <`> or is wolfram.irondust dead
+--- Log closed Wed Jul 04 00:23:53 2012
+--- Log opened Sat Jul 07 01:23:30 2012
+01:23 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Client exited]
+01:23 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Client exited]
+--- Log closed Sat Jul 07 01:28:53 2012
+--- Log opened Thu Jul 12 03:42:28 2012
+03:42 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Ping timeout]
+--- Log closed Thu Jul 12 03:47:53 2012
+--- Log opened Mon Jul 16 19:57:36 2012
+19:57 <`> ssh -p 2223 suigintoulain@uamd.lolcano.me
+19:57 <`> lolwtfpwnt
+19:58 <Sue> in a little
+19:58 <`> kk
+19:58 <`> :]
+19:58 <`> but yeah
+--- Log closed Mon Jul 16 20:03:53 2012
+--- Log opened Thu Jul 26 21:20:18 2012
+21:20 -!- Irssi: Starting query in localhost with Sue
+21:20 <Sue> fuck
+21:20 <Sue> so my mom will only come down here if she rents a car
+21:21 <Sue> so my only option right now is to get on the train
+21:21 <Sue> and leave 90% of my stuff here
+--- Log closed Thu Jul 26 21:26:53 2012
+--- Log opened Thu Jul 26 21:40:37 2012
+21:40 <`> ah, yuk
+21:40 <`> i can store your stuff if you like
+--- Log closed Thu Jul 26 21:45:53 2012
+--- Log opened Thu Jul 26 23:53:08 2012
+23:53 <`> also
+23:53 <`> the G4 doesnt wanna boot up
+23:53 <`> its powered up
+23:53 <`> but im getting nada from it
+--- Log closed Thu Jul 26 23:58:53 2012
+--- Log opened Fri Jul 27 00:23:21 2012
+00:23 <`> it has static DHCP
+00:23 <`> but no response from ssh
+00:23 <`> so i dunnno
+--- Log closed Fri Jul 27 00:28:53 2012
+--- Log opened Fri Jul 27 01:56:33 2012
+01:56 <Sue> your mom works during the week
+01:56 <Sue> i have to get to riverside to catch the bus
+01:57 <`> nonissue
+01:57 <Sue> doesn't that mean i have to leave during the weekend?
+01:57 <`> again, nonissue:
+01:58 <`> 309, 9, 215 will take you directly to Riverside Downtown terminal, which also is where Greyhound is.
+01:58 <Sue> i don't have bus money
+01:58 <Sue> and
+01:58 <Sue> i have to take luggage
+01:58 <Sue> i'm not taking all that shit on the bus
+01:58 <`> we'll figure it out
+01:58 <`> we'll talk to mom tomorrow, cool?
+01:59 <Sue> alright
+01:59 <`> more than likely she'll give you a ride
+01:59 <Sue> isn't she awake still?
+01:59 <`> probably. but i kinda dont want to bother her
+01:59 <`> she was up since 5am today
+01:59 <Sue> oh and the other thing
+01:59 <`> sup?
+01:59 <Sue> the other reason i'm saying it might need to be the weekend, the most direct and cheapest route leaves at 1:30pm
+02:00 <`> of which day?
+02:00 <Sue> the whole week
+02:00 <`> no no
+02:00 <`> departing when?
+02:00 <Sue> the whole week
+02:00 <Sue> at 1:30
+02:00 <`> yeah, well
+02:00 <`> we'll figure it out
+02:00 <Sue> the most viable time would be during the weekend when she's off
+02:01 <`> well
+02:01 <Sue> it also departs saturday, same price
+02:01 <Sue> sunday it goes up 20 bucks
+02:01 <`> saturday would be the least hassle, yeah
+02:01 <Sue> so tomorrow would be clean and pack
+02:01 <`> sounds good
+02:01 <Sue> can you help me? sorry to impose
+02:01 <`> yeah
+02:01 <Sue> thanks
+02:02 <`> i hate to ask, but can we switch your system out of the 4U so i can put something in it and use it in the rack
+02:02 <Sue> i'll pull the mobo out sure
+02:02 <Sue> i'm not taking it anyway
+02:02 <Sue> i'm pulling the hdd and leaving the rest behind
+02:02 <`> oh the system?
+02:02 <`> hmm, can i borrow it?
+02:02 <Sue> yeah i was kinda implying that
+02:03 <`> :D okay, sounds good
+02:03 <Sue> i'm taking only my lcd and my hdd
+02:03 <Sue> and maybe a few other things
+02:03 <`> alright
+02:03 <Sue> the rest gets stored in the 40 gallon bins
+02:03 <`> yeah, i thought so.
+--- Log closed Fri Jul 27 02:08:53 2012
+--- Log opened Sat Jul 28 13:31:12 2012
+13:31 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Ping timeout]
+--- Log closed Sat Jul 28 13:36:53 2012
+--- Log opened Mon Jul 30 15:03:36 2012
+15:03 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (` (real nice.))]
+15:03 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (` (real nice.))]
+--- Log closed Mon Jul 30 15:08:53 2012
+--- Log opened Mon Jul 30 15:12:23 2012
+15:12 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (` (real nice.))]
+15:13 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (` (real nice.))]
+15:18 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (` (fuck you.))]
+--- Log closed Mon Jul 30 15:23:53 2012
+--- Log opened Wed Aug 08 20:47:02 2012
+20:47 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Quit: Cya.]
+--- Log closed Wed Aug 08 20:52:58 2012
+--- Log opened Wed Aug 22 10:35:38 2012
+10:35 -!- Irssi: Starting query in localhost with Sue
+10:35 <Sue> hey
+10:35 <`> \o
+10:35 <Sue> i'm not gonna be able to fully come clean on why i left
+10:36 <`> ah.
+10:36 <Sue> but i want you to know that i'm incredibly sorry about something that went on in my head
+10:36 <`> what's up?
+10:36 <Sue> it
+10:36 <Sue> it's better left unsaid really, has nothing to do with you
+10:37 <`> its cool, you can tell me
+10:37 <Sue> short answer: i had a mental breakdown
+10:37 <`> i sorta could tell
+10:37 <Sue> >closing hh
+10:37 <`> yeah, etc
+10:37 <Sue> that wouldn't normally happen
+10:37 <`> but i truly want to know what happened/why you left
+10:38 <Sue> and now hh is practially dead and the previous avenues i had for it are now closed
+10:38 <Sue> there are a bunch of reasons, some i know will piss you off
+10:38 <Sue> some you already know
+10:38 <Sue> oh
+10:39 <Sue> about the not waking you up
+10:39 <Sue> part of that was shame on my part
+10:39 <`> ah. well, i just want to know, i wont get mad
+10:39 <Sue> i don't like looking back when i'm running from my troubles
+10:39 <Sue> i'm very selfish
+10:40 <`> i kinda noticed.
+10:40 <`> but i was fine with that
+10:40 <`> to each his own, but yeah
+10:40 <Sue> but uh
+10:41 <Sue> yeah, i'm not ready for the real world yet
+10:41 <Sue> i say regressed a year, i only had a year of growth in the past four
+10:41 <Sue> i'm literally back in high school (in my head)
+10:42 <`> ah
+10:42 <Sue> (i'm in the middle of some weird epiphany)
+10:42 <Sue> (please don't mind the strange rambling)
+10:42 <`> not at all, go on.
+10:43 <Sue> i got a good night's sleep
+10:43 <Sue> and woke up in this
+10:43 <Sue> and just to detail what i mean by literally back in high school
+10:43 <Sue> i've spent the past week at my high school friend's house, playing Anarchy Online (spent all of high school playing)
+10:45 <Sue> i'm such a fucking child
+10:47 <`> i think it's a conciscous choice when you move on to other things
+10:47 <Sue> oh and mac is a middle ground between windows and linux
+10:48 <Sue> i'm not going to drink the hardware kool-aid but the software is pretty great to hack with
+10:49 <`> see why i like using my mac, then?
+10:49 <Sue> (i've been using a macbook pro late 2010 17", the hardware looks nice but LOL the fans blow hot air straight onto the screen, it's already got heat deformation)
+10:50 <`> i've got the mid-2009 13-inch
+10:50 <Sue> if you put any sort of blockage whatsoever behind the lower vent, it vents through the top part of the hinge and hits the screen
+10:50 <Sue> it's pretty hilarious
+10:50 <`> yeah, thats how it is for mine, but no heat deformation
+10:50 <Sue> it's really bad on this one
+10:51 <`> how'd you get a mbp?
+10:51 <Sue> it's my friends, he just got the rMBP
+10:51 <`> rich, eh
+10:51 <Sue> yeah
+10:51 <Sue> lemme tell you, that's one fucked up resolution
+10:51 <`> the rMBP?
+10:52 <Sue> yeah
+10:52 <`> how so
+10:52 <Sue> well, it's quad res on a 15in screen
+10:52 <Sue> i can't even read it
+10:53 <`> lols
+10:53 <Sue> but that's also because i'm a blind fuck
+--- Log closed Wed Aug 22 10:59:04 2012
+--- Log opened Wed Aug 22 11:53:55 2012
+11:53 <`> hmm
+11:54 <`> also, why didnt you smoke as much you said you would?
+--- Log closed Wed Aug 22 12:00:04 2012
+--- Log opened Sun Aug 26 18:24:27 2012
+18:24 -!- Sue [sue@dongs-A002BA52.hardestyhosting.com] has quit [Ping timeout]
+--- Log closed Sun Aug 26 18:30:06 2012
+--- Log opened Sun Feb 03 16:07:35 2013
+16:07 -!- Irssi: Starting query in localhost with Sue
+16:07 <`> gimme your SMS number
+16:09 <Sue> 9164705285
+--- Log closed Sun Feb 03 16:14:40 2013
+--- Log opened Sun Feb 03 20:28:26 2013
+20:28 -!- NO is now known as Sue
+--- Log closed Sun Feb 03 20:33:41 2013
+--- Log opened Tue Feb 05 12:13:33 2013
+12:13 -!- Irssi: Starting query in localhost with Sue
+12:13 <Sue> are you on disability or ssi
+--- Log closed Tue Feb 05 12:18:41 2013
+--- Log opened Tue Feb 05 13:22:22 2013
+13:22 <`> why?
+--- Log closed Tue Feb 05 13:27:41 2013
+--- Log opened Tue Feb 05 13:43:32 2013
+13:43 <Sue> so
+13:43 <Sue> i applied for disability
+13:44 <Sue> and they turned me down, but reused the app for ssi
+13:44 <Sue> and i was wondering if that's what you're on
+--- Log closed Tue Feb 05 13:49:41 2013

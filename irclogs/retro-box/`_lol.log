@@ -1,0 +1,75 @@
+--- Log opened Wed May 30 00:42:56 2012
+00:42 !irc.retro-box.net *** Notice -- Connection to irc.deafgeeksirc.com[irc.deafgeeksirc.com] activated.
+00:43 !irc.retro-box.net *** Notice -- (link) ZIPLink irc.retro-box.net -> irc.deafgeeksirc.com[@0:0:0:0:0:ffff:108.166.7.184.0] established
+00:43 !irc.retro-box.net (link) ZIPLink irc.deafgeeksirc.com -> irc.retro-box.net[@0:0:0:0:0:ffff:50.56.185.83.34877] established
+00:43 !irc.retro-box.net *** LocOps -- Link irc.deafgeeksirc.com cancelled, is Non-Hub but introduced Leaf irc.rubbermallet.org
+00:43 !irc.retro-box.net *** Notice -- Connection to irc.deafgeeksirc.com[irc.deafgeeksirc.com] activated.
+00:43 !irc.retro-box.net *** Notice -- (link) ZIPLink irc.retro-box.net -> irc.deafgeeksirc.com[@0:0:0:0:0:ffff:108.166.7.184.0] established
+00:43 !irc.retro-box.net (link) ZIPLink irc.deafgeeksirc.com -> irc.retro-box.net[@0:0:0:0:0:ffff:50.56.185.83.37352] established
+00:43 !irc.retro-box.net *** LocOps -- Link irc.deafgeeksirc.com cancelled, is Non-Hub but introduced Leaf irc.rubbermallet.org
+00:44 !irc.retro-box.net *** Notice -- Got signal SIGHUP, reloading unrealircd.conf file
+00:44 !irc.retro-box.net *** Notice -- Loading IRCd configuration ..
+00:44 !irc.retro-box.net *** Notice -- Configuration loaded without any problems ..
+--- Log closed Wed May 30 00:49:17 2012
+--- Log opened Wed May 30 00:51:10 2012
+00:51 !irc.retro-box.net *** Notice -- Got signal SIGHUP, reloading unrealircd.conf file
+00:51 !irc.retro-box.net *** Notice -- Loading IRCd configuration ..
+00:51 !irc.retro-box.net *** Notice -- Configuration loaded without any problems ..
+00:51 !irc.retro-box.net *** Notice -- Connecting to irc.deafgeeksirc.com[irc.deafgeeksirc.com].
+00:51 !irc.retro-box.net *** Notice -- (link) ZIPLink irc.retro-box.net -> irc.deafgeeksirc.com[@0:0:0:0:0:ffff:108.166.7.184.0] established
+00:51 !irc.retro-box.net (link) ZIPLink irc.deafgeeksirc.com -> irc.retro-box.net[@0:0:0:0:0:ffff:50.56.185.83.35246] established
+00:51 !irc.retro-box.net *** Global -- Nick collision on TandyMan100 (TandyMan100 1338356436 <- irc.deafgeeksirc.com 1338301862)
+00:51 !irc.retro-box.net *** Notice -- Client exiting: TandyMan100 (~Tandy7540@adsl-71-158-220-169.dsl.wchtks.sbcglobal.net) [Nick collision]
+00:51 !irc.retro-box.net *** Global -- Nick collision on Schrodinger (Schrodinger 1338356433 <- irc.deafgeeksirc.com 1338356684)
+00:51 !irc.retro-box.net *** Notice -- Fake direction from user Schrodinger in SJOIN from irc.retro-box.net(irc.deafgeeksirc.com) at #wtfpwnt
+00:51 !irc.retro-box.net *** Spamfilter added: 'http://www.youtube.com/user/fluxrst/videos' [target: cpnNPqduat] [action: gzline] [reason: Spam] on Sun Mar 25 20:17:53 2012 GMT (from Erik!erik@erik)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@192.168.42.1 on Wed Jan 18 02:57:51 2012 GMT (from dissimulo|i7!dissimulo@netadmin.deafgeeksirc.com: nope.)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@187.4.128.12 on Tue Dec 13 03:02:21 2011 GMT (from tidux!jon@dongs-6B466DAD.hsd1.nh.comcast.net: no reason)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@175.136.236.* on Tue Dec 13 03:12:14 2011 GMT (from Erik!erik@erik: lolnope)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@175.136.236.137 on Tue Dec 13 03:11:49 2011 GMT (from `!dissimulo@netadmin.deafgeeksirc.com: no reason)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *erwerwerw@*.emirates.net.ae on Tue Dec 13 03:10:36 2011 GMT (from tidux!jon@dongs-6B466DAD.hsd1.nh.comcast.net: no reason)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@szvdw4nr.emirates.net.ae on Tue Dec 13 02:58:14 2011 GMT (from miek|netbuk!mieknetbu@8829D848.1684DF0D.67071511.IP: no reason)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@78.129.202.38 on Fri Mar 18 20:42:52 2011 GMT (from tidux!jon@dongs-1C24846A.hsd1.nh.comcast.net: derp)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@*.home.otenet.gr on Tue Jan 18 21:53:46 2011 GMT (from Sudos!windstar_c@dongs-4B4038DF.hsd1.nj.comcast.net: BECAUSE-FUCK-YOU)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@201.236.80.197 on Wed Aug 31 11:57:11 2011 GMT (from dissimulo!dissimulo@netadmin.deafgeeksirc.com: no reason)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@c-67-172-157-13.hsd1.co.comcast.net on Mon Oct 10 21:48:36 2011 GMT (from miek|netbuk!mieknetbu@9AEEEEEC.ED5D9C8B.ACA6E65E.IP: meh)
+00:51 !irc.retro-box.net *** Permanent G:Line added for *@ircip2.mibbit.com on Sun Mar 25 04:31:46 2012 GMT (from king_crimson!king_crims@5D95EB29.ED5D9C8B.ACA6E65E.IP: sucks)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for OperServ on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for NickServ on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for ChanServ on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for HostServ on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for MemoServ on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for BotServ on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for HelpServ on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for DevNull on Fri Jan 28 23:28:43 2011 GMT (from services.deafgeeksirc.com: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for Global on Fri Jan 28 23:28:43 2011 GMT (from services.rubbermallet.org: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for i8085 on Fri Jan 28 23:28:43 2011 GMT (from services.deafgeeksirc.com: Reserved for services)
+00:51 !irc.retro-box.net *** Permanent Global Q:line added for ThinkBot on Fri Jan 28 23:28:43 2011 GMT (from services.deafgeeksirc.com: Reserved for services)
+00:51 !irc.retro-box.net *** Notice -- Max Global Count is now 57 (set by link irc.deafgeeksirc.com)
+00:51 !irc.retro-box.net *** Notice -- Possible negative TS split at link irc.deafgeeksirc.com (1338357065 - 1338357081 = -16) [PLEASE SYNC YOUR CLOCKS!]
+00:51 !irc.retro-box.net *** Notice -- Link irc.deafgeeksirc.com -> irc.retro-box.net is now synced [secs: -16 recv: 3.582 sent: 0.966]
+00:51 !irc.retro-box.net *** Notice -- Zipstats for link to irc.deafgeeksirc.com[@0:0:0:0:0:ffff:108.166.7.184.0]: decompressed (in): 3208=>8086 (39.7%), compressed (out): 1343=>623 (46.4%)
+00:51 !irc.retro-box.net *** Notice -- Network name mismatch from link irc.deafgeeksirc.com (Rubbermallet != Retro-Box)
+00:51 !irc.retro-box.net *** Notice -- Link irc.deafgeeksirc.com has a DIFFERENT CLOAK KEY - MD5:5714078d5f5e15954062093bcdda96b1 != MD5:08d12da07926bb931822563e15e4482c. YOU SHOULD CORRECT THIS ASAP.
+00:51 !irc.retro-box.net *** Notice -- Received KILL message for TandyMan100!Tandy7540@very-retro-D335A3AD.dsl.wchtks.sbcglobal.net from irc.deafgeeksirc.com Path: irc!irc.deafgeeksirc.com (Nick Collision)
+00:51 !irc.retro-box.net *** Notice -- Client exiting at irc.rubbermallet.org: TandyMan100!Tandy7540@adsl-71-158-220-169.dsl.wchtks.sbcglobal.net (Killed (irc.deafgeeksirc.com (Nick Collision)))
+00:51 !irc.retro-box.net *** Notice -- Client connecting at irc.rubbermallet.org: TandyMan100 (Tandy7540@adsl-71-158-220-169.dsl.wchtks.sbcglobal.net)
+00:51 !irc.retro-box.net (sync) Link irc.retro-box.net -> irc.deafgeeksirc.com is now synced [secs: 16 recv: 0.962 sent: 3.582]
+00:51 !irc.retro-box.net (sync) Network name mismatch from link irc.retro-box.net (Retro-Box != Rubbermallet)
+00:51 !irc.retro-box.net *** Notice -- Client connecting at irc.deafgeeksirc.com: Schrodiinger (schrodinge@10.178.228.92)
+00:51 !irc.retro-box.net *** Notice -- Client connecting on port 6667: Tandy|7540 (~Tandy7540@adsl-71-158-220-169.dsl.wchtks.sbcglobal.net) [clients] 
+00:52 !irc.retro-box.net *** Notice -- Got signal SIGHUP, reloading unrealircd.conf file
+00:52 !irc.retro-box.net *** Notice -- Loading IRCd configuration ..
+00:52 !irc.retro-box.net *** Notice -- Configuration loaded without any problems ..
+00:54 !irc.retro-box.net *** Notice -- Received KILL message for Sudos|i9100!i9100@netadmin.haul.in.the.crabs.uamd.lolcano.me from ` Path: irc!netadmin.deafgeeksirc.com!` (already fixed. stfu.)
+00:54 !irc.retro-box.net *** Notice -- Client exiting at uamd.lolcano.me: Sudos|i9100!i9100@WNR2000 (Killed (` (already fixed. stfu.)))
+00:54 !irc.retro-box.net *** Notice -- Client connecting at uamd.lolcano.me: Sudos|i9100 (i9100@WNR2000)
+00:54 !irc.retro-box.net Sudos|i9100 (i9100@WNR2000) [superdos] is now a network administrator (N)
+--- Log closed Wed May 30 00:59:17 2012
+--- Log opened Wed May 30 00:59:48 2012
+00:59 !irc.retro-box.net *** Notice -- Client connecting at irc.deafgeeksirc.com: dissimulo|i7 (dissimulo@10.178.228.92)
+00:59 !irc.retro-box.net *** Notice -- Client exiting at irc.deafgeeksirc.com: dissimulo|i7!dissimulo@10.178.228.92 (FFFFFFFFFff-- dissimulo|i7)
+01:01 !irc.retro-box.net *** Notice -- Client connecting on port 6667: Compgeke_ (~Compgeke@108-215-215-53.lightspeed.sntcca.sbcglobal.net) [clients] 
+01:02 !irc.retro-box.net *** Notice -- Client exiting: OverkillMaster (~compgeke2@108-215-215-53.lightspeed.sntcca.sbcglobal.net) [Ping timeout]
+01:02 !irc.retro-box.net *** Notice -- Client exiting: Compgeke (~Compgeke@108-215-215-53.lightspeed.sntcca.sbcglobal.net) [Ping timeout]
+--- Log closed Wed May 30 01:05:16 2012

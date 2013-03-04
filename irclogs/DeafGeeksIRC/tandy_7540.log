@@ -1,0 +1,201 @@
+--- Log opened Fri Feb 24 16:59:19 2012
+16:59 -!- Irssi: Starting query in DeafGeeksIRC with Tandy|7540
+17:00 <`> server irc.retro-box.net
+17:00 <`> user retrobox
+17:00 <`> password 52jlh762l45kj67h2l
+17:01 <Tandy|7540> sweet
+17:02 <`> unreal is already compiled in ~/Unreal3.2
+17:02 <`> just drop in your configs
+17:02 <`> and ./unreal start
+17:03 <Tandy|7540> sweet
+17:03 <Tandy|7540> holy fuck long password is long
+17:03 <`> you should be able to copypasta
+17:03 <Tandy|7540> yup
+17:03  * Tandy|7540 looks up how to change passwords
+17:03 <`> otherwise, you can passwd
+17:03 <Tandy|7540> ya
+17:03 <`> just ssh in
+17:03 <`> and execute
+17:03 <`> passwd
+17:03 <`> it'll then ask you for existing, then new pass twice
+17:04 <`> and
+17:04 <`> on a linux system
+17:04  * Tandy|7540 drops in his unreal shit
+17:04 <`> you can do ssh-copy-id
+17:04 <`> so you dont have to give a password.
+17:04 <`> ever.
+17:04 <`> fucking windows.
+17:04 <Tandy|7540> lol
+17:04 <`> linux is fucking win
+17:04 <Tandy|7540> it's easier to use windows
+17:04 <Tandy|7540> }:A
+17:04 <Tandy|7540> yeah
+17:04 <`> not for me.
+17:04 <Tandy|7540> thus the reason it's installing on the shuttle
+17:04 <Tandy|7540> no
+17:04 <Tandy|7540> I mean
+17:04 <Tandy|7540> it's easier to use windows than to fornicate
+17:04 <`> windows actually frustrates me.
+17:04 <Tandy|7540> with it
+17:05 <`> i CANNOT use it in my workflow
+17:05 <`> i HAVE TO HAVE A COMMANDLINE FOR FUCKS SAKE
+17:05 <`> i.e.
+17:05 <Tandy|7540> lol
+17:05 <`> on windows, i'd go hey, i need to look up this
+17:05 <`> and then >mfw no fucking terminal
+17:05 <Tandy|7540> haw
+17:05 <`> then grunt and groan, and pull up PuTTY, configure it, etc
+17:06 <`> when on linux, one fucking button, COMMAND FUCKING LINE
+17:06 <`> ......fucking windows
+17:06 <Tandy|7540> one button?
+17:06 <`> yeah
+17:06 <Tandy|7540> which button is this?
+17:06 <`> i add the terminal button to the panel
+17:06 <Tandy|7540> oh
+17:06 <`> so *mouse over* *click*
+17:06 <`> done.
+17:07 <Tandy|7540> >he uses a mouse
+17:07 <`> i use my keyboard
+17:07 <Tandy|7540> :P
+17:07 <`> more than my mouse
+17:07 <`> but i digress.
+17:07 <`> i also use gnome-do
+17:07 <`> CTRL SPACE, term, ENTER
+17:07 <Tandy|7540> gnome-do is amazing
+17:08 <`> yeah
+17:09 <`> i configured it to use ctrl space
+17:09 <`> so its just a quick ctrlspace and type in the first few letters, enter
+17:09 <`> all done :D
+17:09 <Tandy|7540> eyup :D
+17:09 <Tandy|7540> I think there's a windows app similar to that
+17:09 <`> there is.
+17:09 <`> launchpad?
+17:09 <`> cant really remember the name of it
+17:10 <`> on OS X, it's Quicksilver (most popular) and Alfred
+17:10 <`> http://alfredapp.com/
+17:12  * ` sets connection irc.retro-box.net
+17:12 <Tandy|7540> it's called Launchy
+17:12 <Tandy|7540> sets connection?
+17:12 <`> so it will continually try to connect
+17:12 <`> until it does.
+17:12 <Tandy|7540> oh
+17:12 <Tandy|7540> lol
+17:12 <`> or until i do /rmreconns
+17:12 <`> so what're you doing with it?
+17:12 <Tandy|7540> fun
+17:13 <Tandy|7540> copying my crap over
+17:13 <Tandy|7540> Too lazy to find the configs
+17:13 <`> ?
+17:13 <Tandy|7540> I just copied the whole damn /Unreal3.2 folder
+17:13 <`> .....
+17:13 <Tandy|7540> I'm regretting that decision... it's taking bloody ages
+17:13 <`> tell me you didn't overwrite
+17:13 <Tandy|7540> erm...
+17:13 <`> fuck.
+17:13 <Tandy|7540> that fucks stuff up?
+17:13 <`> now it needs to be recompiled.
+17:13 <Tandy|7540> well shit
+17:13 <Tandy|7540> laziness = more work generated
+17:13 <`> just stop it
+17:14 <Tandy|7540> done
+17:14 <`> and pick out all .conf files in your Unreal3.2
+17:14  * Tandy|7540 untars the unreal tarball in his home directory
+17:14  * Tandy|7540 prepares to compile dat shit
+17:14 <`> wait
+17:14 <Tandy|7540> watnao
+17:15 <`> i'm already in lol
+17:15 <Tandy|7540> oh god what the hell have I done
+17:15 <`> but if you want to recompile, be my guest
+17:15 <Tandy|7540> I untar'd it
+17:15 <Tandy|7540> before deleting the old directory
+17:15 <`> yeah
+17:15 <Tandy|7540> derp
+17:15 <Tandy|7540> herpo
+17:15 <Tandy|7540> lol
+17:15 <`> yeah.
+17:15 <Tandy|7540> GO AHEAD
+17:15 <Tandy|7540> :P
+17:15 <Tandy|7540> inb4 I completely bork your server somehow
+17:15 <`> lol
+17:15 <`> you can't
+17:15 <Tandy|7540> yeah
+17:15 <Tandy|7540> I'll find a way somehow xD
+17:15 <Tandy|7540> totally by accident
+17:16 <`> did you grab all of your .conf from the backup?
+17:16 <Tandy|7540> yeah, I've got 'em
+17:16 <`> okay
+17:16 <`> it's configuring
+17:16 <`> after that, make (compiling)
+17:17 <Tandy|7540> I know
+17:17 <`> this thing is actually speedy
+17:17 <`> quad-core
+17:17 <`> :)
+17:17 <Tandy|7540> nice
+17:17 <Tandy|7540> unreal took...
+17:17 <Tandy|7540> bloody ages
+17:17 <Tandy|7540> to compile on my PIII
+17:17 <`> lol
+17:17 <Tandy|7540> :P
+17:17 <`> here, just a minute or 2
+17:17 <`> since it's a VM
+17:18 <`> on my actual machine, less than 30 seconds
+17:18 <Tandy|7540> O_O
+17:18 <`> should be able to make in a few moments
+17:18 <`> your city?
+17:18 <`> (creating your SSL cert, i'm using your info)
+17:19 <Tandy|7540> Wichita, Ks
+17:19 <`> now running make
+17:19 <Tandy|7540> HERPLE DERPLE FURP
+17:20 <`> once you have your .confs and i'm done compiling
+17:20 <`> you need only drop those .confs into ~/Unreal3.2
+17:20 <Tandy|7540> I know
+17:20 <Tandy|7540> I have all the .confs
+17:20 <Tandy|7540> because lol windows sort-by-extension
+17:20 <`> ok, i'll let you know once it's ready for the dropin
+17:21 <`> ok, go for it.
+17:21 <Tandy|7540> copying
+17:21 <`> }:A
+17:22 <Tandy|7540> }:A
+17:22 <`>  __________________________________________________ 
+17:22 <`> | Compile is now complete.                         |
+17:22 <`> | You should now read the documentation and learn  |
+17:22 <`> | how to configure your IRCd.                      |
+17:22 <`> |                                                  |
+17:22 <`> | If you really like UnrealIRCd, and would like to |
+17:22 <`> | make a donation, please read the Donation file in|
+17:22 <`> | this archive. :)                                 |
+17:22 <`> |                                                  |
+17:22 <`> | Thanks for using Unreal IRCd! If you are in need |
+17:22 <`> | for any kind of help regarding the IRCd please   |
+17:22 <`> | read the Unreal.nfo file.                        |
+17:22 <`> |__________________________________________________|
+17:22 <`> :D
+17:22 <Tandy|7540> :3
+17:22 <Tandy|7540> copy done
+17:22 <`> now
+17:22 <`> on the commandline
+17:22 <`> cd to ~/Unreal3.2
+17:22 <Tandy|7540> cd to the unreal directory and ./start undreal
+17:22 <`> ./unreal start
+17:22 <Tandy|7540> unreal*
+17:22 <`> yup
+17:22 <Tandy|7540> oh
+17:22 <Tandy|7540> I had it backwards
+17:22 <`> yup. :P
+17:23 <Tandy|7540> oh
+17:23 <Tandy|7540> oops
+17:23 <Tandy|7540> shit
+17:23 <Tandy|7540> need to copy over the link cert
+17:23 <`> lols
+17:23 <Tandy|7540> there
+17:23 <Tandy|7540> now it's up
+--- Log closed Fri Feb 24 17:29:16 2012
+--- Log opened Fri Feb 24 17:57:53 2012
+17:57 -!- Tandy|7540 [Tandy_7540@dongs-4F545AE5.dsl.wchtks.sbcglobal.net] has quit [Ping timeout]
+--- Log closed Fri Feb 24 18:03:16 2012
+--- Log opened Tue Feb 28 16:25:30 2012
+16:25 -!- Tandy|Poosta is now known as Tandy|7540
+--- Log closed Tue Feb 28 16:31:20 2012
+--- Log opened Wed Feb 29 13:21:22 2012
+13:21 -!- Tandy|7540 [Tandy_7540@dongs-4F545AE5.dsl.wchtks.sbcglobal.net] has quit [Ping timeout]
+--- Log closed Wed Feb 29 13:27:20 2012

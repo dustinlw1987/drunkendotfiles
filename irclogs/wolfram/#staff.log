@@ -1,0 +1,1210 @@
+--- Log opened Mon Jul 23 18:58:49 2012
+18:58 -!- dissimulo [~dissimulo@btfeilhqdkktc.deafgeeksdns.com] has joined #staff
+18:58 -!- Irssi: #staff: Total of 7 nicks [5 ops, 0 halfops, 1 voices, 1 normal]
+18:58 -!- mode/#staff [+o dissimulo] by ChanServ
+18:58 -!- Irssi: Join to #staff was synced in 1 secs
+18:58 <@dissimulo> mmkay.
+18:58 <@bikcmp> hi
+18:59 <@bikcmp> Marketh: this is him.
+18:59 <@Marketh> hi
+18:59 <@dissimulo> \o
+18:59 <@bikcmp> Marketh: he's a cool guy.
+18:59 <@dissimulo> ...and deaf, ;)
+18:59 <@Marketh> I'm selectively deaf, does that count?
+18:59 <@dissimulo> haha
+18:59 <@Marketh> :D
+19:00 <@dissimulo> every time i see JStoker, i think Bram Stoker's Dracula
+19:01  * dissimulo shrugs
+19:01 <@bikcmp> JStoker's the brain ;p
+19:01 <@bikcmp> but he's also idle as hell
+19:01 <@bikcmp> he's the smartest person i know, though
+19:01 <@Marketh> aren't we all idle as hell
+19:02 <@dissimulo> heh
+19:02 <@dissimulo> this irssi instance is on a server, even.
+19:02 <@dissimulo> so i detach the screen and idle for days at a time, sometimes
+19:03 <@bikcmp> yes
+19:03 <@bikcmp> :p
+19:03 <@bikcmp> same
+19:03 <@dissimulo> i'm mostly an backdoor admin.
+19:04 <@dissimulo> something fucks up, i go in and fix, and nobody's the wiser.
+19:04 <@bikcmp> maybe you could fix Marketh's backdoor.
+19:04 <@dissimulo> my modes are insane on my server
+19:04 <@dissimulo> bikcmp: lol
+19:04 <@bikcmp> dissimulo: 
+19:04 <@bikcmp> 19:20:55   * Zanzibar wants everyone to enjoy 4:20 right now!. It's the perfect time to celebrate! Relax, Enjoy, and Live High! Happy 4:20 Everyone!
+19:04 <@bikcmp> 20:02:53  < bikcmp> lives in a box ^
+19:05 <@bikcmp> anyway.  
+19:05 <@bikcmp> dissimulo: so, like we were discussing
+19:05 <@bikcmp> i want to reset stuff re: spitfire back to the way it was july 6
+19:05 <@bikcmp> the day before this happened
+19:09 <@dissimulo> yeah.
+19:10 <@bikcmp> dissimulo: ok, i guess i'll do it
+19:10 <@bikcmp> dissimulo: first, kill spit, i guess
+19:11 <@bikcmp> Marketh: i hope you aren't relaying logs
+19:11 <@bikcmp> dissimulo: 20:09:42  -!- Sue [~sue@bitch/Sue] has joined #hh
+19:11 <@bikcmp> 20:09:42  -!- mode/#hh [+o Sue] by ChanServ
+19:11 <@bikcmp> 20:09:56  <@Sue> mail.hh or nagisa itself
+19:11 <@dissimulo> yeah i know
+19:11 <@bikcmp> look who's there
+19:11 <@dissimulo> i told him
+19:12 <@dissimulo> also, my typical way of /killing is to first /oper up
+19:12 <@dissimulo> what's the exact procedure here?
+19:12 <@bikcmp> oh.
+19:12 <@bikcmp> dissimulo: i was going to do it
+19:12 <@bikcmp> but, uh
+19:12 <@bikcmp> yeah
+19:12 <@bikcmp> lol
+19:12 <@dissimulo> i'm a unrealircd dude, remember
+19:12 <@dissimulo> :P
+19:12 <@dissimulo> but yeah
+19:12 <@bikcmp> that sucks!
+19:12 <@dissimulo> no it doesn't
+19:12 <@dissimulo> i love unreal
+19:12 <@dissimulo> :D
+19:12 <@bikcmp> get out
+19:12 <@dissimulo> noep
+19:12 <@dissimulo> :p
+19:13 <@bikcmp> dissimulo: what should the k: message be
+19:13 <@dissimulo> hmm.
+19:13 <@dissimulo> good question.
+19:13 <@bikcmp> i'm thinking
+19:14 <@bikcmp> dissimulo: "You have violated the user conduct policy.  Please read http://www.irondust.net/UserConductPolicy.  Email kline@irondust.net to appeal."
+19:14 <@dissimulo> sounds democratic and fair, yeah.
+19:14 <@dissimulo> go ahead.
+19:14 <@bikcmp> dissimulo: i always add the email in there.
+19:15 <@bikcmp> i want you to too
+19:15 <@Marketh> why are you killing him for?
+19:15 <@bikcmp> Marketh: he's done tons of shit.
+19:15 <@dissimulo> spamming/flooding, chiefly.
+19:15 <@Marketh> Since the removal from staff?
+19:15 <@bikcmp> yes.
+19:15 <@Marketh> Where was he doing that?
+19:15 <@bikcmp> Marketh: i've seen logs of him asking people to flood.
+19:15 <@dissimulo> #help from the logs i was shown
+19:15 <@Marketh> bikcmp, sorry but I'm not convinced until I know how you even know those logs are real
+19:16 <@Marketh> and who they are from and who he asked
+19:16 <@Marketh> I could type up a fake irc log right now with you telling people you are black with pink spots and you love sucking cock
+19:16 <@Marketh> that doesn't mean it's real
+19:16 <@bikcmp> i'm not foolish enough to reveal who told me that info
+19:16 <@Marketh> then why should you believe it's real?
+19:16 <@bikcmp> i have good reason to suspect it's real.
+19:16 <@Marketh> suspect? So you are not 100% sure
+19:16 <@Marketh> seems legit
+19:17 <@dissimulo> i would also suggest you guys put logging bots in most channels.
+19:17 <@Marketh> your suspecting is pretty biased considering what has happened
+19:17 <@bikcmp> no
+19:17 <@dissimulo> this way, everything is verifiable
+19:17 <@bikcmp> dissimulo: xanos does log channels in an anonymous way
+19:17 <@dissimulo> so check against that
+19:17 <@Marketh> dissimulo, nothing is reliable if the staff can't trust eachother and won't even share sources of information
+19:17 <@bikcmp> dissimulo: well
+19:17 <@bikcmp> dissimulo: it doens't log the person who said it
+19:17 <@bikcmp> nor the order of what it was said
+19:17 <@bikcmp> nor where it was said
+19:17 <@bikcmp> lol
+19:17 <@dissimulo> yeah.
+19:18 <@dissimulo> that's an issue.
+19:18 <@dissimulo> i would just shove an eggdrop logging bot
+19:18 <@dissimulo> and call it "stats"
+19:18 <@dissimulo> and the end result is that everything gets logged.
+19:18 <@bikcmp> eh
+19:18 <@bikcmp> i wouldn't
+19:18 <@dissimulo> thats what i do on my other network, users love it
+19:18 <@bikcmp> dissimulo: xanos also loosely monitors channels it isn't in
+19:18 <@dissimulo> and i end up having a neutral source of logs
+19:18 <@bikcmp> but it doesn't log the content of messages.
+19:19 <@bikcmp> Marketh: additionally, it's the exact same nicks that nightmare used to hit #smbx.
+19:19 <@bikcmp> they match.
+19:20 <@Marketh> can I at least see the logs you claim prove it?
+19:20 <@Marketh> as far as I'm aware, you've already shown Tarlach
+19:20 <@bikcmp> sigh
+19:20 <@bikcmp> if you want
+19:20 <@bikcmp> give me 5 minutes to find them.
+19:22 <@dissimulo> Marketh: i'm relatively new here; I came in via #hh
+19:22 <@bikcmp> Marketh: ok
+19:23 <@bikcmp> Marketh: what do you want from logs.
+19:23 <@Marketh> Whatever it is that supposedly proves spitfire is the cause of the flooding etc
+19:23 <@Marketh> Just show me what you showed Tarlach
+19:23 <@Marketh> If it was enough to convince him
+19:24 <@bikcmp> sigh
+19:24 <@bikcmp> Marketh: i showed tarlach a /lot/ of logs
+19:24 <@bikcmp> but ok
+19:25 <@bikcmp> dissimulo: watch too, if you care
+19:25 <@Marketh> grrrr, wish i never changed client
+19:25  * dissimulo pets irssi
+19:26 <@bikcmp> Marketh: ok
+19:26 <@bikcmp> Send: Anyway, would you like to explain what happened?
+19:26 <@bikcmp> <Spitfire> No, not really.
+19:26 <@bikcmp> <Spitfire> There's not really anything to explain.
+19:26 <@bikcmp> <Spitfire> And in any case I'd rather just move on.
+19:26 <@bikcmp> dissimulo, too
+19:26 <@dissimulo> yeah.
+19:26 <@dissimulo> go ahead.
+19:26 <@bikcmp> Send: I'd at least like a reason as to why a flood was initated from 2 of my boxes
+19:26 <@bikcmp> <Spitfire> A reason?
+19:26 <@bikcmp> <Spitfire> I don't think there is any reason.
+19:26 <@bikcmp> Send: was it knowingly executed by you, or someone designated to terminate connections on your box?
+19:26 <@bikcmp> <Spitfire> Is this necessary?
+19:26 <@bikcmp> dissimulo: this was done through another host
+19:27 <@bikcmp> he didn't know it was me.
+19:27 <@dissimulo> hm.
+19:28 <@Marketh> this isn't really proving anything
+19:28 <@Marketh> Yet
+19:29 <@bikcmp> ok
+19:29 <@bikcmp> Marketh: sorry i'm multitasking as hel
+19:29 <@bikcmp> l
+19:30 <@alyx> hi
+19:30 <@alyx> dissimulo: hi
+19:31 <@alyx> dissimulo: welcome to hell
+19:31 <@alyx> erm, I mean #staff 
+19:31 <@bikcmp> same thing
+19:31 <@bikcmp> dissimulo: so
+19:31 <@alyx> p much :P
+19:31 <@bikcmp> dissimulo: after that
+19:31 <@bikcmp> dissimulo: 03:51:57 <bikcmp> 03:51:36  <@Spitfire> I think if you have an issue then you should approach me  about it.
+19:31 <@bikcmp> 03:51:57 <bikcmp> 03:51:41  <@Spitfire> There's nothing unfair in that.
+19:31 <@bikcmp> 03:51:57 <bikcmp> 03:51:45  <@bikcmp> Spitfire: i already did.
+19:34 <@Marketh> I'm not really sure what that is meant to be showing?
+19:35 <@bikcmp> Marketh: i'm going through a /lot/ of logs.
+19:35 <@Marketh> I get that, I'm just saying the last one seems out of context somehow
+19:35 <@Marketh> remember the logs are meant to be proving something, I don't really get what these are proving so far
+19:35 <@bikcmp> Marketh: ok
+19:35 <@bikcmp> Marketh: what do you want me to prove
+19:35 <@bikcmp> that may help.
+19:36 <@Marketh> ok start with the flooding thing then. You said you had logged proof of spitfire asking a friend to flood the network or something?
+19:36 <@bikcmp> i don't want to share those, since it'd be easy to tell who gave them
+19:36 <@bikcmp> rest assured, i have them.
+19:37 <@Marketh> Censor out whatever it is that could give away who it is from?
+19:37 <@Marketh> Which friend of Spitfire was it that he asked to flood the network, then?
+19:38 <@bikcmp> Marketh: i don't want to share this information.  it would be /very/ easy to figure out who it is.
+19:38 <@Marketh> honestly, this has been a total failure so far. I simply asked for logs of proof and all you've managed to do is show old logs that I've already seen that prove absolutely nothing
+19:38 <@Marketh> :/
+19:39 <@bikcmp> sigh
+19:43 <@Marketh> just to point out
+19:43 <@Marketh> [01:18:51] <Marketh> can I at least see the logs you claim prove it?
+19:43 <@Marketh> [01:18:57] <Marketh> as far as I'm aware, you've already shown Tarlach
+19:43 <@Marketh> [01:19:28] <bikcmp> sigh
+19:43 <@Marketh> [01:19:30] <bikcmp> if you want
+19:43 <@Marketh> [01:19:34] <bikcmp> give me 5 minutes to find them.
+19:43 <@Marketh> you are either going to show the proof or not
+19:43 <@bikcmp> i've found logs of spitfire not doing bullshit when he saw floods from his girlfriend
+19:43 <@bikcmp> and dodging questions about the floods.
+19:43 <@bikcmp> and being a jerk.
+19:44 <@Marketh> Considering what you put him through I am not surprised he is deliberately trying to avoid you
+19:44 <@Marketh> But that doesn't prove he is guilty
+19:44 <@Marketh> and that's irrelevant
+19:44 <@Marketh> We are talking about the recent floods
+19:44 <@Marketh> after he was removed from staff
+19:44 <@Marketh> You are going off-topic
+19:44 <@Marketh> You said you were going to show proof and to give you 5 minutes
+19:44 <@bikcmp> are you just trying to give me a hard time?
+19:45 <@Marketh> but all you've shown is old logs that I've already seen, then said you WON'T show proof
+19:45 <@Marketh> bikcmp, not at all
+19:45 <@Marketh> I actually want to see the proof you claim that you have
+19:45 <@bikcmp> Marketh: i won't show proof of the floods so that i still can see logs of him doing stuff.
+19:45 <@bikcmp> if i show them to you now it jeopardizes future logs.
+19:45 <@Marketh> I have heard it from both Spitfire and Nightmare personally, as close friends, that neither of them have done anything against the network since then. I have no reason not to believe them, which is why I want proof that they did anything before I am going to take sides
+19:45 <@bikcmp> i'm not asking you to take a side
+19:45 <@Marketh> I know you are not
+19:46 <@Marketh> but they ar enot such great friends of mine if they are going to lie to me and put me in the middle of this shit
+19:46 <@Marketh> Which is why I want to know where I stand. I want to know if they did something wrong.
+19:46 <@Marketh> But as far as I can tell so far, they haven't done anything wrong. And you haven't been able to proove otherwise
+19:46 <@Marketh> Even when you said you were going to show me proof, you then said you were not going to show me proof.
+19:47 <@bikcmp> sigh.
+19:47 <@bikcmp> Marketh: fine.
+19:47 <@bikcmp> Send: so, are you aware of what's been going on with both of the boxes lately, and massive numbers of irc clones? :)
+19:48 <@bikcmp> <Nightmare> There wasn't that many of them, maybe 10 at msot
+19:48 <@bikcmp> Send: yes, I know how many there were
+19:48 <@bikcmp> Send: Can I note that if you continue to do this, that there will be consequences?
+19:48 <@bikcmp> Send: I feel that this is a violation of our TOS
+19:48 <@bikcmp> <Nightmare> Yeah, I understand that everyone is pissed off over it. But what was so wrong with it? It wasn't like I was conducting ddos attacks on irondust or something
+19:48 <@bikcmp> Send: floodbots is a form of attack on channels
+19:49 <@bikcmp>  <Nightmare> The only person that minded was bikcmp, and everyone else there thought it was pretty funny, actually.
+19:49 <@bikcmp> 22:36:50 <bikcmp> i see nothing funny with spamming a channel for 3 hours
+19:49 <@bikcmp> 22:36:59 <bikcmp> while wasting bandwidth that our sponsors pay for
+19:49 <@bikcmp> 22:37:22 <bikcmp> 19:59:18  < Joey> Kyafire: you should've been here earlier
+19:49 <@bikcmp> 22:37:22 <bikcmp> 19:59:26  < Joey> nightmare flooded the channel for a good 2 hours
+19:49 <@bikcmp> 22:37:28 <bikcmp> 20:00:54  < Joey> she fucking brought in a botnet
+19:49 <@bikcmp> 23:58:32 <Dan> Nightmare is now interested in reading our TOS, which I am about to update
+19:49 <@bikcmp> Marketh: proof enough.
+19:49 <@bikcmp> <Dan> I see a large ammount or irc traffic outgoing, somebody posts about a flood in smbx, and then bikcmp posts the ip in smbx
+19:50 <@bikcmp> dissimulo: for what it's worth, here?
+19:50 <@bikcmp> Marketh, too
+19:50 <@bikcmp> Marketh: someone wants to host a qwebirc for id.
+19:51 <@bikcmp> he gave me all of his contact details. at first i'm like, i'll give you an iline.
+19:51 <@bikcmp> though, it might be really useful to have qwebirc.
+19:51 <@bikcmp> especially if i don't need to manage it.
+19:51 <@bikcmp> thoughts about giving him a cgiirc block?
+19:51 <@Marketh> sorry, also multitasking
+19:51 <@Marketh> heh
+19:51 <@Marketh> ok reading now
+19:51 <@bikcmp> Marketh: one thing to note
+19:51 <@bikcmp> Marketh: some of that wasn't sent by me.
+19:54 <@Marketh> bikcmp, isn't that related to the original flooding?
+19:54 <@Marketh> Not the recent flooding
+19:54 <@bikcmp> yes
+19:54 <@bikcmp> like i said, i will not release the logs for the recent floods.
+19:54 <@bikcmp> sorry, won't happen
+19:54 <@Marketh> That is the proof I wanted, and you knew it was
+19:55 <@Marketh> We all already knew Nightmare was the cause of the original flooding, that is news to nobody
+19:55 <@bikcmp> Marketh: this is all the proof i'm willing to give out.
+19:55 <@bikcmp> i figured you want this over nothing.
+19:55 <@Marketh> Then as far as I'm concerned you are unable to prove nothing :/
+19:55 <@bikcmp> suit yourself
+19:55 <@Marketh> All you've been able to do is show old logs of information that is already largely known publically
+19:56 <@bikcmp> ok
+19:56 <@Marketh> I already made it clear enough that I wanted proof of how it could have been spitfire or nightmare that caused the recent flooding
+19:56 <@bikcmp> ... cool
+19:56 <@Marketh> Surely as staff we should all have the right to see the proof if it is concerning banning somebody
+19:57 <@Marketh> It seems very one-sided if it all comes down to one persons decision
+19:57 <@bikcmp> w56
+19:58 <@bikcmp> Marketh: for what it's worth
+19:58 <@bikcmp> i did not make that decision singlehandedly.
+19:58 <@bikcmp> i made it with a vote of 3 people who watched what happened.
+19:58 <@Marketh> The vote should be between staff
+19:58 <@Marketh> Did anyone else here vote? JStoker? alyx ?
+19:59 <@bikcmp> one person who was in here voted.
+19:59 <@bikcmp> in fact
+19:59 <@bikcmp> all 3 were at one time staff.
+19:59 <@Marketh> wait wait
+19:59 <@Marketh> "at one time"
+19:59 <@bikcmp> yes.
+19:59 <@Marketh> They were not staff at the time of voting?
+19:59 <@bikcmp> it wasn't really a vote vote
+19:59 <@Marketh> wait wait
+19:59 <@Marketh> let me get this straight
+19:59 <@bikcmp> it was more a "do you think i should do this"
+19:59 <@Marketh> you held a vote with people were are EX-STAFF
+19:59 <@bikcmp> yep
+20:00 <@Marketh> you didn't even discuss this with the other ACTUAL staff members of this network
+20:00 <@Marketh> you didn't show them the logs, you didn't hold a vote with them
+20:00 <@Marketh> instead, you held a vote with people who are NOT staff
+20:00 <@bikcmp> i showed the logs i was showing the others.
+20:00 <@Marketh> ho w is that even valid
+20:00 <@Marketh> holding a vote to ban somebody from this network with people who are not even staff?
+20:00 <@alyx> what did we vote about?
+20:00 <@bikcmp> nothing at all
+20:00 <@bikcmp> lol
+20:00 <@Marketh> alyx, we didnt' vote about anything
+20:00 <@Marketh> staff members were not even involved
+20:00 <@alyx> oh
+20:00 <@alyx> Marketh: on which topic
+20:01 <@bikcmp> alyx: 'kill spitfire or just lynch him'
+20:01 <@alyx> bikcmp: oh
+20:01 <@Marketh> to do with banning Spitfire for APPARENTLY flooding the network
+20:01 <@Marketh> after his kline
+20:01 <@Marketh> bikcmp refuses to show logged proof that he claims to have
+20:01 <@bikcmp> uh
+20:01 <@bikcmp> no
+20:01 <@bikcmp> alyx: i have logs of spitfire asking someone to flood.
+20:01 <@alyx> i see
+20:01 <@Marketh> Which he refuses to share with other staff members
+20:01 <@bikcmp> i won't give them out since if spitfire or someone who shouldn't see it ever saw them, they'd know who it is.
+20:01 <@Marketh> bikcmp, but this is a matter that concerns staff
+20:02 <@Marketh> The fact that you have gone behind OUR back and instead discussed and voted with people who are NOT staff
+20:02 <@Marketh> That totally makes the vote invalid
+20:02 <@Marketh> You won't even share the claimed proof that you have
+20:02 -!- bikcmp [~jason@staff/bikcmp] has left #staff []
+20:02 -!- bikcmp [~jason@staff/bikcmp] has joined #staff
+20:02 -!- mode/#staff [+o bikcmp] by ChanServ
+20:03 <@bikcmp> dissimulo: pm.
+20:29 -!- Marketh [marketh@staff/Marketh] has quit [K-lined]
+20:29 <@bikcmp> oh.
+20:29 <@bikcmp> crap.
+20:33 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+20:33 -!- mode/#staff [+o Marketh] by ChanServ
+20:35 <@bikcmp> Marketh: hi
+20:35 <@bikcmp> Marketh: sorry about that
+20:35 <@bikcmp> i didn't realize you connected from same ip
+20:35 <@Marketh> it's fine :p
+21:48 <@dissimulo> so, i was afk.
+21:48 <@dissimulo> what's up?
+21:48 <@bikcmp> dissimulo: thevoid keeps going around with some bullshit log
+21:49 <@bikcmp> i k:'ed him.
+21:49 <@dissimulo> bullshit log containing what?
+21:49 <@bikcmp> dissimulo: convo between me and spitfire
+21:49 <@bikcmp> basically, removed all the good things i said
+21:49 <@dissimulo> ah.
+21:49 <@dissimulo> basically taking out the context and making you look bad
+21:49 <@bikcmp> yes
+21:50 <@bikcmp> man
+21:50 <@bikcmp> some people are just fucking... i don't even know
+21:50 <@bikcmp> out there.
+21:53 <@dissimulo> unfortunately.
+22:00 -!- alyx changed the topic of #staff to: 02:49 <@bikcmp> some people are just fucking... | And that, children, is how babies are made.
+22:01  * alyx whistles
+22:17 <+Xanos> (Xanos #FLB-0P0) Warning: K-Lined jason@w-60-73-87-396.hsd6.nj.comcast.net {68.38.78.132} for spamming in #test (badstring) --- Message:http://pastebin.com/CJu8Mu9W
+22:17 <@bikcmp> works for me
+22:18 <@bikcmp> dissimulo: i want to also add one more person to the staff team
+22:18 <@bikcmp> alyx: too
+22:18 <@bikcmp> alyx: dan.
+22:19 <@alyx> sure
+22:19 <@alyx> bikcmp: btw
+22:19 <@alyx> bikcmp: could you uh
+22:19  * bikcmp uhs
+22:19 <@alyx> bikcmp: remove the klines for insomnia.unlink.nswier.edu.au and 125.88.128.138
+22:19 <@alyx> if they're still there
+22:19 <@bikcmp> removed
+22:19 <@alyx> ty
+22:21 <@bikcmp> alyx: think that i should add dan?
+22:21 <@alyx> bikcmp: i have no problem with that
+22:21 -ChanServ:#staff- bikcmp set flags +AORVfiorstv on danp.
+22:21 -!- mode/#staff [+I $a:danp] by bikcmp
+22:22 -!- Dan [~Daniel@96-5-393-349.lightspeed.tukrga.sbcglobal.net] has joined #staff
+22:22 -!- mode/#staff [+o Dan] by ChanServ
+22:23 <@alyx> hi Dan 
+22:23 <@alyx> welcome to hell
+22:23 <@alyx> erm
+22:23 <@alyx> I mean #staff 
+22:23 <@bikcmp> alyx: old joke
+22:23 <@bikcmp> dissimulo: here, too
+22:23 <@alyx> bikcmp: :P
+22:24 <@bikcmp> alyx: do you even have an O:
+22:24 <@alyx> bikcmp: no
+22:24 <@alyx> bikcmp: I've mentioned this before :P
+22:24 <@bikcmp> good!
+22:24 <@bikcmp> alyx: i know, just wanted to rub it in your face.
+22:24 <@alyx> lol
+22:24 <@alyx> bikcmp: btw
+22:24 <@bikcmp> alyx: actually
+22:24 <@bikcmp> you do
+22:24 <@alyx> you should really like
+22:24 <@bikcmp> lol
+22:25 <@alyx> make the users know that only you and jstoker have olines
+22:25 <@alyx> because people poke me wanting help
+22:25 <@bikcmp> alyx: won't be true in a minute.
+22:25 <@bikcmp> :)
+22:25 <@bikcmp> alyx: you actually do have an oline. lol.
+22:25 <@alyx> bikcmp: oh
+22:25 <@alyx> bikcmp: for what hosts
+22:25 <@bikcmp> $6$FUCKYOUBIKCMP666$
+22:25 <@bikcmp> Lol
+22:25 <@bikcmp> fuck you.
+22:25 <@alyx> ..XD
+22:26 <@bikcmp> alyx: pm me a new hash if you don't remember it
+22:26 <@bikcmp> and hosts.
+22:27 <@bikcmp> someone's flooding #knuxcentral 
+22:27 <@bikcmp> can someone watch it for me
+22:36 <@bikcmp> dissimulo: yo
+22:45 -!- Dan [~Daniel@96-5-393-349.lightspeed.tukrga.sbcglobal.net] has quit [Quit: Rejoice, for I am gone!]
+22:45 -!- Dan [~Daniel@96-5-393-349.lightspeed.tukrga.sbcglobal.net] has joined #staff
+22:45 -!- mode/#staff [+o Dan] by ChanServ
+22:52 <+Xanos> (Xanos #MSGFL-ROW-0P7.6) Warning: K-Lined Kalphiter@68.65.shz.gv {68.65.129.34} for spamming in #help (repeating messages in a pattern) --- Message:For the real truth on the bikcmp/Spitfire situation, see http://pastebin.com/CJu8Mu9W for logs and http://imgur.com/a/BWGo2 for screenshot proof
+22:53 <+Xanos> (#xanoslib AUTO1-h=0.9999%-s=0.457127941335%) strange activity: bikcmp@staff/bikcmp {127.0.0.1} - spamming in #xanos-ctl Probability=45%) Message=addbad http://imgur.com/a/BWGo2
+23:05 -!- Xanos [idu5@user/bikcmp/bot/Xanos] has quit [Remote host closed the connection]
+23:05 -!- Xanos [idu5@user/bikcmp/bot/Xanos] has joined #staff
+23:05 -!- mode/#staff [+v Xanos] by ChanServ
+23:10 <@Dan> dissimulo: you're fired!
+23:13 <@alyx> xD
+23:38 <+Xanos> (#xanoslib AUTO1-h=0.9999%-s=0.473935720739%) strange activity: bikcmp@staff/bikcmp {127.0.0.1} - spamming in #xanos-ctl Probability=47%) Message=addbad http://pastebin.com/CJu8Mu9W
+23:38 <@bikcmp> lol
+23:47 <@alyx> lol
+23:48 <@bikcmp> alyx: hmm.
+23:48 <@bikcmp> i'm thinking about making a youtube channel
+23:48 <@bikcmp> for car crashes.
+23:48 <@Dan> http://wimp.com/bppr
+23:48 <@bikcmp> ll
+23:48 <@alyx> lol..
+23:48 <@alyx> wat
+23:48 <@bikcmp> alyx: should i do it
+23:48 <@alyx> do it
+23:48 <@bikcmp> alyx: basically
+23:49 <@bikcmp> i love car crashes
+23:49 <@bikcmp> but like
+23:49 <@bikcmp> there are so many shitty ones one the internet
+23:49 <@bikcmp> i'm thinking about unifying the ones i like.
+23:49 <@bikcmp> i'm going to use another youtube account just in case youtube gets all mad
+23:49 <@bikcmp> lol
+23:50 <@bikcmp> alyx: http://www.youtube.com/user/roadcarcrashes
+23:50 <@bikcmp> posted my first one
+23:57 <@bikcmp> alyx: http://www.youtube.com/watch?v=ub2kG5bnJ9I&feature=youtu.be
+23:57 <@bikcmp> lol
+--- Day changed Tue Jul 24 2012
+01:40 <@Dan> Marketh: would you like a bnc hosted on an unbanned IP?
+01:42 <@dissimulo> i love having a server with dedicated irssi instances }:A
+01:44 <@Dan> I love having a server with dedicated irssi instances and dedicated bncs
+01:44 <@Dan> but I run the IronDust bouncers apparently
+01:52  * bikcmp yawn
+01:57 <@alyx> lol
+01:57 <@alyx> lol
+02:00 <@bikcmp> lol.
+02:00 <@bikcmp> lol.
+02:20 -!- Dan [~Daniel@96-5-393-349.lightspeed.tukrga.sbcglobal.net] has quit [Quit: Rejoice, for I am gone!]
+05:45 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+13:58 -!- Dan [~Daniel@08-3-086-037.lightspeed.clmasc.sbcglobal.net] has joined #staff
+13:58 -!- mode/#staff [+o Dan] by ChanServ
+14:50 <@alyx> bikcmp: fuck you
+14:50 <@alyx> erm
+14:50 <@alyx> I mean hi bikcmp 
+14:52 <@bikcmp> alyx: hi :)
+14:52 <@bikcmp> fuck you too :)
+14:53 <@alyx> bikcmp: is that an offer?
+14:53 <@bikcmp> where you at
+14:53  * alyx gets the ropes and liquid wax
+14:53 <@bikcmp> alyx: guess what
+14:53 <@alyx> bikcmp: what?
+14:53 <@bikcmp> alyx: the TSA is now offering free handjobs for everyone who wants a pat down
+14:53 <@alyx> lool
+14:53 <@bikcmp> just to make them 'feel better'
+14:53 <@alyx> XD
+14:54 <@bikcmp> "now let me check under your testicles"
+14:54 <@bikcmp> lol
+14:54 <@bikcmp> alyx: the us terrorism shit is pissing me off
+14:54 <@bikcmp> alyx: know how many people have died of terrorism in the past 15 years
+14:54 <@bikcmp> lol
+14:54 <@bikcmp> 5000 to 6000.
+14:55 <@bikcmp> know how many people have died of cancer (DNA scrambling machines, anyone?) in the past 15 years?
+14:55 <@alyx> over 900
+14:55 <@alyx> 9000*
+14:55 <@bikcmp> 135000000 ;p
+14:55 <@bikcmp> (9 mil times 15)
+14:55 <@alyx> o.O
+15:02 <@bikcmp> 17
+15:17 <@bikcmp> alyx: oh right
+15:18 <@bikcmp> alyx: i had some oldass hag as a teacher for eighth grade or sometihng
+15:18 <@bikcmp> seventh or eighth
+15:18 <@bikcmp> right?
+15:18 <@bikcmp> alyx: so today i'm on my bike going to wawa
+15:18 <@bikcmp> and i see a car broken down in like, the middle of a busy road
+15:18 <@bikcmp> it was her. i was laughing my ass off
+15:23 <@alyx> :O
+15:23 <@alyx> woow
+15:24 <@bikcmp> ikr
+16:06 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+16:06 -!- mode/#staff [+o Marketh] by ChanServ
+16:34 <@Dan> I was looking in my console. looks like someone is trying to get in
+16:34 <@Dan> or was...
+16:39 <@alyx> O.o
+17:00 <+Xanos> (#xanoslib AUTO1-h=0.999268422196%-s=0.504342937309%) strange activity: MasterBTB@j49-25-38-21.dim.wideopenwest.com {23.28.12.48} - spamming in #knuxcentral Probability=50%) Message=PENIS ENLARGEMENT
+17:00 <+Xanos> (#xanoslib AUTO1-h=0.999268422196%-s=0.504342937309%-p=50%) Autokilled MasterBTB (auto1).
+17:06 <+Xanos> (#xanoslib AUTO1-h=0.999809763118%-s=0.457210449918%) strange activity: Sakke@hvsf-744-849-268-832.tp-fne.tampereenpuhelin.net {109.204.173.242} - spamming in #knuxcentral Probability=45%) Message=I get k-lined if I scream PENIS ENLARGEMENT
+17:51 <@bikcmp> Dan: that dude is creepy
+17:51 <@bikcmp> thanks
+17:52 <@Dan> you're welcome
+17:52 <@Dan> part of the job.
+17:52 <@bikcmp> and you did it perfectly
+17:52  * bikcmp pokes alyx with an electric stick
+17:53 <@Dan> heh
+17:53 <@bikcmp> i hate tor
+17:53 <@bikcmp> so much
+17:53 <@Dan> I was about to ban tor!
+17:53 <@Dan> too slow I guess
+17:53 <@bikcmp> Dan: 18:52:14  <@OperServ> bikcmp AKILL:ADD: *@*.torservers.net (reason: TOR is not allowed on this network.  Please connect  using your normal connection.  Email kline@irondust.net for help.) (duration: Permanent)
+17:53 <@bikcmp> ;p
+17:54 <@Dan> I can't join #services, lol
+17:54 <@bikcmp> Dan: eh
+17:55 <@bikcmp> Dan: go crazy
+17:55 <@bikcmp> Dan: fwiw, #bopm too
+17:55 <@Dan> Marketh's BNC keeps trying to connect
+17:55 <@bikcmp> yah
+17:55 <@bikcmp> w/e
+17:55 <@bikcmp> lol
+17:55 <@bikcmp> Dan: join #services and #Bopm
+17:55 <@Dan> I can't join #services
+17:56 <@Dan> I am not on the invite list
+17:56 <@bikcmp> what's your account name
+17:56 <@bikcmp> oh
+17:56 <@bikcmp> you ucker
+17:56 <@bikcmp> fucker
+17:56 <@bikcmp> :P
+17:56 <@Dan> danp, of course
+17:56 <@bikcmp> Dan: now
+17:57 -!- Dan [~Daniel@08-3-086-037.lightspeed.clmasc.sbcglobal.net] has quit [Changing host]
+17:57 -!- Dan [~Daniel@staff/Danp] has joined #staff
+17:57 -!- ServerMode/#staff [+o Dan] by quicksilver.irondust.net
+17:57 <@Dan> Dan is capitalized, danp is not, lol.
+17:57 <@bikcmp> oh shut up
+17:57 <@bikcmp> Dan: fine.
+17:57 <@bikcmp> fixed ;p
+17:57 <@Dan> I'm picky with my nicks
+17:57 <@bikcmp> read as dicks
+17:57 <@bikcmp> j/s
+17:58 <@bikcmp> lol
+17:58 <@Dan> those too
+17:58 <@Dan> they are required to be strapped onto a girl
+17:58 <@bikcmp> anyway
+17:58 <@bikcmp> yeah
+17:58 <@bikcmp> go nuts
+17:58 <@Dan> :)
+18:17 <@bikcmp> mmm
+18:18 <@bikcmp> Dan: have any deaf friends?
+18:22 <@Dan> nope. in fact, I don't think there was a single deaf person in my whole high school, and we had like 1500 students
+18:25 <@bikcmp> lol
+18:39 <@alyx> O_o
+19:37 <@bikcmp> Dan: well
+19:37 <@bikcmp> Dan: my hearing is like, shitting itself
+19:38 <@bikcmp> and there's a 50/50 it'll get worse ;p
+19:38 <@bikcmp> so, yeah.
+19:38 <@bikcmp> been practicing with a few deaf people i know, but like
+19:38 <@bikcmp> i've seen one deaf person in my life
+19:38 <@bikcmp> lol
+20:09 <@bikcmp> 21:08:05  <NameUser> let me free some internet by getting rid of irc
+20:09 <@bikcmp> yeah
+20:09 <@bikcmp> because irc uses so much bw
+20:54 <@Dan> lol
+20:55 <@Dan> bikcmp: let's get the Jordan Freeman Group to donate a server! lol
+20:57 <@bikcmp> lol
+20:57 <@bikcmp> Dan: where
+20:57 <@bikcmp> Dan: did he really ask?
+21:23 <@bikcmp> dissimulo: yo
+21:23 <@bikcmp> dissimulo: what happened with your cat
+--- Day changed Wed Jul 25 2012
+00:49 <@bikcmp> alyx: i love you.
+00:49 <@bikcmp> <.<
+01:10 <@dissimulo> bikcmp: i found my cat :D
+01:10 <@bikcmp> nice
+01:10 <@dissimulo> very
+01:11 <@bikcmp> dissimulo: do you know of the iprelay app for android
+01:13 <@dissimulo> yes
+01:13 <@dissimulo> but i prefer the aim bot, personally
+01:13 <@dissimulo> way way less hassle
+01:13 <@bikcmp> i love the app imo ;p
+01:14 <@bikcmp> handles the outgoing call hook
+01:14 <@bikcmp> and saves logs
+01:14 <@bikcmp> all that
+01:14 <@bikcmp> lol
+01:14 <@dissimulo> :P
+01:14  * dissimulo shrugs
+01:14 <@dissimulo> the logging of my aim clients do that for me
+01:16 <@bikcmp> :
+01:16 <@bikcmp> :p
+01:33 <@dissimulo> oh fun.
+01:34 <@dissimulo> i'm now downloading a movie off my NAS at home
+01:34 <@dissimulo> at my gf's house
+01:34 <@bikcmp> nice
+01:34 <@bikcmp> lol
+01:34 <@bikcmp> box.com ;p
+01:34 <@dissimulo> and she's borrowing wifi
+01:34 <@dissimulo> nah, i have 35mbit upload
+01:34 <@dissimulo> but the problem is, her wifi uplink is an verizon box
+01:34 <@dissimulo> a verizon ADSL box
+01:34 <@bikcmp> lol.
+01:34 <@dissimulo> ._______.
+01:34 <@dissimulo> it claims 3360 bytes uplink
+01:34 <@dissimulo> lemme copypasta
+01:35 <@bikcmp> lol
+01:36 <@dissimulo> http://dgd.io/S0fr
+01:36 <@dissimulo> i cant help but wonder if i should handbrake the thing
+01:36 <@dissimulo> get it smaller
+01:41 <@alyx> bikcmp: I still won't sleep with you
+01:42 <@bikcmp> alyx: :(
+02:02 -!- Dan [~Daniel@staff/danp] has quit [Quit: Rejoice, for I am gone!]
+07:56 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+13:11 <+Xanos> (Xanos #MSGFL-ROW-0P23.6) Warning: K-Lined derp@i-89-46-54-9.hsd1.va.comcast.net {75.75.52.0} for spamming in #knuxcentral (repeating messages in a pattern) --- Message:Valtteri is a derpity derpy derp lol rofl Valtteri is a derpity derpy derp lol rofl Valtteri is a derpity derpy derp lol rofl Valtteri is a derpity derpy derp lol rofl Valtteri is a derpity derpy derp lol rofl Valtteri is a derpity derpy derp lol rofl Valtteri is a derpity derpy derp lol ro
+14:55 -!- Dan [~Daniel@staff/danp] has joined #staff
+14:55 -!- mode/#staff [+o Dan] by ChanServ
+15:16 <+Xanos> (Xanos #MSGFL-ROW-0P15.6) Warning: K-Lined Knux@bjpu14-961-936-935.range19-411.btcentralplus.com {86.183.103.157} for spamming in #knuxcentral (repeating messages in a pattern) --- Message:http://www.youtube.com/watch?v=QEUrguYIXNA
+17:22 -!- Dan [~Daniel@staff/danp] has quit [Quit: Rejoice, for I am gone!]
+17:47 <@bikcmp> dissimulo: it amazes me
+17:47 <@bikcmp> dissimulo: 99 out of 100 people who are klined
+17:48 <@bikcmp> don't follow the VERY simple steps int he kline message
+17:48 <@bikcmp> in the*
+17:48 <@bikcmp> "email kline@irondust.net"
+17:48 <@bikcmp> instead they pm me on another network in which i never look at
+18:51 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+18:51 -!- mode/#staff [+o Marketh] by ChanServ
+18:51 -!- Marketh [~Marketh-@staff/Marketh] has quit [Read error: Connection reset by peer]
+18:52 -!- Dan [~Daniel@staff/danp] has joined #staff
+18:52 -!- mode/#staff [+o Dan] by ChanServ
+18:53 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+18:53 -!- mode/#staff [+o Marketh] by ChanServ
+18:53 -!- Marketh [~Marketh-@staff/Marketh] has quit [Read error: Connection reset by peer]
+18:54 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+18:54 -!- mode/#staff [+o Marketh] by ChanServ
+19:00 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+19:00 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+19:00 -!- mode/#staff [+o Marketh] by ChanServ
+19:10 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+19:14 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+19:14 -!- mode/#staff [+o Marketh] by ChanServ
+19:33 <@bikcmp> dissimulo: hm
+19:33 <@bikcmp> dissimulo: how would i sign 'do'
+19:33 <@bikcmp> i want to do that.
+19:33 <@bikcmp> don't do that
+19:33 <@bikcmp> etc
+19:49 <@Dan> hmm?
+19:49 <@bikcmp> Dan: i'm learning asl so
+19:51 <@bikcmp> dissimulo: do you have a server i could borrow, btw
+19:52 <@bikcmp> sue is killing wolfram
+19:52 <@bikcmp> he gave me tons of notice
+19:52 <@bikcmp> almost 24 hours
+20:50 <@Dan> you could go a day or two with 2 servers.
+20:59 <@bikcmp> Dan: a day?
+21:02 <@Dan> we ran for months with only 2 servers
+21:05 <@bikcmp> Dan: yah, but i'd rather have 3
+21:07  * Dan looks through his music library and plays "You Can't Always Get What You Want"
+21:07 <@Dan> 2 is better than 1 or none, right?
+21:10 <@bikcmp> :P
+21:11 <@Dan> You know, back in the day, I loved having 4 servers.
+21:11 <@Dan> my network used to run like irondust
+21:11 <@Dan> or similar
+21:11 <@Dan> I used to maintain all the servers
+21:12 <@Dan> the donors did have an o-line, but I did the administration
+21:12 <@Dan> changed that though, when I got too busy to maintain everything
+21:21 <@bikcmp> ah
+21:30 <@Dan> we used to advertise Canada, United States, and France coverage areas.
+21:30 <@Dan> we had that area of coverage for over a year
+21:37 <@alyx> my network has 16 servers...
+21:38 <@Dan> IndirectIRC's max was 8
+21:38 <@Dan> we had like 10 people per server
+21:38 <@Dan> this was back when we had 90+ users
+21:39 <@alyx> 19:37 [localhost] -!- 71 83 Current global users 71, max 83
+21:39 <@alyx> lol
+21:39 <@Dan> we're so dead now
+21:39 <@Dan> alyx: you should link with us
+21:40 <@bikcmp> never
+21:40 <@Dan> we have a solid name reputation, from being online continuously since August 25th 2010
+21:40 <@bikcmp> Dan: so does id
+21:40 <@bikcmp> well
+21:40 <@bikcmp> 100% accessability from irc.irondust.net
+21:40 <@bikcmp> as of about 9 months ago
+21:40 <@bikcmp> when id started
+21:41 <@Dan> before that, I ran another network.
+21:41 <@Dan> but it had a downage
+21:41 <@Dan> so it doesn't count
+--- Day changed Thu Jul 26 2012
+00:58 -!- Marketh is now known as Mark|afk
+00:58 -!- Mark|afk is now known as Marketh
+00:59 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+01:59 -!- Dan [~Daniel@staff/danp] has quit [Quit: Rejoice, for I am gone!]
+08:51 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+08:51 -!- mode/#staff [+o Marketh] by ChanServ
+13:48 -!- bikcmp [~jason@staff/bikcmp] has left #staff []
+13:48 -!- bikcmp [~jason@staff/bikcmp] has joined #staff
+13:49 -!- mode/#staff [+o bikcmp] by ChanServ
+14:48 -!- Dan [~Daniel@staff/danp] has joined #staff
+14:48 -!- mode/#staff [+o Dan] by ChanServ
+15:58 <@bikcmp> fwiw
+15:58 <@bikcmp> i think i want to start an upgrade to 3.4
+15:58 <@bikcmp> i'll slowly do it.
+16:07 <+Xanos> (Xanos #MH-L15P14) Warning: K-Lined derp@22-846-410-815.dhcp.ahvl.nc.charter.com {68.187.206.151} for a MASS HIGHLIGHT in #terraria (mass highlight) --- Message:DarkNoddy TFG_Fursona `Jin Ace @NameUser Hope_Estheim langkid1 Meaglin Sephiroth MarioFTW Nano Mloc @Marketh Rainbow_Crash Boxmanbr Kurimus DMF MarioE Da_Wrecka R2D2Warrior_ Zekka Jonas Smaxx TheVoid xardor Asbrandt Theodis Fluttershy Lucien DigTaru Deksar_ namad7 xPi Andrew Nyx Pfhoenix Mooninaut 
+16:07 <+Xanos> (Xanos #MH-L15P14) Warning: K-Lined derp@22-846-410-815.dhcp.ahvl.nc.charter.com {68.187.206.151} for a MASS HIGHLIGHT in #terraria (mass highlight) --- Message:DarkNoddy TFG_Fursona `Jin Ace @NameUser Hope_Estheim langkid1 Meaglin Sephiroth MarioFTW Nano Mloc @Marketh Rainbow_Crash Boxmanbr Kurimus DMF MarioE Da_Wrecka R2D2Warrior_ Zekka Jonas Smaxx TheVoid xardor Asbrandt Theodis Fluttershy Lucien DigTaru Deksar_ namad7 xPi Andrew Nyx Pfhoenix Mooninaut 
+16:08 <@Marketh> gosh
+16:08 <@Marketh> all the highlights
+16:21 <@JStoker> i thought chary was only rc2 atm
+16:22 <@bikcmp> JStoker: oh?
+16:22 <@bikcmp> JStoker: i haven't looked into it that much
+16:22 <@bikcmp> JStoker: was about to
+16:23 <@bikcmp> i thought there's 3.4 final?
+16:23 <@JStoker> bikcmp, as far as i'm aware, it's only release candidate. if it's been actually released though, go ahead
+16:23 <@bikcmp> oh?
+16:23 <@bikcmp> hmm.
+16:23 <@bikcmp> JStoker: i'll look
+16:23 <@bikcmp> in all fairness
+16:23 <@bikcmp> atheme's "release canidate" is like, production
+16:23 <@bikcmp> lol
+16:25 -!- Dan [~Daniel@staff/danp] has quit [Quit: Rejoice, for I am gone!]
+17:24 -!- Marketh [~Marketh-@staff/Marketh] has quit [Read error: Connection reset by peer]
+17:25 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+17:25 -!- mode/#staff [+o Marketh] by ChanServ
+17:26 -!- Marketh [~Marketh-@staff/Marketh] has quit [Read error: Connection reset by peer]
+17:26 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+17:26 -!- mode/#staff [+o Marketh] by ChanServ
+18:19 <@alyx> h
+18:25 <@JStoker> bikcmp, What's this i'm hearing about xanos monitoring pms?
+20:29 <@bikcmp> JStoker: it's watching the rate of which you send messages
+20:29 <@bikcmp> it doesn't see the content ;p
+20:29 <@bikcmp> JStoker: basically
+20:29 <@bikcmp> if it sees a charybdis flood warning, and the user has $points or higher, it akills.
+20:33 -!- Dan [~Daniel@staff/danp] has joined #staff
+20:33 -!- mode/#staff [+o Dan] by ChanServ
+22:52 <@bikcmp> lol
+22:52 <@bikcmp> Dan: i'm thinking of a way to make entity ids that like
+22:52 <@bikcmp> i'm more likely to die tomorrow than have this collide
+22:52 <@bikcmp> lol
+22:52 <@bikcmp> MTM0MzM2MDk2NjcyNiA4NjAzOTM1NTA4ODgwNjY0MCAyLjk0Mzg1NzQ5NDMzZSsxNSAoKQ
+22:52 <@bikcmp> lol
+22:53 <@Dan> I don't see the point, when the current system is large enough that not even quakenet would have a collision problem
+22:56 <@bikcmp> lol
+22:56 <@bikcmp> Dan: quakenet?
+22:56 <@bikcmp> what do you mean current system
+22:56 <@bikcmp> oh
+22:56 <@bikcmp> n
+22:56 <@bikcmp> i'm not talking about ts6
+22:57 <@bikcmp> >>> person.get_key()
+22:57 <@bikcmp> 'VH7S74Cdm2ZbSRZyLqKe5l7haWy'
+22:57 <@bikcmp> >>> person2.get_key()
+22:57 <@bikcmp> 'LAsiCLoQvqbVcLdicpMYYVp42oV'
+22:57 <@bikcmp> hmm
+22:58 <@Dan> what's this for? the website?
+22:58 <@bikcmp> yes
+22:58 <@bikcmp> kind of
+22:58 <@bikcmp> the accounts.
+22:59 <@bikcmp> Dan: debating on what to use
+22:59 <@bikcmp> lol
+23:00 <@bikcmp> uuid1, uuid4, or riakcs
+23:00 <@bikcmp> lol
+23:01 <@Dan> I'm trying to figure out the cheapest way to build a mic stand, since my banana holder idea is not flexible enough, since it requires the mic to be taped in place. my new mic has a clip that can be attached to a stand, but I am not buying a stand
+23:01 <@bikcmp> lol
+23:01 <@bikcmp> buy one ;p
+23:02 <@Dan> I could prolly buy enough parts at lowes for 5 bucks to make one that beats all the store bought stands
+23:03 <@bikcmp> Dan: 
+23:03 <@bikcmp> 00:01:26  < bikcmp> evanmcc: what's the best way to make a uid that is so  unique i'm more likely to die than it produce a duplicate?
+23:03 <@bikcmp> lol
+23:03 <@Dan> depends on how likely you are to die
+23:04  * bikcmp looks around
+23:04 <@bikcmp> lol
+23:05 <@bikcmp> hm
+23:05 <@bikcmp> power might die.
+23:05 <@bikcmp> Dan: i was at the bowling alley
+23:05 <@bikcmp> and the power went out
+23:05 <@bikcmp> and i was sitting next to kids.
+23:05 <@bikcmp> lol
+23:10 <@Dan> oh god
+23:19 <@bikcmp> still storming like fuck
+--- Day changed Fri Jul 27 2012
+00:02 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+01:14 <@alyx> :o
+02:09 -!- Dan [~Daniel@staff/danp] has quit [Quit: Rejoice, for I am gone!]
+02:17 <@bikcmp> alyx: sup
+02:17 <@bikcmp> ll
+02:17 <@bikcmp> i <3 box
+02:44 <@bikcmp> hm
+02:45 <@bikcmp> i'm bored as shit
+06:11 <@JStoker> bikcmp, Just use uuid.
+08:55 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+08:55 -!- mode/#staff [+o Marketh] by ChanServ
+11:57 -!- Marketh is now known as Mark|xbawkz
+14:24 -!- Dan [~Daniel@staff/danp] has joined #staff
+14:24 -!- mode/#staff [+o Dan] by ChanServ
+14:25 -!- Mark|xbawkz is now known as Marketh
+19:10 -!- Markoth [~Marketh-@staff/Marketh] has joined #staff
+19:10 -!- mode/#staff [+o Markoth] by ChanServ
+19:13 -!- Marketh [~Marketh-@staff/Marketh] has quit [Ping timeout: 240 seconds]
+19:26 -!- Markoth is now known as Marketh
+19:31 <@bikcmp> JStoker: i did
+19:31 <@bikcmp> JStoker: problem is
+19:31 <@bikcmp> riak automatically overwrites it ;p
+19:31 <@bikcmp> silently.
+21:52 <@alyx> so
+21:52 <@alyx> I think
+21:52 <@alyx> bikcmpnet
+21:53 <@alyx> should merge with OSPnet.
+21:53 <@alyx> the premere host in oregano-seasoned pastas.
+22:06 <@bikcmp> lol
+22:06 <@bikcmp> alyx: ospnet
+22:06 <@bikcmp> more like aspnet
+22:06 <@bikcmp> ospnet is silly imo
+22:08 <@alyx> lolol
+22:17 <@Dan> aspergersnetwork!
+22:48 -!- Guest47059 [~jason@staff/bikcmp] has joined #staff
+22:48 -!- mode/#staff [+o Guest47059] by ChanServ
+22:50 -!- Guest47059 is now known as bik
+22:50 -!- bikcmp [~jason@staff/bikcmp] has quit [Ping timeout: 258 seconds]
+22:51 -!- bik is now known as bikcmp
+22:54 <@bikcmp> hm
+22:54 <@bikcmp> alyx: ... somehow irssi got defunct
+22:54 <@bikcmp> lol
+22:54 -!- bikcmp [~jason@staff/bikcmp] has quit [Remote host closed the connection]
+22:58 <@alyx> O.
+23:08 -!- bikcmp [~jason@staff/bikcmp] has joined #staff
+23:08 -!- mode/#staff [+o bikcmp] by ChanServ
+23:40 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+--- Day changed Sat Jul 28 2012
+00:48 <@bikcmp> dissimulo: that's right
+00:48 <@bikcmp> dissimulo: i forgot
+00:48 <@bikcmp> dissimulo: sue still owes me $50
+01:27 <@bikcmp> JStoker: yo
+01:27 <@bikcmp> JStoker: i wrote an essay on android fragmentation... :)
+01:27 <@bikcmp> going on a blog.
+02:03 -!- Dan [~Daniel@staff/danp] has quit [Quit: Rejoice, for I am gone!]
+08:45 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+08:45 -!- mode/#staff [+o Marketh] by ChanServ
+15:37 -!- Dan [~Daniel@staff/danp] has joined #staff
+15:37 -!- mode/#staff [+o Dan] by ChanServ
+15:59 <@Dan> <OperServ> chanfix_autofix_ev(): fixing #gnaa automatically.
+16:16 <@bikcmp> dissimulo: ikr
+16:16 <@bikcmp> Dan: 
+16:22 <@Dan> yus?
+16:27 <@bikcmp> Dan: 'ikr'.
+20:12 <@alyx> h
+21:22 <+Xanos> (Xanos #MSGFL-ROW-0P16.6) Warning: K-Lined TLtimelord@c204.623.70.33.dynamic.ip.windstream.net {98.23.152.233} for spamming in #smbx (repeating messages in a pattern) --- Message:NameUser:
+22:45 <@bikcmp> bahhhh
+22:45 <@bikcmp> Dan: my netbook is shitting out
+23:41 -!- Dan [~Daniel@staff/danp] has quit [Quit: Rejoice, for I am gone!]
+--- Day changed Sun Jul 29 2012
+00:03 -!- Marketh [~Marketh-@staff/Marketh] has quit [Quit: Leaving]
+02:11 <@bikcmp> hm.
+02:11 <@bikcmp> alyx: sup
+02:12 <@alyx> hi
+02:12 <@bikcmp> alyx: i think i want to change my nick.
+02:12 <@bikcmp> alyx: i sent some DMCAs to pastebins and public logging sites about 5 days ago
+02:12 <@bikcmp> i don't like a lot of the content on there
+02:23 <@alyx> ...lol
+02:23 <@alyx> what
+02:23 <@bikcmp> alyx: the gnaa's webchat.pl crap have turned out on the first page of google
+02:24 <@bikcmp> so i've been making pastebins and considering buying domains with terms google'd like to get them lower
+02:24 <@bikcmp> but tbh
+02:24 <@bikcmp> i think it might be time for a new nick
+02:24 <@bikcmp> lol
+02:25 <@bikcmp> alyx: so
+02:25 <@bikcmp> alyx: know what i just realized
+02:25 <@bikcmp> my client accidently connected to icedawn
+02:25 <@bikcmp> but
+02:26 <@bikcmp> 03:23:40  [icedawn] -!- - Welcome to the IceDawn IRC network! Here we strive to give all users
+02:26 <@bikcmp> 03:23:40  [icedawn] -!- - a pleasant and unique chat experience, using the latest stable version
+02:26 <@bikcmp> 03:23:40  [icedawn] -!- - of charybdis IRCd and Atheme IRC services.
+02:26 <@bikcmp> "stable version of charybdis"
+02:26 <@bikcmp> 03:23:40  [icedawn] -!- Your host is midnight.icedawn.net[midnight.icedawn.net/6667], running version charybdis-3.4.0-rc1
+02:26 <@bikcmp> rc1 is stable? what
+02:26 <@bikcmp> <.<
+02:48 <@alyx> yes
+02:48 <@alyx> all versions of charybdis are stable
+02:51 <@bikcmp> alyx: i know right
+02:51 <@bikcmp> lol
+02:56 <@alyx> lol
+03:13 <@bikcmp> alyx: i was telling james that we should 3.4rc1 irondust
+03:13 <@bikcmp> lol
+03:16 <@bikcmp> alyx: so
+03:16 <@bikcmp> alyx: i got a job
+03:29 <@alyx> on which street corner
+03:29 <@bikcmp> alyx: it's a culdesack
+03:29 <@bikcmp> (wtf)
+03:29 <@bikcmp> lol
+03:29 <@bikcmp> alyx: http://www.eugenecomputergeeks.com/contact.html
+03:29 <@bikcmp> :P
+03:42 <@bikcmp> alyx: so
+03:42 <@bikcmp> this dude has been calling me
+03:42 <@bikcmp> at like, 3 am
+03:42 <@bikcmp> the past 3 nights.
+03:46 <@alyx> kinky
+03:46 <@bikcmp> alyx: i'm dead serious
+03:47 <@bikcmp> alyx: then i finally call him back
+03:47 <@bikcmp> and he's like, "is there a tech in eugene that can fix my computer right now?!?"
+03:47 <@bikcmp> and i'm like, dude, it's 4 am
+03:47 <@bikcmp> "i thought there was 24 hour service"
+03:47 <@bikcmp> lol
+03:47 <@bikcmp> alyx: (11:54:12 PM) My IP Relay: hello qq (EXPLAINING RELAY)
+03:47 <@bikcmp> (11:54:12 PM) My IP Relay: GA
+03:47 <@bikcmp> (11:54:50 PM) My IP Relay: yes 
+03:47 <@bikcmp> (11:55:08 PM) My IP Relay: uh is there a computer
+03:47 <@bikcmp> (11:55:11 PM) My IP Relay: technician in eugene that can fix
+03:47 <@bikcmp> (11:55:13 PM) My IP Relay: my computer tonight qq GA
+03:47 <@bikcmp> (11:55:45 PM) My IP Relay: i
+03:47 <@bikcmp> (11:55:51 PM) My IP Relay: thought it was 24 hour service
+03:47 <@bikcmp> (11:55:53 PM) My IP Relay: i ll pay GA
+03:47 <@bikcmp> lol
+03:48 <@bikcmp> then i'm like
+03:48 <@bikcmp> no
+03:48 <@bikcmp> (11:54:50 PM) My IP Relay: yes  uh is there a computer technician in eugene that can fix my computer tonight qq GA
+03:48 <@bikcmp> (11:56:18 PM) Me: the technician in Eugene is busy tonight, we could try for tomorrow, but he is sick ga
+03:48 <@bikcmp> (11:56:34 PM) My IP Relay: (CALL ENDED; ANOTHER CALL QQ) GA
+03:48 <@bikcmp> (11:56:38 PM) Me: no thku ro ga to sk
+03:48 <@bikcmp> (11:56:42 PM) My IP Relay: (you re welcome) IP RELAY RO70300F SKSK
+03:48 <@bikcmp> and he hangs up
+03:48 <@bikcmp> ol
+03:50 <@alyx> lol
+03:52 <@bikcmp> alyx: what's your fav mobile os
+03:52 <@bikcmp> android, ios or wp7
+03:52 <@bikcmp> i personally say webos, but rip
+03:52 <@bikcmp> lol
+03:53 <@alyx> webos
+03:53 <@alyx> lol
+04:13 <@bikcmp> alyx: yeah
+04:13 <@bikcmp> but, like i said, not an option
+04:13 <@bikcmp> i wish it ran on decent hw
+04:13 <@bikcmp> lol
+04:14 <@bikcmp> like, just decent
+04:26 <@alyx> well
+04:26 <@alyx> it's open source
+09:31 -!- Marketh [~Marketh-@staff/Marketh] has joined #staff
+09:31 -!- mode/#staff [+o Marketh] by ChanServ
+12:45 -!- Dan [~Daniel@staff/danp] has joined #staff
+12:45 -!- mode/#staff [+o Dan] by ChanServ
+14:31 <@bikcmp> alyx: did they finally completely oss it?
+14:31 <@alyx> bikcmp: it's been oss
+14:31 <@alyx> for a while
+14:31 <@bikcmp> i was considering getting a veer
+14:32 <@bikcmp> but decided on wp7 instead
+14:32 <@bikcmp> the palm pre 3 was like, $400
+14:32 <@bikcmp> and i was like no
+14:32 <@bikcmp> lol
+15:32 <@bikcmp> :))
+15:32 <@bikcmp> alyx: yo
+15:32 <@alyx> hi
+15:33 <@bikcmp> alyx: sup
+15:34 <@bikcmp> Sign in to IronDust Accounts using your IronDust Credentials
+15:34 <@bikcmp> Authorize IronDust Accounts (ahNzfmlyb25kdXN0LWFjY291bnRzcg0LEgVBdXRocxjh0QQM.transactions.accounts-dev.irondust.net) to use your IronDust account?
+15:34 <@bikcmp> This application will be able to:
+15:34 <@bikcmp> See your account name
+15:34 <@bikcmp> See your unique user ID
+15:34 <@bikcmp> Perform account operations on your behalf: SET EMAIL, DROP, SET NAME
+15:34  * dissimulo pulls a Frank Murdoch
+15:34 <@bikcmp> why in the world did i make the urls so giant
+15:34 <@bikcmp> lol
+15:35 <@bikcmp> http://accounts.irondust.net/AuthConfig?redir=%2FManage&token=ahNzfmlyb25kdXN0LWFjY291bnRzcg0LEgVBdXRocxjh0QQM&secret=9e93d281-90dc-4160-bfab-42c7ab6de419
+15:35 <@bikcmp> lol
+15:38 <@bikcmp> dissimulo: oh right
+15:38 <@bikcmp> dissimulo: sue's server /still/ hasn't gone down
+15:38 <@bikcmp> h/13
+15:39 <@dissimulo> huh.
+15:39 <@dissimulo> i noticed that, yeah.
+15:39 <@dissimulo> if i can find $80
+15:39 <@dissimulo> i can get you a complete server that you can use
+15:40 <@bikcmp> dissimulo: well
+15:40 <@dissimulo> a Dell PowerEdge 2300
+15:40 <@dissimulo> :D
+15:40 <@bikcmp> dissimulo: i don't need one urgently, really: if i really needed to i could use the ones i have at home
+15:40 <@bikcmp> but my isp is shit
+15:40 <@dissimulo> :P
+15:40 <@dissimulo> yeah
+15:40 <@bikcmp> i have 2 really awesome servers.
+15:40 <@dissimulo> actually
+15:40 <@dissimulo> once sue moves out
+15:40 <@dissimulo> he's leaving his system behind
+15:40 <@bikcmp> why?
+15:40 <@bikcmp> dissimulo: and, isn't he moving like tomorrow
+15:40 <@dissimulo> tomorrow, yes.
+15:41 <@bikcmp> when's the party?
+15:41 <@dissimulo> he has to take the bus
+15:41 <@bikcmp> lol
+15:41 <@bikcmp> LOL
+15:41 <@bikcmp> HAHAHAHAHA
+15:41 <@bikcmp> he's taking the bus?
+15:41 <@bikcmp> hahahahaha
+15:41 <@dissimulo> so he has to leave almost 90% of his shit here
+15:41 <@bikcmp> dissimulo: for good?
+15:41 <@bikcmp> dissimulo: can't he just pay ups like, $50
+15:41 <@bikcmp> and they'll do it
+15:41 <@bikcmp> and ship it back up
+15:41 <@dissimulo> no, apparently he's planning to come back down
+15:41 <@bikcmp> he's like dirt broke though, isn't he
+15:41 <@bikcmp> dude
+15:41 <@dissimulo> because he has... "issues"
+15:42 <@dissimulo> with his bio parents
+15:42 <@bikcmp> dissimulo: the cost to drive down and back exceeds the cost to just ship
+15:42 <@dissimulo> so he's going back up just to fix those socalled issues
+15:42 <@bikcmp> ... 
+15:42 <@bikcmp> dissimulo: i'd just kick him out
+15:42 <@bikcmp> say "you have until tomorrow, get out"
+15:42 <@bikcmp> dissimulo: he sounds like a prick.
+15:42 <@dissimulo> no
+15:42 <@dissimulo> he's not
+15:42 <@dissimulo> i can personally see that he has 'issues'
+15:43 <@dissimulo> he has a VERY hard time with confrontations
+15:43 <@bikcmp> it doesn't take a genius to see that
+15:43 <@dissimulo> i.e.
+15:43 <@dissimulo> i argued with my mom
+15:43 <@dissimulo> (think huge waving hands in anger and my mom yelling)
+15:43 <@dissimulo> and sue was all scaredbaby
+15:43 <@bikcmp> lol
+15:43 <@dissimulo> so, whatever, let him sort out his shit
+15:44 <@bikcmp> server=xmlrpclib.ServerProxy("http://accounts.irondust.net/api")
+15:44 <@bikcmp> er.
+15:44 <@dissimulo> and if he comes back down here to room again, great, but im not gonna hold his hand
+15:44 <@dissimulo> he's gotta do his side of things
+15:44 <@dissimulo> apparently he'll get another car secondhand from his mom
+15:44 <@dissimulo> another reason he wants to go back up
+15:44 <@bikcmp> dude
+15:44 <@dissimulo> honestly
+15:44 <@bikcmp> dissimulo: or he could just like
+15:44 <@bikcmp> get a job
+15:45 <@bikcmp> like a normal person
+15:45 <@dissimulo> that.
+15:45 <@dissimulo> but im not gonna hold his hand right now
+15:45 <@bikcmp> dissimulo: i probably make more money than he does
+15:45 <@dissimulo> i just want him to gtfo and fix his shit
+15:45 <@bikcmp> seriously
+15:45 <@bikcmp> dissimulo: how much does he make a week
+15:45 <@dissimulo> the only reason i'm not bitching at him
+15:45 <@dissimulo> is because he's letting me use his shit
+15:45 <@dissimulo> while hes gone
+15:45 <@bikcmp> wtf
+15:45 <@bikcmp> alyx: Invalid authentation token: ApplicationError: 5
+15:45 <@bikcmp> how the fuck does that happen
+15:45 <@alyx> lol
+15:46 <@dissimulo> thats why i offered you to use his system as a server once he leaves
+15:46 <@bikcmp> dissimulo: for $80?
+15:46 <@bikcmp> alyx: hi, ahNzfmlyb25kdXN0LWFjY291bnRzcg0LEgVVc2VycxiLoQIM (bikcmp)
+15:46 <@bikcmp> alyx: woohoo
+15:46 <@dissimulo> no no, that was another system
+15:46 <@bikcmp> alyx: http://accounts.irondust.net/Manage
+15:46 <@dissimulo> from a friend on irc
+15:46 <@dissimulo> poweredge 2300
+15:46 <@bikcmp> ah
+15:46 <@bikcmp> dissimulo: i have a poweredge here 
+15:46 <@bikcmp> i think
+15:46 <@bikcmp> to be honest i have no idea what it is
+15:46 <@bikcmp> supermicro
+15:46 <@bikcmp> lol
+15:46 <@dissimulo> rackmount or desktop?
+15:46 <@dissimulo> lol supermicro
+15:46 <@bikcmp> dissimulo: rackmount
+15:47 <@bikcmp> supermicro p4
+15:47 <@dissimulo> if you ship that to me
+15:47 <@bikcmp> dissimulo: i got it for free
+15:47 <@dissimulo> i'll rack it up and host it
+15:47 <@bikcmp> dissimulo: the cost to ship would be a lot of money
+15:47 <@dissimulo> for your ircd if the 4U system
+15:47 <@dissimulo> doesnt work out
+15:47 <@dissimulo> (i doubt it'd *not* work out)
+15:47 <@bikcmp> dissimulo: i was hoping to sell it on ebay
+15:47 <@dissimulo> it's some amd bullshit
+15:47 <@bikcmp> they're in perfect condition
+15:47 <@dissimulo> hmm
+15:48 <@dissimulo> i might want :P
+15:48 <@bikcmp> dissimulo: how much?
+15:48 <@dissimulo> you're in CA, yes?
+15:48 <@bikcmp> no
+15:48 <@bikcmp> dissimulo: i'm in france
+15:48 <@dissimulo> are you fucking with me
+15:48 <@bikcmp> the cost to ship it to you would be amazing
+15:48 <@bikcmp> dissimulo: no
+15:48 <@bikcmp> dissimulo: (i'm in new jersey you fag)
+15:48 <@bikcmp> lol
+15:48 <@bikcmp> dissimulo: close enough
+15:48 <@bikcmp> i wish i was in ca, i hate it in jersey
+15:49 <@dissimulo> ok, i must have been thinking of someone else here
+15:49 <@bikcmp> yeah
+15:49 <@bikcmp> i'm in south nj
+15:49 <@bikcmp> dissimulo: i wish i knew you about 5 months ago
+15:49 <@bikcmp> i have two of these
+15:49 <@bikcmp> i was offering one to anyone who wanted it before it shipped
+15:49 <@bikcmp> nobody wanted it
+15:49 <@bikcmp> lol
+15:49 <@dissimulo> rofl
+15:49 <@dissimulo> :P
+15:49 <@dissimulo> we'll figure it out
+15:49 <@bikcmp> dissimulo: plus, it was shipping from san fran
+15:49 <@bikcmp> lol
+15:49 <@dissimulo> oh god, lol
+15:49 <@bikcmp> took fucking fedex /4 weeks/
+15:49 <@bikcmp> 4 weeks to get here.
+15:50 <@dissimulo> hah
+15:50 <@bikcmp> i couldn't believe how slow it was
+15:50 <@dissimulo> ups is better with ground
+15:50 <@dissimulo> than fedex
+15:50 <@bikcmp> ups is awesome
+15:50 <@bikcmp> i love ups
+15:50 <@bikcmp> fedex i've had only bad experiences wit
+15:50 <@bikcmp> h
+15:50 <@dissimulo> i even had this bumper sticker once
+15:50 <@dissimulo> FedUp
+15:50 <@bikcmp> lol
+15:50 <@dissimulo> with the same colors as the logo
+15:50 <@dissimulo> same font, same everything
+15:50 <@dissimulo> it was lols
+15:50 <@dissimulo> got it from a vending machine expecting to get something else
+15:50 <@bikcmp> lol
+15:50 <@dissimulo> but lol'd
+15:51 <@dissimulo> like this
+15:51 <@dissimulo> http://www.teeshirtoc.com/images/motifs/motif-fed-up.gif
+15:51 <@dissimulo> without the symbol at the end
+15:51 <@bikcmp> hah
+15:52 <@dissimulo> ;)
+15:52 <@dissimulo> i like to make people take double-takes
+15:52 <@dissimulo> like make something VERY different... VERY subtly
+15:52 <@dissimulo> like
+15:52 <@dissimulo> i have two pairs of shoes
+15:52 <@dissimulo> exactly the same
+15:53 <@dissimulo> except one pair is tan; another is grey
+15:53 <@dissimulo> so i wear both tan and grey
+15:53 <@bikcmp>     if used:
+15:53 <@bikcmp>         return "Someone already has that username."
+15:53 <@bikcmp>     elif len(username) <= 1:
+15:53 <@bikcmp>         return "Your username is too short."
+15:53 <@bikcmp>     elif len(username) > 20:
+15:53 <@bikcmp>         return "Your username is too long."
+15:53 <@bikcmp>     elif username[0] not in string.letters:
+15:53 <@bikcmp>         return "Usernames must start with a letter."
+15:53 <@bikcmp>     for c in username:
+15:53 <@bikcmp>         if c not in allowedchars:
+15:53 <@bikcmp>             return "Invalid character in username: "+c
+15:53 <@bikcmp> argggg
+15:53 <@dissimulo> and people would make double-takes every time
+15:53 <@dissimulo> }:A
+15:53 <@dissimulo> and make a face like, "lol oh u."
+15:53 <@bikcmp> alyx: i hate sanity checking for real
+15:53 <@bikcmp> this sucks
+15:54 <@dissimulo> lol, yeah
+15:54 <@dissimulo> those elseifs are annoying
+15:54 <@bikcmp> dissimulo: no
+15:54 <@bikcmp> dissimulo: if request.form.has_key("email") and request.form.has_key("fname") and request.form.has_key("username") and request.form.has_key("password") and request.form.has_key("password2"):
+15:54 <@bikcmp> lol
+15:54 <@dissimulo> im talking about elseifs used for sanity checking
+15:54 <@dissimulo> ;)
+15:55 <@bikcmp> dissimulo: well
+15:55 <@bikcmp> dissimulo: in 4 weeks i made the account system hold user data in a redundanter db
+15:55 <@bikcmp> generate it's own uids
+15:55 <@bikcmp> and pretty much work
+15:55 <@bikcmp> hi, ahNzfmlyb25kdXN0LWFjY291bnRzcg0LEgVVc2VycxiLoQIM (bikcmp)
+15:55 <@bikcmp> woo
+15:55 <@bikcmp> lol
+16:03 <@dissimulo> heh
+16:03 <@dissimulo> sue's up now.
+16:04 <@dissimulo> i went to the bathroom
+16:04 <@alyx> bikcmp: i think you should make dKingston an oper
+16:04 <@dissimulo> to get fresh water for my vapor bong
+16:04 <@dissimulo> when i came back, he was all "herp derp hi"
+16:04 <@dissimulo> while appearing half-asleep
+16:05 <@dissimulo> and said he needs my help to pack
+16:05 <@dissimulo> also, alyx, thank you - that reminds me
+16:05 <@dissimulo> how do you oper up here, exactly?
+16:05 <@dissimulo> i'm used to /oper user pass
+16:05 <@alyx> yeah
+16:05 <@alyx> that's how you do it
+16:05 <@dissimulo> ah
+16:06 <@alyx> although it's been so long without an oline, bikcmp might have changed it without me knowing (COUGH COUGH BIKCMP)
+16:06 <@dissimulo> bikcmp has said i'd get one, but im still waiting for it
+16:06 <@dissimulo> :P
+16:06 <@dissimulo> haha
+16:06 <@alyx> dissimulo: I've been waiting for the one I used to have for like, 6 months :P
+16:06 <@dissimulo> hahaha
+16:06 <@dissimulo> this is why i prefer unrealircd
+16:06 <@dissimulo> more accountability
+16:07 <@alyx> hah :P
+16:07 <@dissimulo> but nooooo
+16:07 <@dissimulo> bikcmp is married to charybdis
+16:08 <@dissimulo> and he chooses now not to talk
+16:08  * dissimulo glares pointedly at bikcmp 
+16:10 <@alyx> charybdis is nice
+16:10 <@dissimulo> that it can be, but as far as i see, it creates unnecessary issues
+16:11 <@dissimulo> ...just sayin'
+16:11 <@alyx> like what? :P
+16:11 <@dissimulo> can't recall the one thing
+16:12 <@dissimulo> but it was something bikcmp was trying to do
+16:12 <@bikcmp> dissimulo: i'm coding :P
+16:12 <@dissimulo> and i said it was so easy to do in unreal
+16:12 <@bikcmp> ok
+16:12  * dissimulo shrugs
+16:12 <@bikcmp> alyx: so
+16:12 <@bikcmp> alyx: what are you bitching about now
+16:12 <@dissimulo> bikcmp: haha, we're bitching about our missing o:lines ;P
+16:12 <@dissimulo> or whatever that is in chary
+16:12 <@bikcmp> dissimulo: o:lines
+16:12 <@bikcmp> and, i gave you one
+16:12 <@bikcmp> lol
+16:12 <@dissimulo> you gave me one
+16:12 <@bikcmp> yep
+16:12 <@dissimulo> but never gave me the /oper
+16:12 <@bikcmp> uh
+16:13 <@bikcmp> seeeeecond
+16:13 <@dissimulo> ....yeah
+16:13 <@dissimulo> :P
+16:13 <@dissimulo> give alyx his too
+16:13 <@bikcmp> i know alyx has hers.
+16:13 <@bikcmp> since, i remember going over her password
+16:13 <@dissimulo> apologies.
+16:13 <@dissimulo> her.
+16:13 <@bikcmp> i'm almost sure i gave you yours too
+16:13 <@dissimulo> i'm pretty sure you didn't. :P
+16:14 <@dissimulo> else i'd have /opered right away
+16:14 <@bikcmp> ok, yes
+16:14 <@bikcmp> dissimulo: alyx has hers
+16:14 <@bikcmp> now let me look at yours
+16:14 <@bikcmp> hm
+16:14 <@bikcmp> dissimulo: i have a half completed one. :P
+16:14 <@bikcmp> it's half done.
+16:14 <@dissimulo> ....there you go
+16:14 <@bikcmp> dissimulo: pm.
+16:14 <@dissimulo> :P
+16:16  * alyx has hers?
+16:16 <@bikcmp> yes
+16:16 <@bikcmp> alyx: i'm sure you do
+16:16 <@alyx> huh
+16:16 <@alyx> weird
+16:16 <@bikcmp> i see it.
+16:16 <@alyx> passwd incorrect
+16:16 <@alyx> o.O
+16:16 <@dissimulo> wolo.
+--- Log closed Sun Jul 29 16:25:08 2012

@@ -1,0 +1,71 @@
+--- Log opened Tue Feb 21 22:14:29 2012
+22:14 -!- Irssi: Starting query in ohnopublishing with Tandy|T43p
+22:14 <`> cocks.
+22:14 <Tandy|T43p> <censored>?
+22:15 <`> lol put ` between the letters
+22:15 <`> damn ircd censored you
+22:15 <Tandy|T43p> lolwjut
+22:15 <Tandy|T43p> lolwut*
+22:15 <Tandy|T43p> uhm
+22:15 <Tandy|T43p> so
+22:15 <Tandy|T43p> username and pass pl0x
+22:15 <`> server wtfpwnt.net
+22:15 <Tandy|T43p> lol
+22:15 <`> retrobox
+22:15 <`> 52jlh762l45kj67h2l
+22:16 <`> you'll have a freshly compiled Unreal for you
+22:16 <Tandy|T43p> you'll have to tell me again Thursday when I'm back in Mansas
+22:16 <`> in ~/Unreal3.2
+22:16 <Tandy|T43p> lol
+22:16 <Tandy|T43p> ok
+22:16 <Tandy|T43p> I'll winscp my preconfigured <censored> into it
+22:16 <Tandy|T43p> and it'll be all linked up to binki's ircd :D
+22:16 <`> wtf are you using that the ircd censors you?
+22:17 <`> also
+22:17 <`> once binki points the irc.retro-box.net A record to that server
+22:17 <`> you'll be all set.
+22:18 <Tandy|T43p> ok
+22:18 <Tandy|T43p> are irc and minecraft ports fowarded to it?
+22:18 <Tandy|T43p> or is it set outside of your firewall completely?
+22:19 <`> it should have 25525 open
+22:19 <`> as well as 6667-7000
+22:21 <Tandy|T43p> ok
+22:21 <`> because afaik, minecraft just needs 25525 tcp/udp
+22:21 <Tandy|T43p> yup
+22:24 <`> also
+22:24 <`> it'll have screen and irssi
+22:24 <`> so just do
+22:24 <`> screen -S irssi
+22:24 <`> and then irssi
+22:25 <`> then bam, you have a "permanent" irssi session
+22:25 <`> CTRL a d to detach
+22:25 <`> screen -ls
+22:25 <`> screen -dr $PID (the number before .irssi shown in screen -ls)
+22:26 <`> got it?
+22:29 <Tandy|T43p> yeah
+22:29 <Tandy|T43p> screen never works right via putty
+22:29 <Tandy|T43p> ._.
+22:29 <Tandy|T43p> I dunno why
+22:29 <Tandy|T43p> but it makes putty crash when I try to de/re-attach the screen
+22:31 <`> >putty
+22:31 <`> use something better
+22:31 <`> like oh, say, linux?
+22:33 <Tandy|T43p> heh
+22:33 <Tandy|T43p> I have a debian lappie...
+22:33  * Tandy|T43p looks at the E5400
+22:34 <`> that's better.
+22:34 <`> use it.
+22:34 <`> on the debian lappy
+22:34 <`> do
+22:34 <`> ssh-keygen
+22:35 <`> ssh-copy-id -i ~/.ssh/id_rsa retrobox@wtfpwnt.net
+22:35 <`> then bam, you'll be able to login DIRECTLY
+22:35 <`> without ever giving a password
+22:35 <`> by doing ssh retrobox@wtfpwnt.net
+22:37 <Tandy|T43p> ooh
+22:38 <`> yup.
+22:38  * ` pets ssh-copy-id
+--- Log closed Tue Feb 21 22:44:26 2012
+--- Log opened Tue Feb 21 22:53:26 2012
+22:53 -!- Tandy|T43p [ad0a4ec6@undisclosed-F6FDEF52.mibbit.com] has quit [Quit: WANGS WANGS WANGS }:A]
+--- Log closed Tue Feb 21 22:58:26 2012

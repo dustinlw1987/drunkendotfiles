@@ -1,0 +1,152 @@
+--- Log opened Sun Jun 03 02:13:01 2012
+02:13 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+02:13 -!- Irssi: Starting query in wolfram with nickserv
+02:13 <`> identify seifer8
+02:13 -NickServ(NickServ@services.)- You are now identified for `.
+--- Log closed Sun Jun 03 02:13:14 2012
+--- Log opened Sat Jun 30 14:12:34 2012
+14:12 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+14:13 -!- Irssi: Starting query in wolfram with nickserv
+14:13 <`> identify seifer8
+14:13 -NickServ(NickServ@services.)- You are now identified for `.
+--- Log closed Sat Jun 30 14:13:19 2012
+--- Log opened Tue Jul 17 17:34:19 2012
+17:34 -NickServ(NickServ@services.)- This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+17:34 -!- Irssi: Starting query in wolfram with nickserv
+17:34 <`> identify seifer8
+17:34 -NickServ(NickServ@services.)- You are now identified for `.
+--- Log closed Tue Jul 17 17:34:26 2012
+--- Log opened Mon Jul 23 17:50:11 2012
+17:50 -!- Irssi: Starting query in wolfram with nickserv
+17:50 <dissimulo> help
+17:50 -NickServ(NickServ@services.)- ***** NickServ Help *****
+17:50 -NickServ(NickServ@services.)- NickServ allows users to 'register' a nickname, and stop
+17:50 -NickServ(NickServ@services.)- others from using that nick. NickServ allows the owner of a
+17:50 -NickServ(NickServ@services.)- nickname to disconnect a user from the network that is using
+17:50 -NickServ(NickServ@services.)- their nickname.
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- For more information on a command, type:
+17:50 -NickServ(NickServ@services.)- /msg NickServ help <command>
+17:50 -NickServ(NickServ@services.)- For a verbose listing of all commands, type:
+17:50 -NickServ(NickServ@services.)- /msg NickServ help commands
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- The following commands are available:
+17:50 -NickServ(NickServ@services.)- GHOST           Reclaims use of a nickname.
+17:50 -NickServ(NickServ@services.)- GROUP           Adds a nickname to your account.
+17:50 -NickServ(NickServ@services.)- IDENTIFY        Identifies to services for a nickname.
+17:50 -NickServ(NickServ@services.)- INFO            Displays information on registrations.
+17:50 -NickServ(NickServ@services.)- LISTCHANS       Lists channels that you have access to.
+17:50 -NickServ(NickServ@services.)- REGISTER        Registers a nickname.
+17:50 -NickServ(NickServ@services.)- RELEASE         Releases a services enforcer.
+17:50 -NickServ(NickServ@services.)- SET             Sets various control flags.
+17:50 -NickServ(NickServ@services.)- UNGROUP         Removes a nickname from your account.
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- Other commands: ACC, DROP, HELP, LISTLOGINS, LOGOUT, REGAIN, 
+17:50 -NickServ(NickServ@services.)-                 SETPASS, STATUS, TAXONOMY, VACATION, VERIFY
+17:50 -NickServ(NickServ@services.)- ***** End of Help *****
+17:50 <dissimulo> help register
+17:50 -NickServ(NickServ@services.)- ***** NickServ Help *****
+17:50 -NickServ(NickServ@services.)- Help for REGISTER:
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- This will register your current nickname with NickServ.
+17:50 -NickServ(NickServ@services.)- This will allow you to assert some form of identity on
+17:50 -NickServ(NickServ@services.)- the network and to be added to access lists. Furthermore,
+17:50 -NickServ(NickServ@services.)- NickServ will warn users using your nick without
+17:50 -NickServ(NickServ@services.)- identifying and allow you to kill ghosts.
+17:50 -NickServ(NickServ@services.)- The password is a case-sensitive password that you make
+17:50 -NickServ(NickServ@services.)- up. Please write down or memorize your password! You
+17:50 -NickServ(NickServ@services.)- will need it later to change settings.
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- You have to confirm the email address. To do this,
+17:50 -NickServ(NickServ@services.)- follow the instructions in the message sent to the email
+17:50 -NickServ(NickServ@services.)- address.
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- Syntax: REGISTER <password> <email-address>
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- Examples:
+17:50 -NickServ(NickServ@services.)-     /msg NickServ REGISTER bar foo@bar.com
+17:50 -NickServ(NickServ@services.)- ***** End of Help *****
+17:50 <dissimulo> register seifer8 dlwilliams@deafgeeksdesign.com
+17:50 -NickServ(NickServ@services.)- You are already logged in as `.
+17:50 -NickServ(NickServ@services.)- Use GROUP to register dissimulo to your account.
+17:50 <dissimulo> group help
+17:50 -NickServ(NickServ@services.)- Nick dissimulo is now registered to your account.
+17:50 <dissimulo> help group
+17:50 -NickServ(NickServ@services.)- ***** NickServ Help *****
+17:50 -NickServ(NickServ@services.)- Help for GROUP:
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- GROUP registers your current nickname to your account.
+17:50 -NickServ(NickServ@services.)- This means that NickServ protects this nickname the
+17:50 -NickServ(NickServ@services.)- same way as it protects your account name. Most
+17:50 -NickServ(NickServ@services.)- services commands will accept the new nickname as
+17:50 -NickServ(NickServ@services.)- an alias for your account name.
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- Please note that grouped nicks expire separately
+17:50 -NickServ(NickServ@services.)- from accounts. To prevent this, you must use them.
+17:50 -NickServ(NickServ@services.)- Otherwise, all properties of the account are shared
+17:50 -NickServ(NickServ@services.)- among all nicks registered to it.
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- Syntax: GROUP
+17:50 -NickServ(NickServ@services.)-  
+17:50 -NickServ(NickServ@services.)- Examples:
+17:50 -NickServ(NickServ@services.)-     /msg NickServ IDENTIFY OldNick SecretPassword
+17:50 -NickServ(NickServ@services.)-     /msg NickServ GROUP
+17:50 -NickServ(NickServ@services.)- ***** End of Help *****
+17:50 <dissimulo> delete dissimulo
+17:50 -NickServ(NickServ@services.)- Invalid command. Use /msg NickServ help for a command listing.
+17:51 <dissimulo> help
+17:51 -NickServ(NickServ@services.)- ***** NickServ Help *****
+17:51 -NickServ(NickServ@services.)- NickServ allows users to 'register' a nickname, and stop
+17:51 -NickServ(NickServ@services.)- others from using that nick. NickServ allows the owner of a
+17:51 -NickServ(NickServ@services.)- nickname to disconnect a user from the network that is using
+17:51 -NickServ(NickServ@services.)- their nickname.
+17:51 -NickServ(NickServ@services.)-  
+17:51 -NickServ(NickServ@services.)- For more information on a command, type:
+17:51 -NickServ(NickServ@services.)- /msg NickServ help <command>
+17:51 -NickServ(NickServ@services.)- For a verbose listing of all commands, type:
+17:51 -NickServ(NickServ@services.)- /msg NickServ help commands
+17:51 -NickServ(NickServ@services.)-  
+17:51 -NickServ(NickServ@services.)- The following commands are available:
+17:51 -NickServ(NickServ@services.)- GHOST           Reclaims use of a nickname.
+17:51 -NickServ(NickServ@services.)- GROUP           Adds a nickname to your account.
+17:51 -NickServ(NickServ@services.)- IDENTIFY        Identifies to services for a nickname.
+17:51 -NickServ(NickServ@services.)- INFO            Displays information on registrations.
+17:51 -NickServ(NickServ@services.)- LISTCHANS       Lists channels that you have access to.
+17:51 -NickServ(NickServ@services.)- REGISTER        Registers a nickname.
+17:51 -NickServ(NickServ@services.)- RELEASE         Releases a services enforcer.
+17:51 -NickServ(NickServ@services.)- SET             Sets various control flags.
+17:51 -NickServ(NickServ@services.)- UNGROUP         Removes a nickname from your account.
+17:51 -NickServ(NickServ@services.)-  
+17:51 -NickServ(NickServ@services.)- Other commands: ACC, DROP, HELP, LISTLOGINS, LOGOUT, REGAIN, 
+17:51 -NickServ(NickServ@services.)-                 SETPASS, STATUS, TAXONOMY, VACATION, VERIFY
+17:51 -NickServ(NickServ@services.)- ***** End of Help *****
+17:51 <dissimulo> ungroup dissimulo
+17:51 -NickServ(NickServ@services.)- Nick dissimulo has been removed from your account.
+17:51 <dissimulo> group seifer8
+17:51 -NickServ(NickServ@services.)- Nick dissimulo is now registered to your account.
+17:51 <dissimulo> help group
+17:51 -NickServ(NickServ@services.)- ***** NickServ Help *****
+17:51 -NickServ(NickServ@services.)- Help for GROUP:
+17:51 -NickServ(NickServ@services.)-  
+17:51 -NickServ(NickServ@services.)- GROUP registers your current nickname to your account.
+17:51 -NickServ(NickServ@services.)- This means that NickServ protects this nickname the
+17:51 -NickServ(NickServ@services.)- same way as it protects your account name. Most
+17:51 -NickServ(NickServ@services.)- services commands will accept the new nickname as
+17:51 -NickServ(NickServ@services.)- an alias for your account name.
+17:51 -NickServ(NickServ@services.)-  
+17:51 -NickServ(NickServ@services.)- Please note that grouped nicks expire separately
+17:51 -NickServ(NickServ@services.)- from accounts. To prevent this, you must use them.
+17:51 -NickServ(NickServ@services.)- Otherwise, all properties of the account are shared
+17:51 -NickServ(NickServ@services.)- among all nicks registered to it.
+17:51 -NickServ(NickServ@services.)-  
+17:51 -NickServ(NickServ@services.)- Syntax: GROUP
+17:51 -NickServ(NickServ@services.)-  
+17:51 -NickServ(NickServ@services.)- Examples:
+17:51 -NickServ(NickServ@services.)-     /msg NickServ IDENTIFY OldNick SecretPassword
+17:51 -NickServ(NickServ@services.)-     /msg NickServ GROUP
+17:51 -NickServ(NickServ@services.)- ***** End of Help *****
+17:51 <dissimulo> ungroup
+17:51 -NickServ(NickServ@services.)- Nick dissimulo has been removed from your account.
+17:51 <dissimulo> group
+17:51 -NickServ(NickServ@services.)- Nick dissimulo is now registered to your account.
+--- Log closed Mon Jul 23 17:57:08 2012

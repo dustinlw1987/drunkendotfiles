@@ -1,0 +1,39 @@
+--- Log opened Sun Jul 01 03:45:41 2012
+03:45 -MemoServ(MemoServ@services.)- You have a new memo from bikcmp (1).
+03:45 -MemoServ(MemoServ@services.)- To read it, type /msg MemoServ READ 1
+--- Log closed Sun Jul 01 03:51:10 2012
+--- Log opened Mon Jul 02 15:15:15 2012
+15:15 -!- Irssi: Starting query in wolfram with memoserv
+15:15 <`> read new
+15:15 -MemoServ(MemoServ@services.)- Memo 1 - Sent by bikcmp, Jul 01 03:44:27 2012
+15:15 -MemoServ(MemoServ@services.)- ------------------------------------------
+15:15 -MemoServ(MemoServ@services.)- 01:02:18  <@`> bikcmp: you around? what did ya want? email me at bikcmp2@gmail.com
+15:15 -MemoServ(MemoServ@services.)- Read 1 memos.
+15:15 <`> help
+15:15 -MemoServ(MemoServ@services.)- ***** MemoServ Help *****
+15:15 -MemoServ(MemoServ@services.)- MemoServ allows users to send memos to registered users.
+15:15 -MemoServ(MemoServ@services.)-  
+15:15 -MemoServ(MemoServ@services.)- For more information on a command, type:
+15:15 -MemoServ(MemoServ@services.)- /msg MemoServ help <command>
+15:15 -MemoServ(MemoServ@services.)-  
+15:15 -MemoServ(MemoServ@services.)- The following commands are available:
+15:15 -MemoServ(MemoServ@services.)- DEL             Alias for DELETE
+15:15 -MemoServ(MemoServ@services.)- DELETE          Deletes memos.
+15:15 -MemoServ(MemoServ@services.)- FORWARD         Forwards a memo.
+15:15 -MemoServ(MemoServ@services.)- HELP            Displays contextual help information.
+15:15 -MemoServ(MemoServ@services.)- IGNORE          Ignores memos.
+15:15 -MemoServ(MemoServ@services.)- LIST            Lists all of your memos.
+15:15 -MemoServ(MemoServ@services.)- READ            Reads a memo.
+15:15 -MemoServ(MemoServ@services.)- SEND            Sends a memo to a user.
+15:15 -MemoServ(MemoServ@services.)- SENDGROUP       Sends a memo to all members on a group.
+15:15 -MemoServ(MemoServ@services.)- SENDOPS         Sends a memo to all ops on a channel.
+15:15 -MemoServ(MemoServ@services.)- ***** End of Help *****
+15:15 <`> read new
+15:15 -MemoServ(MemoServ@services.)- You have no new memos.
+15:15 <`> list
+15:15 -MemoServ(MemoServ@services.)- You have 1 memo (0 new).
+15:15 -MemoServ(MemoServ@services.)-  
+15:15 -MemoServ(MemoServ@services.)- - 1 From: bikcmp Sent: Jul 01 03:44:27 2012
+15:15 <`> del 1
+15:15 -MemoServ(MemoServ@services.)- 1 memo deleted.
+--- Log closed Mon Jul 02 15:15:56 2012

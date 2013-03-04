@@ -1,0 +1,35 @@
+--- Log opened Thu Aug 16 01:00:44 2012
+01:00 -Global(Global@services.)- [Network Notice] bikcmp - Hi everyone, I would like to get opinions on a change that will affect how IronDust users register/manage their accounts.  I've set up a form for this.  Please take a couple of minutes and fill out http://goo.gl/pHS2m
+01:00 -Global(Global@services.)- [Network Notice] You may also discuss this potential change in #accounts.  Have a good day/night!
+--- Log closed Thu Aug 16 01:06:11 2012
+--- Log opened Sat Aug 18 14:23:48 2012
+14:23 -Global(Global@services.)- [Network Notice] huru - Hello! IronDust has recently has had a change in management. Users should expect no major visible changes. Join #help if you have any questions regarding the change over.
+--- Log closed Sat Aug 18 14:29:11 2012
+--- Log opened Sat Aug 18 16:56:39 2012
+16:56 -Global(Global@services.)- [Network Notice] huru - Hello! IronDust has recently had a change in management. Users should expect no major visible changes. Join #help if you have any questions regarding the change over.
+--- Log closed Sat Aug 18 17:02:11 2012
+--- Log opened Sun Aug 19 15:33:56 2012
+15:33 -Global(Global@services.)- [Network Notice] huru - As part of the recent acquisiton of IronDust, we will start performing upgrades and migrations soon. The first part of this will entail services going into read-only mode for services related work. Because of this, we request you update anything you need to, regarding our services, within the next 24 hours.
+15:33 -Global(Global@services.)- [Network Notice] Within a day or so, a notice will be sent and any changes you make regarding services will be lost after that point. We will notify you once the work is finished, which is when you can continue making changes. Thanks for understanding and we apologize for any inconvenience this may cause.
+--- Log closed Sun Aug 19 15:39:11 2012
+--- Log opened Thu Aug 30 21:25:49 2012
+21:25 -Global(Global@services.)- [Network Notice] huru - Please make sure that you are connecting using irc.irondust.net instead of irc.fossnet.info or any other address(es) as irc.irondust.net is our official round robin. Other addresses may cease to work eventually, making you unable to connect. Thanks for choosing IronDust!
+--- Log closed Thu Aug 30 21:31:18 2012
+--- Log opened Fri Aug 31 01:42:54 2012
+01:42 -Global(Global@services.)- [Network Notice] huru - My apologies about the recent downtime, due to a recent networking issue our main leaf went poof. If anyone has any coding knowledge and knowledge of KVM, please private message Dan! Thanks again for flying IronDust.
+--- Log closed Fri Aug 31 01:48:18 2012
+--- Log opened Sun Sep 02 12:01:33 2012
+12:01 -Global(Global@services.)- [Network Notice] Joah - Just a reminder, please make sure you are using the address irc.irondust.net to connect as other addresses, such as irc.fossnet.info, will no longer work after a period of time. Our official round robin is irc.irondust.net. Thanks!
+--- Log closed Sun Sep 02 12:07:18 2012
+--- Log opened Sun Sep 02 21:10:07 2012
+21:10 -Global(Global@services.)- [Network Notice] Joah - In the next few minutes, services will be migrated to a new server. The will entail a short downtime of services. Any changes you make from now until the migration is complete will be lost. Thanks and we apologize for any inconvenience this may cause.
+--- Log closed Sun Sep 02 21:15:18 2012
+--- Log opened Fri Nov 09 21:43:06 2012
+21:43 -Global(global@services.ircnode.org)- [Network Notice] Joah - Welcome to IRCNode, IronDust users! IronDust has merged into IRCNode. Feel free to do /list to explore all of the new channels. Thanks!
+--- Log closed Fri Nov 09 21:48:41 2012
+--- Log opened Mon Nov 12 13:48:17 2012
+13:48 -Global(global@services.ircnode.org)- [Network Notice] Joah - If you would like a users vHost, you may type /msg HostServ TAKE user/$account to have one applied to your account. If you already have a vHost, it will be overwritten by this.
+--- Log closed Mon Nov 12 13:53:42 2012
+--- Log opened Wed Nov 21 23:05:20 2012
+23:05 -Global(global@services.ircnode.org)- [Network Notice] huru - The Staff here at IRCNode would like to wish Sylvrix a very happy birthday! Have a good one girl. ;) <3
+--- Log closed Wed Nov 21 23:10:43 2012

@@ -1,0 +1,18 @@
+--- Log opened Sun Feb 26 18:54:33 2012
+18:54 -!- Irssi: Starting query in ohnopub with Tandyman100
+18:54 <Tandyman100> GET IN HERE
+18:54 <Tandyman100> GET IN HERE
+18:54 <Tandyman100> GET IN HERE
+18:54 <Tandyman100> GET IN HERE
+--- Log closed Sun Feb 26 19:00:34 2012
+--- Log opened Sun Feb 26 19:08:40 2012
+19:08 <Tandyman100> DUSTIN
+19:08 <Tandyman100> <binki> tandyman100: if you get access to the unrealircd.conf, try putting my IPv4 address in the `hostname' argument instead of "ohnopublishing.net" 
+19:08 <Tandyman100> * Mariorulez14 has no clue why this is so catchy
+19:08 <Tandyman100> <binki> tandyman100: your unrealircd is compiled with SSL, so you're good there, but it's also compiled with IPv6 even though wtfpwnt.net doesn't have IPv6 AFAICT and thus it's probably trying to make an outbound IPv6 connection to my compy when it can't
+19:08 <Tandyman100> <binki> opening up port 6697 would allow my server to connect to yours and also clients to connect using SSL to your server, so you should do that eventually anyways
+19:13 -!- Tandyman100 [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has quit [Killed (hitler (die))]
+--- Log closed Sun Feb 26 19:19:34 2012
+--- Log opened Sun Feb 26 19:21:20 2012
+19:21 -!- Tandyman100 [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has quit [Excess Flood]
+--- Log closed Sun Feb 26 19:26:34 2012

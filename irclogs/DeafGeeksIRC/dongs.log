@@ -1,0 +1,441 @@
+--- Log opened Thu Feb 02 18:30:37 2012
+18:30 -!- Irssi: Starting query in DeafGeeksIRC with DONGS
+18:30 <DONGS> 916 470 5285
+18:30 <`> cellular, right?
+18:30 <DONGS> yeah
+18:30 <`> k
+18:31 <`> 9093621328 for mine.
+18:31 <`> so you wont go lulwut
+18:31 <DONGS> you got a new one
+18:31 <`> uh no?
+18:31 <DONGS> no wait
+18:31 <`> i've been using two major txts
+18:31 <DONGS> thats home phone
+18:31 <`> Gvoice and this.
+18:32 <`> which one?
+18:32 <DONGS> 8008
+18:32 <`> ok wait
+18:32 <`> ahhhh, that's my relay number
+18:32 <DONGS> lol boob
+18:32 <`> text relay, that is
+18:32 <DONGS> ah
+18:32 <`> 9097088008
+18:32 <DONGS> yeah
+18:32 <`> connects you directly to an operator, which then connects to me via IM
+18:32 <DONGS> i set it to other
+18:32 <`> that's really my main point of contact
+18:32 <`> for "hearies"
+18:33 <`> i only use my VRS # very sparingly
+18:33 <DONGS> lol
+18:33 <DONGS> lol
+18:33 <`> back to #wtfpwnt
+--- Log closed Thu Feb 02 18:38:57 2012
+--- Log opened Thu Feb 09 01:36:27 2012
+01:36 <DONGS> https://docs.google.com/spreadsheet/ccc?key=0AhOirstu-bGDdEU0bjluQlEzeFRWN1BZQ1FaSExJcFE
+01:36 <DONGS> actually, you provide an interesting solution
+01:37 <DONGS> depending on your ability to deal with the heat of a thousand suns, i could use you as a jumping off point
+01:37 <DONGS> what's your connection like
+01:40 <`> https://twitter.com/#!/dustinlw1987/status/167324059212849152
+01:40 <`> just today.
+01:41 <`> i have no official shit with my hosting .____.
+01:41 <`> i need to start separating out the financials for DGD
+01:41 <`> (so far it's just a personal freelance, mixed in with my finances)
+01:41 <DONGS> dude.
+01:41 <DONGS> get this.
+01:42 <`> ?
+01:44 <DONGS> 40$ a customer
+01:44 <DONGS> on a quad core with 16gb of ram
+01:44 <`> :3c
+01:44 <DONGS> 4GB of ram per customer
+01:45 <`> what's the expense per quadcore/16G
+01:45 <DONGS> the only issue is cost of hosting
+01:45 <DONGS> dunno, that's what the initial investment is
+01:45 <DONGS> the issue is hosting the box somewhere
+01:45 <`> my thought is to resel initially
+01:45 <`> *resell
+01:45 <DONGS> huh?
+01:46 <DONGS> no, i'm saying
+01:46 <DONGS> i fold you in *right now*
+01:46 <`> ah.
+01:46 <DONGS> because i'm not paying myself anything yet
+01:46 <DONGS> it's going half to costs half to server fund
+01:46 <`> alright, uh
+01:46 <`> i can setup a debian system for you to configure
+01:47 <DONGS> i can send you a box, don't worry
+01:47 <`> alright
+01:47 <`> type of box?
+01:47 <DONGS> my issue is: how much would you charge
+01:47 <`> yeah, i'm not sure.
+01:47 <DONGS> here's the pitch
+01:47 <`> if it's "enough" - i can get 150mbit internuts
+01:48 <DONGS> the more money that goes into the fund immediately
+01:48 <DONGS> the more money for boxen at softlayer
+01:48 <`> 150mbit/35mbit
+01:48 <`> afaik
+01:48 <`> prob is that it's $150 ($1 per mbit)
+01:48 <DONGS> the biggest issue is uplink
+01:48 <`> yup
+01:48 <DONGS> we need all the fucking uplink we can get for this
+01:48 <`> so really, no difference
+01:49 <`> (150/35 vs current 35/35)
+01:50 <`> so honestly, i'll do this
+01:51 <`> because any $ would help. :]
+01:51 <DONGS> of course
+01:51 <DONGS> alright, i'm gonna do up a few more charts
+01:51 <`> okies.
+01:51 <`> i'll just ask for *one* thing for you to send the box with
+01:52 <DONGS> https://docs.google.com/spreadsheet/ccc?key=0AhOirstu-bGDdEU0bjluQlEzeFRWN1BZQ1FaSExJcFE&hl=en_US#gid=0
+01:52 <DONGS> not weed
+01:52 <DONGS> i'll drive that myself
+01:53 <`> http://goo.gl/3FlHm
+01:53 <DONGS> heh
+01:53 <`> so i can replace my aging EF4116
+01:53 <`> (100mbit)
+01:54 <`> and weed's a given. if you come down here, we'll definitely get some.
+01:54 <`> :P
+01:55 <`> right now, my network's like this
+01:56 <`> ONT -> Ethernet -> linux-x86 router -> EF4116 100mbit switch -> WRT320N with 4-port gigabit switch
+01:57 <`> since i'm using the WRT320N for the LAN
+01:57 <`> and the EF4116 for 100mbit-only devices
+01:57 <`> works out well, since the bottleneck is at the EF4116->Router
+01:57 <`> and that's negligible due to the fact my uplink's only 35/35mbit
+01:58 <`> i need to redo the WRT320N anyway
+01:58 <`> so i can include the WAN port into the switch
+01:58 <DONGS> ignore this
+01:58 <DONGS> Hostname: nagisa - OS: FreeBSD 8.2-RELEASE-p3/amd64 - CPU: AMD Sempron(tm) Processor 3200+ (1808.34-MHz K8-class CPU) - Processes: 81 - Uptime: 70d 11h 5m - Load Average: 0.00 - Memory Usage: 37.39MB/943.89MB (3.96%) - Disk Usage: 58.03GB/564.99GB (10.27%)
+01:58 <`> so i'll have 5 ports
+01:59 <DONGS> wait
+01:59 <DONGS> wrong server anyway
+01:59 <DONGS> i'm a dolt
+01:59 <`> whats up
+01:59 <`> lols AMD K8
+02:01 <`> hmm >mw
+02:01 <`> *mfw
+02:01 <`> the SE2800 isn't wallmountable
+02:04 <`> i like to mount everything possible
+02:04 <`> so it saves as much space as possible.
+02:06 <`> anyway.
+--- Log closed Thu Feb 09 02:11:57 2012
+--- Log opened Thu Feb 09 02:20:35 2012
+02:20 <`> wow
+02:20 <`> just thinking.
+02:20 <`> if i didn't ask you to stop by my place before going into mexico
+02:21 <`> ....dude, i saved your life
+--- Log closed Thu Feb 09 02:26:57 2012
+--- Log opened Thu Feb 09 02:47:39 2012
+02:47 <DONGS> i know right?
+--- Log closed Thu Feb 09 02:52:57 2012
+--- Log opened Thu Feb 09 03:03:49 2012
+03:03 <`> damn.
+03:04 <`> makes me wonder where you would be
+03:04 <`> had you gone.
+03:04 <DONGS> dead
+03:04 <DONGS> i'm not doubting it
+03:04 <`> yeah, thats what i thought too
+03:04 <`> :|
+03:04 <`> damn
+03:04 <DONGS> this is how i'm paying you back
+03:04 <DONGS> by grabbing you and carrying you out of assland
+03:05 <`> lol
+03:05 <DONGS> it's gonna be a rough start though
+03:05 <DONGS> how much is it to get more ip addrs?
+03:06 <`> no clue
+03:06 <`> but that'd require getting biz VZ account
+03:06 <`> not sure how that'd work.
+03:06 <`> i wonder if there's a possibility of installing an 2nd ONT separate from the rez account.
+03:07 <`> ...probably, but $$$$$$$
+03:09 <`> i actually wouldn't mind that
+03:10 <`> put it under the Hardesty Hosting name
+03:10 <`> etc
+03:10 <`> thoughts?
+03:11 <`> Yup, VZ will allow this. Just have to call it in.
+03:13 <`> http://smallbusiness.verizon.com/products/internet/fios/overview.aspx#overview
+03:15 <`> ouch.
+03:15 <`> $85/mo for 25/25
+03:15 <`> i can add it right now, actually
+03:16 <`> that's dynamic
+03:16 <`> for static, uh
+03:16 <`> 25/25, $105
+03:16 <`> 35/35, $125
+03:16 <`> 50/20, $190
+03:17 <`> and afaik, i can get 5 static IP
+03:18 <`> ^ pricing is for 2-year term.
+03:19 <`> i'd need to do it over the phone since they "charge" $99 for a biz router
+03:19 <`> online, as a one-time charge
+03:19 <`> which is BS
+03:22 <`> i dont mind you covering that + cost of IPs (if applicable)
+03:22 <`> and maybe $20 on the side for power/food
+03:22 <`> and we'd call it even.
+--- Log closed Thu Feb 09 03:27:57 2012
+--- Log opened Sat Feb 11 01:21:28 2012
+01:21 -!- Irssi: Starting query in DeafGeeksIRC with DONGS
+01:21 <`> 13063 5th St. Sp. 51 92399
+01:21 <`> exactly
+01:21 <DONGS> where aer you
+01:21 <DONGS> there
+01:22 <`> yes, create biz
+01:22 <`> then you should see options
+01:22 <DONGS> 124
+01:22 <`> mind you, this has to be called in so they dont fuck with my residental account
+01:23 <`> that's right.
+01:23 <DONGS> bah
+01:23 <`> ?
+01:23 <DONGS> i'm going to end up having the move there hand forced
+01:24 <`> yeah.
+01:24 <DONGS> hold on
+01:24 <`> so we can consolidate/work together more efficiently
+01:24 <DONGS> it's basically
+01:24 <DONGS> move there host there
+01:24 <`> pretty much
+01:25 <DONGS> or convice grandparents of splitting difference
+01:25 <`> i kinda think that'll make things easier/quicker
+01:25 <`> and i think your gparents would try to help you out with the move
+01:25 <`> cuz they're all gtfo, right?
+01:25 <DONGS> no
+01:25 <DONGS> but what the fuck
+01:26 <DONGS> 50Mbps/10Mbps
+01:26 <DONGS> 10mbps?
+01:26 <`> yeah, stupid.
+01:26 <`> thats why im going for 35/35
+01:26 <`> you gotta admit, symmetrical is pretty rare
+01:26 <`> even for rez accounts
+01:26 <`> i'm 35/35, but it's more like 42/30
+01:26 <`> but still, i'm happy with that
+01:27 <`> even if i went 150mbit
+01:27 <`> that'd still net me only 20mbit upload
+01:27 <`> which is stupid
+01:28 <`> so 35/35 is the best option all-round
+01:28 <`> + biz/staticIP
+01:32 <DONGS> i'm still here
+01:32 <`> ok.
+01:32 <`> whats up
+--- Log closed Sat Feb 11 01:38:30 2012
+--- Log opened Sat Feb 11 01:54:31 2012
+01:54 <`> induring you're not still here
+01:54 <`> ._____________.
+01:54 <`> lol
+--- Log closed Sat Feb 11 02:00:30 2012
+--- Log opened Sat Feb 11 02:45:08 2012
+02:45 <DONGS> i'm still here
+02:45 <DONGS> wrong machine
+02:45 <DONGS> and the screen session wasn't open
+02:47 <`> pft
+02:47 <`> lol
+--- Log closed Sat Feb 11 02:53:30 2012
+--- Log opened Mon Feb 13 23:15:11 2012
+23:15 -!- Irssi: Starting query in DeafGeeksIRC with DONGS
+--- Log closed Mon Feb 13 23:20:30 2012
+--- Log opened Sat Mar 10 17:06:10 2012
+17:06 -!- Irssi: Starting query in DeafGeeksIRC with DONGS
+17:06 <`> whats up with your PM
+17:06 <`> i didnt really get it
+--- Log closed Sat Mar 10 17:12:20 2012
+--- Log opened Sat Mar 10 17:14:06 2012
+17:14 <DONGS> huh?
+17:14 <DONGS> i don't remember pming you
+--- Log closed Sat Mar 10 17:19:20 2012
+--- Log opened Sat Mar 10 18:31:15 2012
+18:31 <`> something to do with a girl being crazy?
+--- Log closed Sat Mar 10 18:36:20 2012
+--- Log opened Sat Mar 10 19:35:34 2012
+19:35 <DONGS> oh, that stoner girl
+19:37 <`> yeah. what happened?
+--- Log closed Sat Mar 10 19:42:20 2012
+--- Log opened Sat Mar 10 19:45:36 2012
+19:45 <DONGS> she's spinning her wheels
+19:45 <DONGS> dunno
+19:47 <`> what do you mean?
+19:49 <DONGS> i said i could get you sexytimes
+19:49 <DONGS> but she's being a woman right now
+19:49 <`> lol
+19:50 <`> just out of curiousity, got a pic?
+19:52 <DONGS> she's kinda large
+19:52 <DONGS> not morbidly
+19:53 <`> lol, pic tho?
+19:54 <DONGS> forwarded
+19:55 <`> not bad at all.
+19:55 <`> she's not like a sudos, at least.
+19:55 <DONGS> lol
+--- Log closed Sat Mar 10 20:01:20 2012
+--- Log opened Thu Mar 15 00:52:29 2012
+00:52 <`> heres the dirt
+00:52 <`> ssh -2 -p 420 installer@iamat.endofinternet.org
+00:52 <`> wtfpwnt
+--- Log closed Thu Mar 15 00:58:20 2012
+--- Log opened Sat Mar 17 21:49:42 2012
+21:49 -!- A is now known as DONGS
+--- Log closed Sat Mar 17 21:55:20 2012
+--- Log opened Sun Mar 18 15:01:33 2012
+15:01 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Ping timeout]
+--- Log closed Sun Mar 18 15:07:20 2012
+--- Log opened Wed Mar 21 05:08:23 2012
+05:08 -!- Irssi: Starting query in DeafGeeksIRC with DONGS
+05:08 <`> probably tmi but i really do need pussy
+05:08 <DONGS> wat
+05:10 <`> yup.
+05:10 <`> you heard me.
+05:10 <`> i need to dong a chick.
+05:10 <DONGS> cool it
+05:10 <DONGS> i
+05:10 <DONGS> 'm really high
+05:10 <`> lol
+05:10 <`> and?
+05:11 <DONGS> i can't stop laughing
+05:11 <`> lmao
+05:11 <DONGS> and this dude still doesn't know
+05:11 <`> know what?
+05:11 <DONGS> that i'm high
+05:11 <`> lol
+05:11 <DONGS> and he makes these funny fucking noises
+05:11 <`> like?
+05:11 <DONGS> omnipoeta
+05:11 <DONGS> fuck i'm too high to spell that
+05:12 <DONGS> he like makes airplane noises and shit
+05:12 <DONGS> i'm really baked
+--- Log closed Wed Mar 21 05:17:20 2012
+--- Log opened Wed Mar 21 06:00:23 2012
+06:00 <`> lol
+--- Log closed Wed Mar 21 06:06:20 2012
+--- Log opened Wed Mar 21 21:05:27 2012
+21:05 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Client exited]
+21:05 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Client exited]
+--- Log closed Wed Mar 21 21:11:20 2012
+--- Log opened Wed Mar 21 21:12:39 2012
+21:12 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Quit: Too many irssi windows.]
+--- Log closed Wed Mar 21 21:18:20 2012
+--- Log opened Thu Mar 22 22:32:45 2012
+22:32 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Quit: leaving]
+--- Log closed Thu Mar 22 22:38:20 2012
+--- Log opened Thu Jun 28 23:29:05 2012
+23:29 -!- Sue is now known as DONGS
+23:29 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (Sudos|AthXP (DODONGOBREAKER))]
+--- Log closed Thu Jun 28 23:34:27 2012
+--- Log opened Fri Jun 29 02:37:03 2012
+02:37 -!- Sue is now known as DONGS
+--- Log closed Fri Jun 29 02:42:27 2012
+--- Log opened Fri Jun 29 18:53:33 2012
+18:53 -!- Irssi: Starting query in DeafGeeksIRC with DONGS
+18:53 <`> towels hung in the bathroom are clean
+18:54 <DONGS> and i can just use whatever, right?
+18:54 <`> i was wondering when you'll shower
+18:54 <`> rofl
+18:54 <`> i'll hafta shower too, fucking swampnuts
+18:55 <DONGS> you have no ida
+19:00 <`> >using a disposable razor
+19:00 <`> i cant fucking touch those things. so evil.
+19:01 <`> i like the 4+ bladed shit
+19:01 <`> Gillette ProGlide.
+--- Log closed Fri Jun 29 19:06:27 2012
+--- Log opened Fri Jun 29 19:43:27 2012
+19:43 <DONGS> holy shit
+19:43 <DONGS> that shower sucks ass
+19:43 <`> yep.
+19:43 <`> at least it gets you clean.
+19:44 <`> i wasn't kidding when i said it'd be a bit of a ghetto.
+19:44 <`> D:
+--- Log closed Fri Jun 29 19:49:27 2012
+--- Log opened Sat Jun 30 01:54:37 2012
+01:54 <`> wat
+01:55 <DONGS> http://www.staterbros.com/topmenu/weekly-ad.aspx bottom of the ad
+01:55 <`> up to ya
+01:55 <DONGS> hory sheet i have to stock up
+01:55 <DONGS> that's crazy cheap
+01:55 <`> i'd just get gatorade
+01:55 <`> but see, it says limit 2
+01:56 <DONGS> yeah
+01:56 <`> but just give me and my mom money
+01:56 <`> }:A
+01:56 <DONGS> ?
+01:56 <`> and we'll separate it out
+01:56 <DONGS> wut
+01:56 <`> look at the ad
+01:56 <DONGS> oh
+01:56 <`> "Limit 2 While Supplies Last"
+01:56 <DONGS> i know what you're talking about
+01:56 <`> yep.
+01:56 <DONGS> possibly
+01:56 <`> it's been done before
+01:56 <`> :D
+01:56 <`> we've abused stater's since i was a kid
+01:56 <`> no joke
+01:56 <DONGS> lol
+01:57 <`> they were the only grocery store i went to
+01:57 <`> beside Goodwin's.
+01:57 <`> and i can guarantee you that you will not find any other Goodwin's.
+01:57 <`> there's only one.
+01:57 <DONGS> lol
+01:58 <`> http://goo.gl/maps/tmoU
+01:59 <`> that's up way in the mountains
+01:59 <`> :D
+01:59 <DONGS> oh up in crestline
+01:59 <`> yep
+01:59 <`> and i wanna the popsicles D:
+01:59 <`> i love dem popsicles
+01:59 <DONGS> >google gives me bus directions
+01:59 <`> nohomo
+01:59 <`> lols
+01:59 <DONGS> it knows
+01:59 <`> MARTA.cc
+02:00 <DONGS> it knows too much
+02:00 <`> their site is perpetually stuck in the 90s
+02:00 <`> i tried to convince them to upgrade
+02:00 <`> NOEP
+02:00 <`> .jpg
+02:01 <`> so whatever
+02:03 <`> lolmaruchanramen
+02:03 <`> 5 for $1
+02:04 <DONGS> ikr
+02:05 <DONGS> tomorrow we need to go to the thrift store first, then i'm going to blow a bunch of money on just fuckloads of food
+02:05 <DONGS> now that i know how much i need
+02:05 <`> tell me again what you need at a thrift store
+02:06 <DONGS> no clue actually
+02:07 <`> ....
+--- Log closed Sat Jun 30 02:12:27 2012
+--- Log opened Sat Jun 30 02:23:14 2012
+02:23 <DONGS> fucking twist off bullshit hurting my hands fuck
+--- Log closed Sat Jun 30 02:28:27 2012
+--- Log opened Sat Jun 30 02:30:02 2012
+02:30 <`> ??
+02:30 <`> what
+02:30 <`> oh
+02:30 <DONGS> that took a while lol
+02:31 <`> mhmm
+02:31 <DONGS> so uh
+--- Log closed Sat Jun 30 02:37:27 2012
+--- Log opened Sat Jun 30 02:41:06 2012
+02:41 <`> ?
+02:41 <DONGS> have i done anything wrong?
+02:43 <`> nope
+02:43 <`> why?
+02:43 <DONGS> you seem... unhappy
+02:44 <`> yeah.
+02:44 <DONGS> and me being me, i immeditely assume it was me
+02:44 <DONGS> *immediately
+02:44 <`> its not you
+02:44 <DONGS> okay
+02:45 <`> most of it is lack of gatorade.
+02:45 <DONGS> haha, alright
+02:46 <`> mhm
+--- Log closed Sat Jun 30 02:52:27 2012
+--- Log opened Sat Jun 30 03:08:39 2012
+03:08 <`> fuck
+03:08 <`> i need a car.
+03:08 <`> i need to get the fuck out of here.
+03:08 <DONGS> :(
+03:09 <`> same shit, every single day.
+03:11 <`> i fucking love abandoned places.
+03:11 <DONGS> yeah
+03:11 <`> /r/AbandonedPorn
+--- Log closed Sat Jun 30 03:16:27 2012
+--- Log opened Fri Dec 07 03:26:33 2012
+03:26 -!- Irssi: Starting query in DeafGeeksIRC with DONGS
+03:26 <`> 18319 Hart St. #21 Reseda, CA 91335
+--- Log closed Fri Dec 07 03:32:13 2012
+--- Log opened Sat Dec 08 02:50:05 2012
+02:50 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (tidux (get out))]
+02:50 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (tidux (get out))]
+02:50 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Killed (tidux (go sleep, nigger))]
+--- Log closed Sat Dec 08 02:56:13 2012
+--- Log opened Sat Dec 08 13:45:17 2012
+13:45 -!- DONGS [sue@dongs-A002BA52.hardestyhosting.com] has quit [Ping timeout]
+--- Log closed Sat Dec 08 13:51:14 2012

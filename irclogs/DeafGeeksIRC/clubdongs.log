@@ -1,0 +1,192 @@
+--- Log opened Fri Mar 02 02:58:56 2012
+02:58 -!- CLUBSANDWICH is now known as CLUBDONGS
+03:00 <`> installing yaboot
+03:01 <`> rebooting
+03:01 <CLUBDONGS> when it's booted, login as root and aptitude update && aptitude install openssh-server
+03:02 <`> if it gives me console
+03:02 <CLUBDONGS> yeah
+03:02 <`> it does.
+03:02 <CLUBDONGS> heh
+03:03 <`> uh
+03:03 <`> all it does is check cdrom
+03:03 <`> only thing in sources.list is the cdrom
+03:04 <`> so what do
+03:04 <CLUBDONGS> wat
+03:05 <CLUBDONGS> really?
+03:05 <CLUBDONGS> ok, nano /etc/apt/sources.list
+03:05 <CLUBDONGS> clear the file, type in
+03:06 <CLUBDONGS> deb http://ftp.us.debian.org/debian/ sid main contrib non-free 
+03:06 <CLUBDONGS> deb-src http://ftp.us.debian.org/debian/ sid main contrib non-free
+03:06 <CLUBDONGS> i know i said sid, trust me
+03:06 <CLUBDONGS> then you need to plug it in to eth
+03:06 <`> it's been on eth this whole time
+03:06 <`> card doesn't support WPA
+03:07 <`> i dont mind sid
+03:07 <`> might be lol living on the edge
+03:08 <`> it's upgrading.
+03:09 <CLUBDONGS> i usually use sid
+03:09 <CLUBDONGS> did you apt-get or aptitude
+03:10 <`> aptitude
+03:10 <`> i normally apt-get
+03:12 <CLUBDONGS> good
+03:12 <CLUBDONGS> aptitude is better
+03:12 <`> heh ok
+--- Log closed Fri Mar 02 03:18:20 2012
+--- Log opened Fri Mar 02 03:18:59 2012
+03:18 <`> okay
+03:19 <`> it should be live for you now.
+03:20 <CLUBDONGS> as much as i hate it
+03:20 <CLUBDONGS> you need to install sudo
+03:20 <CLUBDONGS> ugh
+03:22 <`> sudo installed and /etc/sudoers updated
+03:24 <CLUBDONGS> for you viewing pleasure:
+03:25 <CLUBDONGS> run htop
+03:25 <`> heh
+03:25 <`> very few processes
+03:28 <`> i'm also trying to save money too.
+03:31 <CLUBDONGS> ?
+03:31 <`> as in putting some away per month
+--- Log closed Fri Mar 02 03:37:20 2012
+--- Log opened Fri Mar 02 03:45:47 2012
+03:45 <CLUBDONGS> installing packages
+03:46 <`> :P
+--- Log closed Fri Mar 02 03:52:20 2012
+--- Log opened Fri Mar 02 03:56:44 2012
+03:56 <`> display's spazzing
+03:56 <CLUBDONGS> i figured
+03:56 <`> ok
+03:56 <CLUBDONGS> did it actually make it to X?
+03:56 <`> it's at login
+03:57 <CLUBDONGS> wow
+03:57 <CLUBDONGS> login then
+03:57 <`> but at VERY VERY low colorate
+03:57 <CLUBDONGS> yeah i figure
+03:57 <CLUBDONGS> that i can fix
+03:57 <`> ._.
+03:57 <CLUBDONGS> did you login?
+03:57 <`> time to learn awesomewm
+03:57 <CLUBDONGS> wow
+03:57 <`> yes i did, as dissimulo
+03:57 <CLUBDONGS> you realize that was all autoconfig
+03:58 <`> heres the catch
+03:58 <`> fucking trackpad has no rightclick
+03:58 <CLUBDONGS> easy
+03:58 <CLUBDONGS> i'll rebind rightclick to fn+ckick
+03:58 <CLUBDONGS> *click
+03:58 <`> k
+03:58 <CLUBDONGS> or i can install xfce
+03:59 <CLUBDONGS> would be easier on your
+03:59 <CLUBDONGS> *you
+03:59 <`> eh
+03:59 <`> no
+03:59 <CLUBDONGS> especially with one button
+03:59 <CLUBDONGS> actually i'm kinda recommending onebutton xfce or lxde
+03:59 <`> which one?
+03:59 <CLUBDONGS> awesome is a lot of leftbutton
+03:59 <CLUBDONGS> you'll need a lot of fingers
+03:59 <`> lets try xfce?
+03:59 <CLUBDONGS> ok
+04:00 <CLUBDONGS> hold on to your hat
+04:00 <`> it just went back to my running htop
+04:00 <`> :P
+04:00 <`> i just left htop up
+04:00 <`> since it matches the lime green 'look'
+04:00 <`> }:A
+04:01 <`> meanwhile
+04:02 <`> i'm gonna dab up a hit
+04:02 <CLUBDONGS> heh
+04:02 <CLUBDONGS> when my gma goes to bed i might make a bong and hit that last bit of kief
+04:03 <`> plan on getting more
+04:03 <`> keep yourself supplied
+04:03 <`> i find that having it helps life overall
+04:05 <CLUBDONGS> not for me actually
+04:05 <CLUBDONGS> the next day always sucks for me
+04:07 <`> idk
+04:08 <`> i find it key to have 'wind-down' time
+04:08 <`> time to yourself where it's fuck-all, and just relax.
+--- Log closed Fri Mar 02 04:13:20 2012
+--- Log opened Fri Mar 02 04:17:50 2012
+04:17 <CLUBDONGS> login and tell me what wm it gave you
+04:17 <CLUBDONGS> wm/de
+--- Log closed Fri Mar 02 04:23:20 2012
+--- Log opened Fri Mar 02 04:30:34 2012
+04:30 <`> yeah yeah, was doing budget shit
+04:30 <`> and paying, etc
+04:31 <CLUBDONGS> ok
+04:31 <`> i also should be asleep lol
+04:32 <CLUBDONGS> just login for me really quickly
+04:32 <CLUBDONGS> i wanna see if i set alternatives correctly
+04:32 <`> kk
+04:34 <CLUBDONGS> yeah it worked
+04:34 <CLUBDONGS> how slow is it going
+04:34 <CLUBDONGS> and what do the colors look like
+04:37 <`> colors are like 4 bit or 8 bit or some shit like that
+04:37 <`> loads pretty average
+04:38 <`> but hey, i like xfce!
+04:40 <`> but it looks to have cleared itself
+04:40 <CLUBDONGS> cleared itself?
+04:40 <`> it spazzed, and set to the right rezs and colors
+04:41 <`> after i selected "default config" for xfce
+04:41 <CLUBDONGS> oh
+04:41 <CLUBDONGS> yeah i still need to solidly config X
+04:42 <`> whats hilarious
+04:42 <`> is that xfce looks like a bad os x ripoff
+04:42 <`> out of the box
+04:42 <`> dock at the bottom, panel at the top
+04:43 <`> and this is on a ibook g3 mac
+04:43 <`> :D
+04:43 <CLUBDONGS> :3
+04:43 <CLUBDONGS> default xfce settings are silly
+04:43 <CLUBDONGS> lemme check out wicd a sec
+04:43 <`> kk
+04:43 <`> as long as it can handle ethernet ifaces, go for it
+04:46 <CLUBDONGS> it doesn't have the wlan fw installed
+04:47 <`> yeah, i remember
+04:47 <`> it's an airport b adapter
+04:48 <`> i think it's a rebranded orinoco
+04:48 <CLUBDONGS> i know
+04:49 <CLUBDONGS> master of google-fu at your service
+04:50 <CLUBDONGS> let me reboot a sec
+04:50 <CLUBDONGS> the mac
+04:50 <`> k
+04:50 <CLUBDONGS> log out on your session
+04:50 <CLUBDONGS> X session
+04:50 <`> just reboot.
+04:50 <`> or do i actually need to log out
+04:51 <`> yeah ok
+04:51 <CLUBDONGS> i like to be safe
+04:51 <CLUBDONGS> but whatevs
+04:51 <`> its rebewting.
+04:52 <`> login screen still looks ugly
+04:53 <CLUBDONGS> it can't find your wlan
+04:53 <CLUBDONGS> is it hidden?
+04:53 <`> my wlan is WPA2
+04:53 <CLUBDONGS> not WPA/WPA2?
+04:53 <`> nope
+04:53 <CLUBDONGS> it's got WPA-PSK support now
+04:54 <`> still nope
+04:54 <CLUBDONGS> ?
+04:54 <`> but awesome on WPA-PSK support
+04:54 <CLUBDONGS> heh
+04:54 <`> i only have WPA2
+04:54 <CLUBDONGS> lemme just fixup X
+04:59 <CLUBDONGS> there
+--- Log closed Fri Mar 02 05:04:20 2012
+--- Log opened Fri Mar 02 13:08:22 2012
+13:08 <`> hmm.
+--- Log closed Fri Mar 02 13:14:20 2012
+--- Log opened Fri Mar 02 13:18:40 2012
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+13:18 <`> GUI is all fucked up
+--- Log closed Fri Mar 02 13:24:20 2012

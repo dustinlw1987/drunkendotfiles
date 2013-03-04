@@ -1,0 +1,12 @@
+studentbison.com. 300 IN MX 10 aspmx2.googlemail.com.
+studentbison.com. 300 IN MX 0 direct-connect.studentbison.com.
+studentbison.com. 300 IN MX 5 alt1.aspmx.l.google.com.
+studentbison.com. 300 IN MX 10 aspmx3.googlemail.com.
+studentbison.com. 300 IN MX 1 aspmx.l.google.com.
+studentbison.com. 300 IN MX 5 alt2.aspmx.l.google.com.
+studentbison.com. 300 IN A 173.245.61.114
+studentbison.com. 300 IN A 199.27.135.40
+studentbison.com. 86400 IN NS duke.ns.cloudflare.com.
+studentbison.com. 86400 IN NS elle.ns.cloudflare.com.
+studentbison.com. 86400 IN SOA duke.ns.cloudflare.com. dns.cloudflare.com. 2012032810 10000 2400 604800 3600
+

@@ -1,0 +1,118 @@
+use strict;
+use warnings;
+
+#####################################################################
+# This script sends notifications to growl on your
+# computer when you're highlighted/PMed using Growl GNTP
+#
+#
+#
+# Commands:
+# /set growl_password growl_password
+# /set growl_general_hilight on/off
+# /set growl_priority_channel -2 up to 2
+# /set growl_priority_pm -2 up to 2
+# /set growl_priority_general -2 up to 2
+# /set growl_host COMPUTER HOST/IP
+# /set growl_port Port for Growl, use default value.
+# /set growl_icon_url http URL for notification icon.
+#
+# "General hilight" basically referrs to ALL the hilights you have
+# added manually in irssi, if many, it can get really bloated if
+# turned on. Default is Off.
+#
+# You will need the following packages:
+# Growl::GNTP (You can install this using cpan -i Growl::GNTP)
+# 
+# You will also need to following packages, which can be installed
+# in Debian using the following command:
+# apt-get update;apt-get install libcrypt-cbc-perl libdata-uuid-perl
+#
+# You will need to configure Growl to be able to receive
+# notifications.
+#
+#
+# eth0 will prevail. || irc.eth0.info
+#
+#####################################################################
+
+
+use Irssi;
+use Irssi::Irc;
+use vars qw($VERSION %IRSSI);
+use Growl::GNTP;
+use Encode;
+
+$VERSION = "0.1";
+
+%IRSSI = (
+    authors     => "Caesar 'sniker' Ahlenhed",
+    contact     => "sniker\@se.linux.org",
+    name        => "irssigrowl",
+    description => "Sends growlnotifcations to your computer",
+    license     => "GPLv2",
+    url         => "http://sniker.codebase.nu",
+    changed     => "Mon Oct 3 23:23:32 CET 2011",
+);
+
+# Configuration settings and default values.
+Irssi::settings_add_str("growl", "growl_password", "");
+Irssi::settings_add_bool("growl", "growl_general_hilight", 0);
+Irssi::settings_add_str("growl", "growl_priority_channel", 0);
+Irssi::settings_add_str("growl", "growl_priority_pm", 0);
+Irssi::settings_add_str("growl", "growl_priority_general", 0);
+Irssi::settings_add_str("growl", "growl_host", "localhost");
+Irssi::settings_add_str("growl", "growl_port", 23053);
+Irssi::settings_add_str("growl", "growl_icon_url", "http://sniker.codebase.nu/files/irc.png");
+
+sub send_noti {
+    my ($event, $text, $priority) = @_;
+    
+
+    my $growl = Growl::GNTP->new(
+        PeerHost => Irssi::settings_get_str("growl_host"),
+        PeerPort => Irssi::settings_get_str("growl_port"),
+        AppName => "Irssi",
+        Password => Irssi::settings_get_str("growl_password"),
+        PasswordHashAlgorithm => "MD5");
+
+    $growl->register([
+        { Name => "Irssi", },
+        { Enabled => "True", },
+        { Priority => $priority, },]);
+
+    $growl->notify(
+        Event => "Irssi",
+        Title => "Irssi - " . $event,
+        Message => $text,
+        Icon => Irssi::settings_get_str("growl_icon_url"),
+        Priority => $priority); 
+}
+
+sub pubmsg {
+    my ($server, $data, $nick) = @_;
+
+    if($data =~ /$server->{nick}/i){
+        send_noti("Hilighted", $nick . ': ' . $data, Irssi::settings_get_str("growl_priority_channel"));
+    }
+}
+
+sub privmsg {
+    my ($server, $data, $nick) = @_;
+    send_noti("PM", $nick . ': ' . $data, Irssi::settings_get_str("growl_priority_pm"));
+}
+
+sub genhilight {
+    my($dest, $text, $stripped) = @_;
+    my $server = $dest->{server};
+
+    if($dest->{level} & MSGLEVEL_HILIGHT) {
+        if(Irssi::settings_get_bool("growl_general_hilight")){
+            send_noti("General Hilight", $stripped, Irssi::settings_get_str("growl_priority_general"));
+        }
+    }
+}
+
+Irssi::signal_add_last('message public', 'pubmsg');
+Irssi::signal_add_last('message private', 'privmsg');
+Irssi::signal_add_last('print text', 'genhilight');

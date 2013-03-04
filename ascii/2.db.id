@@ -1,0 +1,19 @@
+General Information  
+--------------------  
+Hostname       :  2.db.irondust.net  
+Distribution   :  squeeze  
+Mirror         :  http://ftp.us.debian.org/debian/  
+Partitions     :  swap            1024Mb (swap)  
+                  /               18Gb  (ext3)  
+Image type     :  full  
+Memory size    :  1024Mb  
+Kernel path    :  /boot/vmlinuz-2.6.32-5-xen-amd64  
+Initrd path    :  /boot/initrd.img-2.6.32-5-xen-amd64  
+
+Installation Summary
+---------------------
+Hostname        :  2.db.irondust.net
+Distribution    :  squeeze
+IP-Address(es)  :  dynamic
+RSA Fingerprint :  85:f6:6a:88:eb:d6:6e:7b:2f:c4:ae:18:50:79:d3:18
+Root Password   :  lolid

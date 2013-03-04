@@ -1,0 +1,984 @@
+--- Log opened Mon Jul 09 16:41:39 2012
+16:41 -!- Irssi: Starting query in irondust with bikcmp
+16:41 <bikcmp> so
+16:41 <bikcmp> i'm very pissed off at the current staff of id
+16:41 <bikcmp> id = irondust
+16:41 <bikcmp> one in particular
+16:42 <bikcmp> spitfire is dating nightmare
+16:42 <bikcmp> yeah, irc dating, bleh. 
+16:42 <bikcmp> but, nightmare is fucking obsessed with "ddos" and making jokes in regards to attacks
+16:42 <`> lolwat
+16:42 <bikcmp> and flooding.
+16:42 <`> >female on IRC
+16:42 <`> >NEVER HAPPEN
+16:42 <bikcmp> yeah
+16:42 <`> just kidding, but go on
+16:42 <bikcmp> besides the point
+16:42 <bikcmp> lol
+16:42 <bikcmp> so, about 2 weeks ago
+16:42 <bikcmp> nightmare flooded #social and 3 other chans as spitfire watched and did nothing
+16:43 <bikcmp> i warned spitfire about it, he was like "mmm, okay"
+16:43 <bikcmp> nightmare later said she was sorry
+16:43 <`> heh, just never make me do omegaspam.
+16:43  * ` lides
+16:43 <bikcmp> and then told me about how spitfire spies on her conversations
+16:43 <bikcmp> i confirmed that, spitfire actually installed rootkits on the servers
+16:43 <bikcmp> he installed it, nightmare found it
+16:44 <bikcmp> he removed it, then he put it back on
+16:44 <bikcmp> i knew about that
+16:44 <bikcmp> and i was extremely po'ed.
+16:44 <bikcmp> i didn't mentiona nything about it yet
+16:44 <bikcmp> but, today, nightmare flooded the shit out of a channel her
+16:44 <`> well, that would be grounds for termination of staff status
+16:44 <bikcmp> e
+16:44 <bikcmp> and my backlog.
+16:44 <bikcmp> my away log is /FULL/ of bullshit.
+16:44 <bikcmp> FULL of it.
+16:44 <`> i DO NOT tolerate rootkits of any of that sort on my servers
+16:45 <bikcmp> 12:36:14 #smbx: < CockLover> no point of giving the appearance of a well as a thesis job which to perform a thought occurred  to rape questionmark sakke deadfish erikmouse langkid1 wildclaw888 bikcmp erikmouse chanserv
+16:45 <bikcmp> 12:36:26 #smbx: <+lu5ndfo7> /connect irc.irondust.net
+16:45 <bikcmp> 12:36:36 #smbx: <+jojf174> irssi --hostname=minecraft.irondust.net
+16:45 <bikcmp> 12:36:39 #smbx: <+il2hjgy8vy3y> host irc.irondust.net
+16:45 <bikcmp> 12:36:55 #smbx: <+b21wlupve21> ping silver.irondust.net
+16:45 <bikcmp> 12:39:43 #smbx: < CockLover> valtteri questionmark sakke deadfish thevoid_ nightmare michelfp langkid1 wildclaw888 bikcmp  erikmouse chanserv spitfire
+16:45 <bikcmp> 12:39:43 #smbx: < CockLover> valtteri questionmark sakke thevoid_ wildclaw888 bikcmp erikmouse langkid1 michelfp on  2012-07-08 | furdar reading the same text
+16:45 <bikcmp> it's full of that
+16:45 <`> as such, it'd be grounds for immediate expulsion
+16:45 <bikcmp> 10000 lines long.
+16:45 <bikcmp> 1 hours of 10 messages a second
+16:45 <`> yeah.
+16:45 <bikcmp> probably more
+16:45 <bikcmp> so
+16:45 <`> remove those two.
+16:45 <bikcmp> no, the thing is
+16:45 <bikcmp> the server in which these attacks were comng from
+16:45 <bikcmp> in fact, the two servers
+16:45 <bikcmp> they were donated to irondust.
+16:45 <bikcmp> i don't own them, i had a fight with the owner
+16:45 <bikcmp> and he gave them to spitfire for IRONDUST USAGE ONLY
+16:46 <bikcmp> and the bouncer. and testnet.
+16:46 <bikcmp> the attack before came from these ips too
+16:46 <`> well, i'd delink
+16:46 <bikcmp> it isn't a link
+16:46 <bikcmp> irondust doesn't link
+16:46 <bikcmp> but, today i notified the server sponsor
+16:46 <bikcmp> and he's like, "AGAIN?"
+16:46 <bikcmp> "i'll talk to him, i just suspended the vpses"
+16:46 <`> this is exactly why i dont kinda like your ircd setup
+16:46 <`> no way to protect the network from rogue serves
+16:47 <bikcmp> well
+16:47 <bikcmp> i'm going to change that
+16:47 <bikcmp> very soon.
+16:47 <`> i can remove "power" from such servers
+16:47 <bikcmp> i can too.
+16:47 <`> but still allow links
+16:47 <`> as in
+16:47 <bikcmp> i trusted spitfire
+16:47 <`> if an ircop there did a /kill - wouldnt work
+16:47 <`> qlines, i think it was
+16:47 <bikcmp> yeah
+16:47 <bikcmp> but it's largely inefficent
+16:47  * bikcmp shrugs
+16:47 <bikcmp> i don't care for those types of ircds.
+16:47 <bikcmp> i dunno.
+16:47 <bikcmp> but, here
+16:47 <bikcmp> i need an opinion
+16:47 <bikcmp> not ircd war
+16:47 <bikcmp> 19:58:50  <Dan> <Dan> first of all, FR should have been done turned off
+16:47 <bikcmp> 19:58:50  <Dan> <Dan> second of all, our TOS forbids flooding
+16:47 <bikcmp> 19:58:50  <Dan> <Dan> so let's talk about how you are gonna resolve this
+16:47 <bikcmp> 19:58:50  <Dan> <Spitfire> First, lets just be clear on something.
+16:47 <bikcmp> 19:58:50  <Dan> <Spitfire> You never.
+16:47 <bikcmp> 19:58:50  <Dan> <Spitfire> Ever.
+16:47 <bikcmp> 19:58:50  <Dan> <Spitfire> Do that again.
+16:48 <bikcmp> don't share these logs or talk to these people
+16:48 <`> i won't.
+16:48 <bikcmp> 20:13:12  <Dan> <Dan> what steps do you plan to take to prevent this problem in the future?
+16:48 <bikcmp> 20:13:12  <Dan> <Spitfire> In actuality, I haven't violated your ToS.
+16:48 <bikcmp> 20:14:39  <Dan> Dan> ok, let's go through this real fast
+16:48 <bikcmp> 20:14:39  <Dan> <Dan> I see a large ammount or irc traffic outgoing, somebody posts about a flood in smbx, and then bikcmp posts the ip in smbx
+16:49 <bikcmp> so yeah
+16:49 <bikcmp> o
+16:49 <bikcmp> i then confront him
+16:49 <bikcmp> 20:04:47  <bikcmp> did you know nightmare was doing that?
+16:49 <bikcmp> 20:04:50  <bikcmp> ...
+16:49 <bikcmp> 20:12:07  <Spitfire> What of it?
+16:49 <bikcmp> 20:12:18  <bikcmp> the spam in #smbx?
+16:49 <bikcmp> 20:12:22  <bikcmp> i just did /away
+16:49 <bikcmp> 20:12:23  <bikcmp> and like
+16:49 <bikcmp> 20:12:29  <bikcmp> my buffer was full of 100000's of lines
+16:49 <bikcmp> 20:12:32  <bikcmp> of junk.
+16:49 <bikcmp> 20:12:37  <Spitfire> mkay
+16:49 <bikcmp> "mkay"
+16:50 <bikcmp> so, his box currently runs nameservers for irondust, and silver.irondust.net
+16:50 <bikcmp> i pulled silver from our dns
+16:50 <bikcmp> i plan on killing it tonight
+16:50 <bikcmp> along with almost all of our staff team.
+16:51 <`> it has to be done, if they continue to defy you
+16:51 <bikcmp> yes
+16:51 <bikcmp> so
+16:51 <`> pulling them sends the signal that you wont tolerate their crap.
+16:51 <bikcmp> i'm looking for 3 or 4 people to replace the current staff.
+16:51 <bikcmp> interested?
+16:51 <bikcmp> sue, too, if he's around
+16:52 <bikcmp> i'm adding dan, the sponsor who i've known for a long time
+16:52 <`> what would the duties entail, exactly?
+16:52 <bikcmp> well
+16:52 <`> dan who? if i may ask
+16:52 <bikcmp> dan petter something
+16:52 <`> aha
+16:53 <`> okay, so the duties?
+16:53 <`> just so you know, i'm very hands off
+16:53 <bikcmp> hands off?
+16:53 <`> i only intervene if someone's being a huge troll/asshole
+16:53 <`> otherwise, i just maintain things behind the scenes
+16:53 <bikcmp> yeah
+16:53 <bikcmp> well
+16:53 <`> i dont even like +o or any of that in channels
+16:53 <bikcmp> i'd want you to monitor #help
+16:53 <bikcmp> and like
+16:53 <`> yeah, that'd be easy enough
+16:53 <bikcmp> you know
+16:53 <bikcmp> take care of stuff.
+16:53 <`> yeah
+16:54 <bikcmp> make sure if shit breaks, it's fixed.
+16:54 <`> yep :P
+16:54 <bikcmp> i think i'm going to make 'teams' this time around.
+16:54 <`> or any troublemakers bounced out
+16:54 <`> :P
+16:54 <bikcmp> i don't want irondust to be just irc.
+16:54 <`> :P
+16:54 <bikcmp> so. yeah.
+16:54 <bikcmp> i'm going to make 'teams'.
+16:54 <bikcmp> you'd be part of the 'irc' team
+16:55 <bikcmp> making sure irc is taken care of, and our irc service is working.
+16:55 <bikcmp> i'm about to move on to the next stuff.
+16:55 <bikcmp> i'm still debating on what to do next though-
+16:55 <bikcmp> i'm kinda liking that cyberlocker / dropbox idea.
+16:55 <bikcmp> lol
+16:55 <`> haha yeah
+16:55 <`> it's just too useful.
+16:56 <bikcmp> that'd be a handy communication oriented tool.
+16:56 <bikcmp> get what i mean?
+16:56 <`> exactly.
+16:56 <bikcmp> irondust is about making communication in groups easier.
+16:56 <bikcmp> that's what the mission is.
+16:56 <bikcmp> i started it off with IRC.
+16:56 <`> i use mine for conveying ideas/pictures/whatnot
+16:56 <bikcmp> now i want to do the next service, web-based.
+16:56 <bikcmp> yeah
+16:56 <bikcmp> i think i want to be the head of the locker project.
+16:56 <`> :P
+16:56 <bikcmp> like, there would be 'teams' like i said, though
+16:56 <`> you're the developer.
+16:56 <bikcmp> well
+16:57 <bikcmp> i'm both@!
+16:57 <bikcmp> !, rather
+16:57 <bikcmp> basically, i'd like to be the person who manages irondust overall, but then we have sub-teams which manage a specific service
+16:57 <bikcmp> for the locker, i'd probably add in 2 or 3 others as well, for coding.
+16:58 <`> yeah.
+16:58 <`> that makes more sense.
+16:59 <`> or be like Valve
+16:59 <`> do you know how their devs work?
+16:59 <`> apparently they let their devs do whatever they want
+16:59 <bikcmp> like google?
+16:59 <`> not really
+17:00 <`> Valve doesn't assign devs to any project.
+17:00 <`> they literally allow the dev to decide.
+17:00 <`> Valve says this "helps" innovation
+17:00 <bikcmp> eh
+17:00 <bikcmp> i'm not sure if i'd trust the staff team to do that.
+17:00 <bikcmp> tbh.
+17:01 <`> granted.
+17:01 <bikcmp> i tried that this time around
+17:01 <bikcmp> and like
+17:01 <bikcmp> they just sit on their bums doing nothing
+17:01 <`> yeah.
+17:01 <`> it just depends on the people themselves, really.
+17:01 <bikcmp> and refusing any change i want to make.
+17:01 <`> Valve chooses amazing people.
+17:01  * ` shrugs
+17:01 <`> yeah, that's not contributing, that's blockign.
+17:01 <`> *ing
+17:01 <`> and/or not helping
+17:02 <`> bascially they're here to help out ID
+17:02 <`> and if they're not, they're not being 'staff'
+17:02 <`> know what i mean?
+17:02 <bikcmp> well
+17:02 <bikcmp> yeah
+17:02 <bikcmp> that's why i want to kill everyone on staff.
+17:02 <`> heh
+17:02 <bikcmp> i think i want to keep jstoker.
+17:02 <bikcmp> he's a cool guy, and he's FUCKING SMART.
+17:03 <`> i honestly dont know about the structure of id
+17:03 <bikcmp> yeah
+17:03 <bikcmp> but, he has no time.
+17:03 <`> the only thing i really know about it is #hh :P
+17:03 <`> and that you're the owner.
+17:04 <bikcmp> yeah.
+17:04 <bikcmp> but, you're the kind of person who would be good at this.
+17:09 <`> sorry, was trying to clean the a/c
+17:09 <bikcmp> np
+17:09 <bikcmp> oh
+17:09 <bikcmp> i also had a fingerspelling question.
+17:09 <bikcmp> what's the difference between 'a' and 's'
+17:09 <`> with 'a' the thumb is on the side
+17:10 <`> and then the S has the thumb in front of the fist
+17:10 <bikcmp> on the side?
+17:10 <bikcmp> err
+17:10 <bikcmp> sorry
+17:10 <bikcmp> not a
+17:10 <bikcmp> 'e' and 's'
+17:10 <bikcmp> my bad
+17:10 <`> e is kinda a "blown up" S
+17:10 <bikcmp> blown up?
+17:10 <`> when it's like the gay dragonballz kamehameha
+17:10 <bikcmp> know where you could find a decent picture of the differences?
+17:11 <bikcmp> the sites i look at, uh
+17:11 <`> hold on
+17:11 <bikcmp> they look /exactly the same/
+17:11 <`> S is more of a full fist
+17:11 <`> here.
+17:11 <`> finding.
+17:12 <`> fuck it
+17:12 <`> i'm taking a pic
+17:12 <`> this is "E": http://dgd.io/SHUC
+17:13 <`> and then this is "S": http://dgd.io/eza1
+17:13 <`> see what i mean?
+17:13 <bikcmp> ah
+17:13 <`> it's like an "exploded S"
+17:13 <bikcmp> NOW i do, let me show you the sites i looked at
+17:14 <bikcmp> http://asl.gs/slideshow/e.gif
+17:14 <bikcmp> http://asl.gs/slideshow/s.gif
+17:14 <bikcmp> see what i mean?
+17:14 <`> i know
+17:14 <`> that's the "standard" E
+17:15 <`> which most deafies dont like
+17:15 <`> but the rule of thumb is
+17:15 <`> if the thumb is below the fingertips = E
+17:15 <`> if it's over the fingers = S
+17:15 <`> know what i mean?
+17:15 <bikcmp> yeah
+17:15 <bikcmp> that's what i did.
+17:15 <`> nod.
+17:16 <bikcmp> but, like
+17:16 <bikcmp> to me, it looked very very similar.
+17:17 <`> yeah, but there's differences
+17:17 <`> :P
+17:17 <bikcmp> :-P
+17:17 <`> i wish i had a thermostat
+17:17 <`> that showed temps
+17:17 <`> AH!
+17:17 <bikcmp> buy one, you cheap ass
+17:18 <`> my fucking i7
+17:18 <bikcmp> lol
+17:18 <`> it's still running, so i can exec sensors
+17:18 <`> it should have an ambient for me
+17:18 <bikcmp> actually
+17:18 <bikcmp> no
+17:18 <bikcmp> it won't
+17:18 <`> yes it does
+17:18 <`> :D
+17:18 <bikcmp> i'm sure the i7 has liquid cooling
+17:18 <bikcmp> doesn't it?
+17:18 <`> nope
+17:18 <`> thats what's scary
+17:18 <`> i'm using a giant heatsink with two fans
+17:19 <bikcmp> hah
+17:19 <`> (not kidding. the damn thing has 2 fans attached to the heatsink)
+17:19 <bikcmp> did i tell you about my job?
+17:19 <bikcmp> well
+17:19 <bikcmp> like
+17:19 <bikcmp> i'm bored as fuck over the summer
+17:19 <bikcmp> right?
+17:19 <`> okay
+17:19 <`> my cores are 48C
+17:19 <bikcmp> lol
+17:19 <`> Core 0:       +47.0°C  (high = +80.0°C, crit = +100.0°C)
+17:19 <`> Core 1:       +48.0°C  (high = +80.0°C, crit = +100.0°C)
+17:19 <`> Core 2:       +48.0°C  (high = +80.0°C, crit = +100.0°C)
+17:19 <`> Core 3:       +44.0°C  (high = +80.0°C, crit = +100.0°C)
+17:20 <`> and then temp2 is the ambient temp sensor
+17:20 <`> temp2:        +80.0°C  (high = +255.0°C, hyst = +251.0°C) (crit = +255.0°C, hyst = +251.0°C)  sensor = transistor
+17:20 <`> 176F
+17:20 <`> scary.
+17:21 <`> that sensor's near the CPU so it's 'artifically' high
+17:21 <`> still, though
+17:21 <`> i probably should shut it down
+17:21 <`> should I?
+17:22 <bikcmp> lol
+17:22 <bikcmp> sure
+17:22 <bikcmp> but dude
+17:22 <bikcmp> i found this guy who needed help managing his emails and shit online
+17:22 <bikcmp> and wanted to pay at oregon min wage ($9/hr)
+17:22 <bikcmp> dude
+17:22 <bikcmp> $9 an hour doing very little with no expenses = :)
+17:22 <bikcmp> so i set up his support email addy
+17:23 <bikcmp> the next day he got an email from a client
+17:23 <bikcmp> who wanted a linux server managed
+17:23 <bikcmp> the guy i worked for didn't know how to do linux, so he was about to send back that he can't do it
+17:23 <bikcmp> i said i did
+17:23 <bikcmp> and so i talked to the guy
+17:23 <bikcmp> and i configured the server very basicly
+17:23 <bikcmp> took about 6 hours
+17:23 <bikcmp> then he's like
+17:23 <bikcmp> "know what, do you need a job?"
+17:24 <bikcmp> so like
+17:24 <bikcmp> if this dude is for real, that's awesome.
+17:24 <`> that is, yeah.
+17:24 <bikcmp> so
+17:25 <bikcmp> while i was doing the job for him
+17:25 <bikcmp> i kept saying my netbook sucks
+17:25 <bikcmp> so he's like
+17:25 <bikcmp> "i'll even give you a laptop as a welcome gift, if you need one to develop on"
+17:25 <`> gg, lol
+17:25 <bikcmp> gg?
+17:25 <bikcmp> well
+17:25 <`> i had a situation like that.
+17:25 <bikcmp> if this dude's for real, we're set
+17:25 <`> good god.
+17:25 <bikcmp> but... yeah
+17:25 <bikcmp> there's of course a good chance it isn't real
+17:26 <`> i once had a boss like that
+17:26 <bikcmp> yeah
+17:26 <bikcmp> he seems like he's legit, though.
+17:26 <bikcmp> i guess we'll know soon
+17:26 <`> my old boss
+17:26 <`> he literally spent $5500 on me
+17:26 <bikcmp> !
+17:26 <`> in one go
+17:26 <bikcmp> he was also insisting that i get paid
+17:26 <`> a PowerBook G4 1.67GHz
+17:26 <`> i agreed to accept that as wages for the first year.
+17:26 <`> completely maxed out.
+17:26 <`> the last G4 made.
+17:27 <`> i was a monster with that thing
+17:27 <`> did projects very quickly :P
+17:27 <`> then eventually it showed its age (PPC)
+17:28 <bikcmp> yeah.
+17:28 <bikcmp> i'm on this shitty netbook
+17:28 <bikcmp> so
+17:28 <bikcmp> lol
+17:28 <`> then i managed to sell off my PC parts (friend works at a dump that has its own thrift store attached, so he rescues electronics for me)
+17:28 <`> and raised enough for two things.
+17:30 <bikcmp> wow
+17:30 <bikcmp> nice man
+17:31 <bikcmp> i /really/ need a better laptop
+17:31 <bikcmp> 22:26:16  <`> a PowerBook G4 1.67GHz
+17:31 <bikcmp> i'm running at 1 ghz.
+17:31 <bikcmp> lol
+17:31 <bikcmp> model name: Intel(R) Atom(TM) CPU   @  1.00GHz
+17:33 <bikcmp> so yeah
+17:33 <bikcmp> well
+17:33 <bikcmp> what i'm thinking is
+17:33 <bikcmp> with my wage, maybe get a laptop
+17:33 <bikcmp> and this guy wants to get me a chromebook
+17:37 <`> heh yeah
+17:37 <`> my specs for *this* machine is
+17:38 <`> 2.26GHz Intel Core2Duo
+17:38 <bikcmp> asshole
+17:38 <bikcmp> :(
+17:38 <`> 4GB 1027MHz DDR3
+17:38 <bikcmp> ship it to me!
+17:38 <`> lol noep
+17:38 <`> my main machine.
+17:38 <`> gotta love this laptop.
+17:38 <bikcmp> i hate you
+17:38 <bikcmp> god
+17:39 <`> lols, er
+17:39 <bikcmp> yeah
+17:40 <`> jesus to the fuckity Christ
+17:40 <`> google.com
+17:40 <`> weather 92399
+17:41 <`> no wonder im dying of heat
+17:43 <`> and that's partly cloudy
+17:43 <`> x.x
+17:43 <`> the earth is going to hell in a handbasket.
+--- Log closed Mon Jul 09 17:48:45 2012
+--- Log opened Mon Jul 09 18:11:12 2012
+18:11 <bikcmp> and, yeah
+18:11 <bikcmp> it was 106 here 2 days ago
+18:11 <bikcmp> FUCKING HOT
+--- Log closed Mon Jul 09 18:16:45 2012
+--- Log opened Mon Jul 09 18:17:30 2012
+18:17 <bikcmp> here still?
+18:17 <bikcmp> i got a replacement server
+18:17 <`> yeah?
+18:18 <bikcmp> so
+18:18 <bikcmp> i have the replacement server
+18:18 <bikcmp> what should i say to the people who i'm getting rid of
+18:18 <`> not sure.
+18:18 <bikcmp> i'm about to shred the fuck out of the old server
+18:19 <`> make sure you make a backup
+18:19 <bikcmp> i'm cloning it
+18:19 <bikcmp> i'm pulling everything i need off of it
+18:19 <`> yeah, then go ehad
+18:19 <bikcmp> putting it on another server
+18:19 <`> *ahead
+18:19 <bikcmp> i'm going to make it as if this server never died
+18:20 <`> sounds good.
+18:24 <bikcmp> shred: atheme.zip: pass 297/300 (edb6db)...
+18:24 <bikcmp> shred: atheme.zip: pass 298/300 (b33333)...
+18:24 <bikcmp> shred: atheme.zip: pass 299/300 (b33333)...
+18:24 <bikcmp> shred: atheme.zip: pass 300/300 (random)...
+18:24 <bikcmp> shred: atheme.zip: removing
+18:24 <bikcmp> shred: atheme.zip: renamed to 0000000000
+18:24 <bikcmp> shred: 0000000000: renamed to 000000000
+18:24 <bikcmp> shred: 000000000: renamed to 00000000
+18:24 <bikcmp> :)
+--- Log closed Mon Jul 09 18:30:45 2012
+--- Log opened Mon Jul 09 18:43:33 2012
+18:43 <bikcmp> ooook
+18:43 <bikcmp> ready for dramaaaaaaaaa
+18:43 <bikcmp> haha
+--- Log closed Mon Jul 09 18:48:45 2012
+--- Log opened Tue Jul 10 00:13:55 2012
+00:13 -!- bikcmp [~jason@staff/bikcmp] has quit [Quit: Reconnecting]
+00:18 -!- Guest55410 is now known as bikcmp
+--- Log closed Tue Jul 10 00:24:45 2012
+--- Log opened Tue Jul 10 00:58:17 2012
+00:58 <`> i get a +N right?
+00:58 <bikcmp> +N?
+00:58 <`> netadmin
+00:58 <bikcmp> +a
+00:59 <bikcmp> :P
+00:59 <bikcmp> netadmin = +a
+00:59  * ` shrugs
+00:59 <`> but yeah, i like to be netadmin due to operoverride, etc
+00:59 <`> i like to surprisebuttfuck people when they misbehave ;)
+01:00 <`> as in, a /kick or an /kill out of nowhere
+01:00 <bikcmp> yeah
+01:00 <bikcmp> news flash
+01:00 <bikcmp> operoverride doesn't exist here.
+01:00 <bikcmp> lol
+01:00 <`> :P
+01:00 <bikcmp> i'll sort ya in a second
+01:00 <bikcmp> i'm making sure id is secure
+01:00 <`> well, +a would solve for that ;)
+01:00 <`> okies.
+01:02  * ` goes and grabs food
+01:02 <`> im hungry :P
+01:03 <bikcmp> :P
+--- Log closed Tue Jul 10 01:08:45 2012
+--- Log opened Tue Jul 17 17:25:53 2012
+17:25 -!- 02CAAACPU is now known as bikcmp
+--- Log closed Tue Jul 17 17:31:45 2012
+--- Log opened Sun Jul 29 16:26:42 2012
+16:26 -!- Irssi: Starting query in irondust with bikcmp
+16:26 <dissimulo> wht the hell is my oper nick
+16:26 <dissimulo> :P
+16:27 <dissimulo> since all permutation of my usual doesnt work
+16:27 <bikcmp> hmmmmmmmm
+16:27 <dissimulo> (dustin, dissimulo, `, grave)
+16:27 <dissimulo> just tell me
+16:27 <bikcmp> well
+16:27 <dissimulo>  /oper nick pass
+16:27 <bikcmp> first i need to actually put it in there
+16:27 <bikcmp> so like
+16:27 <dissimulo> what is it?
+16:27 <bikcmp> yeah
+16:27 <bikcmp> tends to work better.
+16:27 <dissimulo> ..................
+16:27 <bikcmp> ...yeah.
+16:27  * dissimulo slaps you
+16:27 <bikcmp> i wanted to check something.
+16:28 <dissimulo> :P
+16:28 <dissimulo> check what?
+16:28 <bikcmp> what ips will you be coming from
+16:28 <dissimulo> almost always this ip
+16:28 <dissimulo> cookiemonster.deafgeeksdns.com / irc.deafgeeksirc.com
+16:28 <bikcmp> no, ip
+16:28 <dissimulo> Server:		173.203.4.8
+16:28 <dissimulo> Address:	173.203.4.8#53
+16:28 <dissimulo> Non-authoritative answer:
+16:28 <dissimulo> Name:	irc.deafgeeksirc.com
+16:28 <dissimulo> Address: 10.178.228.92
+16:28 <bikcmp> 108.166.7.184 and 10.178.228.92?
+16:28 <dissimulo> 10.178.228.92
+16:29 <dissimulo> yes.
+16:29 <bikcmp> oper
+16:29 <bikcmp> what are you opering as
+16:29 <dissimulo>  /oper dustin
+16:29 <dissimulo> preferably
+16:29 <dissimulo>  /oper grave
+16:29 <bikcmp> i put you as dissimulo 
+16:29 <bikcmp> /oper dissimulo x
+16:29 <dissimulo> good enough
+16:29 <bikcmp> x = your pw
+16:30 <bikcmp> try now
+16:30 <bikcmp> hm
+16:30 <dissimulo> DEEEEEEEEEEEENIED
+16:30 <bikcmp> oh
+16:30 <bikcmp> you need to connect with SSL.
+16:30 <dissimulo> ._.
+16:30 <bikcmp> port 6697, 6670, whatever
+16:32 <dissimulo> okay, i'm +Z'd
+16:32 <dissimulo> but no oper
+16:32 <bikcmp> huh
+16:32 <bikcmp> ok
+16:32 <bikcmp> i think i misspelled your name
+16:32 <bikcmp> operator "dissimulo"
+16:32 <bikcmp> { user = "*@108.166.7.184"; user = "*@cookiemonster.deafgeeksdns.com"; user = "*@10.178.228.92"; password = "$yYpUZ9l1$HnVW9oO98xSkAchpFhN9vMW42Eg=" flags = encrypted, need_ssl; privset="staffer2";
+16:32 <bikcmp> };
+16:33 <bikcmp> did i
+16:33  * bikcmp taps foot
+16:34 <dissimulo> change the deafgeeksdns fqdn to irc.deafgeeksirc.com
+16:34 <dissimulo> same IP anyway
+16:34 <bikcmp> nein
+16:34 <bikcmp> won't change
+16:34 <dissimulo> try generating the password
+16:34 <bikcmp> ok
+16:34 <dissimulo> yourself
+16:34 <bikcmp> what's the pw
+16:34 <dissimulo> phesp6Re
+16:34 <dissimulo> bikcmp why wont change?
+16:35 <dissimulo> i love my o:line
+16:35 <dissimulo> on my network
+16:36 <bikcmp> try now
+16:36 <bikcmp> it's saying /host/ mismatch
+16:36 <bikcmp> so something's weird
+16:36 <dissimulo> oper dustin {
+16:36 <dissimulo>         class clients;
+16:36 <dissimulo>         from { userhost *; };
+16:36 <dissimulo>        password "$LOLHASHEDPASSWORDINSHA1LOLLLLL=" { sha1; };
+16:36 <dissimulo>         flags OoaAreDRhwgkKbZtBnGNZW^Hv;
+16:36 <dissimulo>         snomask fjvGeqFskbrWSonc;
+16:36 <dissimulo> };
+16:36 <dissimulo> :P
+16:36 <bikcmp> oh
+16:36 <bikcmp> i'm a fucking bozo
+16:36 <dissimulo> what?
+16:36 <bikcmp> oper.
+16:36 <bikcmp> inb4 it'll work
+16:37 <dissimulo> noooooooooooope
+16:37 <bikcmp> bahh
+16:37 <dissimulo> chuck testa.
+16:37 <bikcmp> i typoed
+16:37 <bikcmp> 17:35:28  !zinc.irondust.net *** Notice -- "/home/irondust/chary/ircd/etc/ircd.conf", line 217: syntax error at ' flags =  encrypted, need_ssl'
+16:37 <bikcmp> 17:35:28  !zinc.irondust.net *** Notice -- "oper.conf", line 217: Configuration block 'flags' is not defined.
+16:37 <bikcmp> 17:35:28  !zinc.irondust.net *** Notice -- "oper.conf", line 217: Configuration block 'encrypted' is not defined.
+16:37 <bikcmp> 17:35:28  !zinc.irondust.net *** Notice -- "oper.conf", line 217: Configuration block 'need_ssl' is not defined.
+16:37 <bikcmp> now.
+16:38 <`> there we go.
+16:38 <bikcmp> about fucking time
+16:38 <bikcmp> lol
+16:38 <`> yeah.
+16:38 <`> about time. :P
+16:38 <bikcmp> well
+16:38 <bikcmp> i'm a bozo
+16:38 <bikcmp> in short
+16:38 <`> and i'm STILL liking this
+16:38 <`> <
+16:38 <bikcmp> i thought you were on zinc.
+16:38 <`> lolwat
+16:38 <bikcmp> so i was putting the test oline on zinc.
+16:38 <`> quicksilver, apparently
+16:38 <bikcmp> as it turns out, you weren't.
+16:38 <bikcmp> yeah.
+16:38 <bikcmp> lol
+16:39 <`> why isnt the opers.conf sync'd to all serves?
+16:39 <bikcmp> it is
+16:39 <`> or u:line'd
+16:39 <bikcmp> i just wasn't doing it because i thought that you were on that server
+16:39 <bikcmp> lol
+16:39 <`> in my unreal ircd
+16:39 <bikcmp> so i did it and bang
+16:39 <`> all of the servers that are linked are appropriately u:lined
+16:39 <bikcmp> well
+16:39 <bikcmp> also
+16:39 <`> as in i dont have to have oper on that particular server to have oper
+16:39 <bikcmp> i want to throw you a staff/ cloak
+16:39 <bikcmp> but ` is an illegal character in vhosts
+16:39 <bikcmp> lol
+16:39 <`> what
+16:40 <bikcmp> so like
+16:40 <bikcmp> your vhost would look like staff/AAAAAOI8
+16:40 <`> thats crazy
+16:40 <bikcmp> your uid
+16:40 <`> FIX IT :D
+16:40 <bikcmp> no
+16:40 <bikcmp> rfcs :(
+16:40 <bikcmp> lol
+16:40 <bikcmp> /ns set account dissimulo
+16:40 <bikcmp> or i could just give you a staff/AAAAAAAQF cloak
+16:40 <bikcmp> lol
+16:40 <`> just
+16:40 <`> can we fake it
+16:40 <`> staff/grave
+16:40 <bikcmp> group grave
+16:40 <bikcmp> and yeah
+16:41 <`> since `=grave
+16:41 <bikcmp> /nick grave
+16:41 <bikcmp> /ns group
+16:41 <`> i already grouped dissimulo to `
+16:41 <bikcmp> and?
+16:41 <bikcmp> lol
+16:41 <bikcmp> you can have 5
+16:41 <bikcmp> come on, i need to go
+16:42 <`> done.
+16:42 <`> grave grouped to `
+16:43 <`> can your nickserv set no-expire on particular nicks?
+--- Log closed Sun Jul 29 16:49:08 2012
+--- Log opened Sun Jul 29 17:11:39 2012
+17:11 -!- Irssi: Starting query in irondust with bikcmp
+17:11 <bikcmp> no
+17:11 <bikcmp> enjoy
+17:12 <`> ?
+17:12 <bikcmp> 18:10:23  -NickServ(NickServ@services.)- Assigned vhost staff/grave to `.
+17:12 <`> ah
+17:12 <`> k
+17:12 <`> :)
+17:12 <`> i'll have to add in autocmds in irssi
+17:12 <`> so i autonick, autooper
+17:13 <`> even on reconnect on /kill
+17:13 <bikcmp> yes, fwiw don't /kill anyone
+17:13 <`> i have those safeguards built in
+17:13 <`> yeah
+17:13 <`> i'll only do it if one's being a complete, utter idiot
+17:13 <`> and have the logs to prove it
+17:14 <`> but yeah.
+17:14 <bikcmp> 18:12:27  <`> i'll only do it if one's being a complete, utter idiot
+17:14 <bikcmp> not even that
+17:14 <`> not even?
+17:14 <bikcmp> unless they're breaking the ucp in ways that action must be taken at that second, don't /kill
+17:15 <`> then i'll have to brush up on the ucp
+17:15 <`> link, pls.
+17:16 <`> never mind. found it
+17:16 <bikcmp> yeah
+17:16 <bikcmp> the page looks horrid
+17:17 <`> i agree
+17:17 <`> readability is completely shot
+17:17 <`> i can barely read it
+17:17 <bikcmp> fix it for m
+17:17 <bikcmp> e!
+17:18 <`> i just might
+17:18 <bikcmp> nobody's cared enough
+17:18 <bikcmp> i say "fix it and i'll put it up"
+17:18 <bikcmp> but no
+17:18 <bikcmp> lol
+17:18 <`> well
+17:18 <`> talk in #staff
+--- Log closed Sun Jul 29 17:24:08 2012
+--- Log opened Wed Aug 01 17:49:31 2012
+17:49 <`> General Information  
+17:49 <`> --------------------  
+17:49 <`> Hostname       :  2.db.irondust.net  
+17:49 <`> Distribution   :  squeeze  
+17:49 <`> Mirror         :  http://ftp.us.debian.org/debian/  
+17:49 <`> Partitions     :  swap            1024Mb (swap)  
+17:49 <`>                   /               18Gb  (ext3)  
+17:49 <`> Image type     :  full  
+17:49 <`> Memory size    :  1024Mb  
+17:49 <`> Kernel path    :  /boot/vmlinuz-2.6.32-5-xen-amd64  
+17:49 <`> Initrd path    :  /boot/initrd.img-2.6.32-5-xen-amd64  
+17:49 <`> Installation Summary
+17:49 <`> ---------------------
+17:49 <`> Hostname        :  2.db.irondust.net
+17:49 <`> Distribution    :  squeeze
+17:49 <`> IP-Address(es)  :  dynamic
+17:49 <`> RSA Fingerprint :  85:f6:6a:88:eb:d6:6e:7b:2f:c4:ae:18:50:79:d3:18
+17:49 <`> Root Password   :  lolid
+17:51 <bikcmp> ok
+17:51 <bikcmp> bbl
+17:51 <bikcmp> and how did you make that 
+17:51 <bikcmp> whmcs?
+17:53 <`> Xen
+17:53 <`> straight up in console
+17:54 <`> okay
+17:55 <`> ssh -p 9554 root@108.13.172.45
+17:55 <`> however
+17:55 <`> you can use iamat.endofinternet.org for access, CNAMEs, that sorta thing
+17:55 <`> it *always* points to here
+17:56 <`> got in?
+17:59 <`> yey, it seems to work.
+18:00 <`> duuuude?
+18:01 <`> i'm setting it so it boots at boot
+18:03  * ` pokes
+18:03  * ` pokes
+18:03  * ` pokes
+18:03  * ` pokes
+18:03  * ` pokes
+18:03  * ` pokes
+18:03 <`> you're really terrible at keeping up with things.
+18:03 <`> as in keeping up with me.
+18:03 <`> ;)
+--- Log closed Wed Aug 01 18:09:08 2012
+--- Log opened Wed Aug 01 19:56:21 2012
+19:56 <bikcmp> yes
+19:56 <bikcmp> 20:54:47  -!-  away     : not here ...
+19:56 <`> bikcmp so login, already
+19:56 <bikcmp> turns out i'm not here
+19:56 <`> i never saw that
+19:56 <`> honestly
+19:57 <bikcmp> (if i don't reply, it tends to mean i'm preoccupied)
+19:57 <`> :p
+19:57 <`> ssh port 9554
+19:57 <`> root/lolid
+19:57 <`> to um
+19:58 <`> 108.13.172.45
+19:58 <bikcmp> ok
+19:58 <`> alternatively, iamat.endofinternet.org - you can cname shit to that
+19:58 <bikcmp> well
+19:58 <bikcmp> i have bots that automatically set itup
+19:58 <bikcmp> it up
+19:58 <bikcmp> it assigns your server a uid
+19:59 <`> however you do it
+20:00 <`> i see you're in
+--- Log closed Wed Aug 01 20:06:08 2012
+--- Log opened Wed Aug 01 20:11:33 2012
+20:11 <bikcmp> i'm doing a ton of coding
+20:11 <`> :P
+20:11 <`> it's still fun niggling you
+20:11 <bikcmp> what do you need me to o
+20:11 <bikcmp> do
+20:12 <`> idk nothing, just wondering what your plans are for it tonight
+20:12 <bikcmp> to finish up the database i'm coding, then deploy it.
+20:12 <bikcmp> :_P
+20:12 <`> tonight?
+20:12 <`> i want to put it into the rack tonight.
+20:13 <`> if not tomorrow.
+20:13 <bikcmp> what do you mean?
+20:13 <bikcmp> put what in the rack?
+20:13 <`> this system is in a 4u case
+20:13 <`> which would fit into the 42U rack cabinet i have in my air-conditioned room
+20:13 <bikcmp> put it in now while it isn't doing anything
+20:13 <`> yep.
+20:14 <`> sending sigterms now
+20:14 <bikcmp> it'll need about 10 minutes to propgate the db
+20:14 <bikcmp> and i don't want it interupted
+20:14 <bikcmp> so yeah
+20:14 <bikcmp> haha
+20:14 <`> yeah, np
+20:14 <bikcmp> note to self, 430
+20:14 <`> ?
+20:14 <`> for your code, i assume.
+20:15 <bikcmp> yeah
+20:15 <bikcmp> function(v) { var data = JSON.parse(v.values[0].data); if(data.lusername == \"%s\") { return [[v.key, data]]; } return []; }
+20:15 <bikcmp> :-P
+20:15 <`> :p
+20:15 <`> what'd you think of the motd? ;p
+20:16 <`> nice
+20:16 <`> once it receives sigterm
+20:16 <`> it says "Shutting down Xen domains:"
+20:16 <`> so it shuts down everything gracefully.
+20:17 <`> k, its down.
+20:17 <`> moving it now.
+20:17 <bikcmp> sure
+20:17 <bikcmp> hf
+20:19 <bikcmp> also
+20:19 <bikcmp> please don't highlight/spam me.
+20:19 <bikcmp> it makes it so it's extremely hard to see your message.
+20:20 <bikcmp> i use a more strict version of xanoslib on my irssi client
+20:20 <bikcmp> it autoignores you :)
+20:20 <bikcmp> so then i need to unignore you then go into blocked/
+20:23 <`> then permanently whitelist me
+20:23 <`> ;)
+20:23 <bikcmp> yeah, no
+20:23 <bikcmp> it actually doesn't even support it ;p
+20:24 <bikcmp> the way i wrote it would make it hard.
+--- Log closed Wed Aug 01 20:29:08 2012
+--- Log opened Wed Aug 01 20:30:13 2012
+20:30 <bikcmp> 513/8
+--- Log closed Wed Aug 01 20:36:08 2012
+--- Log opened Wed Aug 01 21:25:53 2012
+21:25 <`> ok, /w2
+21:25 <bikcmp> ?
+21:26 <`> it's all racked up
+21:26 <bikcmp> nice
+21:26 <bikcmp> what are your thoughts on the web stuff
+21:26 <bikcmp> summery:
+21:26 <bikcmp> 22:20:38  <@bikcmp> i have a question for you.
+21:26 <bikcmp> 22:20:46  <@bikcmp> i'd like to shift irondust towards web based services
+21:26 <bikcmp> 22:20:49  <@bikcmp> or other nonirc protocols.
+21:26 <bikcmp> 22:21:37  <@bikcmp> so.
+21:26 <bikcmp> 22:21:45  <@bikcmp> this requires an authentication gateway.
+21:26 <bikcmp> 22:21:58  <@bikcmp> i don't want to rely on one server (services).  that adds a  /big/ point of failure. 
+21:26 <bikcmp> 22:22:17  <@bikcmp> so, i'd like to make it so account management must be done  through a pretty nice web interface.
+21:26 <bikcmp> 22:22:41  <@bikcmp> this might reduce what you can do with your irondust  account on irc (nickserv stuff), but it won't affect  chanserv/channels in any other way.
+21:26 <bikcmp> 22:22:45  <@bikcmp> is this a good idea?
+--- Log closed Wed Aug 01 21:32:08 2012
+--- Log opened Sat Aug 04 20:54:24 2012
+20:54 -!- bikcmp [~jason@staff/bikcmp] has quit [Quit: quitting irc forever]
+--- Log closed Sat Aug 04 20:59:28 2012
+--- Log opened Sun Aug 05 15:05:46 2012
+15:05 <`> what the fucking fuck?
+15:05 <`> tin.id
+15:05 <`> has no clue who i am
+15:06 <`> as in i cant oper up
+15:06 <`> and i cant fucking do a /map
+15:06 <`> so i dont know what hosts there are
+15:06 <`> charybdis is truly shit
+--- Log closed Sun Aug 05 15:08:12 2012
+--- Log opened Fri Aug 10 10:35:06 2012
+10:35 -!- Irssi: Starting query in irondust with bikcmp
+10:35 <`> oline isnt working;
+10:35 <`> and:
+10:35 <`> 10:15 < `> bikcmp: i PM'd you the details for the Xen instance
+10:35 <`> 10:16 < `> Sue: i told you i would use it while you were gone, and when you came back, you can have it back
+10:35 <`> 10:16 < `> Sue: you said that was fine.
+10:35 <`> 10:16 < `> Sue: it's bullshit that you're "upset" about it being used.
+10:35 <`> 10:16 < `> Sue: and i did not downplay your anxiety. i just think you can overcome it.
+10:35 <`> 10:17 < `> Sue: now dont fucking make me out as a bad guy.
+10:35 <`> 10:17 < Sudos|PE2300> oh hai `
+10:35 <`> 10:18 < Sudos|PE2300> yeah sue dude you need to chill
+10:35 <`> 10:18 < Sudos|PE2300> are you sure your anxiety isn't panic attacks and you ddin't get it from a lyme-infested tick or  something
+10:37 <dissimulo> so what, i was completely removed from irondust?
+10:38 <dissimulo> nice of you to let me know. nickserv totally doesn't have me in the db.
+10:38 <dissimulo> that hurts.
+--- Log closed Fri Aug 10 10:39:08 2012
+--- Log opened Fri Aug 10 17:27:26 2012
+17:27 -!- Irssi: Starting query in irondust with bikcmp
+17:27 <bikcmp> :-P
+17:27 <bikcmp> i didn't change /anything/
+17:27 <bikcmp> you opered on your own.
+17:29 <`> you obviously didnt see my messages
+17:29 <bikcmp> i might not have
+17:29 <`> 17:25 <`> okay
+17:29 <`> 17:25 <`> i figured out
+17:29 <`> 17:25 <`> *it out
+17:29 <`> 17:25 <`> it was my own stupidity
+17:29 <`> 17:25 <`> i connected nonssl
+17:29 <bikcmp> anyway
+17:29 <`> 17:25 <`> and tried to oper up
+17:29 <bikcmp> ah
+17:29 <bikcmp> hahahaha
+17:29 <bikcmp> i didn't see
+17:29 <bikcmp> but anyway
+17:29 <bikcmp> don't feel as if i did anything behind your back, i really didn't
+17:29 <`> no, not at all
+17:29 <`> i was just "wat"
+17:30 <`> and thats right after sue bitching about his desktop
+17:30 <`> i was pretty pissed because i told him i'd use it
+17:30 <`> and he keeps changing his story of how it's "faulty" for serving
+17:30 <`> first it was a CPU bug
+17:30 <`> now it's a memory controller?
+17:30 <bikcmp> well
+17:30 <bikcmp> not a clue my man
+17:30 <bikcmp> seriously
+17:30 <bikcmp> i started up my own vps business
+17:31 <bikcmp> second day i have 3 clients
+17:31 <bikcmp> lol
+17:31 <`> 02:01 <Sue> so tomorrow would be clean and pack
+17:31 <`> 02:01 <`> sounds good
+17:31 <`> 02:01 <Sue> can you help me? sorry to impose
+17:31 <`> 02:01 <`> yeah
+17:31 <`> 02:01 <Sue> thanks
+17:31 <`> 02:02 <`> i hate to ask, but can we switch your system out of the 4U so i can put something in it and use it in the rack
+17:31 <`> 02:02 <Sue> i'll pull the mobo out sure
+17:31 <`> 02:02 <Sue> i'm not taking it anyway
+17:31 <`> 02:02 <Sue> i'm pulling the hdd and leaving the rest behind
+17:31 <`> 02:02 <`> oh the system?
+17:31 <`> 02:02 <Sue> yeah i was kinda implying that
+17:31 <`> 02:03 <`> :D okay, sounds good
+17:31 <`> 02:03 <Sue> i'm taking only my lcd and my hdd
+17:31 <`> so... yeah
+17:32 <`> anyway, i REALLY need the money
+17:32 <`> so ive been trying to grab clients and whatnot
+17:32 <bikcmp> the money for what
+17:32 <`> various things
+17:32 <`> school stuff, in fact.
+17:32 <`> im trying to start school this fall, and i'm broke
+17:33 <bikcmp> :(
+17:33 <bikcmp> that sucks.
+--- Log closed Fri Aug 10 17:38:11 2012
+--- Log opened Fri Aug 10 17:42:36 2012
+17:42 <`> yeah
+17:42 <`> thats why im trying to pull clients
+--- Log closed Fri Aug 10 17:48:11 2012
+--- Log opened Fri Aug 10 20:31:19 2012
+20:31 <bikcmp> so
+20:31 <bikcmp> did you get your nickserv shit together
+--- Log closed Fri Aug 10 20:37:11 2012
+--- Log opened Sat Aug 11 01:47:17 2012
+01:47 <`> no
+01:47 <`> :}
+01:47 <`> not yet.
+01:47 <`> i'm in los angeles atm
+--- Log closed Sat Aug 11 01:53:11 2012
+--- Log opened Sat Aug 18 18:16:08 2012
+18:16 <`|losangeles> yo?
+--- Log closed Sat Aug 18 18:21:11 2012
+--- Log opened Sun Aug 19 02:02:17 2012
+02:02 -!- bikcmp [jason@staff/bikcmp] has quit [Read error: Connection reset by peer]
+--- Log closed Sun Aug 19 02:08:11 2012
+--- Log opened Tue Aug 28 00:06:07 2012
+00:06 -!- bikcmp [jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Tue Aug 28 00:11:18 2012
+--- Log opened Wed Aug 29 15:14:34 2012
+15:14 -!- bikcmp [NJQXG33O@yrhz-74-77-08-ev.connectgate.net] has quit [Quit: Reconnecting]
+--- Log closed Wed Aug 29 15:20:18 2012
+--- Log opened Wed Aug 29 23:12:40 2012
+23:12 -!- j- is now known as bikcmp
+23:12 -!- bikcmp [jason@yrhz-74-77-08-ev.connectgate.net] has quit [Changing host]
+--- Log closed Wed Aug 29 23:18:18 2012
+--- Log opened Fri Aug 31 01:29:55 2012
+01:29 -!- bikcmp [jason@yrhz-74-77-08-ev.connectgate.net] has quit [Changing host]
+--- Log closed Fri Aug 31 01:35:18 2012
+--- Log opened Fri Aug 31 15:45:28 2012
+15:45 -!- bikcmp [jason@yrhz-74-77-08-ev.connectgate.net] has quit [Changing host]
+--- Log closed Fri Aug 31 15:51:18 2012
+--- Log opened Sun Sep 02 13:20:09 2012
+13:20 -!- bikcmp [jason@staff/bikcmp] has quit [Killed (alyx (GOODBYE CHANSER))]
+--- Log closed Sun Sep 02 13:25:18 2012
+--- Log opened Mon Sep 03 10:56:06 2012
+10:56 -!- bikcmp [jason@staff/bikcmp] has quit [Ping timeout: 244 seconds]
+--- Log closed Mon Sep 03 11:01:18 2012
+--- Log opened Mon Sep 03 20:42:37 2012
+20:42 -!- bikcmp [jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Mon Sep 03 20:48:18 2012
+--- Log opened Fri Sep 07 14:44:40 2012
+14:44 -!- bikcmp [jason@cxg-37-39-38-18-93-39-84-vd.connectgate.net] has quit [Changing host]
+--- Log closed Fri Sep 07 14:50:18 2012
+--- Log opened Wed Sep 12 16:14:58 2012
+16:14 -!- bikcmp [jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Wed Sep 12 16:20:18 2012
+--- Log opened Wed Sep 12 16:33:13 2012
+16:33 -!- Guest42672 is now known as bikcmp
+--- Log closed Wed Sep 12 16:38:18 2012
+--- Log opened Sun Sep 16 20:02:54 2012
+20:02 -!- bikcmp [jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Sun Sep 16 20:08:19 2012
+--- Log opened Wed Sep 19 17:14:10 2012
+17:14 -!- bikcmp [jason@an-nzp4-twf-ywxtmsu.link.connectgate.net] has quit [Changing host]
+--- Log closed Wed Sep 19 17:19:20 2012
+--- Log opened Sun Sep 23 20:32:32 2012
+20:32 -!- bikcmp [jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Sun Sep 23 20:38:19 2012
+--- Log opened Wed Sep 26 21:10:31 2012
+21:10 -!- bikcmp [jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Wed Sep 26 21:16:20 2012
+--- Log opened Thu Oct 04 02:23:21 2012
+02:23 -!- bikcmp [jason@staff/bikcmp] has quit [Ping timeout: 255 seconds]
+--- Log closed Thu Oct 04 02:28:22 2012
+--- Log opened Thu Oct 04 15:00:17 2012
+15:00 -!- Guest78292 is now known as bikcmp
+15:00 -!- bikcmp [jason@id-tls9-zdy-4-6-4-9.link.sprintbusiness.net] has quit [Changing host]
+--- Log closed Thu Oct 04 15:06:22 2012
+--- Log opened Fri Oct 05 18:56:26 2012
+18:56 -!- bikcmp [jason@staff/bikcmp] has quit [Remote host closed the connection]
+--- Log closed Fri Oct 05 19:02:22 2012
+--- Log opened Mon Oct 08 18:06:22 2012
+18:06 -!- bikcmp [jason@staff/bikcmp] has quit [Ping timeout: 255 seconds]
+--- Log closed Mon Oct 08 18:11:22 2012
+--- Log opened Wed Oct 10 12:00:21 2012
+12:00 -!- bikcmp [~jason@staff/bikcmp] has quit [Ping timeout: 276 seconds]
+--- Log closed Wed Oct 10 12:05:24 2012
+--- Log opened Wed Oct 10 15:35:37 2012
+15:35 -!- Guest45651 is now known as bikcmp
+--- Log closed Wed Oct 10 15:41:25 2012
+--- Log opened Mon Oct 15 14:52:32 2012
+14:52 -!- Jason_Gates is now known as bikcmp
+--- Log closed Mon Oct 15 14:58:28 2012
+--- Log opened Thu Oct 18 16:13:31 2012
+16:13 -!- bikcmp [~jason@staff/bikcmp] has quit [Ping timeout: 255 seconds]
+--- Log closed Thu Oct 18 16:19:28 2012
+--- Log opened Thu Oct 18 16:38:38 2012
+16:38 -!- Guest58411 is now known as bikcmp
+16:38 -!- bikcmp [~jason@ohbr1y99171-d92.connectgate.net] has quit [Changing host]
+--- Log closed Thu Oct 18 16:44:28 2012
+--- Log opened Sun Nov 11 13:42:07 2012
+13:42 -!- Guest23421 is now known as bikcmp
+--- Log closed Sun Nov 11 13:47:42 2012
+--- Log opened Thu Nov 15 17:17:42 2012
+17:17 -!- Guest94742 is now known as bikcmp
+--- Log closed Thu Nov 15 17:22:42 2012

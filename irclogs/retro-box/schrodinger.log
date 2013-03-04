@@ -1,0 +1,51 @@
+--- Log opened Fri May 25 16:49:18 2012
+16:49 -!- Irssi: Starting query in retro-box with Schrodinger
+16:49 <`> hello
+16:51 <`> hello
+16:51 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Hi `!  I'm Schrodinger, an eggdrop bot.
+16:51 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- I'll recognize you by hostmask '*!*dissimulo@*.5A3C31AB.2C580024.IP' from now on.
+16:51 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- YOU ARE THE OWNER ON THIS BOT NOW
+16:51 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- As master you really need to set a password: with /MSG Schrodinger pass <your-chosen-password>.
+16:51 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- All major commands are used from DCC chat. From now on, you don't need to use the -m option when starting the bot.  Enjoy !!!
+16:52 <`> pass zle3iac42
+16:52 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Password set to: 'zle3iac42'.
+16:52 <`> help
+16:52 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- /MSG commands for Schrodinger:
+16:52 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- All users: ADDHOST HELP IDENT INFO PASS VOICE WHO WHOIS
+16:53 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Channel/global halfops: HALFOP INVITE KEY
+16:53 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Channel/global ops: OP GO
+16:53 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Global masters: DIE JUMP MEMORY SAVE REHASH RESET
+16:53 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Channel masters: STATUS
+16:53 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- For help on a command, /MSG Schrodinger HELP <command>. You are a master. Many many more commands are available via dcc chat. There may also be additional commands provided by other modules.
+16:53 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Admin: Schrodinger <email: schrodinger@deafgeeksirc.com>
+16:53 <`> die
+16:53 <`> die zleiac42u
+16:54 <`> help die
+16:54 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- /MSG Schrodinger DIE <password> [message]
+16:54 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- This makes me die (quit irc and terminate).
+16:54 <`> die zle3iac42 off to anally rape tandy
+16:54 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Bot shut down beginning....
+16:58 <`> die zle3iac42 ...to rape Jaek
+16:58 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Bot shut down beginning....
+16:58 -!- Schrodinger [~Schroding@81A5CA12.C89CC86B.2C580024.IP] has quit [BLASTING OFF AGAIN!  ...to rape Jaek]
+17:02 <`> part #wtfpwnt
+17:02 <`> help part
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- No help available on that.
+17:02 <`> help
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- /MSG commands for Schrodinger:
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- All users: ADDHOST HELP IDENT INFO PASS VOICE WHO WHOIS
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Channel/global halfops: HALFOP INVITE KEY
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Channel/global ops: OP GO
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Global masters: DIE JUMP MEMORY SAVE REHASH RESET
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Channel masters: STATUS
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- For help on a command, /MSG Schrodinger HELP <command>. You are a master. Many many more commands are available via dcc chat. There may also be additional commands provided by other modules.
+17:02 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- Admin: Schrodinger <email: schrodinger@deafgeeksirc.com>
+17:03 <`> help jump
+17:03 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- /MSG Schrodinger JUMP <password> [server [port [server password]]]
+17:03 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- This will make the bot jump to a new server. You can optionally specify a server to jump to, in the form of 'new.server.com' or 'new.server.com 6667', etc.
+17:03 <`> save
+17:03 <`> help save
+17:03 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- /MSG Schrodinger SAVE <password>
+17:03 -Schrodinger(~Schroding@81A5CA12.C89CC86B.2C580024.IP)- This makes the bot save its userfile.
+17:03 <`> save zle3iac42
+--- Log closed Fri May 25 17:03:55 2012

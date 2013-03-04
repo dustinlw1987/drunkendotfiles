@@ -1,0 +1,54 @@
+--- Log opened Thu May 24 16:09:58 2012
+16:09 -!- Irssi: Starting query in DeafGeeksIRC with chanserv
+16:09 <`> register
+--- Log closed Thu May 24 16:10:18 2012
+--- Log opened Fri Dec 07 21:51:05 2012
+21:51 -!- Irssi: Starting query in DeafGeeksIRC with chanserv
+21:51 <`> help
+21:51 -ChanServ(services@localhost.net)- ChanServ allows you to register and control various
+21:51 -ChanServ(services@localhost.net)- aspects of channels.  ChanServ can often prevent
+21:51 -ChanServ(services@localhost.net)- malicious users from "taking over" channels by limiting
+21:51 -ChanServ(services@localhost.net)- who is allowed channel operator privileges.  Available
+21:51 -ChanServ(services@localhost.net)- commands are listed below; to use them, type
+21:51 -ChanServ(services@localhost.net)- /msg ChanServ command.  For more information on a
+21:51 -ChanServ(services@localhost.net)- specific command, type /msg ChanServ HELP command.
+21:51 -ChanServ(services@localhost.net)-  
+21:51 -ChanServ(services@localhost.net)-     REGISTER   Register a channel
+21:51 -ChanServ(services@localhost.net)-     IDENTIFY   Identify yourself with your password
+21:51 -ChanServ(services@localhost.net)-     SET        Set channel options and information
+21:51 -ChanServ(services@localhost.net)-     SOP        Modify the list of SOP users
+21:51 -ChanServ(services@localhost.net)-     AOP        Modify the list of AOP users
+21:51 -ChanServ(services@localhost.net)-     HOP        Maintains the HOP (HalfOP) list for a channel
+21:51 -ChanServ(services@localhost.net)-     VOP        Maintains the VOP (VOicePeople) list for a channel
+21:51 -ChanServ(services@localhost.net)-     ACCESS     Modify the list of privileged users
+21:51 -ChanServ(services@localhost.net)-     LEVELS     Redefine the meanings of access levels
+21:51 -ChanServ(services@localhost.net)-     AKICK      Maintain the AutoKick list
+21:51 -ChanServ(services@localhost.net)-     DROP       Cancel the registration of a channel
+21:51 -ChanServ(services@localhost.net)-     BAN        Bans a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     UNBAN      Remove all bans preventing you from entering a channel
+21:51 -ChanServ(services@localhost.net)-     CLEAR      Tells ChanServ to clear certain settings on a channel
+21:51 -ChanServ(services@localhost.net)-     OWNER      Gives you owner status on channel
+21:51 -ChanServ(services@localhost.net)-     DEOWNER    Removes your owner status on a channel
+21:51 -ChanServ(services@localhost.net)-     PROTECT    Protects a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     DEPROTECT  Deprotects a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     OP         Gives Op status to a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     DEOP       Deops a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     HALFOP     Halfops a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     DEHALFOP   Dehalfops a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     VOICE      Voices a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     DEVOICE    Devoices a selected nick on a channel
+21:51 -ChanServ(services@localhost.net)-     GETKEY     Returns the key of the given channel
+21:51 -ChanServ(services@localhost.net)-     INVITE     Tells ChanServ to invite you into a channel
+21:51 -ChanServ(services@localhost.net)-     KICK       Kicks a selected nick from a channel
+21:51 -ChanServ(services@localhost.net)-     LIST       Lists all registered channels matching the given pattern
+21:51 -ChanServ(services@localhost.net)-     LOGOUT     This command will logout the selected nickname
+21:51 -ChanServ(services@localhost.net)-     TOPIC      Manipulate the topic of the specified channel
+21:51 -ChanServ(services@localhost.net)-     INFO       Lists information about the named registered channel
+21:51 -ChanServ(services@localhost.net)-     APPENDTOPIC   Add text to a channels topic
+21:51 -ChanServ(services@localhost.net)-     ENFORCE    Enforce various channel modes and set options
+21:51 -ChanServ(services@localhost.net)-     OINFO         Add / Del an OperInfo line to a channel
+21:51 -ChanServ(services@localhost.net)-  
+21:51 -ChanServ(services@localhost.net)- Note that any channel which is not used for 14 days
+21:51 -ChanServ(services@localhost.net)- (i.e. which no user on the channel's access list enters
+21:51 -ChanServ(services@localhost.net)- for that period of time) will be automatically dropped.
+--- Log closed Fri Dec 07 21:51:10 2012

@@ -1,0 +1,3075 @@
+--- Log opened Fri Feb 24 18:05:56 2012
+18:05 -!- ` [dissimulo@undisclosed-C2A3DF59.deafgeeksdns.com] has joined #retrobox
+18:05 -!- Irssi: #retrobox: Total of 10 nicks [0 ops, 0 halfops, 1 voices, 9 normal]
+18:05 -!- Irssi: Join to #retrobox was synced in 1 secs
+18:06 < `> binki: you around?
+18:07 < Mariorulez14> That sounds so empty without the music
+18:07  * ` is working on retro-box's ircd at the moment
+18:07 < `> it's alive
+18:07 < `> but isn't linking up to ohnopublishing for some reason.
+18:08 < Tandy|7540> http://epautos.com/2011/05/17/retro-review-1983-1988-monte-carlo-ss/
+18:08 < Tandy|7540> WIN
+18:09 < `> yeah
+18:09 < `> i'd love that Monte Carlo SS
+18:10 < `> Tandy|7540: dude, ircd isn't linking up to ohnopublishing for some reason
+18:10 < `> ._____.
+18:10 < `> 18:10 !irc.retro-box.net Connect to host ohnopublishing.net failed: Network is unreachable
+18:11 < `> yet i can ping it just fine.
+18:11 < `> so i need binki around to see if we can diagnose it.
+18:12 < Mariorulez14> ...Oh my God, I have found something that could quite possibly rival the greatness that is a Borderlands/MLP crossover
+18:12 < Mariorulez14> An ARTEMIS FOWL/MLP crossover
+18:12 < `> oh god
+18:12  * Mariorulez14 fangasms and clicks
+18:12 < `> i love artemis fowl
+18:12 < `> as it happens
+18:12 < Mariorulez14> I do to :D
+18:12 < Mariorulez14> *too
+18:15 < Mariorulez14> Yay, 90% to Deadpool
+18:18 < `> though
+18:18 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+18:18 < `> i haven't read the latest artemis fowl books
+18:18 < `> the last one, i remember, the cover was red
+18:19 < `> and i also heard that
+18:19 < `> they're trying to make an Artemis Fowl movie
+18:19 < `> which i'm really looking forward to
+18:20 < `> yeah
+18:20 < `> the last book i read was AF: The Lost Colony
+18:20 < `> where Artemis came back when everyone was older, including Butler
+18:20 < `> i was like, wow, really humanizing.
+18:26 < Mariorulez14> Oh god, where he was gone for like 7 years in the demon realm?
+18:26 < Mariorulez14> Yeah :/
+18:26 < Mariorulez14> If I remember correctly, there's I think one more book after that one
+18:26 < Mariorulez14> 2, nevermind
+18:26 < Mariorulez14> Unless they wrote another one
+18:28 < Mariorulez14> I had the sneaking suspicion that the Artemis Fowl crossover would be drivel
+18:28 < Mariorulez14> Turns out it was
+18:29 < niner> so I've been able to get to the final boss of a useless platformer that is bloody difficult
+18:30 < CommanderHurricane> `: hostname ohnopublishing.net; port 6697;?
+18:32 < Mariorulez14> <niner> so I've been able to get to the final boss of a useless platformer that is bloody difficult
+18:32 < Mariorulez14> Battletoads?
+18:32 < Mariorulez14> I bet it's battletoads
+18:33 < `> here's the snippet from the .conf
+18:33 < `> link ohnopublishing.net { hostname                ohnopublishing.net; port                    6697;
+18:33 < `> theres other confs for it, but that's the gist, and it is correct.
+18:34 < niner> well buh-bye I'm getting chili and such
+18:34 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: It's a dud! It's a dud! It's a du...]
+18:42 < `> FFFFFFF
+18:42 < `> binki, where the fuck are you
+18:42 < CommanderHurricane> http://www.theverge.com/2012/2/23/2818611/microsoft-office-15-screenshots-technical-preview
+18:42 < CommanderHurricane> Office 15 looks nice
+18:43 < CommanderHurricane> and, aside from some changed graphics and a flattened UI, has been left pretty much alone from the metrofication
+18:43 < Tandy|7540> SO
+18:43 < Tandy|7540> Darman213 Mariorulez14
+18:43 < Tandy|7540> Darman213 Mariorulez14
+18:43 < Tandy|7540> Darman213 Mariorulez14
+18:43 < Tandy|7540> Darman213 Mariorulez14
+18:43 < Tandy|7540> I got honor roll :D
+18:43 < Tandy|7540> I got honor roll :D
+18:43 < Tandy|7540> I got honor roll :D
+18:43 < Mariorulez14> YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEAH
+18:43 -!- Tandy|7540 was kicked from #retrobox by CommanderHurricane [Good for you. Don't Spam!]
+18:43 < Mariorulez14> YEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH
+18:44 -!- Tandy|7540 [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has joined #retrobox
+18:44  * Darman213 is on the principles *high* Honor Roll
+18:44 < Tandy|7540> CommanderHurricane
+18:44 < Tandy|7540> piss off
+18:44 < Tandy|7540> :P
+18:44 < Darman213> Ujelly?
+18:44 < Tandy|7540> Darman213 I got that last year...
+18:44 < Tandy|7540> but yeah
+18:44 < Darman213> I got it the last three years
+18:44 < Darman213> }:A
+18:44 < Tandy|7540> with a 3.5 (or was it 3.6) I'm not getting High
+18:44 < CommanderHurricane> http://neko2k.deviantart.com/#/d4pyqoh ujelly
+18:44 < Tandy|7540> with a 3.5 (or was it 3.6) I'm not getting High
+18:44 < Tandy|7540> lol
+18:45 < Tandy|7540> inb4 jellypony
+18:45 < Tandy|7540> inafter
+18:45 < CommanderHurricane> THIS JUST IN TANDY|7540 CAN'T GET HIGH OFF OF NUMBERS
+18:45 < Tandy|7540> lolwut
+18:45 < CommanderHurricane> <Tandy|7540> with a 3.5 (or was it 3.6) I'm not getting High
+18:45 < Tandy|7540> I see
+18:45 < Tandy|7540> lol
+18:45 < Tandy|7540> usofunneh
+18:45 < CommanderHurricane> http://www.theverge.com/2012/2/23/2818637/office-15-technical-preview-screenshots#3040162
+18:46  * Darman213 is away: (I'm eating supper)
+18:47 < Mariorulez14> Oh nooooooo
+18:47 < CommanderHurricane> Dear linuxlove4004, 
+18:47 < CommanderHurricane>  Your video, 1980s Doctor Who ending titles with MIDI music, may have content that is owned or licensed by BBC Worldwide. 
+18:47 < CommanderHurricane>  No action is required on your part; however, if you are interested in learning how this affects your video, please visit the Content ID Matches section of your account for more information. 
+18:47 < CommanderHurricane>  Sincerely,
+18:47 < Mariorulez14> It's stuck at 98% :(
+18:47 < CommanderHurricane>  - The YouTube Team
+18:48 < CommanderHurricane> >mfw midi music is recognized by the content id system
+18:48 < Mariorulez14> GUYS
+18:48 < Mariorulez14> DEADPOOL'S STUCK AT 98%
+18:48 < Mariorulez14> WAT DO
+18:49 < CommanderHurricane> http://mlp.wikia.com/wiki/File:Rainbow_Dash_very_scared_S1E16.png
+18:49 < CommanderHurricane> do this until it reaches 100%
+18:49 < Tandy|7540> ^
+18:51 < Mariorulez14> Hurr hurr
+18:55 < Mariorulez14> Wait
+18:55 < Mariorulez14> IF it's just 98% done
+18:55 < Mariorulez14> Does that mean what's already been downloaded is viewable if I cancel?
+18:56 < Mariorulez14> The Deadpool stuff was like the first 60%
+18:56 < `> sometimes it will have missing slices of data
+18:56 < `> rendering it unusable
+18:56 < `> so you'll have to pretty much torrent it all
+18:57 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Ping timeout]
+18:57 < Mariorulez14> Dangi
+18:57 < Mariorulez14> *Dang it
+18:59 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+18:59  * CommanderHurricane np: MandoPony - We Make A Perfect Team (160kbps)
+19:02 < CommanderHurricane> where is my vista ISO
+19:03 < CommanderHurricane> oh there it is
+19:06  * CommanderHurricane copies and installs on the thinkpad
+19:07 -!- neko|TwiSpark [Equestria@E8E7428D.9EBBA8CC.6D2E2761.IP] has quit [Connection reset by peer]
+19:13 < CommanderHurricane> let's go
+19:14 < CommanderHurricane> to Vista
+19:19 < Darman213> ._____.
+19:19 < Darman213> Y
+19:19  * Darman213 is back (gone 00:20:22)
+19:19 < Darman213> Y VISTA?
+19:19 < Darman213> CommanderHurricane, 
+19:19 < Darman213> What Madness is this?
+19:19 < CommanderHurricane> VMWare
+19:19 < Darman213> ah
+19:21 < Tandy|7540> Vista really isn't that bad
+19:21 < Tandy|7540> ._.
+19:21 < Tandy|7540> It was more a case of technology shock than a legitimately bad OS
+19:21 < Mariorulez14> Darman213
+19:21 < Mariorulez14> This
+19:21 < Mariorulez14> http://www.fimfiction.net/story/11557/1/My-Little-Marik--Villainy-is-Magic/
+19:21 < CommanderHurricane> the same will happen with Windows 8
+19:21 < Tandy|7540> The only reason 7 was any good was because Vista came before it
+19:21 < Mariorulez14> Reading it in ALL the voices
+19:22 < Tandy|7540> CommanderHurricane exactly
+19:22 < Darman213> Mariorulez14, 
+19:22 < Darman213> I never watched yugioh
+19:22 < Darman213> or the abridged.
+19:22 < Mariorulez14> It's Abridged ooooooooooooooooh
+19:22 < Mariorulez14> Nevermind then
+19:22 < Darman213> bahaha
+19:22 < Mariorulez14> Your brothers would take to it though
+19:23 < Mariorulez14> "O o o, I want to throw a party for whoever fell down, like like I want to know if they're from some other dimension where they're all in some TV show retold in the voice of some chubby British guy who has nothing better to do."
+19:23 < Mariorulez14> Oh my god Pinkie's talking about LittleKuriboh
+19:24 < Mariorulez14> XD
+19:30 < Mariorulez14> http://www.fimfiction.net/story/11951/For-the-Good-of-All-of-Us.
+19:30 < Mariorulez14> PORTAL?
+19:30 < Mariorulez14> DON'T MIND IF I DO
+19:32 < CommanderHurricane> http://www.equestriadaily.com/2012/02/last-roundup-returns-to-itunes.html
+19:32 < CommanderHurricane> http://www.equestriadaily.com/2012/02/last-roundup-returns-to-itunes.html
+19:32 < CommanderHurricane> http://www.equestriadaily.com/2012/02/last-roundup-returns-to-itunes.html
+19:32 < CommanderHurricane> http://www.equestriadaily.com/2012/02/last-roundup-returns-to-itunes.html
+19:32 < CommanderHurricane> http://www.equestriadaily.com/2012/02/last-roundup-returns-to-itunes.html
+19:33 < Mariorulez14> :D
+19:33 < Mariorulez14> THIS IS THE GREATEST VIDEO GAME/MLP CROSSOVER FIC (other than Ponylands/Grifball)
+19:33 < Mariorulez14> WHEATLEY AND RICK
+19:33  * Mariorulez14 has a complete and utter nerdgasm
+19:42 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: Gone, Like Frank Sinatra...]
+19:44 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+19:57 < CommanderHurricane> ok Vista is installed
+19:57 < CommanderHurricane> let's install drivers
+19:58 < `> >Vista
+19:58 < `> >Vista
+19:58 < `> >Vista
+19:58 < `> >Vista
+19:58 < `> >Vista
+19:58 < `> you done fucked up
+19:59 < CommanderHurricane> `: virtual machine
+20:00 < `> heh
+20:01 < `> not any better
+20:01 < `> at all.
+20:02 < Darman213> ^
+20:02 < Darman213> Terrible operating system
+20:02 < Darman213> so bloated...
+20:02 < Mariorulez14> lol Vista
+20:02 < Darman213> I don't speak computer
+20:02 < Darman213> but
+20:02 < Mariorulez14> Found a MythBusters parody
+20:02 < Darman213> Vista is SHIT!!!
+20:02 < Darman213> Vista is SHIT!!!
+20:02 < Darman213> Vista is SHIT!!!
+20:02 < Darman213> Vista is SHIT!!!
+20:02 < Darman213> Vista is SHIT!!!
+20:02 < Darman213> Vista is SHIT!!!
+20:03 < CommanderHurricane> i had great luck with Vista (actually Server 2008)</sarcasm>
+20:03 < Mariorulez14> ^^^^^^
+20:03 < Darman213> done spam.
+20:03 < CommanderHurricane> at about 10pm it would always crash the entire network
+20:03 < CommanderHurricane> every night
+20:03 < Darman213> .
+20:03 < Darman213> lawl
+20:03 < `> inb4 VM completely nukes your computer
+20:04 < `> cuz lol >vista
+20:04 < CommanderHurricane> not likely
+20:04 < Darman213> ^
+20:04 < Darman213> He's got a beastly compy
+20:04 < `> no
+20:04 < `> i was joking
+20:04 < `> as in
+20:04 < `> completely destroy
+20:04 < CommanderHurricane> <Darman213> He's got a beastly compy
+20:04 < CommanderHurricane> which one
+20:04 < CommanderHurricane> :P
+20:04 < Darman213> Well your laptop is pretty epic if I recall it's specs right
+20:05 -!- neko|Vista [LBB_IRC@C4DF8D62.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+20:05 < neko|Vista> lol UAC everywhere
+20:05 < `> NO.
+20:05 < `> BAN.
+20:05 < `> KILL.
+20:05 -!- neko|Vista [LBB_IRC@C4DF8D62.9EBBA8CC.6D2E2761.IP] has quit [[irc.beige-box.com] Local kill by CommanderHurricane (BAN)]
+20:05 < `> WITH FIRE.
+20:06 < `> :D
+20:06 -!- neko|Vista [LBB_IRC@C4DF8D62.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < `> KILL WITH FIIIIIIIIIIIIIIIREEEEEEEEEEE
+20:06 < CommanderHurricane> i'll /kill you with fire :P
+20:06 < neko|Vista> i do have physical copies of Vista
+20:06 < `> loldigitalfire
+20:06 < neko|Vista> i have a couple copies of the pre-releases
+20:06 < `> heh
+20:07 < `> i have the internal MS copy of XP
+20:07 < `> a good year before it was available to the public
+20:07 < `> unsure if i still have it x.x
+20:07 < neko|Vista> fckgw?
+20:07 < neko|Vista> or whatever that key was
+20:08 < `> no, that was a VLK
+20:08 < `> Volume Licensing Key
+20:08 < `> FCKGW was a really popular one until M$ blacklisted it.
+20:09 < neko|Vista> not sure what this "internal ms copy of XP" is 
+20:09 < neko|Vista> unless it's the DEC Alpha 64-bit version of Server 2003 (iirc)
+20:09 < Mariorulez14> Who are the Mythbuckers? Rainbow Dash-
+20:09 < Mariorulez14> "Am I missing some feathers?"
+20:09 < Mariorulez14> And Applejack-
+20:09 < Mariorulez14> “Oh Luna not the grain silo-”
+20:09 < Mariorulez14> Together, they have over thirty seconds of special effects experience!
+20:09 < Mariorulez14> Joining them is Sweetie Belle-
+20:09 < Mariorulez14> “Dumb blasting clay.”
+20:09 < neko|Vista> then again, that version never made it to market
+20:09 < Mariorulez14> Scootaloo-
+20:09 < Mariorulez14> “This seems dangerous. I like it!”
+20:09 < Mariorulez14> And Apple Bloom-
+20:09 < Mariorulez14> “Let’s build something to break!”
+20:09 < Mariorulez14> They don’t just tell the myths... They put them to the test! They are...
+20:09 < Mariorulez14> THE MYTHBUCKERS!
+20:09 < neko|Vista> now
+20:09 < neko|Vista> brb while i infect this VM with a virus
+20:10 < neko|Vista> or what i think is a virus
+20:10 < neko|Vista> oh wait MSE must have deleted it >_>
+20:11 < Darman213> ._________________________.
+20:11 < Darman213> Oh
+20:11 < Darman213> Microsoft Security
+20:11 -!- neko|Vista [LBB_IRC@C4DF8D62.9EBBA8CC.6D2E2761.IP] has quit [[irc.beige-box.com] Local kill by CommanderHurricane (get out)]
+20:11 < Darman213> I read that as Mcafee security essentials
+20:11 < Darman213> >_>
+20:12 < `> CommanderHurricane: it was a internal M$ build of XP
+20:12 < CommanderHurricane> lol macafee
+20:12 < `> CommanderHurricane: as in, before anything even went public
+20:12 < CommanderHurricane> `: some beta build then?
+20:12 < `> CommanderHurricane: pretty much, but this was the "last" build before it went RTM
+20:12  * ` shrugs
+20:13 < `> it's been so long.
+20:13 < Mariorulez14> <Darman213> I read that as Mcafee security essentials
+20:13 < Mariorulez14> Same
+20:13 < `> RTM: August 24, 2001
+20:13 < `> fuck.
+20:13 < `> a full decade ago.
+20:13 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Ping timeout]
+20:13 < CommanderHurricane> why people still insist on using that i don't know
+20:14  * CommanderHurricane downloads 5.1.2542.0.xpclient.010811-1534 off of BetaArchive }:A
+20:14 < CommanderHurricane> there you are, last build of Windows XP before it went RTM
+20:14 < `> lmao
+20:14 < `> of course betaarchive would have it
+20:14 < `> .___.
+20:14 < CommanderHurricane> of course
+20:17 < CommanderHurricane> and it looks... well, identical to xp rtm
+20:17 < `> exactly
+20:17 < `> which is why i was all omgwtfbbq when i tested it out
+20:17 < `> think about it
+20:17 < `> i was on 98 all the time before that
+20:18 < `> and when i installed and then booted XP
+20:18 < `> it was...
+20:18 < `> FUCKING GLORIOUS.
+20:18 < `> this was when i was still on windows
+20:18 < `> then it went to shit after services pack two and three
+20:18 < `> then vista just destroyed "windows" for me
+20:19 < `> so i'm linux and mac os x now.
+20:24 < Tandy|7540> lol
+20:25 < Tandy|7540> <Darman213> Terrible operating system
+20:25 < Tandy|7540> lolnope
+20:25 < Tandy|7540> <Darman213> He's got a beastly compy
+20:25 < Tandy|7540> ...
+20:25 < Tandy|7540> he has an old HT pentium 4
+20:25 < Tandy|7540> ._.
+20:25 < Tandy|7540> oh wait
+20:25 < Tandy|7540> no
+20:25 < Tandy|7540> the laptop
+20:25 < Tandy|7540> i5
+20:25 < Tandy|7540> erm
+20:25 < Tandy|7540> i3
+20:25 < Tandy|7540> meh
+20:26 < Tandy|7540> <`> i was on 98 all the time before that
+20:26 < Tandy|7540> <`> and when i installed and then booted XP
+20:26 < Tandy|7540> <`> it was...
+20:26 < Tandy|7540> <`> FUCKING GLORIOUS.
+20:27 < Tandy|7540> lololololol
+20:27 < Tandy|7540> binki whur are you
+20:27 < Tandy|7540> ._.
+20:29 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+20:30 < Mariorulez14> lol
+20:30 < Mariorulez14> Just got off the phone with my mom
+20:31 < Mariorulez14> Ryan apparently started whining about how Darman213, Tandy|7540, CommanderHurricane and I are "excluding him" because we watch/like ponies
+20:31 < Darman213> >_>
+20:31 < Darman213> He's never on retrobox
+20:31 < Darman213> I hardly talk to him as it is
+20:31 < Darman213> wtdf
+20:31 < Mariorulez14> My mom was like "I think it's cool you're showing you're a bigger man than Ryan by admitting you like a show for girls"
+20:31 < Mariorulez14> She's cool with it 
+20:32 < Mariorulez14> Sister knows, but she doesn't really care for the show
+20:33 < CommanderHurricane> <Mariorulez14> Ryan apparently started whining about how Darman213, Tandy|7540, CommanderHurricane and I are "excluding him" because we watch/like ponies
+20:33 < CommanderHurricane> sorry, i don't like discussing manga 24/7
+20:33 < Mariorulez14> lol
+20:33 < Mariorulez14> No, with him it's either Mario, Sonic or Zelda
+20:33 < Mariorulez14> Sometimes assorted other things
+20:33 < Mariorulez14> But just because we watch ponies and he doesn't, he sees it as "exclusion" because we don't like the same things
+20:34 < CommanderHurricane> http://alicehumansacrifice1.deviantart.com/art/Dusk-Shine-WP-286983788
+20:34 < CommanderHurricane> what
+20:34 < CommanderHurricane> also Shadowfan16 is insane
+20:34 < Darman213> He can whine about his exclusion to his friggin mother who cages his manhood
+20:34 < Darman213> -_-
+20:34 < Mariorulez14> s/insane/Aspergers
+20:34 < Tandy|7540> that dude
+20:34 < Mariorulez14> For Celestia's sake, he put dry ice IN  A COMPLETELY FULL OF KOOL-AID CONTAINER
+20:34 < Tandy|7540> would fit in SO WELL on /b/
+20:35 < Tandy|7540> or /g/
+20:35 < Mariorulez14> THINKING IT WOULDN'T OVERFLOW
+20:35 < CommanderHurricane> lol wut
+20:35 < Mariorulez14> Actually 
+20:35 < Mariorulez14> He's too sheltered for 4chan
+20:35 < Mariorulez14> He'd probably be mentally scarred from all the d*cks
+20:35 < Mariorulez14> And the goar threads
+20:35  * Mariorulez14 goes back to reading his MythBusters parody
+20:35 < Tandy|7540> http://www.equestriadaily.com/2011/06/ponychan-brony-changes-his-legal-name.html
+20:35 < Tandy|7540> what fuck
+20:36 < Mariorulez14> Oh, this is the guy that changed his name to Rainbow Dash
+20:36 < CommanderHurricane> >letters are R.A.D
+20:36 < Mariorulez14> Didn't even have to click the link XD
+20:37 < Mariorulez14> So guys
+20:37 < Mariorulez14> In the pony version of MythBusters, Pinkie Pie is an explosives expert after a mishap with hydrogen balloons, static electricity and a silo at her family's Rock Farm
+20:37 < CommanderHurricane> http://meandmypie.deviantart.com/art/Twi-motei-246437765?q=gallery%3Amlpfriendshipismagic%2F30892825&qo=2070
+20:37 < Mariorulez14> Thus driving the "Pinkie is best pony" stake in further
+20:38 < Tandy|7540>  Scootles McGee
+20:38 < Tandy|7540>  Scootles McGee
+20:38 < Tandy|7540>  Scootles McGee
+20:38 < Tandy|7540>  Scootles McGee
+20:38 < Mariorulez14> She had 300mg of nitrogycerin in her saddlebags
+20:38 < Mariorulez14> WH4T N0W
+20:38 < Compgeke> back all
+20:38 < CommanderHurricane> http://joeyh3.deviantart.com/art/Twilight-Sparkle-Thrown-Back-252369431
+20:38 < CommanderHurricane> heh
+20:39 < Tandy|7540> changing your legal name to "Steven Magnet" would be the best goddamn thing ever
+20:39 < Tandy|7540> middle name "Miracle"
+20:39 < Tandy|7540> Steven Miracle Magnet
+20:39 < Tandy|7540> Need a miracle? Miracle's my middle name.
+20:39 < Mariorulez14> What's that from?
+20:39 < Tandy|7540> ...
+20:39 < Mariorulez14> Also, you spelled it wrong
+20:40 < Tandy|7540> oh. That's how it's being spelled on ponychan
+20:40 < Mariorulez14> It'd be Steven mIrAcLe Magnet
+20:40 < Mariorulez14> Because bucking magnets...how do they work?
+20:40 < Mariorulez14> The answer? mOtHeRfUcKiN mIrAcLeS
+20:41 < Tandy|7540> If he were to change back after he would need to get a new license since it's information has to match his current information. 
+20:41 < Tandy|7540> Overall, it could affect your ability to be hired. I would probably hold a normal first name, and change the last one. 
+20:41 < Tandy|7540> I mean, I've contemplated a few crazy names: 
+20:41 < Tandy|7540> Ganon Slayer, Thor McNinja but I wouldn't go through with them, not until I go to receive a doctorate later in my education. 
+20:41 < Tandy|7540> Because come on, Dr. Thor McNinja. 
+20:41 < CommanderHurricane> http://goput.it/4e0.png
+20:42 < CommanderHurricane> 410MB
+20:42 < `> i so love my main contact numbers
+20:42 < `> 909 708 8008
+20:42 < `> and 909 939 7002
+20:42 < Tandy|7540> lol
+20:42 < `> inb4 someone crankcalls
+20:42  * CommanderHurricane pulls out his phone
+20:42 < `> DO EET
+20:42 < `> DO EET
+20:42 < `> DO EET
+20:42 < `> DO EET
+20:42 < Compgeke> CALL ME
+20:42 < CommanderHurricane> i wonder what the long distance rates are on here anyway
+20:43 < `> lol
+20:43 < Compgeke> (707) area code here
+20:43 < `> or call with Gvoice
+20:43 < Tandy|7540> http://media.tumblr.com/tumblr_lsmpz9Wb7U1qgjtw5.png
+20:43 < Tandy|7540> OH GOD WHAT
+20:43 < Tandy|7540> WIN
+20:43 < Compgeke> Google Voice :D
+20:43 < CommanderHurricane> bah imma call on the cell phone because i can
+20:43 < `> DO EET
+20:43 < CommanderHurricane> i am
+20:43 < `> which DID? :P
+20:43 < Compgeke> (707) 948-6823
+20:43 < CommanderHurricane> <`> 909 708 8008
+20:44 < Mariorulez14> This is the BEST MYTHBUSTERS-RELATED THING
+20:44 < Mariorulez14> http://www.fimfiction.net/story/5384
+20:44 < CommanderHurricane> getting ip relay stuff
+20:44 < Mariorulez14> Read it nao
+20:44 < Mariorulez14> Read it nao
+20:44 < Mariorulez14> Read it nao
+20:44 < Mariorulez14> http://www.fimfiction.net/story/5384
+20:44 < Mariorulez14> http://www.fimfiction.net/story/5384
+20:44 < `> }:A
+20:45 < CommanderHurricane> well i'm bored
+20:45 < `> call the 909 939 7002 DID
+20:45 < `> it's much more smoother without the lag/GA
+20:45 < Mariorulez14> If you're bored, you should read the fic I posted
+20:45 < Mariorulez14> Chocolate milk is explosive
+20:45 < `> actually
+20:45 < `> i'll call
+20:45 < `> }:A
+20:46 < `> shall I, CommanderHurricane?
+20:46 < CommanderHurricane> don't make it too long
+20:47 < Mariorulez14> Oooooooh my sweeeet everythiiiiing
+20:47 < Mariorulez14> Ellis from Left 4 Dead 2 + Ponies
+20:47 < Mariorulez14> YYYYYYYYYYYYYYYYYYYYYES
+20:48 < `> CommanderHurricane: how was it?
+20:48 < `> much better, right?
+20:48 < CommanderHurricane> `: alright
+20:48 < CommanderHurricane> yes
+20:48 < `> the other call
+20:48 < `> literally uses Video Relay
+20:48  * CommanderHurricane adds number into contact list
+20:48 < `> where the operator sees me and translates my sign language in realtime
+20:49 < `> but the first call was via text relay, where they have to listen to you talk, type it, send it to me, then i have to type my response, send it
+20:49 < `> with GO AHEAD, etc
+20:49 < CommanderHurricane> i see
+20:49 < Mariorulez14> Well goldangit
+20:49 < Mariorulez14> The torrent's still stuck at 98%
+20:49 < Mariorulez14> Wat do
+20:49 < CommanderHurricane> well i now have the 939 number in my phone
+20:49 < `> i typically use text relay most of the time when dealing with companies, IVRs, etc
+20:49 < `> but with friends/family, video relay :)
+20:49 < CommanderHurricane> so now when you let the dns server domain lapse, i can call you up and fuss at you :P
+20:49 < `> you can see about vidrelay http://convorelay.com/
+20:50 < `> CommanderHurricane: lawl, will not happen again
+20:50 < `> CommanderHurricane: i actually regained deafgeeks.net/org back
+20:50 < CommanderHurricane> so how's the 939-7002 number set up
+20:51 < `> well
+20:51 < `> it's a video-based SIP
+20:51 < `> a form of VoIP but with video.
+20:51 < `> and i use a program on my computer
+20:51 < `> here, let me show you.
+20:52 < Tandy|7540> wafflebutt
+20:52 < Mariorulez14> Tandy
+20:52 < CommanderHurricane> shut up
+20:52 < `> http://cl.ly/2d1t0x1n3T3R3z2e3V1V
+20:52 < Tandy|7540> YOUR HAIR IS GODDAMN FABULOUS
+20:52 < `> a real, live snapshot of my "phone"
+20:52 < `> Tandy|7540: i know, right
+20:53 < Tandy|7540> lol
+20:53 < Mariorulez14> Rarity would be most pleased with that hair
+20:53 < CommanderHurricane> ` so that's pretty neat stuff
+20:53 < `> CommanderHurricane: very
+20:53 < `> CommanderHurricane: with the other #
+20:53 < `> it's all setup via AIM
+20:53 < Mariorulez14> Man, the best part about fanfics based off of games I own is the ability to supply background music and sound effects as I read
+20:53 < `> lemme show you what it looked like when you called me
+20:54  * Mariorulez14 searches through his Left 4 Dead 2 files for assorted clips
+20:54 < `> CommanderHurricane: here goes
+20:54 < `> My IP Relay: The My IP Relay service has a phone call from 334-332-XXXX for you. Type your response to take this call now, or type MSG to ignore it and have the relay operator take a message for you instead.
+20:54 < `> Dustin Williams: yes sir qq ga
+20:54 < `> My IP Relay: IP RELAY RO80953F WITH A CALL
+20:55 < `> then after that is basically a log of the call
+20:55 < CommanderHurricane> i see
+20:55 < `> nod.
+20:55 < `> i x'd out the last 4 digits so people here wont be crankcalling you and all
+20:55 < `> }:A
+20:56 < CommanderHurricane> }:A
+20:56 < `> theres a whole terminology that goes into a text relay call
+20:56 < `> GA: Go ahead
+20:56 < `> QQ: Question mark
+20:57 < `> SKSK: Stop keying, stop keying (Hang Up)
+20:57 < `> GA TO SK: Go ahead, but ready to stop keying (ready to hangup)
+20:57 < `> etc
+20:57 < CommanderHurricane> sounds complex, but i imagine you memorize all the terms once you use it enough
+20:57 < `> actually
+20:58 < `> it's really easy
+20:58 < `> it's like saying "over" on radio
+20:58 < `> hi ga
+20:58 < `> what's up qq ga
+20:58 < CommanderHurricane> fair enough
+20:58 < `> not much ga
+20:58 < `> etc
+20:58 < `> and when ready to hangup
+20:58 < `> i say
+20:58 < `> hey, gotta go ga to sk
+20:58 < `> etc
+20:59 < Darman213> Mariorulez14, http://chzheroes.files.wordpress.com/2011/06/superheroes-batman-superman-deadpool-he-loves-him-some-ponies.jpg
+20:59 < Darman213> Mariorulez14, http://chzheroes.files.wordpress.com/2011/06/superheroes-batman-superman-deadpool-he-loves-him-some-ponies.jpg
+20:59 < Darman213> Mariorulez14, http://chzheroes.files.wordpress.com/2011/06/superheroes-batman-superman-deadpool-he-loves-him-some-ponies.jpg
+20:59 < Darman213> Mariorulez14, http://chzheroes.files.wordpress.com/2011/06/superheroes-batman-superman-deadpool-he-loves-him-some-ponies.jpg
+20:59 < Darman213> :D
+20:59 < Darman213> Mariorulez14, http://chzheroes.files.wordpress.com/2011/06/superheroes-batman-superman-deadpool-he-loves-him-some-ponies.jpg
+20:59 < Mariorulez14> YESSSSSSSS
+20:59 < Mariorulez14> YES
+20:59 < Mariorulez14> YES
+20:59 < Mariorulez14> THIS IS BEST DEADPOOL
+20:59 < Mariorulez14> This shall be the titlecard for the fanfic
+20:59 < `> heh pft
+20:59 < Mariorulez14> That we will write
+20:59 < `> time to go pick up my weed
+20:59 < `> }:A
+21:00 < Darman213> http://images.cheezburger.com/completestore/2011/7/20/dfdd746b-d5f0-4357-8b96-a84827d80535.jpg
+21:00 < CommanderHurricane> `: why weed when you can smoke a keyboard 
+21:00 < Darman213> I practice this on a regular basis
+21:00 < Darman213> http://images.cheezburger.com/completestore/2011/7/20/dfdd746b-d5f0-4357-8b96-a84827d80535.jpg
+21:03 < Mariorulez14> Oh man
+21:03 < `> CommanderHurricane: lol, that'd kill me
+21:03 < `> >_>
+21:03 < Mariorulez14> This fanfiction + Actual L4D2 sounds/music
+21:03 < Mariorulez14> WIN
+21:03 < Mariorulez14> SO MUCH
+21:03 < `> but hey
+21:03  * Mariorulez14 sets up the Tank theme
+21:03 < `> weed is my keyboard
+21:04 < Tandy|7540> lol
+21:04 < CommanderHurricane> `: plastic fumes, meh.
+21:04 < `> ^^
+21:04 < `> this.
+21:04 < Mariorulez14> If your keyboard is weed
+21:04 < Mariorulez14> Wouldn't it be a keyHASH?
+21:04 < `> it allows me to be all
+21:04 < `> GLORIOUSLY CREATIVE
+21:04 < `> with problems and shit
+21:04 < Mariorulez14> Ooh, rainbows
+21:04 < `> idk why, but when i'm straight, i get brainblocks
+21:04 < Mariorulez14> Show me how to do that
+21:04 < `> or whatever that's called
+21:04 < Mariorulez14> I want to do a gradient like you
+21:04 < CommanderHurricane> Mariorulez14: you need irssi and Linux
+21:05 < `> very similar to writer's block
+21:05 < `> Mariorulez14: what CommanderHurricane said
+21:05 < `> Mariorulez14: irssi, rainbow.pl, and linux
+21:05 < Mariorulez14> TANK THEME
+21:05 < Mariorulez14> YEEEEAH
+21:05 < CommanderHurricane> `: i wonder if cygwin would work?
+21:09 < CommanderHurricane> >ponies wear more clothes to bed than they do during the day
+21:09 < Mariorulez14> Ellis is best pony...I mean Survivor
+21:09 < Mariorulez14> Speaking of, did I ever tell you 'bout the time me and my buddy Keith made homemade bumper cars?
+21:10 < Mariorulez14> Mower blade wounds over 95% of his body...and I didn't run him over, either! He somehow managed to fall under his own!
+21:11 < CommanderHurricane> why would you leave the lawnmower blade on
+21:12 < Mariorulez14> >ellis gets apple-bucked right in the nethers
+21:12 < Mariorulez14> Man, even getting Charger'd into a wall can't compare to that kind of pain
+21:13 < Mariorulez14> " The creature howled, its voice rising at least three or four octaves.  I collapsed to the ground in front of the orange-colored earth pony, groaning and writhing in agony.  Applejack stood over it, berating its behavior."
+21:13 < Mariorulez14> lololol
+21:13 < Mariorulez14>         “Uh... you all right there?  Ah didn’t mean tah hurt you that bad.”  She spoke softly.
+21:13 < Mariorulez14>         It gave an exhausted chuckle, pain laced through its voice.  “That’s all right.  Ah figured ah didn’t need kids anyway...”
+21:13 < Mariorulez14> Oh god the lulz
+21:17 < Tandy|7540> watlol
+21:17 < Mariorulez14> I need to link you to this, Tandy|7540
+21:17 < Mariorulez14> Ellis just lost his sh*t after Applejack told him about applebucking
+21:17 < Mariorulez14> If you know what I mean
+21:18 < Mariorulez14> http://www.fimfiction.net/story/4959
+21:18  * Mariorulez14 can't stop laughing
+21:21 < Mariorulez14> "So they're basically magically appearin' ass-tattoos?  How the hell does that work?" -Ellis on cutie marks
+21:23 < CommanderHurricane> 342MB of ponies are synced between my main desktop and the server
+21:27 < Mariorulez14> GOODNESS
+21:27 < Mariorulez14> This is the third-best thing I've read today
+21:27 < Mariorulez14> And I still have like 4 more chapters :D
+21:28 <+binki> ridiculousness
+21:29 <+binki> I was at Rangeela at Calvin
+21:29 <+binki> and this is siblings' weekend which means I'm invaded by like 7 cousins
+21:29 <+binki> `: fix your problem?
+21:30 < Mariorulez14> >Tank in Equestria
+21:30  * CommanderHurricane np: FIAB - The 68000 Heart On Fire (131kbps)
+21:30 < Mariorulez14> Aw snap, it's about to get read
+21:30 < Mariorulez14> *real
+21:30  * Mariorulez14 readies the Tank theme again
+21:35 < Tandy|7540> binki!
+21:35 < Tandy|7540> you're there!
+21:35 < Tandy|7540> -irc.retro-box.net- *** Notice -- Couldn't connect to ohnopublishing.net.
+21:41 < Darman213> going to bed now
+21:41 < Darman213> rest easy folks
+21:43 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Ping timeout]
+21:48 < Tandy|7540> binki
+21:48 < Tandy|7540> you there?
+21:48 < Mariorulez14> Tandy|7540
+21:49 < Mariorulez14> Ellis has driven Rainbow insane with hand-lust
+21:49 < Mariorulez14> This is the funniest thing
+21:49 < Tandy|7540> ...
+21:49 < Tandy|7540> what
+21:49 < Tandy|7540> is this neko's story?
+21:49 < CommanderHurricane> no
+21:49 < CommanderHurricane> it's some l4d crossover
+21:49 < Tandy|7540> oh
+21:49 < Tandy|7540> OH
+21:49 < Tandy|7540> that ellis
+21:49 < Tandy|7540> lol
+21:50 < Mariorulez14> ARe you reading it Tandy?
+21:50 < Mariorulez14> IT'S SUCH A GOOD STORY
+21:51 < Mariorulez14> A man...a machete...a story of luck and survival
+21:51 < Mariorulez14> Oh yeah, and ponies
+21:55 < Mariorulez14> >lyra is there
+21:56 < Mariorulez14>  “Man, I’ve been tryin’ tah figure that out all mornin’.  Wish ah knew... Jesus...”
+21:56 < Mariorulez14>         The crowd went silent as they contemplated in confusion.
+21:56 < Mariorulez14>         “Who’s Jesus?”
+21:56 < Mariorulez14>         “Isn’t he that guy who hangs out at the bowling alley?”
+21:56 < Mariorulez14>         “Did somepony say my name?”
+21:56 < Mariorulez14>         “He’s kinda a jerk...”
+21:56 < Mariorulez14>         “HEY!  DON’T BUCK WITH DA JESUS!”
+21:56 < Mariorulez14> MY SIDES
+21:56 <~RainbowDash> Anything interesting going on?
+21:57 <~RainbowDash> Guess not.
+22:00 < Mariorulez14> Rainbow Dash
+22:01 < Mariorulez14> Do you have a Lyra complex?
+22:01 <~RainbowDash> Not really, no.
+22:01 < Mariorulez14> Be honeeest
+22:01 <~RainbowDash> I am being honest.
+22:01 < Mariorulez14> lol
+22:01 < Mariorulez14> Regardless, this story's awesome
+22:02 < Mariorulez14> Zombies, Dash
+22:02 < Mariorulez14> ZOMBIES
+22:02 <~RainbowDash> Zombies. Riiiight. I'll have to tell that one to Spike.
+22:03 < Mariorulez14> No, I'm serious
+22:03 < Mariorulez14> Ellis is from a game where the sole purpose is to survive a zombie apocalypse
+22:03 < Mariorulez14> One of the best games ever ,3
+22:03 <~RainbowDash> OK, it's a game. It's not real, and I've certainly never seen a zombie pony before.
+22:04 < Mariorulez14> Not zombie ponies...zombie PEOPLE
+22:04 < Tandy|7540> I dunno.... Twilight in the mornings...
+22:04 < Mariorulez14> Well, I guess you can't call the exception of 7 types "people" anymore :/
+22:05 < Tandy|7540> I don't know about you ponies, but that's as close to a 'zombie pony' as I want to get.
+22:05 < Mariorulez14> Chicks that spit acid and little crazy ones that ride on your head and pull you away
+22:05 < Mariorulez14> Here Dash, give it a read http://left4dead.wikia.com/wiki/The_Infected
+22:05 < CommanderHurricane> Tandy|7540 come on, twilight isn't *that* horrible in the morning
+22:06 < Mariorulez14> OOOOOOOOOOH
+22:06 <~RainbowDash> Mariorulez14, sounds like bad stuff... Thankfully it's all fiction.
+22:06 < Mariorulez14> Yeah...the creepy thing is that it could actually happen
+22:07 <~RainbowDash> Really?
+22:09 < Tandy|7540> CommanderHurricane: Okay, maybe not Twilight, but Luna is absolutely *Horrible* in the mornings if she doesn't get her coffee.
+22:09 < Tandy|7540> Take this from somepony who knows
+22:09 < Tandy|7540> Woah, whoops
+22:09 -!- Tandy|7540 is now known as Azurite
+22:09 < CommanderHurricane> i bet you do ;0
+22:09 < CommanderHurricane> </brutman>
+22:10 < Azurite> Hah.
+22:10 < Azurite> I dunno about her sister. She generally stays in her chambers when she's not in the throne room. I imagine she's not exactly a ball of sunshine in the morning, either.
+22:11 < CommanderHurricane> >luna
+22:11 < CommanderHurricane> >not exactly a ball of sunshine
+22:11 < CommanderHurricane> i see what you did there
+22:11 <~RainbowDash> Um... I think I'm going to go to bed now.
+22:12 < CommanderHurricane> sounds good
+22:12 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Quit: AWAY!]
+22:12 -!- RainbowDash is now known as RainbowDash|sleep
+22:13 < Azurite> I was actually referring to Celestia
+22:13 < Azurite> .-.
+22:18 < Mariorulez14> Aw man
+22:19 < Mariorulez14> I didn't get to finish my conversation with Dash
+22:19 < Mariorulez14> :\
+22:19 < Mariorulez14> But seriously Azurite
+22:19 < Mariorulez14> You should read this
+22:19 < Mariorulez14> Then torrent L4D2 and play it
+22:19 < Mariorulez14> That or *coughbuyitlikeagoodpersonwouldcough*
+22:20 < Azurite> lol
+22:20 < Azurite> imma sleep
+22:20 < Azurite> ;|
+22:20 < Azurite> :|
+22:21 < Compgeke> night!
+22:21 < Mariorulez14> Bye
+22:22 < Mariorulez14> Gonna drift with the crowd 
+22:22 < Mariorulez14> Later peoples
+22:22 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Quit: (Bye)]
+22:24 < Azurite> ohai Compgeke
+22:27 < Compgeke> remoting into someone's computer to configure Minecraft :D
+22:37 < Azurite> lawl
+22:37 < Azurite> >can't configure minecraft on their own
+22:37 < Azurite> what the heck even needs configging?
+22:38 < Compgeke> he doesn't own it
+22:38 < Compgeke> I was fixing the false login
+22:44 < Azurite> oh
+22:44 < Azurite> lol
+22:44 < Compgeke> I use a custom launcher that gives a name without validation
+22:44 < Compgeke> sure it fails server validation, but running an offline server who cares?
+22:44 < Azurite> nice
+22:44 < Compgeke> I've had 2 people actually buy the game after I did that
+22:45 < Compgeke> I really think there should be a trial version of Minecraft
+22:45 < Azurite> yeah
+22:45 < Azurite> well
+22:46 < Azurite> POOTIS POOTIS POOTIS POOTIS 
+23:14 <+binki> Tandy|Phenom: put shortly, I'm not really available this weekend at all as far as I can forsee except Sunday evening
+23:14 <+binki> siblings/cousins visiting me at my dorm for ``siblings' weekend'' ==> no compy time
+23:19 < Compgeke> :/
+23:23 <+binki> lol
+23:23 <+binki> facebook starts doing @-style autocompletion if you type `+'
+23:23 <+binki> explicit copying of google+?
+--- Day changed Sat Feb 25 2012
+01:51 < `> binki
+01:52 < `> please tell me you're still there
+01:52 < `> binki BINKIIIIIIIIIIIIIIIIIIIIIIIIII
+01:52 < `> binki BINKIIIIIIIIIIIIIIIIIIIIIIIIII
+01:52 < `> binki BINKIIIIIIIIIIIIIIIIIIIIIIIIII
+01:52 < `> binki BINKIIIIIIIIIIIIIIIIIIIIIIIIII
+07:16 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+07:17 < niner> hello
+07:18 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+07:19 < Mariorulez14> >that feel when your second-favorite pony gets shitstormed out of existence
+07:19 < niner> when was this?
+07:19 < Mariorulez14> Yesterday
+07:19 < niner> who was it.....
+07:19 < Mariorulez14> Hasbro finally edited the HELL out of the episode
+07:19 < Mariorulez14> Give you a guess
+07:20 < Mariorulez14> Also, sad thread on /mlp/ 404'd
+07:20 < niner> WAHH??
+07:20 -!- Mariorulez14 is now known as Comic
+07:20 < Comic> Worst
+07:20 < Comic> Saturday
+07:20 < Comic> ever
+07:20 -!- Comic is now known as Mariorulez14
+07:20 < Mariorulez14> WHY DO I FORGET ABOUT SPACES
+07:20 < niner> I'll say there isn't even a new episode
+07:21 < Mariorulez14> Anyway, Derpy's dead, no new episode and one of the best threads on a chan board I've ever been to died
+07:23 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+07:24 -!- CommanderHurricane changed the topic of #retrobox to: [..RETRONET..], have a fancy you advantageous daytime! | WINDOWS 8 CONSUMER PREVIEW (AKA BETA) LAUNCHES AT 8AM CENTRAL STANDARD IN 4 DAYS | also, furries
+07:24 < Mariorulez14> Various sources are conflicting as to whether or not a certain wall-eyed mare has ceased to exist
+07:24 < Mariorulez14> Also the sad thread 404
+07:25 < CommanderHurricane> http://www.equestriadaily.com/2012/02/look-into-derpy-from-kreoss.html#more
+07:25 < CommanderHurricane> "On the issue on Derpy whether she'll have the same Derp face expression and stuff. As an animator of the show, rest assured, she'll be fine. The show will still go on and I hope you will continue to support the show."
+07:25 < Mariorulez14> Ooh, a Laugh/Lose thread :D
+07:26 < CommanderHurricane> the new voice actually does make derpy sound retarded
+07:26 < CommanderHurricane> THERE IS A DIFFERENCE BETWEEN CHILDISH AND RETARDED
+07:26 < CommanderHurricane> also ashlegh ball sounds weird as well
+07:30 < Mariorulez14> ^
+07:30 < Mariorulez14> It's just not the same :(
+07:30 < Mariorulez14> Godamit Hasbro
+07:33 < Mariorulez14> >smell breath using seeecret method
+07:33 < Mariorulez14> >it literally smells like someone crapped in a bag
+07:33 -!- Mariorulez14 is now known as Mariorulez14|BrushieBrushie
+07:37 -!- Mariorulez14|BrushieBrushie is now known as Mariorulez14
+07:49 < CommanderHurricane> http://images2.wikia.nocookie.net/__cb20110625000158/beyblade/images/c/ca/Hasbro-logo.jpg
+07:49 < CommanderHurricane> I JUST DON'T KNOW WHAT WENT WRONG
+07:53 < Mariorulez14> lol
+07:53 < Mariorulez14> I'm reading Tandy's play-by-play of his Cheerilee's Garden readthrough
+07:53 < Mariorulez14> Boundless lulz
+07:54 < Mariorulez14> >Well that was weird
+07:54 < Mariorulez14> Oh Azurite you so crazy
+07:55 < CommanderHurricane> >Azurite is furry
+07:55 < CommanderHurricane> of course he's crazy
+07:55 < Mariorulez14> http://images.4chan.org/mlp/src/1330053353861.png
+07:56 < Mariorulez14> I can't breathe, this 
+08:12 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Quit: (Bye)]
+08:12 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+08:13 < Mariorulez14> Someone explain how dragging something off the taskbar closes it
+08:15 < CommanderHurricane> it doesn't?
+08:17 < Mariorulez14> Then how did it happen
+08:18 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: On the other hand, you have different fingers.]
+08:18 < CommanderHurricane> i have no idea
+08:18 < CommanderHurricane> unless you activated the right click menu and clicked Close Window
+08:22  * Mariorulez14 is away: (USD 420: Official School District of Marijuana)
+08:22 < CommanderHurricane> >mfw it's 8:30 and i'm the only one up
+09:00 -!- RainbowDash|sleep is now known as RainbowDash
+09:00 <~RainbowDash> mmph. i am not a morning pony.
+09:13 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+09:13 < Darman213> .o/
+09:15 < CommanderHurricane> hi
+09:15 < CommanderHurricane> http://neko2k.deviantart.com/art/I-Just-Don-t-Know-What-Went-Wrong-287065058
+09:21 < Azurite> <CommanderHurricane> the new voice actually does make derpy sound retarded
+09:21 < Azurite> wait what
+09:21 < Azurite> <Mariorulez14> I'm reading Tandy's play-by-play of his Cheerilee's Garden readthrough
+09:21 < Azurite> <Mariorulez14> Boundless lulz
+09:21 < Azurite> <Mariorulez14> >Well that was weird
+09:21 < Azurite> lol
+09:30 < CommanderHurricane> Azurite: http://www.youtube.com/watch?feature=player_embedded&v=X2CRjPO73Dg
+09:32 < Azurite> http://retro-box.net/bbs/viewtopic.php?f=19&t=112
+09:32 < Azurite> http://retro-box.net/bbs/viewtopic.php?f=19&t=112
+09:32 < Azurite> http://retro-box.net/bbs/viewtopic.php?f=19&t=112
+09:32 < Darman213> Yeah
+09:32 < Darman213> Derpy does sound... *derp*
+09:32 < Darman213> :s
+09:32 < Darman213> dafuqisdis!
+09:32 < Darman213> Not sure if I like the new name...
+09:32 < Darman213> new voice*
+09:33 < Darman213> or the old one...
+09:34 < Azurite> >hears "I just don't know what went wrong"
+09:34 < Azurite> NOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPENOPE
+09:34 < CommanderHurricane> http://neko2k.deviantart.com/art/I-Just-Don-t-Know-What-Went-Wrong-287065058
+09:34 < Darman213> http://www.youtube.com/watch?feature=player_detailpage&v=PVM8BqTatdA
+09:34 < Darman213> WHAT IS THIS!!!
+09:34 < Darman213> I LOVE IT
+09:37 < CommanderHurricane> http://twitter.com/#!/neko_2k/status/173425566266036224
+09:52 < Darman213> ^
+09:53 < Azurite> CommanderHurricane: that's amazing :D
+09:53 < CommanderHurricane> Azurite: what is
+09:53 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: Gone, Like Frank Sinatra...]
+09:56 < Azurite> your twitter post
+09:56 < Azurite> that's halarious
+09:57 < CommanderHurricane> ah
+09:57 < CommanderHurricane> do you know who i'm referring to then?
+09:59 -!- neko|E420 [Equestria@E8E7428D.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+10:02 < Azurite> eeyup
+10:02 < Azurite> obviously canouna
+10:02 < Azurite> he blows hot air about windows 8 and has a religion-like following
+10:03 < neko|E420> there you go
+10:07 < Azurite> :D
+10:07 < Azurite> I FEEL SO SMART
+10:09 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+10:09 < Darman213> Question
+10:09 < Azurite> Answer.
+10:09 < neko|E420> gah, i can't watch the new derpy scene past "I just don't know what went wrong!"
+10:09 < Darman213> Where'd my home server go?
+10:09 < Darman213> for minecraft
+10:09  * neko|E420 opens his untouched mkv copy of The Last Roundup
+10:09 < neko|E420> }:A
+10:09 < Azurite> Darman213: what?
+10:10 < Azurite> what home server
+10:10 < Darman213> ;_;
+10:10 < Darman213> I miss wolfstone
+10:10 < Azurite> lol
+10:11 < Azurite> hurry and get on the new server and you'll get creative
+10:11 < Azurite> so you can recreate your castle and such
+10:11 < Azurite> (I suggest recreating it near the Mountain Village)
+10:11  * Darman213 *sigh*
+10:11 < Azurite> then when I flip everyone over to Survival...
+10:12 < Darman213> would it kill you to give me Op too?
+10:12 < Darman213> >_>
+10:12 < Darman213> Just logged in
+10:12 < Darman213> can't place minecart
+10:12 < Darman213> CONSTANT POWER RAIL OH MY GAWD ARE YOU GUYS STUPID?!
+10:12 < Darman213> >_>
+10:13 < Darman213> If you fall off, you can't just jump back on
+10:13 < Darman213> op
+10:13 < Darman213> nvm
+10:13 < Darman213> found rails
+10:16 < Azurite> lol
+10:16  * Darman213 is away: (writing paper)
+10:16 < Azurite> not stupid
+10:16 < Azurite> lazy
+10:16 < Azurite> :P
+10:17 < Azurite> if you fall off you're screwed anyways
+10:28 < Darman213> Azurite, I can has OP for when I play later?
+10:28 < Darman213> or Creative?
+10:28 < Darman213> 1 or the other?
+10:35 < CommanderHurricane> http://the-background.deviantart.com/#/d4qvwtv
+10:38 -!- neko|E420 [Equestria@E8E7428D.9EBBA8CC.6D2E2761.IP] has quit [Quit: QUIIIIIIIIIIT]
+10:42  * CommanderHurricane runs the Windows 95 easter egg
+10:49 < CommanderHurricane> and now, the moment you've all been waiting for
+10:49 < CommanderHurricane> we proudly present for your viewing pleasure
+10:49 < CommanderHurricane> The Microsoft Windows 95 Product Team!
+11:01 < Azurite> http://chzbronies.files.wordpress.com/2012/02/my-little-pony-friendship-is-magic-brony-pair-of-pears1.png
+11:01 < Azurite> lolwhat
+11:03 < CommanderHurricane> .
+11:25 < Azurite> http://www.youtube.com/watch?v=X9hURWovZeY&feature=channel
+11:25 < Azurite> LOL
+11:27 < Compgeke> morning
+11:27 < CommanderHurricane> hi
+11:28 -!- RainbowDash is now known as RainbowDash|napping
+11:28 < Compgeke> hmm...NAPPING!? I JUST GOT UP!
+11:36 < Darman213> .o/
+11:36 < Compgeke> lol
+12:28 -!- RainbowDash|napping is now known as RainbowDash
+14:22 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+14:30 < niner> well not that anyone cares and most don't even know what I speak of. I just beat the last level of stinkoman
+14:43 < Azurite> Playing: "Atomic Kitten - The Tide is High" (192kbps - 44kHz - Stereo)
+15:04 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: Easy as 3.14159265358979323846... ]
+15:18 < CommanderHurricane> http://yudhaikeledai.deviantart.com/art/MLP-Thinking-with-Portals-Rainbow-Highway-287105543
+15:18 < CommanderHurricane> lolz
+15:25 -!- Blazehoof [IceChat7@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+15:40 < Azurite> I should take my M100 to starbucks
+15:40 < Azurite> work on it for a while
+15:40 < Azurite> then look up
+15:40 < Azurite> look at a pseudo-hipster with his macbook and say "you fuckers don't know shit about non-mainstream technology."
+15:40 < CommanderHurricane> i'd cut the swearing, but yeah
+15:40 < CommanderHurricane> you should do that
+15:40 < Azurite> lol
+15:41 < Azurite> ZIP BOP BOPPITY   ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP Macbot   ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP ZIP ZAP BIP BAP  BRRAP  Macbot ZOOP  ZIP ZAP BIP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP Macbot  
+15:41 < CommanderHurricane> what
+15:42 -!- CH|AMDerp [AMDerp@1DD2738A.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+15:42 -!- CH|AMDerp is now known as neko|AMDerp
+15:43 < Azurite> lol
+15:43  * neko|AMDerp PONIES: s01e22 A Bird in the Hoof
+15:44 < Azurite> ugh
+15:44 < Azurite> wtf.
+15:44 < Azurite> http://goput.it/gbj.jpg
+15:44 < Azurite> random marks on my back
+15:44 < Azurite> dunno what they are
+15:44 < Azurite> ._.
+15:48 < neko|AMDerp> so much Windows 7 here
+15:49 < Azurite> watlol
+15:49 < Azurite> oh
+15:49 < Azurite> did you do a mass ctcp version or something
+15:49 < Azurite> >mfw Mariorulez14 Darman213 Compgeke and Blazehoof are all here and none of them are saying anything
+15:49 < neko|AMDerp> i just did }:A
+15:49 < Azurite> }:A
+15:49 < Azurite> so I see
+15:49 < neko|AMDerp> but at my house, there's a lot of Windows 7
+15:49 < Darman213> I'm playing with Sugarhigh
+15:50 < neko|AMDerp> playing the deviantART game?
+15:50 < Azurite> ...
+15:50 < Azurite> <Achmed> I KEEL YOU!
+15:51 -!- Azurite [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has quit [Killed (neko|AMDerp (i beat you to it))]
+15:58 -!- Azurite [Tandy_7540@91BB0B58.E4CD60BA.6A761AA4.IP] has joined #retrobox
+15:58 < Azurite> hurr hurr
+16:00 < Darman213> Playing a childrens card game
+16:00 < Darman213> That was the best
+16:00 < Darman213> neko|AMDerp, 
+16:00 < Azurite> <usoevil> 4 `s, 3 meiks, 4 Sudongos, 2 you and 2 me
+16:00 < Azurite> * NPE43 lides
+16:00 < Azurite> * usoevil sheeks
+16:00 < Azurite> <usoevil> well, there's 3 me and 2 nekonoai in #t-t
+16:00 < Azurite> <Tandy|7540> lol
+16:00 < Azurite> <usoevil> ah, and here also 2 of DONGS
+16:00 < Azurite> <Tandy|7540> two dongs?
+16:00 < Azurite> <usoevil> lol
+16:00 < Azurite> <Tandy|7540> awesome
+16:00 < Darman213> neko|AMDerp, 
+16:00 < Darman213> What was it
+16:00 < Darman213> that you told me?
+16:00 < Darman213> that I lost
+16:00 < Darman213> off the bat?
+16:01 < neko|AMDerp> in the deviantART game?
+16:12 < Darman213> yeah
+16:12 < Darman213> in the DA game
+16:12 < CommanderHurricane> yeah, i don't remember the keywords
+16:12 < CommanderHurricane> i know Mariorulez14 gave them to you
+16:22  * Darman213 is back (gone 06:05:52)
+16:22 < Darman213> paper done
+16:22 < Darman213> xD
+16:27  * CommanderHurricane PONIES: s01e12 Call of the Cutie
+16:31 < Mariorulez14> MY MOM DRAGGED ME OUT OF TOWN
+16:31 < Mariorulez14> >:|
+16:31 < CommanderHurricane> >:|
+16:31 < Mariorulez14> Alright, what did I miss
+16:32 < Mariorulez14> Gimme a play-by-play of everything that went down
+16:32 < CommanderHurricane> pretty much nothing
+16:32 < CommanderHurricane> http://neko2k.deviantart.com/art/I-Just-Don-t-Know-What-Went-Wrong-287065058
+16:33 < Mariorulez14> ...
+16:33 < Mariorulez14> THAT
+16:33 < Mariorulez14> IS NOT DERPY
+16:33 < Mariorulez14> THAT IS NOT
+16:33 < Mariorulez14> DERPY
+16:33 < Mariorulez14> FUQUHASBRO
+16:34 < Mariorulez14> AT LEAST HER EYES ARE FINE
+16:35 < CommanderHurricane> not after what they did to her in the re-release of The Last Roundup
+16:35 < Mariorulez14> They actually took time to EDIT her EYES?
+16:35 < CommanderHurricane> yep
+16:36 < Mariorulez14> This picture seems appropriate
+16:36 < Mariorulez14> vhttp://img.ponibooru.org/_images/7b301862f3c2f4a1d0d3043ff9486940/115276%20-%20artist%3Asnus-kun%20human_behavior%20middle_finger%20rarity.png
+16:37 < Mariorulez14> http://img.ponibooru.org/_images/7b301862f3c2f4a1d0d3043ff9486940/115276%20-%20artist%3Asnus-kun%20human_behavior%20middle_finger%20rarity.png
+16:37 < Mariorulez14> Whoops
+16:38 < CommanderHurricane> they also changed derpy's voice
+16:38 < CommanderHurricane> so now no one has any doubts that derpy is the ponyville retard
+16:38 < CommanderHurricane> not kidding
+16:38 < Azurite> ._.
+16:39 < Azurite>  http://img.ponibooru.org/_images/7b301862f3c2f4a1d0d3043ff9486940/115276%20-%20artist%3Asnus-kun%20human_behavior%20middle_finger%20rarity.png
+16:39 < Azurite> ^lolwhat
+16:39 < Azurite> also
+16:39 < Azurite> Mariorulez14
+16:39 < Azurite> Mariorulez14
+16:39 < Azurite> Mariorulez14
+16:39 < Azurite> NEED HALP
+16:39 < Mariorulez14> What
+16:39 < Azurite> chem lab
+16:39 < Azurite> ._>
+16:39 < Mariorulez14> With?
+16:39 < Mariorulez14> Which lab
+16:39 < Azurite> wait
+16:39 < Azurite> are you in chemistry?
+16:39 -!- neko|AMDerp [AMDerp@1DD2738A.9EBBA8CC.6D2E2761.IP] has quit [Connection reset by peer]
+16:39 < Azurite> actually it's a webquest
+16:39 < Mariorulez14> No, I'm doing Allen County work
+16:39 < Azurite> wat
+16:40 < CommanderHurricane> also why is it that pegasi almost always have their wings spread whenever they're on the ground
+16:40 < Azurite> CONSTANT STATE OF AROUSAL
+16:40 < Mariorulez14> The ground feels good on their feet
+16:40 < Mariorulez14> Arousingly so
+16:41 < Mariorulez14> Seriously guys, look up and read Name's Ellis
+16:41 < Mariorulez14> It's amazing
+16:41 < CommanderHurricane> <Apple Bloom> No sock un-darned!
+16:41 < Mariorulez14> Lyra starts stalking Ellis because hands
+16:42 < CommanderHurricane> i wouldn't doubt that
+16:42 < Mariorulez14> And Rainbow Dash goes a little bit crazy for the same reason
+16:43 < Mariorulez14> It's the hands man
+16:43 < Mariorulez14> They mess with your mind...with their fingers and joints
+16:44 < Mariorulez14> Pinkie Pie is terrified of Ellis because apparently she has super-smell powers
+16:44 < Mariorulez14> He smells like blood a la Zombies
+16:44  * Mariorulez14 opens up PixelViewer and reads some more Deadpool
+16:45 < Mariorulez14> That torrent finished around 5 AM
+16:45 <~RainbowDash> Lyra... Yeah, she's pretty obsessed with hands. It drives Bon-Bon up the wall sometimes.
+16:46 < Mariorulez14> What caused this strange obsession with ze hands?
+16:47 < CommanderHurricane> scootaloo must be pretty strong to carry a wagon filled with two fillies, 6 planks of wood, 4x8 plywood, a box of nails, cans of paint, 4 brushes, a fan and a bunch of fabric
+16:48 < Mariorulez14> I need like...all the fanfics I'm tracking to update
+16:48 < Mariorulez14> Namely Name's Ellis
+16:48 < Mariorulez14> I got cliffhangered in a Lyra-Ellis chase
+16:49 <~RainbowDash> I don't exactly know, but I think it started when Lyra was trying some sort of "viewer" spell to let her see things from other places.
+16:49 <~RainbowDash> Like I said, I don't exactly know all the details.
+16:50 < Mariorulez14> What kind of pony would give someone as unstable as Lyra a viewer spell
+16:51 < CommanderHurricane> I WANT THIS CEREAL http://lcksophie.deviantart.com/art/Cutie-Crunchies-286944251
+16:51 <~RainbowDash> No idea.
+16:51 < Mariorulez14> That makes sense
+16:51 < Mariorulez14> Wait
+16:52  * Mariorulez14 remembers Lyra's a unicorn and performs a facepalm x100 combo
+16:52 < Mariorulez14> I'm such a silly-filly sometimes :s
+16:56 < Mariorulez14> >get a ticket for $15 worth of free music from emusic
+16:56 < Mariorulez14> >have to give your credit card
+16:56 < Mariorulez14> Free music my ass, RCA
+16:56 < CommanderHurricane> <Snails> Well uh, mine's bigger!
+16:58 < Mariorulez14> Well at least...
+16:58  * Mariorulez14 puts on sunglasses
+16:58 < Mariorulez14> ...he had the balls to say it
+16:58 < Mariorulez14> YEEEEEEEEEEEEEEEEEEEEEEEEEEAAAAAAAAAAAAAAAAAAAAAAAAAAH
+16:59 < Mariorulez14> Quick, someone shoot me for that
+16:59 < Mariorulez14> Like, right now
+16:59 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Killed (CommanderHurricane (*shot*))]
+16:59 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+17:00 < Mariorulez14> lol
+17:00 < Mariorulez14> Thank you
+17:00 < Mariorulez14> I thought of another bad one during 4-H air rifles today
+17:01 < Mariorulez14> "Mr. MacFerhain was killed during a screening of his favorite horror film."
+17:01 < Mariorulez14> "I guess you could say that...*sunglasses*...the suspense was killing him."
+17:01 < Mariorulez14> *insert yeah
+17:02 < CommanderHurricane> http://yudhaikeledai.deviantart.com/art/MLP-Thinking-with-Portals-Rainbow-Highway-287105543
+17:07 < Azurite> <Mariorulez14> I thought of another bad one during 4-H air rifles today
+17:07 < Azurite> wait what
+17:07 < Azurite> you're in air rifle?
+17:07 < Mariorulez14> Yeah
+17:07 < Azurite> I'm in air pistol
+17:07 < Azurite> :D
+17:07 < Mariorulez14> I'm terrible at pistols
+17:07 < Azurite> RETROCON AT STATE MATCH
+17:07 < Azurite> RETROCON AT STATE MATCH
+17:07 < Azurite> RETROCON AT STATE MATCH
+17:07 < Azurite> RETROCON AT STATE MATCH
+17:07 < Mariorulez14> I tried it today
+17:07 < Mariorulez14> Oh yeah
+17:07 < Azurite> did you use the shitty Daisy guns or the Tau?
+17:08 < Mariorulez14> Shitty Daisies
+17:08 < Azurite> I such with the Daisies
+17:08 < Azurite> Tau is superior forevar
+17:08 < Azurite> $600 of superior, but still superior
+17:09 < Azurite>   dongs  dongs  dongs  dongs  dongs  dongs  dongs  dongs  dongs
+17:09 < Azurite> ^what
+17:11 < CommanderHurricane> what are you doing
+17:11 < Mariorulez14> Guys guys
+17:11 < Mariorulez14> http://www.newgrounds.com/portal/view/573755
+17:11 < Mariorulez14> Do it
+17:13 < CommanderHurricane> i like the loading bar
+17:15 < Mariorulez14> Oh mn
+17:15 < Mariorulez14> *man
+17:15 < Mariorulez14> That was cool
+17:15 < Mariorulez14> Short though
+17:18 < Azurite> lol
+17:19 < Azurite> revolution pack 9
+17:19 < Azurite> I remember that
+17:19 < Azurite> :D
+17:19 < Azurite> I need to dig out my old Celeron and stick 98SE on it for lulz
+17:19 < Azurite> install RP9
+17:19 < Azurite> :D
+17:21 -!- Blazehoof [IceChat7@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: Say What?]
+17:29 < Darman213> Mariorulez14, 
+17:29 < Darman213> minecraft?
+17:29 < Mariorulez14> Doing Allen County
+17:29 < Darman213> ?
+17:29 < Mariorulez14> I'm behind because of Insight
+17:29 < Mariorulez14> So yeah
+17:29 < Darman213> uuuhhh k?
+17:33 < Darman213> Azurite, 
+17:34 < Darman213> Minecraft?
+17:34 < Darman213> or are you behind as buck too?
+17:34 < Mariorulez14> I'm behind as buck in COLLEGE because of K12
+17:34 < Darman213> College?
+17:34 < Mariorulez14> Allen County classes
+17:34 < Darman213> ok
+17:34 < Darman213> I didn't know you were doing college
+17:34 < Darman213> ._.
+17:36 < Mariorulez14> It's pharmacy stuff
+17:36 < Mariorulez14> And I'm like 2 weeks behind
+17:36 < Darman213> orlly?
+17:36 < Mariorulez14> I'm gonna be pissed beyond belief if I get docked points
+17:36 < Mariorulez14> Because of K12
+17:37 < Darman213> So how does K12 play a role in this?...
+17:37 < Mariorulez14> I had so much of that to do I didn't have time to work on Allen County
+17:37 < Darman213> Join the club
+17:37 < Darman213> I found out
+17:37 < Darman213> Since I transferred
+17:37 < Darman213> I could have 23 cred
+17:37 < Darman213> and still grad
+17:37 < Darman213> }:A
+17:38 < Darman213> so I dropped physics and spanish 1
+17:38  * Mariorulez14 continues reading his Deadpool comics
+17:40 < Darman213> well there's half your problem right there
+17:44 -!- Tandy|E5400 [Tandyman10@91BB0B58.E4CD60BA.6A761AA4.IP] has joined #retrobox
+17:44 < Mariorulez14> I KNOW
+17:44 < Mariorulez14> BUT IT'S DEADPOOL
+17:44 < Tandy|E5400> ohai
+17:44 < Mariorulez14> Tandy
+17:44 < Darman213> Tandy|E5400, 
+17:44 < Mariorulez14> The torrent finished, but there are like 4 or 5 comics that didn't complete somehow
+17:44 < Darman213> minecraft?.......
+17:44 < Mariorulez14> >:L
+17:46 < Tandy|E5400> Mariorulez14: lolwut
+17:46 < Mariorulez14> You read it right
+17:46 < Mariorulez14> Somehow like 4 or 5 comics are brokeded
+17:46 < Tandy|E5400> Darman213:  what about it?
+17:46 < Mariorulez14> I can read a good 40-50 of them
+17:46 < Darman213> wanna play?
+17:46 < Darman213> :p
+17:46 < Tandy|E5400> cleaning room
+17:46 < Tandy|E5400> :|
+17:46 < Tandy|E5400> then vacuum house
+17:46 < Tandy|E5400> then watch movehs :D
+17:46 < Darman213> then can you op me?
+17:46 < Darman213> or something?
+17:47 < Darman213> because you're like, never on there...
+17:47 < Darman213> I can be a fair op too }:A
+17:50 < Tandy|E5400> lol
+17:50 < Tandy|E5400> yeah
+17:50 < Tandy|E5400> I'll do that when I'm down vacuuming
+17:50 < Tandy|E5400> :D
+17:50 < Darman213> kk!
+17:50 < Darman213> :D
+17:51 < Tandy|E5400> I'm gonna regret having two ops other than myself on the server, aren't I? :P
+17:53 < Darman213> Nope
+17:53 < Darman213> What the hell would I do?...
+17:53 < Darman213> Blow up a city?
+17:53 < Darman213> nah
+17:54 < Darman213> I blow up mountains.............
+17:54 < Darman213> and burn forests
+17:54 < CommanderHurricane> with TNT
+17:54 < Darman213> ^
+17:54 < Tandy|Phenom> Darman213 you're opped
+17:55 < Tandy|Phenom> just don't destroy stuff near the mountain village or Bedrock, k?
+17:55 < Darman213> k
+17:56 < Mariorulez14> OK, let's see
+17:56 < Mariorulez14> With so many antibiotics available and thousands and thousands of drug studies published it's difficult to know what antibiotics to use.  This is where practice guidelines come in handy.  Practice guidelines are published by medical societies who specialize in treating a specific type of disease.  Locate the Infectious Disease Society of America's practice guidelines and give a FIRST LINE antibiotic to treat each of these 
+17:56 < Mariorulez14> three infections: Community Acquired Pneumonia, Uncomplicated Cystitis, and Bacterial Meningitis in a 45 year old otherwise healthy adult. 
+17:56 < Mariorulez14> WELL, I HAVE NO IDEA
+18:01 < CommanderHurricane> >mfw i'm looking for WALL-E and i get redirected to porn
+18:01 < Darman213> wat
+18:01 < Darman213> .__________>
+18:01 < Darman213> :(
+18:01 < Darman213> no me gustaa
+18:02 < Mariorulez14> PFFFFFFFFFFTAHAHAHAHAHA
+18:03 < CommanderHurricane> ~Thorheim 4 minutes ago   
+18:03 < CommanderHurricane> oh wildflower mist whom split it in two, repair thou heavenly one.
+18:03 < CommanderHurricane> õ_ô
+18:04 < CommanderHurricane> i just got that as a reply notification on dA
+18:04 < CommanderHurricane> http://thorheim.deviantart.com/art/Fond-Filly-Memories-285076639
+18:05 < Mariorulez14> Must be one of the philosophical types
+18:07 < CommanderHurricane> [removed]: I figured that you would go with your hobby and learn more coding.
+18:07 < CommanderHurricane> neko2k: perhaps
+18:07 < CommanderHurricane> [removed]: my brother had planned to, but he wasn't <strong> enough. hehe
+18:14 < Azurite> <laptopsandwiches> Oh god why do I have to reinstall Windows Live every time I play GTA4? :(
+18:14 < Azurite> lolwat
+18:14  * CommanderHurricane PONIES: s01e26 The Best Night Ever (720p)
+18:15 < Azurite> ^that sounds like a porno
+18:17 -!- Tandy|E5400 [Tandyman10@91BB0B58.E4CD60BA.6A761AA4.IP] has quit [Ping timeout]
+18:20 < Mariorulez14> <Azurite> <laptopsandwiches> Oh god why do I have to reinstall Windows Live every time I play GTA4? :(
+18:21 < Mariorulez14> >GTAIV on Windows Live
+18:21 < Mariorulez14> >not on Steam
+18:21 < Mariorulez14> Slap him for me please
+18:22 < CommanderHurricane> >Windows Live
+18:30 < Mariorulez14> I remember watching Criken play Arkham City over Windows Live
+18:30 < Mariorulez14> He eventually said "screw it" because it lagged so bad, then proceeded to buy it on Steam
+18:30 < Mariorulez14> And continued the stream from there
+18:31 < Mariorulez14> Oh yeah, and it crashed like 3 times
+18:44 < CommanderHurricane> Azurite: http://huussii.deviantart.com/art/MLP-Night-of-the-age-287115124
+18:57 < Mariorulez14> "That's the greatest weapon on the face of the Earth...styrofoam packaging chips!" -Deadpool
+18:57 < Mariorulez14> And this, gentlemen, is why Deadpool is the best hero in all of comic book history
+18:58 < CommanderHurricane> and deadpool would be right
+19:04 < Mariorulez14> Woo, Circle Chase arc finished
+19:05 < Mariorulez14> I can get a good character analysis in on Deadpool from just 4 comics :D
+19:15 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: Gone, Like Frank Sinatra...]
+19:19 < Azurite> lol
+19:19 < Azurite> yeah
+19:19 < Compgeke> hi
+19:24 < CommanderHurricane> hi
+19:25 < Compgeke> just got one of the best burritos ever
+19:27 < Mariorulez14> So yeah, we could start this whenever
+19:27 < Mariorulez14> FIRST RULE: The crossover MUST CONTAIN JUGGERNAUT
+19:28 < Mariorulez14> RULE 1a. Juggernaut MUST say "IT'S THE JUGGERNAUT, BITCH" at least once
+19:36  * CommanderHurricane np: H8_Seed - Manticore (160kbps)
+19:37 < Compgeke> I wish my computer used DDR3 ram...that stuff is cheap
+19:40 < Mariorulez14> Azurite, are you getting this?
+19:46 < CommanderHurricane> Mariorulez14: http://www.youtube.com/watch?v=CYAbRKMR2yE&feature=related
+19:46 < Mariorulez14> I can already tell this is going to be good
+19:47 < Mariorulez14> There is most definitely a God out there if someone can make something this glorious
+19:48 < Mariorulez14> I love how the main part is from where Deadpool yells "I'M ALIIIIIIIVE!" prior to getting Hulk-stomped
+19:49 < Mariorulez14> Speaking of, found a recorded stream of it through Google and I'm not sure if I should watch
+19:52 < Mariorulez14> >hulk tries to jump on wolverine
+19:52 < Mariorulez14> >first thing i do is find the L4D2 Tank theme on my computer and play it
+19:57 < CommanderHurricane> http://goput.it/rlg.png
+19:58 < Compgeke> 1920x1080 D:
+20:00 < CommanderHurricane> give me a 16:10 resolution
+20:00 < Compgeke> 1920x1200
+20:00 < Compgeke> 1680x1050
+20:00 < Compgeke> 1280x1024
+20:00 < CommanderHurricane> i'll go with 1200
+20:01 -!- Blazehoof [IceChat7@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+20:01 < Compgeke> 3840×2400
+20:01 < Compgeke> 3840×2400 <-- resolution of the IBM T221
+20:02 < Mariorulez14> OVERRIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIIDE
+20:02 < Mariorulez14> http://www.youtube.com/watch?v=ot-0-KyPd0Y
+20:03 < CommanderHurricane> Compgeke: http://goput.it/ynh.png
+20:03 < Compgeke> :D
+20:26 < Mariorulez14> Finished Hulk vs. Wolverine
+20:26 < Mariorulez14> Oh man, Deadpool was hilarious
+20:26 < CommanderHurricane> http://v-invidia.deviantart.com/art/Here-you-go-Lyra-276664362
+20:28 < Mariorulez14> Bahahaha
+20:28 < Mariorulez14> I wonder how Lyra got such a fanbase
+20:30 < CommanderHurricane> for being a silly pony, sitting like a person
+20:30 < CommanderHurricane> http://images2.wikia.nocookie.net/__cb20110826185615/mlp/images/b/b6/Mint_green_pony_sitting_oddly_on_bench_S1E07.png
+20:31 < Mariorulez14> Lyra always wanted to be a person
+20:31 < Mariorulez14> Silly Lyra, you are a pony
+20:31 < Mariorulez14> Ponies are not people
+20:31 < Mariorulez14> You should feel silly for wanting to be a person when you are clearly a pony
+20:32 < Azurite> <tidux> so when they smell chocolate pudding
+20:32 < Azurite> <tidux> they go full cosby
+20:32 < Azurite> <tidux> like 
+20:32 < Azurite> <tidux> ?zippity
+20:32 < Azurite> <Macbot> ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP   ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP M N O P Q R S T U V W X Y Z # new favoritesLuca FrostLuca StoryLuca TurilliLuca'dLucacanaLucaceouslucadamo grapplelucafloLucageLucamaluca
+20:32 < Azurite> <tidux> ?zippity
+20:32 < Azurite> <Macbot>  ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP Macbot   ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY 
+20:33 < CommanderHurricane> ah, i love it when i have to correct mistakes on wallpaper
+20:35 < Mariorulez14> lol
+20:35 < Mariorulez14> Where is this
+20:35 < Mariorulez14> I need to experience the Cosby-ness
+20:35 < Azurite> it's a bot in #wtfpwnt
+20:35 < CommanderHurricane> it was just one small white line
+20:35 < CommanderHurricane> probably only about 4x1px
+20:36 < Mariorulez14> I want to experience it
+20:36 < CommanderHurricane> but when you see it, you can't stop noticing it
+20:36 < Mariorulez14> Kind of like boobies for the first time?
+20:36 -!- Mariorulez14 was kicked from #retrobox by CommanderHurricane [shut up]
+20:36 < Azurite> not really
+20:36 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+20:36 < Mariorulez14> lol
+20:36 < Azurite> more like dongs the first time.
+20:36 < Azurite> more like dongs the first time.
+20:36 -!- Azurite was kicked from #retrobox by CommanderHurricane [you shut up too]
+20:36 -!- Azurite [Tandy_7540@91BB0B58.E4CD60BA.6A761AA4.IP] has joined #retrobox
+20:37 < Azurite> WADDAYA WUNNA PLAY?
+20:37 < Azurite> POKEMAN!
+20:37 < Azurite> POKEMAN?
+20:37 < CommanderHurricane> no i want to play the game
+20:37 < Azurite> YA SEE THE KIDS
+20:37 < Mariorulez14> I want to play a CHILDREN'S CARD GAME
+20:37 < Azurite> THEY LISTEN TO THE RAP MUSIC
+20:37 < Mariorulez14> ON MOTORCYCLES
+20:37 < Azurite> WHICH GIVES THEM THE BRAIN DAMAGE
+20:37 < Mariorulez14> You heard me...
+20:37 < Azurite> HUE HUE HUE
+20:37 -!- Mariorulez14 is now known as Yusei
+20:37 < Yusei> Card games on motorcycles.
+20:37 -!- Yusei is now known as Mariorulez14
+20:37 < Azurite> >noone gets the family guy bill cosby reference
+20:37 < Azurite> >mfw
+20:37 < Mariorulez14> It's the Simpsons, dickmunch
+20:38 < Mariorulez14> At least most of it is
+20:38 < Azurite> it's from both iirc
+20:38 < Mariorulez14> Only like 1/10 came from Family Guy
+20:38 < Mariorulez14> The rest was from the Simpsons
+20:38 < Mariorulez14> 8:37 PM - Mariorulez14: Tandy thinks most of the cosby rap came from Family Guy when it was from the Simpsons
+20:38 < Mariorulez14> 8:38 PM - Sugarhigh: ...
+20:38 < Mariorulez14> 8:38 PM - Sugarhigh: GONNA SLAP A HO
+20:39 < Mariorulez14> inb4 he comes in here and slaps Tandy
+20:39 < Azurite> http://www.youtube.com/watch?v=yP_gSte4BM
+20:40 < Azurite> I can not describe how hard I laughed at this
+20:40 < Azurite> http://www.youtube.com/watch?v=yP_gSte4BM
+20:40 < Azurite> I can not describe how hard I laughed at this
+20:40 < Azurite> http://www.youtube.com/watch?v=yP_gSte4BM
+20:40 < Azurite> I can not describe how hard I laughed at this
+20:40 < Azurite> it's from both iirc
+20:40 < Azurite> I can not describe how hard I laughed at this
+20:40 < CommanderHurricane> >malformed video ID
+20:40 < Mariorulez14> lol
+20:40 -!- Blazehoof [IceChat7@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: Copywight 2007 Elmer Fudd. All wights wesewved.]
+20:41 -!- mib_lub30z [4ae3f4df@undisclosed-D89BAD34.mibbit.com] has joined #retrobox
+20:41 < Azurite> oh
+20:41 < Azurite> dammit
+20:41 < Azurite> well
+20:41 -!- mib_lub30z [4ae3f4df@undisclosed-D89BAD34.mibbit.com] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+20:41 < Azurite> watch this while I grab the correct video ID
+20:41 < Azurite> http://www.youtube.com/watch?v=YCquSFmTezQ
+20:42 -!- Sugarhigh [18ffad3b@undisclosed-CA2A102C.mibbit.com] has joined #retrobox
+20:42 < Azurite> this is what I tried to post: http://www.youtube.com/watch?v=yP_gSte4BMk&feature=g-all-esi&context=G28c6987FAAAAAAAAAAA
+20:42 < Sugarhigh> Tandy
+20:42 < Sugarhigh> I am every variety of disappoint right now
+20:42 < Sugarhigh> http://www.youtube.com/watch?v=wPYW5_NuvTo
+20:42 < Sugarhigh> 0:22 and onward
+20:42 < Mariorulez14> HAH
+20:42 < Mariorulez14> HAHAH
+20:43 < Sugarhigh> And MARIO
+20:43 < Mariorulez14> What
+20:43 < Sugarhigh> YOU
+20:43 < Mariorulez14> I 
+20:43 < Sugarhigh> Nevermind, let's take this out back
+20:43 < Mariorulez14> wat
+20:43 < Mariorulez14> Aw shit
+20:44 < Sugarhigh> And with that
+20:44 < Sugarhigh> I take
+20:44 < Sugarhigh> My leave
+20:44  * Sugarhigh cape flutter
+20:44  * Mariorulez14 turns off the fan
+20:45 -!- Sugarhigh [18ffad3b@undisclosed-CA2A102C.mibbit.com] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+20:46 < CommanderHurricane> Microsoft Codename Code Name 2012, For Idiots Without Brains
+20:47 < Azurite> http://25.media.tumblr.com/tumblr_lzotd16cCu1r4jbdgo1_r1_500.png
+20:47 < Azurite> PUNNY
+20:47 < Azurite> http://25.media.tumblr.com/tumblr_lzotd16cCu1r4jbdgo1_r1_500.png
+20:47 < Azurite> PUNNY
+20:47 < Mariorulez14> 8:43 PM - Sugarhigh: I saw that tweat
+20:47 < Mariorulez14> 8:43 PM - Mariorulez14: "tweat"
+20:47 < Mariorulez14> 8:43 PM - Sugarhigh: You dirty Brony
+20:47 < Mariorulez14> 8:43 PM - Mariorulez14: wat
+20:47 < Mariorulez14> 8:43 PM - Mariorulez14: lol
+20:47 < Mariorulez14> 8:43 PM - Sugarhigh: *tweet
+20:47 < Mariorulez14> 8:43 PM - Mariorulez14: Hey, well at least you're not acting like Ryan
+20:47 < Mariorulez14> 8:43 PM - Sugarhigh: I am disappoint
+20:48 < Mariorulez14> 8:43 PM - Sugarhigh: Every kind of disappoint
+20:48 < Mariorulez14> 8:43 PM - Sugarhigh: And three new kinds
+20:48 < Mariorulez14> 8:43 PM - Mariorulez14: He acted like he was gonna get his dick cut off because he was around me
+20:48 < Mariorulez14> 8:43 PM - Sugarhigh: I CREATED THREE NEW KINDS OF DISAPPOINT
+20:48 < Mariorulez14> 8:44 PM - Sugarhigh: GET OUT OF MY SIGHT
+20:48 < Azurite> lolwut
+20:48 < Azurite> also
+20:48 < Azurite> FACK
+20:48 < Azurite> I broke Android
+20:48 < Azurite> ._.
+20:48 < Mariorulez14> HAH
+20:48 < Azurite> again
+20:48 < CommanderHurricane> is that a surprise
+20:48 < Azurite> lol
+20:48 < Azurite> god DAMN
+20:49 < Azurite> even Winmo doesn't break that easily
+20:49 < Azurite> ALL I DID WAS ACCIDENTALLY POP THE BATTERY OUT
+20:49 < CommanderHurricane> in case anyone is wondering, here's were Microsoft Codename Code Name 2012 comes from
+20:49 < CommanderHurricane> http://www.betaarchive.com/forum/viewtopic.php?p=285367#p285367
+20:49 < Mariorulez14> STOP BREAKING YOUR STUFF
+20:49 < Azurite> ...
+20:49 < CommanderHurricane> where*
+20:49 < Azurite> >implying this isn't extremely easily fixable
+20:50 < CommanderHurricane> inb4 you broke the bootloader
+20:50 < Mariorulez14> inb4 he tries to fix is and he breaks something else
+20:50 < CommanderHurricane> that happens to him all the time, or so I've heard
+20:50 < Azurite> oh hel
+20:50 < Azurite> hell
+20:50 < Azurite> five reboots and it's working
+20:50 < Azurite> :D
+20:51 < Mariorulez14> AND THEN IT EXPLODES
+20:51 < Azurite> linux was just throwing a wobbly
+20:51 < Azurite> on boot for some reason
+20:51 < Azurite> >boot screens
+20:51 < Azurite> fuckin' hate em
+20:51 < Mariorulez14> Uugh, boot screens
+20:51 < Mariorulez14> I hate the boot screen on my new MP3 player
+20:51 < CommanderHurricane> who needs boot screens when you can have a nice, verbose text screen
+20:51 < Mariorulez14> It's an eyesore
+20:52 < Azurite> CommanderHurricane: THAT
+20:52 <~RainbowDash> Flying. <3
+20:52 < Azurite> because I wanna know WHAT went wrong instead of "LOL TEH PROGRESS BAR STOPPED MOVIN :D"
+20:52 < Azurite> I wanna know WHERE it went wrong and WHERE it froze
+20:52 < Mariorulez14> Did you get that Dash?
+20:52 <~RainbowDash> Did I get what?
+20:53 < Mariorulez14> Friend that doesn't like ponies that didn't know I did now knows and apparently has known for like 3 months and didn't decide to let me know until know
+20:53 < Mariorulez14> *now
+20:53 < Mariorulez14> And now we're on the brink of completely destroying our friendship over a show for girls
+20:53 < Mariorulez14> And yet, he's taking it really well
+20:54 < Mariorulez14> I was expecting a Steam block for a day or so
+20:54 < Mariorulez14> Maybe a Pinkie-swear to slap my face at church tomorrow
+20:58 < Mariorulez14> Azurite
+20:58 < Mariorulez14> 8:57 PM - Sugarhigh: http://30.media.tumblr.com/tumblr_lz4xiaG5Yu1qbp2s9o1_500.jpg
+20:58 < Mariorulez14> 8:57 PM - Sugarhigh: ^Tandy
+20:58 < CommanderHurricane> http://www.youtube.com/user/linuxlove4004
+20:58 < Azurite> http://www.youtube.com/watch?v=iCutumrm4ms
+20:58 < Azurite> this guy is halarious
+20:59 < Compgeke> who thinks the Mac Pro would look AWESOME in black?
+20:59 < CommanderHurricane> it would
+20:59 < CommanderHurricane> and then apple would charge $1,000 extra for the black paint job
+20:59 < Compgeke> this black, http://i55.tinypic.com/eq7uq.jpg
+21:00 < Compgeke> the same black that Sansui used, chemical stained :D
+21:00 < Compgeke> I know
+21:00 < Compgeke> they would charge $1000 for Chemicals
+21:00 < Azurite> also that's the best amnesia map ever
+21:01 < Azurite> http://www.youtube.com/watch?v=iCutumrm4ms
+21:01 < Azurite> http://www.youtube.com/watch?v=iCutumrm4ms
+21:01 < Azurite> http://www.youtube.com/watch?v=iCutumrm4ms
+21:01 -!- Azurite was kicked from #retrobox by CommanderHurricane [Don't Spam!]
+21:01 < CommanderHurricane> ok i'm done with that
+21:01 -!- Azurite [Tandy_7540@91BB0B58.E4CD60BA.6A761AA4.IP] has joined #retrobox
+21:01 < Azurite> http://www.jeffrutan.com/modo/PowerMacRender-1a.jpg
+21:01 < Azurite> heck
+21:01 < Azurite> all of apple's stuff would look better in black
+21:01 < Compgeke> Google Sketchup is pretty awesome
+21:01 < Compgeke> for a free program
+21:01 < Azurite> yeah
+21:02 < CommanderHurricane> Azurite: and the only fully black product they've produced is some old Macbook
+21:02 < Azurite> I've seen that
+21:02 < Compgeke> and charged $100 more for a lesser speced system
+21:03 < Mariorulez14> I'm using a black computer
+21:04 < CommanderHurricane> my desktop is beige
+21:04 < CommanderHurricane> my thinkpad is black
+21:04 < CommanderHurricane> but
+21:04 < CommanderHurricane> that's about the only color option
+21:04 < CommanderHurricane> for a thinkpad
+21:04 < CommanderHurricane> you can get a red ThinkPad Edge
+21:04 < CommanderHurricane> but i think that's only if you buy the fingerprint magnet case and screen model
+21:05 < Mariorulez14> GO GO POWDER RANGEEEERS
+21:05 < Mariorulez14> MIGHTY MORPHINE POWER RANGERS
+21:05 < Mariorulez14> *POWDER
+21:05 < Compgeke> my computer is snow white\grey
+21:05 < Compgeke> silver*
+21:05 < Compgeke> with black drives
+21:06 < CommanderHurricane> Mariorulez14: http://www.youtube.com/watch?v=4FO9L9QVCpg
+21:06 < Compgeke> but THE SIDES ARE SNOW WHITE!
+21:07 < Azurite> that red thinkpad is sexy
+21:08 < Mariorulez14> OH
+21:08 < Mariorulez14> FUNNY STORY ABOUT THINKPADS
+21:08 < Mariorulez14> So apparently in our school district
+21:08 < Mariorulez14> Substitute teachers get computers that are stripped down more than the K12 laptops
+21:09 < Mariorulez14> Even to the point of Windows not seeing itself as a genuine copy
+21:09 -!- Azurite [Tandy_7540@91BB0B58.E4CD60BA.6A761AA4.IP] has quit [Ping timeout]
+21:09 < CommanderHurricane> hah
+21:09 < Compgeke> regarding illegal Windows...one sec
+21:10 < CommanderHurricane> http://www.koteshi.com/uploaded_images/fckgw-757345.jpg
+21:11 < Compgeke> that is the ultimate proof of software piracy lol
+21:12 < Compgeke> http://img51.imageshack.us/img51/8734/napalibrary30day.png <-- top blue arrow
+21:12 < Mariorulez14> 9:09 PM - Mariorulez14: Our sub on Friday was flipping her shit about it
+21:12 < Mariorulez14> 9:09 PM - Mariorulez14: Because she was the computer teacher
+21:12 < Mariorulez14> 9:09 PM - Sugarhigh: Looooool
+21:12 < Mariorulez14> 9:09 PM - Mariorulez14: She said to us:
+21:12 < Mariorulez14> 9:10 PM - Mariorulez14: "This is outrageous, stripping down Windows where it doesn't even think it's real"
+21:12 < Mariorulez14> 9:10 PM - Mariorulez14: "I need to slap Mr. Hutton (our principal) for this..."
+21:12 -!- Sugarhigh [18ffad3b@undisclosed-D89BAD34.mibbit.com] has joined #retrobox
+21:12 < Compgeke> lol
+21:12 < Sugarhigh> btw everyone
+21:12 < Sugarhigh> http://i40.photobucket.com/albums/e244/Taruta/AntiBrony.jpg
+21:12 < Sugarhigh> That is all
+21:13 < CommanderHurricane> lol
+21:13 < Compgeke> why does the image there say 30 days remaining on Activation? did they Anti-WPA it or something?
+21:13 -!- Sugarhigh [18ffad3b@undisclosed-D89BAD34.mibbit.com] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+21:13 < Mariorulez14> That's from his friend Taruta
+--- Log opened Sat Feb 25 21:14:02 2012
+21:14 -!- dissimulo|i7 [dissimulo@undisclosed-C2A3DF59.deafgeeksdns.com] has joined #retrobox
+21:14 -!- Irssi: #retrobox: Total of 8 nicks [0 ops, 0 halfops, 1 voices, 7 normal]
+21:14 -!- dissimulo|i7 [dissimulo@undisclosed-C2A3DF59.deafgeeksdns.com] has joined #retrobox
+21:14 -!- Irssi: Join to #retrobox was synced in 0 secs
+21:14 < Mariorulez14> Who is also furiously anti-brony
+21:14 < Mariorulez14> Who is also furiously anti-brony
+21:14 < dissimulo|i7> .__________.
+21:14 < dissimulo|i7> .__________.
+21:14 < dissimulo|i7> binki.
+21:14 < dissimulo|i7> binki.
+--- Log closed Sat Feb 25 21:14:35 2012
+21:14 -!- dissimulo|i7 [dissimulo@undisclosed-C2A3DF59.deafgeeksdns.com] has quit [Quit: Lost terminal]
+21:15 < `> where the fuck is binki anyway.
+21:15 < `> :P
+21:15 < `> he's never one when i'm on
+21:15 < Compgeke> Japan
+21:15 < `> *on
+21:15 < CommanderHurricane> `: let's ask The Medic
+21:15 -!- TheMedic [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+21:15 -!- TheMedic [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Client exited]
+21:16 -!- TheMedic [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+21:16 < TheMedic> I HAVE NO IDEA!
+21:16 -!- TheMedic [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Client exited]
+21:16 < CommanderHurricane> anyway
+21:19 -!- Azurite [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has joined #retrobox
+21:25 < Azurite> http://www.youtube.com/watch?v=MDx969khOOU&feature=channel
+21:25 < Azurite> ALL OF MY YES
+21:27 < Mariorulez14> Ooh
+21:28 < Mariorulez14> lol
+21:28 < Mariorulez14> William Shatner?
+21:30  * Mariorulez14 abandons watching this and goes back to Criken's stream
+21:43 < CommanderHurricane> anyone want a Windows 1.0 logo?
+21:44 < CommanderHurricane> http://goput.it/7a4.png
+21:44 < CommanderHurricane> i will try and get this in an svg tomorrow
+21:44 < CommanderHurricane> as well as tossing in rounded corners on the windows
+21:46 < `> http://omploader.org/vY3Zxag/Windows_1.0_logo.svg
+21:46 < `> been there, done that.
+21:46 < CommanderHurricane> heh
+21:46 < CommanderHurricane> `: you need to toss in an 8 at the end of the logo
+21:47 < CommanderHurricane> then you will have basically cloned Microsoft's new Windows logo
+21:47 < `> heh, i know.
+21:47 < Azurite> lol
+21:47 < `> and i'm not even the one who did that
+21:47 < `> i ripped it right off wikimedia
+21:47  * ` lides
+21:47 < CommanderHurricane> i see
+21:48 < `> }:A
+21:48 < Mariorulez14> Can I strikethrough
+21:48 < CommanderHurricane> noi
+21:48 < CommanderHurricane> no
+21:48 < `> strikethrough is teh tacky ghetto.
+21:49 < Mariorulez14> :/
+21:49 < CommanderHurricane> [removed]: nice. its got <style>.[removed]: Ah, puns. how they never fail me.
+21:49 < CommanderHurricane> neko2k: if(htmlLamePuns) { printf("lame puns are lame\n"); return 0; }
+21:49 < CommanderHurricane> [removed]: mehehe. well done.
+21:54 < Mariorulez14> lol
+21:55 < Mariorulez14> OK, so Criken's streaming with a cool guy named Industrial
+21:55 < Mariorulez14> Industrial's dog need to go out, so he gets up to go
+21:55 < Mariorulez14> Last thing he says into the mic? 
+21:55 < Mariorulez14> Screams "BUCKING GILDA"
+21:56 < Mariorulez14> Everyone starts laughing
+21:59 -!- RainbowDash is now known as RainbowDash|sleep
+22:00 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Quit: multicolored manes]
+22:05 < Mariorulez14> Bluh, tired
+22:05 < Mariorulez14> Gonna finish this issue of Deadpool and sleep
+22:05 < Mariorulez14> Night all
+22:05 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Quit: (Bye)]
+--- Day changed Sun Feb 26 2012
+02:14 < `> binki
+02:14 < `> are you around
+02:14 < `> yet?
+02:14 < Compgeke> nope
+02:14 < Compgeke> but I am
+02:15 < `> ._____________.
+02:15 < `> ok, but i'm getting stoned, though.
+02:15 < Compgeke> what time is it there?
+02:15 < `> fair warning.
+02:15 < Compgeke> 12:15 AM here
+02:15 < `> 0015
+02:15 < Compgeke> :D
+02:15 < Compgeke> same time :D
+02:15 < `> server's in DFW, though, so it says 0215
+02:15 < Compgeke> hmm
+02:15 < Compgeke> just torrented some stuff on Linux
+02:16 < Compgeke> copied it to Windows
+02:16 < Compgeke> and it had a virus xD
+02:16 < Compgeke> I should stop torrenting on Linux
+02:16 < `> lol no
+02:16 < `> torrent it on linux
+02:16 < `> run everything through clamav
+02:16 < Compgeke> hmm...good idea
+02:16 < `> that way
+02:17 < `> nothing touches your windows machines without a onceover by an antivirus engine
+02:17 < `> :P
+02:17 < Compgeke> I get rid of everything
+02:17  * Compgeke waits for a Linux virus
+02:17 < `> lols.
+02:17 < Compgeke> although the linux comminuty is smart enough to write a fix to whatever virus someone may right before it really affects anyone
+02:17 < `> clamav scans for everything
+02:18 < `> win AND linux
+02:18 < `> and you're right
+02:18 < `> patches are near-instant on linux
+02:18 < `> but windows? months to years.
+02:18 < `> which is bullshit.
+02:18 < Compgeke> there are like 10 updates a day on Linux, which makes me feel better that there are fixes to problems
+02:18 < Compgeke> not "you have a problem, go phuck off"
+02:18 < `> exactly.
+02:19 < Compgeke> the cat is shedding D:
+02:19 < Compgeke> and my enterkey isn't working right D:
+02:19 < Compgeke> have any cats?
+02:20 < `> http://goo.gl/EmkxT
+02:20 < Compgeke> :D
+02:20 < Compgeke> no camera here...
+02:20 < `> :P
+02:21 < `> the canon strap that's otensibly in the picture
+02:21 < `> actually belongs to my Rebel SLR
+02:21 < `> :P
+02:21 < Compgeke> I do have a camera...
+02:21 < Compgeke> it's also an SLR (not D-SLR)
+02:21 < `> yeah
+02:21 < `> you told me at one time
+02:21 < `> a canon film SLR
+02:21 < Compgeke> Canon Rebel EOS 2000, 35mm, with an 80-200 crap lens
+02:22 < `> yeah, i remember
+02:22 < Compgeke> I'm using all the cheap ISO800 film I got at a yardsale lol
+02:22 < `> EOS Digital Rebel XSi
+02:22 < Compgeke> D:
+02:22 < Compgeke> I want a digita
+02:22 < Compgeke> digital*
+02:22 < `> this one uses SD cards
+02:22 < Compgeke> as I would be able to see what I take lol
+02:22 < Compgeke> film is expensive to develop
+02:22 < Compgeke> so I just throw the film in a box when I'm done
+02:24 < `> heh
+02:24 < `> i would actually love a film camera
+02:24 < `> but definitely not SLR
+02:25 < `> a oldie, probably
+02:25 < `> to give it that '60s-'70s look
+02:25 < `> hell, 50s-70s
+02:25 < Compgeke> lol
+02:25 < Compgeke> I want my mom's old SLR
+02:25 < Compgeke> it's an old Minolta XG-1
+02:26 < Compgeke> with a 30-300mm Macro lens...not sure what you would be doing with macro that you need the distance of 300mm though lol
+02:26 < Compgeke> that's a good distance away
+02:26 < Compgeke> zooming 400 feet?
+02:28 < `> heh
+02:28 < Compgeke> however, it has a scratched mirror :(
+02:28 < `> oh, ouch!
+02:28 < `> those are expensive to replace
+02:28 < Compgeke> yeah, where do you get those fixed anyways?
+02:28 < `> specialty camera shops if the manufacturer wont do it
+02:29 < Compgeke> I also have just what you want, a Yashica MG-1?
+02:29 < Compgeke> yeah, a MG-1
+02:29 < Compgeke> perfect example of 70s 
+02:29 < Compgeke> so...japanese
+02:29 < `> oh god
+02:29 < `> i want that
+02:29 < Compgeke> http://spb.fotolog.com/photo/43/54/57/mehibi/1244646403740_f.jpg
+02:29 < `> NO BATTERIES REQUIRED
+02:30 < Compgeke> it does actually
+02:30 < `> unless you used the CdS metering
+02:30 < `> otherwise, nope.
+02:30 < Compgeke> but not for the shutter
+02:30 < Compgeke> only for over\under exposure lights
+02:30 < `> like i said, CdS metering
+02:30 < `> :)
+02:30 < Compgeke> my mom has a lot of cameras
+02:30 < `> http://camerapedia.wikia.com/wiki/CdS
+02:30 < Compgeke> I have my Rebel, that's about it
+02:31 < `> but yeah, i'd love to get my hands on one of those. :P
+02:31 < Compgeke> some broken Canon digital Po\a)S (Piece of Shit and Point and Shoot)
+02:31 < `> heh
+02:32 < Compgeke> not sure where my mom get her stuff
+02:32 < `> i have a broken SD200
+02:32 < Compgeke> mine is...I really don't remember
+02:32 < `> a Canon POS, that is.
+02:32 < Compgeke> it's a 3 MP
+02:32 < Compgeke> takes CF cards
+02:32 < `> http://camerapedia.wikia.com/wiki/Yashica_MG-1
+02:32 < `> looks nifty.
+02:32 < Compgeke> the CCD has a loose cable
+02:34 < Compgeke> http://img23.imageshack.us/img23/719/dsc00091ii.jpg
+02:35 < Compgeke> the 70s looking ones all need cleaned
+02:35 < Compgeke> a flood does wonders to a camera
+02:35 < Compgeke> the XG-1 is the bottom right one (love that one)
+02:35 < Compgeke> this was before I had a lens for the rebel
+02:36 < `> oh wow!
+02:36 < `> i'd love at least one of those minoltas
+02:36 < `> the older ones
+02:36 < Compgeke> lol
+02:36 < Compgeke> I can't do anything really
+02:36 < Compgeke> they're my moms
+02:36 < Compgeke> except the rebel
+02:36 < Compgeke> that's mine (and my only working camera)
+02:37 < Compgeke> wait, no
+02:37 < Compgeke> I have a Sony MiniDV camera
+02:37 < `> lol
+02:37 < Compgeke> takes crappy quality video, but at least is something
+02:37 < Compgeke> I used to have a Canon great MiniDV camera
+02:37 < Compgeke> I haven't seen that since my neighbor moved in (and he has been known to steal stuff)
+02:38 < Compgeke> I was going to buy a charger for it eventually...what the heck was the model?
+02:38 < `> what a bastard
+02:38 < Compgeke> if he did take it I hope he has fun
+02:38 < `> >move in
+02:38 < `> >known thief
+02:39 < Compgeke> the battery was completely shot, the previous owner had reversed the battery to try and get it to charge and fried the charger AND battery
+02:39 < `> >wtf are you thinking
+02:39 < Compgeke> he moved in after us
+02:39 < Compgeke> we're moving anyways...FINALLY
+02:39 < `> wait
+02:39 < `> whats this place?
+02:39 < `> a halfass townhome or something?
+02:39 < Compgeke> Napa, CA
+02:40 < Compgeke> everything is so freaking expensive here
+02:40 < Compgeke> and that particular house scares me
+02:40 < `> oh, "roommate"
+02:40 < `> is what you meant?
+02:40 < Compgeke> when we moved in they did a drug bust there D:
+02:40 < `> whoa.
+02:40 < Compgeke> it's our next door house
+02:40 < `> ah.
+02:40 < Compgeke> scared the shit out of us when you have the guns coming...
+02:40 < `> they busted your house, or?
+02:40 < Compgeke> no
+02:40 < Compgeke> asked if we knew where the people lived
+02:40 < Compgeke> and we knew they were selling drugs
+02:41 < Compgeke> not everyone gets 5 minte vistors at 3 AM
+02:41 < `> ooo
+02:41 < `> ok
+02:41 < Compgeke> and not everyone brought a whole car in on a truck
+02:41 < `> i had an literal FBI raid
+02:41 < Compgeke> and had it leave that night in parts
+02:41 < `> a few years ago
+02:41 < Compgeke> DEA is who I believe came
+02:42 < `> apparently a hacker lived at the townhome before I
+02:42 < Compgeke> LOL
+02:42 < `> now, me being a sysadmin
+02:42 < `> I HAD A HELL OF A TIME
+02:42 < Compgeke> made that a fun converstation
+02:42 < `> proving that I wasn't the dude
+02:42 < Compgeke> fun for me...
+02:42 < Compgeke> I own a lot of servers
+02:42 < Compgeke> real ones
+02:42 < `> and they were halfway through processing my shit as evidence
+02:43 < `> they were nice enough to help me put everything back, though
+02:43 < Compgeke> they could take what they wanted
+02:43 < `> right.
+02:43 < Compgeke> as long as they don't break the RAID arrays of the server
+02:43 < `> but they were all >mfw when they realized i was deaf
+02:43 < Compgeke> the Intel 4u took me 2 hours to construct, and I don't want to reconstruct that RAID5 array
+02:43 < Compgeke> LOL
+02:43 < `> THEN tried to prove my ID
+02:43 < `> etc
+02:43 < `> took almost all day
+02:43 < `> it sucked. lol
+02:43 < Compgeke> they were yelling at you I suppose?
+02:43 < `> no
+02:44 < `> i had a special lock on my door
+02:44 < Compgeke> hmm
+02:44 < `> my roomies were already cleared and moved downstairs
+02:44 < `> i was still passed out
+02:44 < Compgeke> hmm
+02:44 < `> so they jimmied my lock
+02:44 < `> got in
+02:44 < `> drew their weapons on me
+02:44 < `> so
+02:44 < Compgeke> they would have a fun time with my stuff
+02:44 < `> imagine waking up to THAT
+02:44 < Compgeke> I have a box of hard drives
+02:44 < `> i had a literal 9mm pistol in my face
+02:44 < `> when i turned over
+02:44 < Compgeke> xD
+02:45 < `> woke me up right quick
+02:45 < `> :D
+02:45 < `> but yeah
+02:45 < Compgeke> I don't think you can get in my room right now
+02:45 < `> lol why not
+02:45 < Compgeke> I have a pile of towers in the doorway right now
+02:45 < Compgeke> cleaning up to pack, so had to put them somewhere
+02:45 < `> hah
+02:45 < Compgeke> you can try the window, but you'll fall on the heater or a 4' drop to the floor
+02:46 < Compgeke> depending on the window you choose
+02:47 < `> lols
+02:48 < Compgeke> if you try and steal my desktop, hope you can run with it
+02:48 < Compgeke> it weighs close to 50 Lbs
+02:49 < Compgeke> ahh, Canon Ultura is what I used to have
+02:49 < `> heh
+02:49 < `> i'd probably part it out
+02:50 < `> as in grab anything that's worth anything
+02:50 < Compgeke> lol
+02:50 < `> RAM, etc
+02:50 < Compgeke> steal the 750 gig hard drive, video card (radeon 9800 GTX+), TV Tuner, Audigy 2 ZS?
+02:50 < Compgeke> GeFOrce*
+02:50 < Compgeke> damn, why do I keep calling it a Radeon?
+02:50 < Compgeke> a radeon 9800 would SUCK
+02:54 < Compgeke> stealing my ram is useless really
+02:54 < Compgeke> it's only 2x 1 GB and 2x 512 MB
+02:54 < Compgeke> but I'm off to bed, night!
+02:54 < Compgeke> (more like morning(
+02:54 < Compgeke> )*
+02:55 < `> lol night
+07:35 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+07:35 -!- CommanderHurricane changed the topic of #retrobox to: [..RETRONET..], have a fancy you advantageous daytime! | WINDOWS 8 CONSUMER PREVIEW (AKA BETA) LAUNCHES AT 8AM CENTRAL STANDARD IN 3 DAYS | also, furries
+07:35 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Connection reset by peer]
+07:37 -!- FloodCtrl [FloodCtrl@undisclosed-981307ED] has joined #retrobox
+07:37 -!- mode/#retrobox [+ao FloodCtrl FloodCtrl] by FloodCtrl
+07:37 -!- FloodCtrl [FloodCtrl@undisclosed-981307ED] has quit [Quit: ]
+08:42 -!- RainbowDash|sleep is now known as RainbowDash
+08:44 < Azurite> <Compgeke> just torrented some stuff on Linux
+08:44 < Azurite> <Compgeke> copied it to Windows
+08:44 < Azurite> <Compgeke> and it had a virus xD
+08:44 < Azurite> <Compgeke> I should stop torrenting on Linux
+08:44 < Azurite> how is it everyone but me gets malware when they torrent?
+08:44 < Azurite> Some of my friends have complained, but it always ended up just being a false positive from the keygen/crack
+08:49 <+binki> `: I said, siblings weekend at my college which means I'm almost actually living in the real world instead of in front of my computer
+08:49 <+binki> tonight I'll be back
+08:49  * binki poofsoff with family to chuyrchish
+08:52 < Azurite> <`> now, me being a sysadmin
+08:52 < Azurite> <`> I HAD A HELL OF A TIME
+08:52 < Azurite> <Compgeke> made that a fun converstation
+08:52 < Azurite> <`> proving that I wasn't the dude
+08:52 < Azurite> how did you end up getting out of that?
+12:22 < Azurite> http://static.fjcdn.com/pictures/OH+GOD+.+SOURCE+http+ponibooru.413chan.net+post+view+102074+search+userid+3D3292_3bfce1_3374011.jpg
+12:22 < Azurite> LOLWUT
+13:09 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has joined #retrobox
+13:14 < Azurite> .o/
+13:14 < Azurite> http://static.fjcdn.com/pictures/OH+GOD+.+SOURCE+http+ponibooru.413chan.net+post+view+102074+search+userid+3D3292_3bfce1_3374011.jpg
+13:14 < Compgeke> morning all
+13:15 < Azurite> probably NSFW, btw
+13:15 < CommanderHurricane> uh, yeah.
+13:15 < Azurite> :P
+13:16 < Azurite> still lulzy tho
+13:16 < Azurite> >twilight schlicking and spike is liek "OMFG R U OK TWILOIT?!"
+13:17 < Azurite> also
+13:17 < Azurite> >WHAT IS THIS UNKNOWN SUBSTANCE ON HER HANDS!
+13:17 < Azurite> >BETTER STICK IT IN MY MOUTH!
+13:17 < Azurite> also you are now thinking about Twilight Sparkle sexually.
+13:25 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+13:25 < Darman213> I just about Died Laughing
+13:26 < Darman213> http://goput.it/n6r.png
+13:26 < Darman213> Kelucia and I on facebook
+13:26 < Compgeke> hmm
+13:30 < Darman213> Azurite, 
+13:30 < Darman213> Azurite,  http://goput.it/n6r.png
+13:30 < Darman213> Azurite,  http://goput.it/n6r.png
+13:30 < Darman213> Azurite,  http://goput.it/n6r.png
+13:30 < Darman213> Azurite,  http://goput.it/n6r.png
+13:30 < CommanderHurricane> darman213: http://widget.mibbit.com/?settings=cf7f986d587c86595b7b9a5f442fd3ca&server=devnull.doesntexist.com&channel=%23Retrobox
+13:30 < CommanderHurricane> link that to Kelucia
+13:31 -!- Kel [479eda5c@undisclosed-CA2A102C.mibbit.com] has joined #retrobox
+13:31 < Darman213> linked
+13:31 < Darman213> inafter
+13:31 < Darman213> :D
+13:31 < CommanderHurricane> :D
+13:31 < Darman213> Azurite,  http://goput.it/n6r.png
+13:31 < Darman213> Azurite,  http://goput.it/n6r.png
+13:31 < Darman213> Azurite,  http://goput.it/n6r.png
+13:31 < Darman213> Azurite,  http://goput.it/n6r.png
+13:31 < Darman213> Azurite,  http://goput.it/n6r.png
+13:31 < Kel> a wild KEL appears!
+13:31 < CommanderHurricane> Go! ChanServ!
+13:32 < Darman213> ?
+13:32 < Darman213> oh I get it
+13:32 < Darman213> xD
+13:32 < Compgeke> http://www.youtube.com/watch?v=P8P4GnzZX9c <-- heard that on the Radio...AWESOME!
+13:32 < Compgeke> so awesome I illegally download it as MP3 using a Youtube video downloader
+13:33 < Kel> aww yeah, illegal downloads. :D
+13:33 < Darman213> http://evilnickel.com/wp-content/uploads/2011/11/badass21-e1320629219132.jpg
+13:33 < Kel> LOL
+13:33 < CommanderHurricane> COOL QUALITY BRO
+13:33 < Kel> LOL AGAIN
+13:34 < Compgeke> that song makes me want to buy this: http://www.amazon.com/Wall-Immersion-Box-Set/dp/B004ZNAXX2
+13:35 < Darman213> I don' care for Pink floyd much. Idk, as far as classic rock goes, I like Beatles, Elvis, queen....
+13:35 < Darman213> the big bopper
+13:35 < Compgeke> I love Pink Floyd
+13:35 < Kel> BOHEMIAN RHAPSODY GO
+13:35 < Darman213> aaand.... what's his face....
+13:35 < Kel> I'm just a poor boy,
+13:35 < Kel> I need no sympathy,
+13:35  * Compgeke hates Queen
+13:35 < CommanderHurricane> Kel: http://www.youtube.com/watch?v=Ht96HJ01SE4
+13:36 < Kel> WHAT
+13:36 < Kel> COMPGEKE. disowned.
+13:36 < Compgeke> awesome
+13:36 < Compgeke> I also don't care for Led Zepplin
+13:36 < Compgeke> Pink Floyd, Styx, Joe Satriani :D
+13:38 < Azurite> http://static.fjcdn.com/pictures/OH+GOD+.+SOURCE+http+ponibooru.413chan.net+post+view+102074+search+userid+3D3292_3bfce1_3374011.jpg
+13:38 < Azurite> nsfw
+13:38 < Azurite> but still funny
+13:39 < Darman213> Azurite,  http://goput.it/n6r.png
+13:39 < Azurite> OH
+13:39 < Azurite> KEL
+13:39 < Azurite> YOU'LL LIKE THIS
+13:39 < Azurite> http://static.fjcdn.com/pictures/OH+GOD+.+SOURCE+http+ponibooru.413chan.net+post+view+102074+search+userid+3D3292_3bfce1_3374011.jpg
+13:39 < Azurite> http://static.fjcdn.com/pictures/OH+GOD+.+SOURCE+http+ponibooru.413chan.net+post+view+102074+search+userid+3D3292_3bfce1_3374011.jpg
+13:39 < Azurite> http://static.fjcdn.com/pictures/OH+GOD+.+SOURCE+http+ponibooru.413chan.net+post+view+102074+search+userid+3D3292_3bfce1_3374011.jpg
+13:39  * Azurite runs like fuck
+13:39 < Azurite> Darman213 saw it, lol
+13:40 -!- Azurite was kicked from #retrobox by CommanderHurricane [YOU CAN RUN BUT YOU CAN'T HIDE]
+13:40 -!- Azurite [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has joined #retrobox
+13:40 < Azurite> lawl
+13:40 < Azurite> if you didn't click
+13:40 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+13:40 < Darman213> when you see it....
+13:40 < niner> hiya
+13:40 < Darman213> You'll shit bricks
+13:40 < Darman213> red ones.
+13:40 < Kel> ... it's not loading. SUCKS TO SUCK
+13:40 < Azurite> it's twilight schlicking, Spike runs it "OMFG R U POISONED? I HERD MOANING", grabs twi's hand, TASTES IT, and runs off to 'find a cure'
+13:40 < Azurite> >cure for schlicking
+13:40 < Azurite> lawl
+13:40 < Azurite> actually
+13:40 < Azurite> they're all humans
+13:40 < Azurite> it's friggin halarious
+13:41 < Compgeke> woot! installed After Effects CS4! How do I do anything with this?
+13:41 < Azurite> twilight's expression during the whole thing is just "OH GOD SPIKE WAT."
+13:41 < Kel> AHAHA JOKES ON YOU
+13:41 < Kel> CAUSE IT HASN"T LOADED
+13:41 < Kel> CAUSE I'M ON MY ANCIENT DESKTOP
+13:41 < Kel> AND IT'S NOT LOADING
+13:41 < Azurite> Compgeke FIRST, UNINSTALL AFTER EFFECTS CS4 TO PURGE YOURSELF OF THE UNWHOLESOME ADOBE BULLCRAP
+13:41 < Azurite> Kel: GAY
+13:41 < Kel> SO I CAN'T SEE IT
+13:41 < Kel> HAHAHAHAHAHA
+13:41 < Azurite> it's a halarious comic
+13:41 < Azurite> ._.
+13:41 < Compgeke> get rid of Photoshop and Illustrator also?
+13:41 < niner> ?_?
+13:41 <~RainbowDash> You people are so crazy.
+13:42 < Compgeke> yes I am
+13:42 < niner> that's our job right?
+13:42 < Azurite> Am I addicted to MLP?
+13:42 < Azurite>  my phone wallpaper is a humanized Luna, all my computers have pony wallpapers except this one, they all have pony hostnames, and my username on all of them is the name of an OC pony that represents an equine version of myself. I have every single episode downloaded, I've spend 3 hours making a PMV before, and I have a Pinkie Pie pillow and a set of Mane 6 cutie mark shirts.
+13:42 < Compgeke> my wallpaper is "Blown Away", the image used my Maxell in their ads
+13:43 < niner> jake you need to stop it with the ponies for a while
+13:43 < CommanderHurricane> my wallpaper is http://goput.it/rlg.png
+13:43 < CommanderHurricane> on my laptop.
+13:43 < Azurite> niner nope
+13:43 < Compgeke> my laptop is "Dark Side of the Nacho"
+13:46 < Azurite> lol
+13:46 < Azurite> oh also
+13:46 < Azurite> http://goput.it/t8u.png
+13:47 < niner> THAT IS WIN
+13:47 < Azurite> YUP
+13:51 < Azurite> http://www.youtube.com/watch?v=NeALwijm09c
+13:51 < Azurite> this is amazing
+14:03 < Darman213> <Azurite> http://www.youtube.com/watch?v=NeALwijm09c
+14:03 < Darman213> I love amnesia custom stories
+14:03 < Darman213> :D
+14:03 < Azurite> yup
+14:03 < Azurite> also
+14:03 < Darman213> If somebody wants to buy amnesia for me
+14:03 < Azurite> I think I just weirded Kel into ragequitting
+14:03 < Azurite> xD
+14:03 < Darman213> I will do what this man does
+14:03 < CommanderHurricane> i'm wearing a blue dress shirt and tan khaki pants
+14:04 < CommanderHurricane> I FEEL LIKE STEVE BALLMER RIGHT NOW
+14:06 < Kel> <Azurite>	I think I just weirded Kel into ragequitting
+14:06 < Kel> YES.
+14:07 < Darman213> http://www.youtube.com/watch?feature=player_detailpage&v=K8OXj60Nv9I
+14:10 < niner> and then there was this for no absolute reason:http://www.youtube.com/watch?feature=player_embedded&v=Cgzyeg3H83s
+14:11  * CommanderHurricane PONIES: s01e13 Fall Weather Friends
+14:11 < CommanderHurricane> wekk that didn't work
+14:11 < CommanderHurricane> well*
+14:11 < Kel> hufff. I'm having a bad day, I'm gonna go drink- I mean sleep. bai.
+14:11 < CommanderHurricane> Kel, has Tandy been 
+14:11 < CommanderHurricane> talking to you about getting drunk?
+14:12 < Kel> no, he's been talking about schlicking... o3o
+14:12 < Kel> which hasn't helped my day at all, but it's not why
+14:13 < Azurite> lol
+14:13 < Azurite> ._.
+14:13 -!- Kel [479eda5c@undisclosed-CA2A102C.mibbit.com] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+14:14 < Darman213> ._.
+14:14 < Darman213> walp
+14:14 < Darman213> ....
+14:15 < CommanderHurricane> <Rainbow Dash> You're not an athlete, you're... well... an egghead!
+14:15 < Azurite> heh
+14:15 < Azurite> <Azurite> ?zippity
+14:15 < Azurite> <Macbot>  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BO OP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP Macbot   ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP Macbot   stupid  stupid  stupid
+14:16 < Azurite> <Azurite> ?dongus
+14:16 < Azurite> <Macbot> bitch you won't send me to auschwitz, i have a degree in genetic factors, can influence disease prevalence
+14:16 < Azurite> <Macbot> Ecircuit:  ed:  faye:  DONGUS  DONGUS  DONGUS  ?SomMa DAY PIZZA BUYHYIN  SOMMA Dat PizZa CruSt Up yo NoSe NiggUh[A  GoNa Put SomMa Dat PizZa at 0:12
+14:16 < Azurite> <tidux> ?ZOOP
+14:16 < Azurite> <Sudos|X120e> ?DCC SEND 
+14:16 < Azurite> <Macbot> ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP  ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP 
+14:16 < Azurite> <Macbot> Stop abusing me!
+14:16 < Darman213> Azurite, http://www.youtube.com/watch?feature=player_detailpage&v=K8OXj60Nv9I
+14:16 < Azurite> > bitch you won't send me to auschwitz, i have a degree in genetic factors, can influence disease prevalence
+14:17 -!- Compgeke|Laptop [Compgeke@undisclosed-266FF226.dsl.pltn13.sbcglobal.net] has joined #retrobox
+14:17 < Compgeke|Laptop> hi
+14:17 < Azurite> <Sudos|X120e> ?ZOOP
+14:17 < Azurite> <Macbot> Macbot: ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP zoop zoop zoop zoop zoop z
+14:17 < Azurite> <Sudos|X120e> ?ZOOP
+14:17 < Azurite> <Macbot>  ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop zoop
+14:17 < Azurite> <Sudos|X120e> ?ZOOP
+14:17 < Azurite> <Macbot>  Macbot ZOOP BEEP BOOP  ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  TOX slap me up with operator status pal  TOX slap me correct wire was: YELLOW [242] - (15 seconds till next level in 0 days, 15:32:48
+14:17 < Azurite> <Sudos|X120e> ?ZOOP
+14:17 < Azurite> <Macbot> ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP zoop zoop ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP ZOOP
+14:17 < Azurite> <Sudos|X120e> ?ZOOP
+14:17 < Azurite> <Macbot> Oh hey sure is zoop in here
+14:17 < niner> huzzah the compgeke has been doubled
+14:17 < Compgeke|Laptop> what the heck is  ?
+14:17 < Azurite> i dunno
+14:17 < Compgeke|Laptop> I just see a box meaning I lack a proper charactor
+14:17 < Azurite> it's a left arrow for some reason
+14:18 < Compgeke|Laptop> AND THIS IS LINUX! IT HAS EVERY CHARACTOR
+14:18 < Azurite> O_o
+14:18 < CommanderHurricane> >not using utf-8 encoding
+14:18 < Azurite> ^
+14:18 < Compgeke|Laptop> hmm
+14:18 < Compgeke|Laptop> I've yet to find anything except that I can't display
+14:21 < Azurite> interesting
+14:25 < CommanderHurricane> http://drjhordan.deviantart.com/art/Twilight-Sparkle-Human-Version-287331932
+14:26 -!- Compgeke|Laptop [Compgeke@undisclosed-266FF226.dsl.pltn13.sbcglobal.net] has quit [Quit: Leaving]
+14:26 < Azurite> >sweater and tights
+14:26 < Azurite> interesting choice of clothes
+14:27 < niner> oh my goodness it's a non-perverted and rather acurrate depiction of a human twilight sparkle I'm impressed
+14:27 < Azurite> bahaha
+14:27 < Azurite> no
+14:27 < Azurite> it's perverted
+14:27 < Azurite> again
+14:27 < Azurite> look at her choice of clothes
+14:27 < Azurite> >datass
+14:27 < niner> ...........so close
+14:27 < Azurite> picture = ruined
+14:28  * CommanderHurricane PONIES: e01e06 Boast Busters
+14:28 < CommanderHurricane> lol trixie=
+14:28 < Azurite> are you watching the whole first season?
+14:28 < CommanderHurricane> i did a few days before Season 2 aired
+14:29 < CommanderHurricane> watched all of season one in 720p
+14:30 < Azurite> I need to download it in 720p
+14:30 < Azurite> maybe tonight
+14:30 < Azurite> is there a torrent with the whole first season in 720p?
+14:30 < Azurite> I can do the second season individually
+14:30 < CommanderHurricane> there was a torrent on pony archive
+14:30 < CommanderHurricane> but then they got former takedown notice'd
+14:30 < Azurite> lol
+14:31 < Azurite> oh god
+14:31 < Azurite> it's 20gb
+14:31 < Azurite> .____>
+14:32 < CommanderHurricane> i downloaded all of s01 from pony archive
+14:32 < CommanderHurricane> but
+14:32 < CommanderHurricane> it wasn't a 720p torrent
+14:32 < CommanderHurricane> so it was only like 5GB
+14:33 < Azurite> yeah
+14:33 < Azurite> I have all of the episodes in standard def
+14:34 < CommanderHurricane> i have all of season 2 in 720p
+14:34 < CommanderHurricane> though some of them are youtube rips
+14:36 < Azurite> ewtube
+14:36 < Azurite> ...why is android being so fast all of a sudden
+14:36 < CommanderHurricane> >Android
+14:36 < CommanderHurricane> >fast
+14:36 < CommanderHurricane> what is this i don't even
+14:36 < Azurite> You know something's wrong when you're suprised and a little suspicious when your phone starts working normally
+14:36 < Darman213> lol
+14:37 < Azurite> WACHU LAFFIN AT?
+14:37 < Darman213> NUTTIN FOOL
+14:37 < CommanderHurricane> YOUR FACE! *Slams bucket on your head*
+14:37 < Darman213> ^
+14:37 < Darman213> I have 2 boxes full of nerds...
+14:37 < CommanderHurricane> <Snails> Ohoho, I like pudding.
+14:38 < Darman213> and one that I've finished
+14:38 < Darman213> Suuugaaaar
+14:38 < Darman213> Oh
+14:38 < Darman213> Azurite, 
+14:38 < Darman213> Is our server offline or online?
+14:38 < Darman213> minecraft
+14:41 < Azurite> online
+14:41 < Azurite> I think
+14:41 < Azurite> I dunno
+14:41 < Darman213> mk
+14:41 < CommanderHurricane> <Snails> Stop goofin' around and vanquish it, eh?
+14:41 < Azurite> check yourself? :P
+14:42 < Darman213> I'm designing the staircase in the library
+14:42 < Darman213> and I don't know where my crack installer went
+14:42 < Darman213> xD
+14:43 -!- Compgeke|D820 [Compgeke@undisclosed-266FF226.dsl.pltn13.sbcglobal.net] has joined #retrobox
+14:43 < Compgeke|D820> hmm
+14:43 < Compgeke|D820> Illustrator sucks on Windows
+14:43 < Azurite> Darman213 crack installer?
+14:43 < Azurite> oh
+14:43 < Azurite> OH
+14:43 < Azurite> online mode
+14:43 < Azurite> yeah
+14:44 < Azurite> it's online mode
+14:44 < Darman213> ok
+14:44 < Darman213> :p
+14:44 < Compgeke|D820> even more on WINDOWS and TRACKPAD
+14:44 < Azurite> lololololol
+14:44 < CommanderHurricane> >trackpads
+14:46 < Compgeke|D820> I hate this
+14:47 < Compgeke|D820> trying to use the pen tool on a track pad :/
+14:47 < Azurite> holy crap
+14:47 < Azurite> the instructions for this lab SUCK
+14:47 < Azurite> it took me 30 minutes to figure out what I'm supposed to do for this part
+14:48 < CommanderHurricane> do until CONFUSED = TRUE
+14:48 < Darman213> Then don't ever take physics.
+14:48 < Darman213> you will be so lost.
+14:50 < Compgeke|D820> hmm
+14:53 < Darman213> oh bother
+14:53 < Darman213> I forget how to build chairs and stuff in minecraft... what they look like
+14:54 < CommanderHurricane> stairs and two signs
+14:55 < Darman213> Danka
+14:59 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+14:59 < Mariorulez14> Oh wow, that's a lot of people
+15:00 < Mariorulez14> Hello everyone
+15:00 < Darman213> .o/
+15:00 < Darman213> I'm finishing the library
+15:00 < Mariorulez14> Darma213, have you started Act 4 yet?
+15:00 < Mariorulez14> *Darman213
+15:00 < Darman213> there's a cafe before you get to the enchanting room
+15:00 < Darman213> No
+15:00 < Darman213> and I don't know that I will
+15:00 < Darman213> xD
+15:00 < Mariorulez14> Sugarhigh's getting antsy about you getting to the trolls
+15:01 < Mariorulez14> And it turns out he's mostly fine with me being a brony :P
+15:01 < Mariorulez14> He still wants no part in it
+15:01 < CommanderHurricane> Tandyman on the other hand...
+15:01 < Azurite> hi Mariorulez14
+15:01 < Mariorulez14> Hi Azurite
+15:02 < Mariorulez14> Turns out that whole little ourburst I c/p'd in here last night was a slight joke
+15:02 < Mariorulez14> And we laughed about it today
+15:03 < Darman213> xD
+15:03 < CommanderHurricane> so ever since derpy's new voice was released, there's been another explosion of derpy art
+15:03 < Darman213> oh yeah?
+15:03 < Mariorulez14> I miss her old voice
+15:03 < Mariorulez14> :(
+15:03 < CommanderHurricane> Darman213: yeah
+15:03 < Azurite> Mariorulez14
+15:03 < Azurite> I need help with chemistry lab
+15:03 < Mariorulez14> Hah
+15:03 < Darman213> I kinda like the new derpy voice. I thought the old voice was really part of the outbreak against retardedness
+15:03 < Azurite> the ideal gas laws one
+15:03 < Darman213> but at the same time
+15:03 < Azurite> ._.
+15:04 < Darman213> It does reflect badly on the show's editors
+15:04 < Mariorulez14> :/
+15:04 < Mariorulez14> and there Chrome goes
+15:04 < Darman213> oh and the expansion of gasses in relation to their Temperature and Mass?
+15:04 < CommanderHurricane> >Chrome
+15:04 < Darman213> Boyles law I think it was
+15:04 < Mariorulez14> Yeah
+15:04 < Darman213> >Not using Netscape 5.0
+15:05 < CommanderHurricane> ^^^^^^^^^^^^^^
+15:05 < CommanderHurricane> wait, was there even a netscape 5.0?
+15:05 < Darman213> (I have no idea)
+15:05 < CommanderHurricane> no, not really
+15:05 < CommanderHurricane> they jumped from 4.x to 6.x
+15:06 < Mariorulez14> Ooh, graphics update
+15:06 < Mariorulez14> This should be fun
+15:06 < Azurite> wat
+15:06 < Azurite> where
+15:06 < Azurite> for what
+15:06 < CommanderHurricane> darman213: >not using Netscape 7.2
+15:06 < Darman213> haha
+15:06 < Mariorulez14> The update's for meh
+15:06 < Compgeke|D820> aargh! how can anyone use the Pen Tool!?
+15:07  * Mariorulez14 starts up Homestuck and whatever Tandy sent me
+15:07 < CommanderHurricane> Compgeke|D820: with a wacom tablet
+15:07 < Compgeke|D820> meh
+15:07 < Compgeke|D820> if I could afford that I wouldn't be pirating Illustrator
+15:07 < Compgeke|D820> I also wouldn't be using this laptop
+15:07 < CommanderHurricane> i just stick to pencil and paper for my drawings :P
+15:07 < Darman213> Azurite, What is the name of the Library?
+15:08 < Azurite> isn't one
+15:08 < Azurite> make it up
+15:08 < Azurite> :D
+15:08 < Mariorulez14> The "Twilight Sparkle's Wet Dream" Public Library
+15:08 < Mariorulez14> :P
+15:08 < Darman213> No
+15:08 < CommanderHurricane> shut up
+15:08 < Darman213> CommanderHurricane, 
+15:08 < Darman213> Kill him
+15:08 < Mariorulez14> lol
+15:08 < Darman213> Kill him swiftly
+15:08 < Darman213> and mercillessly
+15:08 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Killed (CommanderHurricane (*killed by request*))]
+15:08 < Azurite> lol
+15:09 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+15:09 < Darman213> ^_^
+15:09 < Darman213> I am pleased
+15:09 < Mariorulez14> Oh hey, that was fast
+15:09 < CommanderHurricane> Azurite: HELLO, I AM INTERESTED IN YOUR JEC SALES BASICBOXES.... WHERE CAN I GET ONE WITH A 500MHz PENTIUM II PROCESSOR?
+15:10 < Azurite> lol
+15:12 < Azurite> <Azurite> http://goput.it/q7k.jpg
+15:12 < Azurite> <Mariorulez14> I'm both disturbed and aroused by this ._.
+15:12 < Azurite> <Mariorulez14> Mostly aroused
+15:12 < Mariorulez14> inb4 I get killed again
+15:12 < Darman213> ._.
+15:12 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Killed (CommanderHurricane (inafter))]
+15:12 < Darman213> He asked for it
+15:12 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+15:12 < CommanderHurricane> <-- Mariorulez14 has quit (Killed (CommanderHurricane (inafter)))
+15:12 < CommanderHurricane> <Darman213> He asked for it
+15:13 < Azurite> lol
+15:13 < CommanderHurricane> <YouArePwned> oh wait, neko2k
+15:13 < CommanderHurricane> <YouArePwned> did you really remove the pony avatar and sig?
+15:13 < CommanderHurricane> <YouArePwned> if so, thank you
+15:14 < Compgeke> remote access is slow lol
+15:16 < Mariorulez14> Speaking of slow
+15:16 < Mariorulez14> This graphics driver update
+15:16 < Compgeke|D820> D:
+15:16 < Azurite> what pony avatar and sig?
+15:16 < Mariorulez14> BetaArchive, squandering a guess
+15:17  * Mariorulez14 sees that the /mlp/ sad thread 404'd
+15:17 < Azurite> lol
+15:17 < Mariorulez14> spikeNOOOOOOO.jpg
+15:17 < CommanderHurricane> you said that already
+15:17 < Mariorulez14> I did?
+15:17 < Mariorulez14> Oh wait, I did
+15:17 < Mariorulez14> That was a few days ago
+15:18 < Mariorulez14> I think it's the fact that I got like 2 hours of sleep last night 
+15:18 < Azurite> http://retro-box.net/bbs/viewtopic.php?f=5&t=113
+15:19 < Mariorulez14> So I had a really weird dream last night after I got done playing L4D2 with Criken on his stream
+15:19 < Mariorulez14> First off, he is one of the greatest Charger players ever [/sarcasm]
+15:20 < Azurite> >lolwut you lose thread on /gif/
+15:20 < Azurite> OH BOY
+15:20 < Mariorulez14> LINK
+15:20 < CommanderHurricane> MAH BOY
+15:20 < Mariorulez14> Hah
+15:20 < Mariorulez14> Anyway, that dream
+15:20 < Mariorulez14> Started out with a flashback-dream from when like 1,000 people and myself played Puzzle Pirates with Criken
+15:21 < Mariorulez14> Then it somehow went to being stuck in Purgatory with Pinkie Pie
+15:21 < Mariorulez14> Shenanigans happened
+15:21 < Mariorulez14> Deadpool
+15:21 < Azurite> heh
+15:21 < Mariorulez14> Then my dad slapped my ass and woke me up
+15:22 < Mariorulez14> First thing I thought: "OH GOD WHAT DID HE JUST"
+15:22 < Azurite> lolwut
+15:23 < Mariorulez14> http://retro-box.net/bbs/download/file.php?id=101
+15:23 < Mariorulez14> Oh god, my sides
+15:24 -!- FloodCtrl [FloodCtrl@undisclosed-981307ED] has joined #retrobox
+15:24 -!- mode/#retrobox [+ao FloodCtrl FloodCtrl] by FloodCtrl
+15:26 < Mariorulez14> Aw
+15:26 < Mariorulez14> Did you at least fix it
+15:26 < CommanderHurricane> try it
+15:30 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:30 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:30 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:30 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:30 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:30 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:30 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:31 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:31 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:31 -!- Mariorulez14 was kicked from #retrobox by CommanderHurricane [nope]
+15:31 -!- FloodCtrl [FloodCtrl@undisclosed-981307ED] has quit [Quit: ]
+15:31 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+15:31 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:31 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:31 -!- Mariorulez14 was kicked from #retrobox by CommanderHurricane [nope]
+15:31 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+15:31 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:31 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:31 -!- Mariorulez14 was kicked from #retrobox by CommanderHurricane [nope, rainbow dash is]
+15:31 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+15:32 < Mariorulez14> PINKIE PIE IS BEST PONY
+15:32 -!- Mariorulez14 was kicked from #retrobox by CommanderHurricane [nope, twilight sparkle is]
+15:32 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+15:32 < Mariorulez14> I'm sorry
+15:32 < Mariorulez14> Stop nao plz?
+15:32 < CommanderHurricane> i will if you will
+15:32 < Mariorulez14> But I didn't say anything
+15:32 < Mariorulez14> Either way: http://www.fimfiction.net/blog/10862
+15:33 < Mariorulez14> IT'S ALL COBRA'S FAULT 
+15:33 < CommanderHurricane> wut
+15:33 < Mariorulez14> Read it
+15:33 < CommanderHurricane> i did
+15:33 < CommanderHurricane> wut
+15:33 < Mariorulez14> Cobra Commander's the one behind The Last Roundup
+15:34 < Mariorulez14> Only someone of his evil caliber was capable of something so dastardly
+15:37 < CommanderHurricane> http://goput.it/pln.png
+15:37 < CommanderHurricane> wut
+15:40 -!- CommanderHurricane is now known as neko2k
+15:40 < Azurite> celestia and trollgabe
+15:40 < Azurite> .__________________.
+15:40 < Darman213> I am hiding so many little easter eggs on the server
+15:40 < Azurite> lol
+15:40 < Azurite> such as?
+15:41 < Darman213> cute references to our history
+15:41 < Darman213> C:
+15:41 < Azurite> heh
+15:41 < Darman213> (darkerj did it
+15:41 < Darman213> that sort of thing
+15:43 < Mariorulez14> lol
+15:43 < Mariorulez14> Trollgabe!
+15:43 < Mariorulez14> You see kids
+15:43 < Mariorulez14> This is why Episode 3 isn't coming out
+15:44 < Mariorulez14> It's not because we keep making "Gaben is fat" jokes, it's because he's engaged to Trollestia
+15:44 < neko2k> but gabe is already married
+15:45 < Compgeke|D820> FINALLY made a crappy cowboy hat :D
+15:45 < neko2k> Newell has described himself as "producer on the first three releases of Windows"
+15:45 < Mariorulez14> That's the thing here
+15:45 < neko2k> i wonder if i can find his name in the Windows 3.1 credits
+15:45 < Mariorulez14> Gabe's wife is Trollestia taking a human form through...ZE MAJIKS
+15:46 < Azurite> Playing: "Jupiter Rising - Electropop Remix" (128kbps - 44kHz - Stereo)
+15:46 < Azurite> everything's on full...
+15:47 < Azurite> my speakers are having a stroke
+15:47 < Azurite> xD
+15:47 < Darman213> Villagers...
+15:47 < Darman213> Villagers
+15:47 < Darman213> everywhere
+15:48 < Azurite> haha
+15:48 < Mariorulez14> So guys
+15:49 < Mariorulez14> Deadpool and Pinkie Pie
+15:49 < Mariorulez14> Discuss
+15:49 < Darman213> No.
+15:49 < neko2k> there goes the fourth wall
+15:49  * neko2k hops in the monitor and goes who knows where
+15:50 < Azurite> lol
+15:50 < Azurite> INTO EQUESTRIA
+15:50 < Mariorulez14> But it's a thing now Darman
+15:50 < Mariorulez14> And we're gonna be the ones to do it
+15:50 < Azurite> Playing: "Eurythmics - Sweet Dreams (Are Made of This" (192kbps - 44kHz - Stereo)
+15:50 < Mariorulez14> But oh man, going to Equestria would be boss
+15:50 < Azurite> ^
+15:50 < Azurite> TO CANTERLOT!
+15:50 < Mariorulez14> Even with Lyra there fondling your hands
+15:50 < Azurite> bahaha
+15:51 < Compgeke|D820> GO HOME
+15:51 < Azurite> "WHAT'S THIS?!"
+15:51 < Azurite> "That's a pinkie"
+15:51 < Mariorulez14> AZURITE, GRAB MY HAND
+15:51 < Azurite> LO
+15:51 < Azurite> lol
+15:51  * Azurite *narf*
+15:51 < Mariorulez14> PONIES!
+15:51 < Azurite> :D
+15:51  * Mariorulez14 farts rainbows
+15:51 < Azurite> you did it wrong, tho
+15:51  * Compgeke|D820 jumps into his monitor and goes home
+15:51 < Mariorulez14> I know, it's "boobs"
+15:51 < Azurite> PONIEEEEEEEEEEESSSSSSSSSSSSSS!
+15:51 < neko2k> http://harwicks-art.deviantart.com/art/Wishes-On-Stars-Are-Her-Jurisdiction-287123518
+15:51 < Azurite> BREASTS!
+15:51 < Darman213> .
+15:52 < Mariorulez14> Guys, I need some help
+15:52 < Compgeke|D820> mental, computer or physical help?
+15:53 < Mariorulez14> What are some first-choice antimicrobial/biotocs for Meningitis or Uncomplicated Cystitis
+15:53 < Compgeke|D820> err...bleach, liquid nitrogen, liquid oxygen, pure sodium
+15:53 < Compgeke|D820> it'll clear it up (and kill you)
+15:55 < neko2k> Compgeke|D820: have you been to the Aperture Science Pharmacy
+15:55 < Mariorulez14> Haha no
+15:55 < Compgeke|D820> not yet
+15:55 < Mariorulez14> I tried there already, neko2k
+15:55 < Compgeke|D820> sure I can get some neurotoxin there
+15:55 < Mariorulez14> They didn't help me, they just tried to give me about 1,000g of morphine
+15:55 < Mariorulez14> ._.
+15:56  * Compgeke|D820 wonders if Windows 8 Beta will install on his 40 gig hard drive
+15:56 < neko2k> windows developer preview did
+15:57 < Azurite> heh
+15:58 < Azurite> if it takes more than 40 gig after installing from a DVD...
+15:58 < Azurite> MAGICK
+15:59 < Compgeke|D820> hmm
+15:59 < Compgeke|D820> .7z on ULTRA
+15:59 < neko2k> Local Disk (D:) 21.9 GB free of 34.5 GB
+15:59 < neko2k> ^ this is the drive i have wdp installed on
+15:59 < Compgeke|D820> wow, that is...lottle
+15:59 < Compgeke|D820> little*
+15:59 < neko2k> it's also the x64 build
+15:59 < Compgeke|D820> my desktop has like 270 gig free, of like 500
+15:59 < Compgeke|D820> then 80 out of 250 on the other partition
+16:00  * Compgeke|D820 wonders why he got a free 750 gig drive
+16:01 < neko2k> Local Disk (C:) 59.6 GB free of 111 GB
+16:01 < neko2k> Local Disk (D:) 21.5 GB free of 34.5 GB
+16:01 < neko2k> Confidential (E:) 15.8 MB free of 39.9 GB
+16:01 < neko2k> DVD Drive (G:) FORMULAS 0 bytes free of 609 MB
+16:01 < Compgeke|D820> hmm
+16:02 < Azurite> <Azurite> Playing: "Eurythmics - Sweet Dreams (Are Made of This" (192kbps - 44kHz - Stereo)
+16:02 < Azurite> <ekduo|xe1n> inb4 made of DONGS
+16:02 < Azurite> <Erik> sweet dreams are made of dongs?
+16:02 < Azurite> <Erik> i have this as my ringtone on my work cell
+16:02 < Azurite> <Erik> pokemon battle music.wav
+16:02 < Azurite> <Erik> and most of teh students dont know what its from :(
+16:02 < Azurite> <king_crimson> [15:51] <ekduo|xe1n> inb4 made of DONGS
+16:02 < Azurite> <king_crimson> [15:52] <Erik> sweet dreams are made of dongs?
+16:02 < Azurite> <king_crimson> when i read his line i thought "sweet dreams are made of dongs" .... then i read the next two lines
+16:02 < Azurite> <king_crimson> mivehind
+16:02 < Azurite> <king_crimson> (not gay)
+16:02 < Compgeke|D820> 2.87 gigs free of 46.5 here
+16:02 < Compgeke|D820> I NEEDZ A BIGGER AHRD DRIVE
+16:02 < neko2k> i do too
+16:02 < neko2k> >15.8 MB free of 39.9 GB
+16:02 < Compgeke|D820> I have 110 gigs set to Xubuntu though
+16:02 < Compgeke|D820> this is the XP partition
+16:03 < Azurite> Hard Drives: [C:] 102.86/297.99 GB
+16:03 < Darman213> Combined HD Space (Free/Total): 77.35 GB / 149.05 GB
+16:03 < neko2k> as for my laptop
+16:03 < neko2k> Local Disk (C:) 382 GB free of 465 GB
+16:04 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Quit: (Bye)]
+16:04 < Darman213> So many good things for when everybody switches to survival :D
+16:04 < Compgeke|D820> I feel I store too much stuff
+16:05 < Darman213> I'm going to find a flat land
+16:05 < Darman213> that will be our Community home
+16:05 < Darman213> like, where you *have* to build stuff in survival
+16:05 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has joined #retrobox
+16:05 < Azurite> Darman213 I already have a bunch of prebuilt places for people to use as starting points...
+16:06 < Darman213> yeah
+16:06 < Darman213> as starting points
+16:06 < Darman213> but
+16:06 < Darman213> I miss wolfstone :(
+16:06 < Compgeke> :D
+16:06 < Darman213> We all worked hard to build wolfstone
+16:06 < Mariorulez14> I know
+16:06 < Mariorulez14> Where did it go?
+16:06 < Mariorulez14> :(
+16:06 < Darman213> neko2k, ?
+16:07 < Azurite> neko took it offline
+16:07 < neko2k> because no one was playing on it
+16:07 < Mariorulez14> I'd play on it if it was around :/
+16:08 < neko2k> http://2.bp.blogspot.com/-2L4QO9adxy4/T0qlvTvMQDI/AAAAAAAAguE/aMFWX5f1hEk/s1600/1.png
+16:08 < Mariorulez14> Hnng
+16:10 < Azurite> lol
+16:11 < Azurite> tiny tia is tiny
+16:11 < Azurite> <Azurite> ?boop
+16:11 < Azurite> <Macbot> ZOOP BEEP BOOP ZIPPITY BAPZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP  Macbot ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP Macbot   ZOOP BEEP B OOP ZIPPITY ZAP BAP BRRAP Macbot   ZOOP BEEP BOOP ZIPPITY ZAP BAP BRRAP Macbot   ZOOP BEEP BOOP ZIPPITY ZOOP BOP BOOP  ZOOOP ZOOP ZOOP ZIPPITY ZAP BAP BR
+16:11 < Azurite> <Azurite> ?dongus
+16:11 < Azurite> <Macbot> to see what files are IN HERE  NEED SOME COLOUR IN HERE  NEED SOME C OLOUR IN HERE  DONGUS  NIGUS  NIGUS  NIGUS  THE ABOMINATION THAT IS CYGWIN
+16:11 < Azurite> <Azurite> ?nigus
+16:12 < Azurite> <Macbot>  DICK  DICK  DICK  DICK  because  because  because  because  because  because  because  because  because  NIGUS  NIGUS  NIGUS  NIGUS  NIGUS  NIGUS  NIGUS  NIGUS 
+16:12 < Azurite> <Azurite> ?nigger
+16:12 < Azurite> <Macbot> ni hao nigger
+16:12 < Mariorulez14> <Mariorulez14> I am slowly becoming epileptic 
+16:12 < Darman213> ^
+16:12  * neko2k A:\>lolepic.exe
+16:12 < Compgeke> makes a lot of sense
+16:12 < Compgeke> we're moving
+16:12 < Compgeke> we have 3 cats, 3 birds, 3 rats and a rabbit
+16:13 < Compgeke> LETS GET ANOTHER BIRD
+16:13 < Compgeke> we don't even have a house!
+16:13 < neko2k> >.>
+16:13 < Azurite> lolwhat
+16:13 < Compgeke> when I say "we're moving, why do we need another bird"
+16:13 < neko2k> oh great, Twilight Sparkle got posessed by some crazed unicorn ._>
+16:13 < Mariorulez14> BIRDS
+16:13 < Mariorulez14> <neko2k> oh great, Twilight Sparkle got posessed by some crazed unicorn ._.
+16:13 < Mariorulez14> wat
+16:13 < Compgeke> I get told "You aren't part of this conversation"
+16:13 < Mariorulez14> Is this in the fanfic that's from
+16:13 < neko2k> Mariorulez14: fanfic
+16:13 < Mariorulez14> Link?
+16:14 < neko2k> Mariorulez14: http://www.equestriadaily.com/2011/09/story-my-little-alicorn.html
+16:14 < Mariorulez14> I've heard of this
+16:14  * Mariorulez14 is gonna finish the one he's currently reading
+16:18 -!- neko2k is now known as CH|Away
+16:18 -!- RainbowDash is now known as RainbowDash|nap
+16:18 < Azurite> <Macbot> you should NEVER let a male dolphin attempt anal sex with you
+16:18 < Compgeke> hmm
+16:18 < Darman213> wise advice.
+16:21 < Azurite> Playing: "The Doobie Brothers - China Grove" (160kbps - 44kHz - Stereo)
+16:21 < Compgeke> hmm...
+16:21 < Mariorulez14> Cheech and Chong?
+16:22 < Azurite> ?dick
+16:23 < Azurite> erm
+16:23 < Mariorulez14> Hah
+16:24 < Azurite> <Macbot> YouTube "DOOBIE BROTHERS
+16:24 < Azurite> <ekduo|xe1n> A male dolphin's member is roughly S-shaped, tapered at the end. If you are in the water with them, it is best to support the dolphin on his side, just under the water, with one hand, and handle him with the other. Male dolphins, I find, tend to prefer the base of the penis to be gently massaged and squeezed, as well as gently rubbed along it's length.
+16:24 < Azurite> <Azurite> ......
+16:24 < Azurite> <Azurite> >s-shaped wang
+16:24 < Azurite> <Azurite> what
+16:24 < Azurite> <Mariorulez14> im 12 and what is this
+16:26 -!- RainbowDash|nap is now known as RainbowDash
+16:27 < Azurite> RainbowDash you chose a hell of a time to wake up.
+16:27 < Mariorulez14> Azurite was talking about dolphin nethers
+16:29 < Darman213> Mariorulez14, are you in WTFpwnt?
+16:29 < Mariorulez14> Might be
+16:35 < Azurite> http://www.carrotcakestudios.co.uk/gmcraft/
+16:35 < Azurite> http://www.carrotcakestudios.co.uk/gmcraft/
+16:35 < Azurite> http://www.carrotcakestudios.co.uk/gmcraft/
+16:37 < Mariorulez14> Ooh
+16:37 < Mariorulez14> A texture pack
+16:42 < Azurite> yeah
+16:42 < Azurite> an awesome one at that
+16:42 < Mariorulez14> I have Painterly
+16:42 < Mariorulez14> I feel like a tool, but it looks good to me :|
+16:53 < Azurite> why do you feel like a tool?
+16:54 < Mariorulez14> Because everyone and their dog uses a Painterly
+16:55 < Darman213> ^
+16:57 < Azurite> http://s3.amazonaws.com/data.tumblr.com/tumblr_lzulnqD2u31r4pyp3o7_1280.jpg?AWSAccessKeyId=AKIAJ6IHWSU3BX3X7X3Q&Expires=1330383457&Signature=UiwqL%2FjO5o2QtvoYICTgOVzoTS0%3D
+16:59 < Darman213> ._>
+17:07 < Azurite> ask lil miss rarity is such a messed-up blog xD
+17:07 < Mariorulez14> Guys guys guys
+17:07 < Mariorulez14> Guess why I did
+17:07 < Mariorulez14> *what
+17:07 < Mariorulez14> Read this: http://www.fimfiction.net/story/12994/1/Changes/Changes
+17:07 < Mariorulez14> Posted this:
+17:07 < Mariorulez14> Guys, seriously...we're threatening a nuclear war over the internet over someone as peaceful and kind as Derpy? She certainly wouldn't appreciate how most of you are acting.
+17:07 < Mariorulez14> I'm just as upset over Derpy as the next bro, I really am (she's my 2nd-favorite pony), but I chose to be really reserved about it aside from signing the SaveDerpy.com petition. It drives me absolutely crazy that the "love and toleration" that bronies support is starting to fade into hypocrisy due to the aggressiveness of some people toward people like Yamino (seriously, what'd she even do?), not to mention the creators of
+17:07 < Mariorulez14>  the show we all watch and love. If the soccer-moms won and Derpy gets her name changed, that's just an example of how "life isn't fair", as parents will say. You can either take a Ghandi approach and settle it peacefully and keep calling her Derpy no matter what her name is...or you can just keep being 5-year-old girls and constantly whine about how one character got affected.
+17:07 < Mariorulez14> Just getting my two-Bits into this.
+17:09 < Azurite> http://c55.me/minetest/index.php
+17:09 < Azurite> this looks cool
+17:09 < Azurite> minecraft in native code
+17:21 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: Gone, Like Frank Sinatra...]
+17:27 < Azurite> binki, you there?
+17:30 < Azurite> Azurite Dawn idea: skip a few years into the future when everything's a little less boring, and fill in the missing space with memories and flashbacks.
+17:30 < Mariorulez14> So in other words
+17:31 < Mariorulez14> Make it like In the Lake of the Woods
+17:31 < Mariorulez14> Only ponies
+17:36 < Azurite> yeah
+17:36 < Azurite> basically
+17:36 < Azurite> also it's easier for me to write
+17:36 < Mariorulez14> God that book was shit
+17:37 < Mariorulez14> Don't make it shit like Lake of the Woods is
+17:37 < Azurite> just have a chapter called "The Journals" and use it to get the reader up to speed before switching views (again) to first person
+17:37 < Azurite> never really red it
+17:37 < Mariorulez14> lol
+17:37 < Mariorulez14> I should get some guidelines out on my Deadpool-Pinkie fic
+17:37 < Azurite> read*
+17:37 < Mariorulez14> So far I have Juggernaut slated 
+17:38 < Mariorulez14> For sure, Juggernaut has to be in it
+17:38 < Azurite> heh
+17:38 < Compgeke> spawning Ender Crystals on MC :D
+17:39 < Mariorulez14> Ender Crystals?
+17:39 < Azurite> hhe
+17:39 < Mariorulez14> You mean Ender Pearls?
+17:39 < Azurite> I already have an end portal as well as a nether portal
+17:39 < Azurite> they're in the Arcane Research center.
+17:40 < Compgeke> on my server
+17:40 < Azurite> oh, ok
+17:40 < Azurite> :P
+17:40 < Azurite> I really need to finish the Arcane Research center
+17:40 < Compgeke> and I mean crystals
+17:40 < Mariorulez14> Oh hell yeah
+17:40 < Mariorulez14> Found a Professor Layton crossover
+17:40 < Compgeke> the things that regenerate the end dragon's health
+17:41 < Azurite> Need to connect it to the Arcane Sciences center
+17:41 < Mariorulez14> Please be good, please be good
+17:41 < Azurite> wat
+17:41 < Azurite> -ChanServ:#nttalk- Derf used SYNC.
+17:41 < Azurite> <Tandyman100> IT WAS SUPER EFFECTIVE!
+17:43 < Compgeke> hmm
+17:43 < Mariorulez14> "In the office sat a slender man, facing the window in a four-legged wooden chair." 
+17:43 < Mariorulez14> ALL OF MY SQUEE
+17:43 < Mariorulez14> I'm such a Layton fanboy ._.
+18:04 < Azurite> I'm going to make a new Retrobox banner
+18:04 < Azurite> One that will have [..RETRONET..]
+18:04 < Compgeke> :D
+18:04 < Azurite> but also have a sort of collage of all that we do
+18:05 < Mariorulez14> Can there be Pinkie?
+18:05 < Azurite> so there will be ponies, minecraft, ysflight, urban terror, a C:\ prompt, and some other random computer stuff in it
+18:05 < Azurite> Mariorulez14 maybe
+18:05 < Azurite> azurite, pinkie, and luna
+18:05  * Azurite runs
+18:05 < Compgeke> I kept doing barrel rolls on YSFlight
+18:06 < Compgeke> until I crashed lol
+18:06 < Mariorulez14> No Azurite
+18:06 < Azurite> barrel rolls are fun
+18:06 < Mariorulez14> Pinkie and Luna are fine
+18:06 < Azurite> but Azurite owns the website...
+18:06  * Compgeke loves being the owner
+18:06 < Mariorulez14> 6:05 PM - Mariorulez14: Bs look shitty on Steam
+18:06 < Mariorulez14> 6:05 PM - Mariorulez14: That or it's just me
+18:06 < Mariorulez14> OH MAN
+18:06 < Azurite> Compgeke wait, were you doing actual barrel rolls, or just spinning around in circles?
+18:06 < Mariorulez14> THIS FANFIC
+18:06 < Mariorulez14> I LOVE 
+18:06 < Azurite> because barrel rolls require rudder application
+18:07 < Mariorulez14> It's like...puzzles and Ponies
+18:07 < Azurite> hell
+18:07 < Mariorulez14> And Celestia has rustled jimmies because Twilight disappeared
+18:07 < Azurite> I need to redesign the whole site so it's not so me-oriented
+18:07 < Compgeke> I just flip the joystick to the right
+18:07 < Azurite> this is a COMMUNITY PLACE
+18:07 < Mariorulez14> ^
+18:07 < Azurite> Compgeke yeah, that's not a barrel roll
+18:07 < Compgeke> looks like it
+18:07 < Azurite> it's hard to tell the difference unless you've got a view of your trail
+18:07 < Azurite> but a barrel roll has a lot of sideways motion involved
+18:07 < Compgeke> hmm
+18:08 < Azurite> so says my grandpa, who was in the air force and a massive plane nerd :P
+18:08 < Compgeke> my joystick sucks
+18:08 < Azurite> lol
+18:08 < Azurite> I have a budget Logitech
+18:08 < Azurite> it's pretty decent
+18:08 < Compgeke> I would much rather use my Sidewinder Force Feedback Pro
+18:08 < Azurite> throttle placement is retarded, though
+18:08 < Compgeke> but Windows 7 lacks gameport support :(
+18:08 < Azurite> cars > planes for me
+18:08 < Azurite> I have a FF racing wheel
+18:08 < Azurite> :3
+18:08 < Azurite> Logitech MoMo
+18:08 < Compgeke> I want a wheel
+18:08 < Azurite> I love my wheel :D
+18:09 < Azurite> Need for Speed: Undercover absolutely sucks...
+18:09 < Compgeke> I'm not going to pay for one though
+18:09 < Azurite> unless you use a wheel.
+18:09 < Azurite> (also the loading screens in the middle of the game are annoying)
+18:09 < Compgeke> lol
+18:09 < Azurite> but that game is SO MUCH FUN with a wheel
+18:09 < Azurite> because of ALL THE TRAFFIC ON THE HIGHWAYS
+18:09 < Mariorulez14> Oh my friggin' gawd
+18:09 < Compgeke> I've never played it
+18:09 < Mariorulez14> I'm having a complete nerd-out here
+18:09 < Compgeke> lol
+18:09 < Azurite> zoom zoom full speed 160mph through heavy traffic in a quarter-million dollar supercar
+18:09 < Azurite> :3
+18:09 < Mariorulez14> Seriously
+18:09 < Azurite> lol
+18:10 < Mariorulez14> Professor Layton
+18:10 < Compgeke> I love GTA SA with Mods
+18:10 < Mariorulez14> Add MLP
+18:10 < Compgeke> FUCK YEAH!
+18:10 < Mariorulez14> Access to Professor Layton soundtrack?
+18:10  * Azurite doesn't know what professor layton is...
+18:10 < Mariorulez14> OH HELL YEAH I LOVE THIS
+18:10 < Compgeke> driving as fast as I can in a Car that's illegal in the US
+18:10 < Azurite> I am loving this Grooveshark downloader.
+18:10 < Azurite> Compgeke I would so kill to have access to a racetrack.
+18:10 < Azurite> My Buick has a fair amount of vroom-vroom to it
+18:10 < Compgeke> I don't want to drive
+18:10 < Azurite> top speed of 120mph, I think.
+18:10 < Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:10 < Mariorulez14> Get Curious Village first
+18:10 < Azurite> 0-60 in 7.4 seconds
+18:10 < Azurite> :3
+18:11 < Compgeke> I find it bad enough to ride in a car
+18:11 < Compgeke> I really want to drive one
+18:11 < Mariorulez14> <Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:11 < Mariorulez14> <Mariorulez14> Get Curious Village first
+18:11 < Mariorulez14> <Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:11 < Mariorulez14> <Mariorulez14> Get Curious Village first
+18:11 < Mariorulez14> <Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:11 < Azurite> read: about as fast as a base mustang, and it's a 2002 SEDAN
+18:11 < Mariorulez14> <Mariorulez14> Get Curious Village first
+18:11 < Compgeke> I say we race
+18:11 < Compgeke> my mom's 2001 Nissan Maxima SE, 20th Anniversary Edition
+18:11 < Compgeke> and your car
+18:11 < Mariorulez14> <Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:11 < Mariorulez14> <Mariorulez14> Get Curious Village first
+18:11 < Mariorulez14> <Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:11 < Mariorulez14> <Mariorulez14> Get Curious Village first
+18:11 < Mariorulez14> <Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:11 < Mariorulez14> <Mariorulez14> Get Curious Village first
+18:11 < Mariorulez14> <Mariorulez14> Azurite Get DeSMuME and look up ROMs of Professor Layton
+18:11 < Mariorulez14> <Mariorulez14> Get Curious Village first
+18:11 < Azurite> Compgeke you'd win, probably
+18:11 < Azurite> your car is lighter
+18:12 < Azurite> and nissans manage to get insane amounts of speed from crappy engines
+18:12 < Compgeke> hmm...
+18:12 < Compgeke> lol
+18:12 < Compgeke> VE30DE-K?
+18:12 < Azurite> I our rental car was a 4-cyl sedan
+18:12 < Azurite> it would have roflstomped my 6-cyl sedan with an engine THREE TIMES THE SIZE
+18:13 < Mariorulez14> Azutire
+18:13 < Mariorulez14> *Azurite
+18:13 < Azurite> ytes
+18:13 < Azurite> yes*
+18:13 < Azurite> >not using autocomplete
+18:13 < Mariorulez14> Read this: “I have a love for gems, you see. But I need to get mine valued. 1 out of every 4 gems I have are sapphires, 3 out of every 7 gems I have are topazes, 11 out of every 45 gems I have are emeralds, and the rest are rubies. As I can’t have fewer gems without these amounts being wrong, how many rubies do I have?”
+18:13 < Mariorulez14> Play this: http://www.youtube.com/watch?v=7pfkrRIFjY4
+18:13 < Azurite> oh god
+18:13 < Mariorulez14> Solve the puzzle
+18:13 < Azurite> ow
+18:13 < Azurite> my head
+18:13 < Azurite> NOT HAPPENING
+18:13 < Azurite> I AM DOING AMERICAN HISTORY
+18:13 < Mariorulez14> That's what a Layton Game is like
+18:13 < Mariorulez14> It's ALL Puzzles
+18:13 < Azurite> I JUST FINISHED LE CHEMIS TREES
+18:18 < Mariorulez14> YAY
+18:18 < Mariorulez14> Azurite, here's an easier one
+18:18 < Mariorulez14> “Neither of my digits are zero. I am a cube’s square and a square’s cube. What am I?”
+18:26 < Azurite> 1
+18:28 < Mariorulez14> <Mariorulez14> Thought so
+18:28 < Mariorulez14> <Mariorulez14> I'm horrible at maths problems
+18:28 < Mariorulez14> Like you wouldn't believe
+18:30 < Mariorulez14> “Are you going to be okay with the sun, Macintosh? You could get sunburn.”
+18:30 < Mariorulez14> “Eeyup.” The stallion found a black Stetson hat blowing about on the platform. He picked it up with his left hoof and pressed it onto his head. 
+18:30 < Mariorulez14> HAT PARTY, I MUST DRAW THIS
+18:30 < CH|Away> PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM
+18:30 -!- CH|Away is now known as CommanderHurricane
+18:33 < Azurite> http://totallylookslike.files.wordpress.com/2009/03/richard-hammond-totally-looks-like-david-tennant.jpg
+18:33 < Azurite> looks like I'm not the only one that thought this
+18:39 <+binki> azurite: here now;
+18:39 <+binki> lol, ran into minetest myself a few months ago and played a few minutes of it :-p
+18:42 < Azurite> heh
+18:42 < Azurite> yeah
+18:42 < Azurite> it runs about the same as minecraft on here
+18:42 < Azurite> odd since it uses more effecient native code
+18:42 < Azurite> so
+18:42 < Azurite> link
+18:42 < Azurite> We must link servers again
+18:43 < Azurite> I have the ohnopub .pim file
+18:43 < Azurite> and all my configs from earlier
+18:43 < Azurite> and the server is still as irc.retro-box.net
+18:43 < Azurite> so what needs to be done to link?
+18:46 <+binki> hmm
+18:46 <+binki> azurite: try now
+18:47 < Azurite> unrealircd.conf Rehashing
+18:47 < Azurite> -
+18:47 < Azurite> -irc.retro-box.net- *** Notice -- Loading IRCd configuration ..
+18:47 < Azurite> -
+18:47 < Azurite> -irc.retro-box.net- *** Notice -- Configuration loaded without any problems ..
+18:47 < Azurite> -
+18:47 < Azurite> -irc.retro-box.net- *** Notice -- Couldn't connect to ohnopublishing.net.
+18:47 -!- Azurite is now known as Tandyman100
+18:48 <+binki> odd, that's the only error message you get?
+18:48 < Tandyman100> yup
+18:49 < Tandyman100> OH BOY
+18:49 < Tandyman100> HERE I GO AGAIN WITH MY PROBLEMS THAT SHOULDN'T HAPPEN
+18:49 < Tandyman100> :D
+18:49 <+binki> privmsg the whole link block to me
+18:49 < Tandyman100> lemme log in...
+18:49 < Tandyman100> aw, crap.
+18:49 <+binki> lol
+18:50 < Tandyman100> I have *no clue* what ` made my login credentials
+18:50 <+binki> that problem _should_ happen :-p
+18:50 < Tandyman100> forgot to save them
+18:50 < Tandyman100> and logging isn't enabled here
+18:50 < Mariorulez14> Oh hey
+18:50 <+binki> did you remember to compile unrealircd with SSL support?
+18:50 < Mariorulez14> I just found MLP/Hunger Games crossover
+18:50 < Mariorulez14> Let's see how this plays out...
+18:51 < Tandyman100> binki: I didn't compile it, ` did.
+18:51 <+binki> tandyman100: so... your point?
+18:51 < Tandyman100> I dunno what he used
+18:51 < Tandyman100> :P
+18:51 < Tandyman100> or did
+18:51 < Tandyman100> and I don't have my login credentials
+18:51 < Tandyman100> ARGH
+18:51 < Tandyman100> ` get in here
+18:51 < Tandyman100> ` get in here
+18:51 < Tandyman100> ` get in here
+18:51 < Tandyman100> ` get in here
+18:51 <+binki> use your knowledge to check how the compilation went retrospectively
+18:51 <+binki> stop that
+18:52 < Tandyman100> Check how the compilation went retrospectively?
+18:52 < Tandyman100> Whaa?
+18:52  * Tandyman100 uses his magic telepathic powers to figure out how ` compiled unreal
+18:53 < Tandyman100> looks like we're gonna be waiting.
+18:53 < Tandyman100> again
+18:53 < Tandyman100> ._.
+18:53 < Compgeke> lol
+18:54 <+binki> lol, obviously if you can't even get to your unrealircd.conf you're far from being prepared to link :-p
+18:54 <+binki> poke me when
+18:54 < Tandyman100> binki: k. 
+18:54 < Tandyman100> wait
+18:54 < Tandyman100> I have a copy of my unrealircd.conf
+18:54 < Tandyman100> but I won't be able to update the one on the server
+18:55 <+binki> yup
+18:56 < Tandyman100> /msg binki link ohnopublishing.net
+18:56 < Tandyman100> {
+18:56 < Tandyman100> 	username	*;
+18:56 < Tandyman100> 	hostname 	ohnopublishing.net;
+18:56 < Tandyman100> 	bind-ip 	*;
+18:56 < Tandyman100> 	port 		6697;
+18:56 < Tandyman100> 	hub             *;
+18:56 < Tandyman100> 	password-connect *;
+18:56 < Tandyman100> 	password-receive "unrealircd_ohnopublishing.net_cert.pem" { sslclientcert; };
+18:56 < Tandyman100> 	class           servers;
+18:56 < Tandyman100> 	options { autoconnect; ssl; nohostcheck; };
+18:56 < Tandyman100> };
+18:56 < Tandyman100> ...
+18:56 < Tandyman100> oops
+18:56 < Tandyman100> WELL THERE IT IS
+18:56 < Tandyman100> :D
+18:56 <+binki> I asked for privmsg :-p
+18:56 < Tandyman100> ...I wonder if ` just forgot to port-foward 6697?
+18:56 < Tandyman100> yeah
+18:56 < Tandyman100> I kinda screwed up privmsging :P
+18:56 < Tandyman100> privmsging it*
+18:58 < CommanderHurricane> oh well
+18:59 < CommanderHurricane> without that ssl certificate it won't connect
+18:59 < CommanderHurricane> Tandyman100: /query
+18:59 < CommanderHurricane> use it next time
+19:00 < Tandyman100> I KNOW
+19:00 < Tandyman100> and the certificate is there
+19:01 < Tandyman100> the ircd won't even start unless that cert is present
+19:01 < CommanderHurricane> --- *** Global -- from OperServ: Received SQUIT for juped server irc.retro-box.net
+19:01 < CommanderHurricane> PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FI
+19:01 < CommanderHurricane> LM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM
+19:02 < CommanderHurricane>  FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA F
+19:02 < CommanderHurricane> ILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGAND
+19:02 < CommanderHurricane> A FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM PROPA PROPAGANDA FILM FILM 
+19:02 < CommanderHurricane> anyway
+19:02 < Mariorulez14> wat
+19:02 < Mariorulez14> What's this about Propaganda?
+19:02  * Mariorulez14 finds another L4D/MLP crossover :D
+19:02 < CommanderHurricane> http://www.youtube.com/watch?v=UjyXqoEgFHs
+19:02 < Mariorulez14> PLEASE BE GOOD
+19:02 < CommanderHurricane> Mariorulez14 ^
+19:03 < Mariorulez14> Name'
+19:03 < Mariorulez14> *Name's Ellis is amazing
+19:03 < Mariorulez14> Hopefully this one will live up to how good it sounds
+19:04 <+binki> tandyman100: if you get access to the unrealircd.conf, try putting my IPv4 address in the `hostname' argument instead of "ohnopublishing.net" 
+19:04  * Mariorulez14 has no clue why this is so catchy
+19:05 <+binki> tandyman100: your unrealircd is compiled with SSL, so you're good there, but it's also compiled with IPv6 even though wtfpwnt.net doesn't have IPv6 AFAICT and thus it's probably trying to make an outbound IPv6 connection to my compy when it can't
+19:06 <+binki> opening up port 6697 would allow my server to connect to yours and also clients to connect using SSL to your server, so you should do that eventually anyways
+19:06 < CommanderHurricane> --- =-=-=-= Unreal3.2.9 =-=-=-=
+19:06 < CommanderHurricane> --- | This release was brought to you by the following people:
+19:06 < CommanderHurricane> --- | 
+19:06 < CommanderHurricane> --- | Head coder:
+19:06 < CommanderHurricane> --- | * Syzop        <syzop@unrealircd.com>
+19:06 < CommanderHurricane> --- | 
+19:06 < CommanderHurricane> --- | Coders:
+19:06 < CommanderHurricane> --- | * binki        <binki@unrealircd.com>
+19:06 < CommanderHurricane> i see
+19:06 <+binki> :-|
+19:07 <+binki> no time to spend on UnrealIRCd coding this semester at all :-/
+19:07 < Tandyman100> lol
+19:07 < Tandyman100> you helped code Unreal?!
+19:07 <+binki> I helped poke at a few things for 3.2.8.1 -> 3.2.9
+19:07 <+binki> only superficial things
+19:07 <+binki> and also things which make packaging it on Gentoo work better
+19:08 < Mariorulez14> Yeah, this fic's good
+19:08 <+binki> O_o
+19:08 <+binki> fic=fiction work?
+19:09 < Tandyman100> yes
+19:09 < Tandyman100> more specifically a fan fiction
+19:09 < CommanderHurricane> <binki> I helped poke at a few things for 3.2.8.1 -> 3.2.9
+19:09 < CommanderHurricane> <binki> only superficial things
+19:10 < CommanderHurricane> and yet he got a spot in the /info credits
+19:10 <+binki> yeah I know; it's odd
+19:10 <+binki> well, it's because I'm the only "coder" who isn't syzop who is semi-active in unrealircd
+19:11 < Tandyman100> ah
+19:11 < Tandyman100> so that's why you're at the top of the list :P
+19:11 < Tandyman100> You guys should implement a word-replacement function
+19:12 < Tandyman100> like a really robust censor
+19:12 <+binki> lol
+19:12 < Tandyman100> that lets us create our own rules (like in phpbb) so I could, say, have "Waffles" changed into "the most delicious food ever"
+19:12 <+binki> normaldotcom was thinking of circumcensoring
+19:12 <+binki> I want to write that as a plugin someday
+19:12 < Tandyman100> my forum has a bunch of censor rules like that to change swear words into more humorous worsd
+19:12 < Tandyman100> words*
+19:13 < Tandyman100> circumcensoring
+19:13 < Tandyman100> that sounds Jewish
+19:13  * Tandyman100 runs
+19:13 <+binki> lol
+19:13  * Tandyman100 hopes he didn't offend anybody
+19:13  * Tandyman100 peeks out around a brick wall
+19:13 <+binki> well, I think it's a common practice in western natal stuffage
+19:13  * Tandyman100 tentatively steps out
+19:13 < Tandyman100> heh
+19:13 -!- CommanderHurricane is now known as hitler
+19:13 -!- Tandyman100 [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has quit [Killed (hitler (die))]
+19:13  * binki sighs
+19:13 -!- hitler is now known as CommanderHurricane
+19:13 -!- Azurite [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has joined #retrobox
+19:13 < Azurite> >made a poke at the Jews so the jew-hating Hitler kills me
+19:13 < Azurite> that makes no sense whatsoever
+19:13 < Azurite> :P
+19:14 <+binki> would an anti-semetic person be against only Jews or also Arabs?
+19:14 <+binki> Arabs are semetic, right?
+19:14 < Azurite> I have no clue
+19:14 < Mariorulez14> No
+19:14 < Azurite> I am going to shower
+19:14 < Mariorulez14> They aren't
+19:14 < Azurite> that is something I do have a clue about
+19:14 < Azurite> One of the very few things I have a clue about
+19:15 -!- Azurite is now known as Tandyman100
+19:15 -!- mode/#retrobox [+qo Tandyman100 Tandyman100] by ChanServ
+19:15 <~Tandyman100> that was a long string of typing
+19:15 <+binki> tandyman100: :-)
+19:15 <~Tandyman100> /nick Tandyman100
+19:15 -!- mode/#retrobox [-qo Tandyman100 Tandyman100] by CommanderHurricane
+19:15 -!- mode/#retrobox [+qo Tandyman100 Tandyman100] by CommanderHurricane
+19:15 <~Tandyman100> watr u doin
+19:15 < Mariorulez14> Out of every survivor, Ellis is always the one that enjoys the ponies
+19:15 < CommanderHurricane> messing with your usermodes
+19:15 < Mariorulez14> Because Ellis loves him some horses
+19:15 <~Tandyman100> lol
+19:15 <~Tandyman100> kinky
+19:15  * Tandyman100 runs
+19:15 <~Tandyman100> Erik posted horse beastality in #wtfpwnt today
+19:16 < Mariorulez14> lol
+19:16 <~Tandyman100> I need some brain bleach.
+19:16 < Mariorulez14> Sugarhigh has a secret plan concerning that
+19:16 < Mariorulez14> Notice how I said secret
+19:16 < Mariorulez14> >Nick is a huge asshole and now Fluttershy's all alone in Whispering Oaks
+19:16 < Mariorulez14> THERE ARE ZOMBIES OUT THERE NICK, WHY
+19:17 <~Tandyman100> :|
+19:17 <~Tandyman100> >sugarhigh has a secret plan concerning horse beastality
+19:17 <~Tandyman100> what.
+19:17 -!- niner [IceChat77@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Quit: A fine is a tax for doing wrong. A tax is a fine for doing well]
+19:17 < Mariorulez14> YEAH, PINKIE PIE FOUND GNOME CHOMPSKI
+19:17 < Mariorulez14> :D
+19:17 <~Tandyman100> wat
+19:17 <~Tandyman100> ok
+19:17 <~Tandyman100> srs
+19:17 <~Tandyman100> i shower now
+19:17 < CommanderHurricane> Mariorulez14: TELL ME MORE ABOUT THIS PLAN VIA PM
+19:18 <~Tandyman100> or talk about it in #horsedicks
+19:19 < Mariorulez14> lol
+19:20 <~Tandyman100> inb4 everyone joins #horsedicks
+19:21 -!- Tandyman100 [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has quit [Excess Flood]
+19:21 -!- Azurite [Tandy_7540@undisclosed-13AE960A.dsl.wchtks.sbcglobal.net] has joined #retrobox
+19:21 -!- mode/#retrobox [+qo Azurite Azurite] by ChanServ
+19:21 <~Azurite> lolfale
+19:21 <~Azurite> shower now fo srs
+19:22 < Mariorulez14> Bye
+19:28 < Mariorulez14> >rainbow dash and adrenaline shots
+19:28 < Mariorulez14> WUBUBUBUBUBUBUBUBUBUBU
+19:36 <~RainbowDash> *yawn*
+19:36 <~RainbowDash> I'm really tired. Lots of flight practise will do that to you.
+19:36 -!- RainbowDash is now known as RainbowDash|sleep
+19:38 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has joined #retrobox
+19:38 < Compgeke> hey Darman213 
+19:38 < Mariorulez14> Hey Darman
+19:38 < Darman213> Hey Compgeke  
+19:38 < Darman213> heyo
+19:38 < Mariorulez14> Found another decent L4D/MLP crossover
+19:39 < Mariorulez14> Not great, but not horrendous :P
+19:40 < CommanderHurricane> >Rainbow Dash ate Starscream
+19:40 < CommanderHurricane> that finally makes sense to me now
+19:41 < Darman213> .______.
+19:41 < Darman213> wat!?
+19:43 < Mariorulez14> Wait what
+19:43 < CommanderHurricane> http://www.youtube.com/watch?v=8er83h9Bbn8
+19:43 < Mariorulez14> Sauce on that?
+19:45 < Mariorulez14> lol
+19:51 < Mariorulez14> HAW
+19:51 < Mariorulez14> Well of course Dash was going to win
+20:02 <~Azurite> >you guys didn't see that like the second you joined the brony fandom
+20:02 <~Azurite> that was what converted me
+20:02 <~Azurite> xD
+20:07  * Darman213 is away: I'm busy
+20:07 < CommanderHurricane> http://grayma1k.deviantart.com/art/Lullaby-for-a-gray-one-287387015
+20:08 <+binki> I feel like wasting time
+20:08 <+binki> I think I'll watch a dick van dyke episode or something
+20:08 < Mariorulez14> <CommanderHurricane> http://grayma1k.deviantart.com/art/Lullaby-for-a-gray-one-287387015
+20:08 < Mariorulez14> :(
+20:08 < Mariorulez14> :'(
+20:09 < CommanderHurricane> also saved
+20:10 < CommanderHurricane> http://finnishfox.deviantart.com/art/Just-a-Regular-Squirrel-287020931
+20:16 -!- Sugarhigh [18ffad3b@undisclosed-D89BAD34.mibbit.com] has joined #retrobox
+20:16 < Sugarhigh> In the process of creating hilariousness
+20:22 < Sugarhigh> So how's everyone?
+20:23 < Sugarhigh> Inactive, I assume
+20:25 < Compgeke> terrible
+20:28 < Sugarhigh> Lol
+20:29 < Mariorulez14> I'm doing college, so youah
+20:29 < Mariorulez14> *yea
+20:32 < Sugarhigh> Lol
+20:33 < Mariorulez14> I'm just gonna write the course instructor and tell him that the assignment is complete and utter crap
+20:33 < Mariorulez14> Then move on
+20:38 < Sugarhigh> LOl
+20:38 < Sugarhigh> *Lol
+20:38 < Mariorulez14> How long until Hilariousness
+20:38 < Sugarhigh> About 10 minute
+20:38 < Sugarhigh> *minutes
+20:38 < CommanderHurricane> Microsoft Codename Code Name 2012, For Idiots without Brains
+20:38 < Sugarhigh> 5 at the least
+20:42 < CommanderHurricane> i'm going to go to bed early
+20:42 < CommanderHurricane> because tired
+20:42 -!- CommanderHurricane [Pegasus@350C711.9EBBA8CC.6D2E2761.IP] has quit [Quit: lightning bolt]
+20:42 < Sugarhigh> Add a wing?
+20:42 < Sugarhigh> Can't decide
+20:42 < Sugarhigh> Actually
+20:42 < Sugarhigh> Gonna go ahead and show it to you
+20:43 < Sugarhigh> tell me whether or not to add a wing
+20:43  * Darman213 is back (gone 00:35:26)
+20:43 < Darman213> What is Funny Sugarhigh ?
+20:43 < Darman213> what
+20:43 < Darman213> is
+20:43 < Darman213> love
+20:43 < Mariorulez14> Just wait a second
+20:46  * Darman213 is impatient
+20:46 < Sugarhigh> Darman
+20:46 < Sugarhigh> Steam
+20:46 < Darman213> I've waited 12-
+20:46 < Sugarhigh> I'll show you the WIP
+20:46 < Darman213> K
+20:46 < Darman213> Gmod?
+20:47 < Mariorulez14> Oh man, that's hilarious
+20:49 < Mariorulez14> Azurite
+20:49 < Mariorulez14> Are you there
+20:54 < Compgeke> back later, need to pull mah video card.
+20:54 -!- Compgeke [Compgeke@undisclosed-266FF226.dsl.pltn13.sbcglobal.net] has quit [Quit: Leaving]
+20:57 -!- Sugarhigh [18ffad3b@undisclosed-D89BAD34.mibbit.com] has quit [Quit: http://www.mibbit.com ajax IRC Client]
+20:58 < Mariorulez14> Oh man
+20:58 < Mariorulez14> Darman213, remember Cask of Amontillado?
+20:58 < Mariorulez14> The Poe story?
+20:58 < Darman213> ?.......
+20:58 < Darman213> 'fraid not M'lad
+20:58 < Mariorulez14> One sec
+20:58 < Mariorulez14> Read: http://www.literature.org/authors/poe-edgar-allan/amontillado.html
+20:59 < Mariorulez14> I found a fanfic about Rarity pulling the same stunt...
+20:59 < Darman213> .______.
+20:59 < Mariorulez14> READ
+20:59 < Mariorulez14> The weird thing is that it's my favorite Poe story ._.
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:02 < Mariorulez14> Azurite Tandy|Phenom
+21:42 -!- Darman213 [darman213@undisclosed-E3CA8316.dsl.wchtks.swbell.net] has quit [Ping timeout]
+21:47 < Mariorulez14> Azurite 
+21:47 < Mariorulez14> Look on the forums
+21:47 < Mariorulez14> Sugarhigh has a present for you
+21:47 < Mariorulez14> Bue
+21:47 < Mariorulez14> *Bye
+21:47 -!- Mariorulez14 [Mariorulez@undisclosed-51655395.client.mchsi.com] has quit [Quit: (Bye)]
+22:19 < `>  /w5
+22:19 < `> er
+22:20 <+binki> :-p
+22:27 <~Azurite> lol
+22:27 <~Azurite> 1
+22:27 <~Azurite> erm
+22:27 <~Azurite> `
+22:27 <~Azurite> h
+22:27 <~Azurite> hi
+22:29 <+binki> err, mr. ~
+22:29 <+binki> *Mr. ~
+22:54 <~Azurite> ?
+22:54 <~Azurite> http://goput.it/7tq.png
+23:17 -!- `|amctheater-wanderlust [dissimulo@undisclosed-C84E0618.net] has joined #retrobox
+23:17 < `|amctheater-wanderlust> ok so
+23:17 < `|amctheater-wanderlust> binki: retro's unrealircd has been recompiled without IPv6 support
+23:17 < `|amctheater-wanderlust> binki: but it's still bitching about some sort of auth error
+23:17 < `|amctheater-wanderlust> i assume something to do with the cert.
+23:18 < `|amctheater-wanderlust> but hey
+23:19 < `|amctheater-wanderlust> i'm in an AMC theater watching previews before Wanderlust
+23:19 < `|amctheater-wanderlust> lol laptop in theater tethered via eyefone
+23:19 < `|amctheater-wanderlust> though i do detect two open networks in the vicinity
+23:22 < `|amctheater-wanderlust> Tandy|Phenom: wake the hell up
+23:22 < `|amctheater-wanderlust> Tandy|Phenom: wake the hell up
+23:22 < `|amctheater-wanderlust> Tandy|Phenom: wake the hell up
+23:22 < `|amctheater-wanderlust> Tandy|Phenom: wake the hell up
+23:22 < `|amctheater-wanderlust> Tandy|Phenom: wake the hell up
+23:22 < `|amctheater-wanderlust> Tandy|Phenom: wake the hell up
+23:27 < `|amctheater-wanderlust> sigh.
+23:27 < `|amctheater-wanderlust> ffs.
+23:27 <+binki> `|amctheater-wanderlust: then the situation is much improved ;-)
+23:27 < `|amctheater-wanderlust> binki: oh hey!
+23:27 < `|amctheater-wanderlust> binki: yeah, it kept "returning zero"
+23:27 < `|amctheater-wanderlust> some sort of SSL error
+23:27 <+binki> "success"
+23:28 <+binki> my side says "bad password"
+23:28 < `|amctheater-wanderlust> .__________________________.
+23:28 <+binki> which means you need to send me your ircd.cert.pem
+23:28 < `|amctheater-wanderlust> i'm using jake's backup unrealircd.conf
+23:28 < `|amctheater-wanderlust> ah
+23:28 < `|amctheater-wanderlust> gotcha.
+23:28 < `|amctheater-wanderlust> let me shake that up
+23:28 <+binki> or you can copy over backed up ircd.*.perm
+23:28 <+binki> I mean ircd.*.pem
+23:29 < `|amctheater-wanderlust> er
+23:29 < `|amctheater-wanderlust> i only see server*
+23:29 < `|amctheater-wanderlust> not ircd*
+23:29 <+binki> mabye that's it, I'm just making things up ;-)
+23:29 <+binki> yeah, that's it
+23:32 < `|amctheater-wanderlust> binki: PM"d you the relevant files
+23:32 < `|amctheater-wanderlust> binki: it's in a ZIP
+23:32 <+binki> k
+23:32 <+binki> uhm, should only be one file
+23:33 <+binki> no, it's an HTML file
+23:33 < `|amctheater-wanderlust> uh
+23:33 < `|amctheater-wanderlust> go on it
+23:33 < `|amctheater-wanderlust> it provides you a link
+23:33 <+binki> I had to read that HTML myself
+23:33 <+binki> silly person
+23:33 <+binki> no
+23:34 <+binki> run `make pem'
+23:34 <+binki> and then only give me the cert
+23:34 < `|amctheater-wanderlust> ._____________________.
+23:34 <+binki> you do know that the .key is supposed to be secret, right?
+23:34 < `|amctheater-wanderlust> yes.
+23:34 <+binki> odd, macosx?
+23:34 < `|amctheater-wanderlust> yes, i'm on a mac
+23:34 < `|amctheater-wanderlust> pardon the filesystem breadcrumbs
+23:35 <+binki> :-p
+23:39 < `|amctheater-wanderlust> okay, well
+23:39 < `|amctheater-wanderlust> certs regenerated, encrypted
+23:39 < `|amctheater-wanderlust> you just want the .cert.pem, correct?
+23:40 <+binki> yes
+23:41 < `|amctheater-wanderlust> PM"d
+23:42 <+binki> k
+23:42 <+binki> try a CONNECT ohnopublishing.net
+23:42 < `|amctheater-wanderlust> kk, hold on
+23:42 <+binki> hmm
+23:42 <+binki> now again
+23:43 <+binki> lol, you connected to wrong server first :-p
+23:44 < `|amctheater-wanderlust> nope.
+23:44 < `|amctheater-wanderlust> it's still giving me authfail
+23:45 < `|amctheater-wanderlust> 23:44 !irc.retro-box.net *** Notice -- Connection to ohnopublishing.net[67.149.235.72] activated.
+23:45 < `|amctheater-wanderlust> 23:44 !irc.retro-box.net *** LocOps -- ERROR :from ohnopublishing.net[67.149.235.72] -- Link denied (Authentication failed) [@0:0:0:0:0:ffff:108.166.7.185.44035]
+23:45 < `|amctheater-wanderlust> 23:44 !irc.retro-box.net *** LocOps -- ERROR :from ohnopublishing.net[67.149.235.72] -- Closing Link: [108.166.7.185] (Link denied (Authentication failed))
+23:45 < `|amctheater-wanderlust> 23:44 !irc.retro-box.net Exiting ssl client ohnopublishing.net[@67.149.235.72.0]: SSL_read(): Underlying socket operation returned zero
+23:45 < `|amctheater-wanderlust> 23:44 !irc.retro-box.net *** LocOps -- Lost connection to ohnopublishing.net[67.149.235.72]: SSL_read(): Underlying socket operation returned zero
+23:45 < `|amctheater-wanderlust> that's what i'm getting
+23:46 <+binki> funness
+23:46 -!- dissimulo [~dissimulo@netadmin.retro-box.net] has joined #retrobox
+23:46 < `|amctheater-wanderlust> damn thing
+23:46 < `|amctheater-wanderlust> i forgot to /rmreconn
+23:46 <+binki> lol
+23:46 <+binki> so
+23:46 -!- `|amctheater-wanderlust [dissimulo@undisclosed-C84E0618.net] has quit [Quit: leaving]
+23:46 <+binki> you didn't quite merely copy tandy's unrealircd.conf, but whatever
+23:47 -!- `|amctheater-wanderlust [dissimulo@undisclosed-C84E0618.net] has joined #retrobox
+23:47 < `|amctheater-wanderlust> k
+23:47 < `|amctheater-wanderlust> sorry about that
+23:47 < `|amctheater-wanderlust> you were saying?
+23:47 < dissimulo> hmm
+23:47 < dissimulo> binki: yes i did
+23:48 <+binki> 05:45 [ohnopub] !ohnopublishing.net *** Notice -- WARNING!!!! Link [108.166.7.185] does not have the same set::allowed-nickchars settings (or is a different UnrealIRCd version), this MAY cause display issues. Our charset: '', theirs:  'cat,dut,fre,ger,ita,spa,swe'
+23:48 < dissimulo> binki: i copied every .conf he gave me
+23:48  * dissimulo shrugs
+23:48 <+binki> I don't remember seeing that before, maybe he did have that before
+23:48 <+binki> ok
+23:48 < dissimulo> kk, let me set latin1;
+23:51 < `|amctheater-wanderlust> it's already set latin1
+23:51 < `|amctheater-wanderlust>         allowed-nickchars { latin1; };
+23:51 < `|amctheater-wanderlust> so i dunno, what do you want me to do?
+23:59 <+binki> nothing
+--- Day changed Mon Feb 27 2012
+00:00 <+binki> probably default is less than latin1
+00:00 <+binki> but I really don't know and won't look it up now
+00:10 < `> okay.
+00:11 < `> as long as it's lolworking
+--- Log closed Mon Feb 27 00:11:27 2012

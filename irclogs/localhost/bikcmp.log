@@ -1,0 +1,1297 @@
+--- Log opened Wed Jul 18 01:13:08 2012
+01:13 -!- Irssi: Starting query in localhost with bikcmp
+01:13 <bikcmp>  (856) 288-1732
+01:13 <bikcmp> i want to see how it rings.
+01:13 <bikcmp> i'm on my phone and my desktop.
+01:13 <bikcmp> well laptop
+01:13 <bikcmp> but, yeah. i want to make sure it rings both.
+01:13 <`|gabapentin> thats one weirdass DID
+01:13 <bikcmp> did?
+01:14 <`|gabapentin> Direct Inward Dialing
+01:14 <bikcmp> ok
+01:14 <`|gabapentin> basically, "phone number"
+01:14 <bikcmp> i'm getting the call on my phone
+01:14 <bikcmp> but nothing on the desktop
+01:14 <bikcmp> http://anywhere.convorelay.com/
+01:14 <bikcmp> i'm on there
+01:14 <bikcmp> absolutely nothing
+01:14 <`|gabapentin> anywhere does not support peer to peer.
+01:14 <bikcmp> damn it
+01:14 <bikcmp> so 
+01:14 <`|gabapentin> they're working on it, though. i know their top-level sysadmins
+01:14 <bikcmp> do they have a linux app
+01:14 <`|gabapentin> sadly no.
+01:14 <bikcmp> if not, we're screwed
+01:14 <bikcmp> lol
+01:14 <bikcmp> ok
+01:14 <`|gabapentin> so you're totally linux?
+01:14 <bikcmp> let me boot into wi... o
+01:14 <bikcmp> well
+01:15 <bikcmp> i can't tether on windows.
+01:15 <bikcmp> i don't have the right drivers.
+01:15 <`|gabapentin> meh
+01:15 <`|gabapentin> use the phone.
+01:15 <`|gabapentin> ringing.
+01:15 <bikcmp> no
+01:15 <bikcmp> let me get my tablet
+01:15 <bikcmp> lol
+01:15 <`|gabapentin> oh fine.
+01:15 <bikcmp> .... oh
+01:15 <bikcmp> shit
+01:15 <`|gabapentin> ...picky
+01:15 <bikcmp> which i can't tether
+01:15  * bikcmp :trollface
+01:15 <bikcmp> bah
+01:16 <bikcmp> let me boot into windows and see what i can do
+01:16 <`|gabapentin> oh fun. g'luck
+01:16 <`|gabapentin> ok, back to the chan
+01:19 <bikcmp> :)
+01:19 <bikcmp> ok
+01:19 <bikcmp> internet is working again.
+01:19 <bikcmp> the internet fairy stepped in.
+--- Log closed Wed Jul 18 01:24:53 2012
+--- Log opened Wed Jul 18 03:11:56 2012
+03:11 <`|gabapentin> fyi
+03:11 <bikcmp> hi
+03:11 <bikcmp> yes?
+03:12 <`|gabapentin> sue's all being a manbaby (his words) and is all meh i want to go back up north
+03:12 <`|gabapentin> and is all "theres no jobs around :("
+03:12 <bikcmp> hahahahahahahaha
+03:12 <`|gabapentin> and is ":( no money for bus"
+03:12 <bikcmp> he wants to go back?
+03:12 <bikcmp> looooooooooool
+03:12 <`|gabapentin> but he manages to get food for himself
+03:12 <`|gabapentin> a huge box of coke
+03:12 <`|gabapentin> etc
+03:12 <bikcmp> coke
+03:13 <bikcmp> what kind of coke
+03:13 <`|gabapentin> soda.
+03:13 <bikcmp> cola coke
+03:13 <bikcmp> ah
+03:13 <bikcmp> k
+03:13 <bikcmp> lol
+03:13 <`|gabapentin> ...what were you thinking, we cokeheads?
+03:13 <`|gabapentin> you crazy
+03:13 <bikcmp> you're methheads
+03:13 <`|gabapentin> well
+03:13 <`|gabapentin> sue...
+03:13 <`|gabapentin> he's a fucking stick
+03:13 <`|gabapentin> he might as well be doing meth
+03:13 <`|gabapentin> me
+03:13 <bikcmp> yeah
+03:13 <`|gabapentin> weed, kthxbai
+03:13 <bikcmp> that sucks.
+03:13 <bikcmp> what's the kind of rent he pays
+03:13 <`|gabapentin> 200
+03:13 <`|gabapentin> flat
+03:14 <bikcmp> dang
+03:14 <bikcmp> that's a goooood deal
+03:14 <`|gabapentin> me, variable between 400-500
+03:14 <`|gabapentin> since i get my own room and bs
+03:14 <bikcmp> how do you sign with
+03:14 <`|gabapentin> and sue's in the 'laundry room converted to room'
+03:14 <bikcmp> also, don't post any more pictures of me in #deafgeeks 
+03:14 <bikcmp> thevoid is in there
+03:14 <`|gabapentin> ok, sorry about that
+03:14 <bikcmp> no, i don't care about before
+03:14 <bikcmp> now someone's in there
+03:14 <bikcmp> lol
+03:14 <`|gabapentin> :P
+03:14 <`|gabapentin> ah
+03:15 <`|gabapentin> got it
+03:16 <`|gabapentin> who is thevoid anyway
+03:16 <bikcmp> i have no idea
+03:16 <bikcmp> some dude on irondust
+03:16 <bikcmp> lol
+03:16 <`|gabapentin> lol
+03:16 <bikcmp> don't know whether he's against me or with me
+03:16 <bikcmp> lol
+03:16 <`|gabapentin> i need to get back onto irondust
+03:17 <bikcmp> you most certainly do!
+03:17 <`|gabapentin> the fuck
+03:17 <`|gabapentin> i'm not on irondust at all?
+03:18 <bikcmp> you are
+03:18 <`|gabapentin> oh there it is
+03:18 <`|gabapentin> fucking screen.
+03:18 <`|gabapentin> ok
+03:18 <bikcmp> 02:03:38  [msg(chanserv)] info #sense4allpublic
+03:18 <bikcmp> 04:17:24  -!- ` [~dissimulo@btfeilhqdkktc.deafgeeksdns.com]
+03:18 <bikcmp> 04:17:24  -!-  ircname  : dissimulo
+03:18 <bikcmp> 04:17:24  -!-  channels : @#hh
+03:18 <bikcmp> 04:17:24  -!-  server   : wolfram.irondust.net [Phoenix, Arizona, USA]
+03:18 <bikcmp> 04:17:24  -!-  hostname : cookiemonster.deafgeeksdns.com 108.166.7.184
+03:18 <bikcmp> 04:17:24  -!-  idle     : 0 days 7 hours 37 mins 48 secs [signon: Tue Jul 17
+03:18 <bikcmp>                           18:32:18 2012]
+03:18 <bikcmp> 04:17:24  -!-  account  : `
+03:18 <bikcmp> 04:17:24  -!- End of WHOIS
+03:19 <bikcmp> how do you sign with too?
+03:19 <bikcmp> 'with'
+--- Log closed Wed Jul 18 03:24:53 2012
+--- Log opened Wed Jul 18 03:26:44 2012
+03:26 <`|gabapentin> can you give me your address?
+03:26 <bikcmp> uh
+03:26 <`|gabapentin> so i can give you places closest to you?
+03:26 <bikcmp> why
+03:27 <bikcmp> voorhees is about 8 miles long
+03:27 <bikcmp> er
+03:27 <bikcmp> big
+03:27 <`|gabapentin> well
+03:27 <bikcmp> i'm near the cvs on kresson road
+03:27 <bikcmp> route 73
+03:27 <`|gabapentin> assuming google's saying voorhees is center
+03:27 <bikcmp> oh
+03:27 <`|gabapentin> center of the town
+03:27 <bikcmp> eschalon
+03:27 <bikcmp> bah
+03:27 <bikcmp> can't spell it
+03:27 <`|gabapentin> so
+03:27 <bikcmp> voorhees town center
+03:27 <bikcmp> right?
+03:27 <bikcmp> next to the macys
+03:27 <`|gabapentin> google claims penn school for the deaf
+03:27 <`|gabapentin> is 19 miles NW
+03:28 <bikcmp> so, add on 5 miles away from town center
+03:28 <bikcmp> 24 miles away
+03:28 <`|gabapentin> not that bad
+03:28 <bikcmp> about 30ish mins of a drive
+03:28 <bikcmp> one problem:
+03:28 <bikcmp> dad can't drive
+03:28 <bikcmp> mom won't drive
+03:28 <bikcmp> :)
+03:28 <`|gabapentin> public transportation.
+03:28 <bikcmp> they get all concerned
+03:28 <bikcmp> :P
+03:28 <bikcmp> sure, we won't drive you, but if someone else does...
+03:28 <bikcmp> :-P
+03:28 <`|gabapentin> i dont get it?
+03:28 <bikcmp> tell me about it
+03:28 <bikcmp> overprotective not caring parents
+03:28 <bikcmp> lol
+03:29 <`|gabapentin> they're pennypinchers
+03:29 <`|gabapentin> dont want to spend gas money
+03:29 <bikcmp> yeah 
+03:29 <bikcmp> well
+03:29 <bikcmp> and living in the richest part of town
+03:29 <bikcmp> yeah
+03:29 <bikcmp> it's stupid.
+03:29 <`|gabapentin> just gimme your street?
+03:29 <`|gabapentin> so i can finetune
+03:29 <bikcmp> kresson road
+03:29 <`|gabapentin> kk
+03:29 <bikcmp> it isn't my street
+03:29 <bikcmp> but like
+03:29 <bikcmp> it's about a 2 minute walk
+03:29 <bikcmp> lol
+03:30 <`|gabapentin> yeah, got it
+03:30 <`|gabapentin> okay
+03:30 <`|gabapentin> yuk
+03:30 <bikcmp> see?
+03:30 <bikcmp> i'm sol
+03:30 <`|gabapentin> it's 1h50m trip
+03:30 <bikcmp> seriously
+03:30 <`|gabapentin> you're 16?
+03:30 <bikcmp> yes
+03:30 <`|gabapentin> damn.
+03:31 <bikcmp> no, can't drive until i'm 18
+03:31 <bikcmp> :P
+03:31 <bikcmp> that's why i'm always open to signing with you or others
+03:31 <`|gabapentin> yeah.
+03:31 <bikcmp> well
+03:31 <bikcmp> here's the thing
+03:31 <bikcmp> the voorhees school district is very good to disabled children.
+03:31 <bikcmp> a lot of people move here because they have a disabled kid.
+03:31 <`|gabapentin> hm.
+03:31 <bikcmp> i'm luckily not disabled, but yeah
+03:31 <bikcmp> basically
+03:32 <`|gabapentin> there's interpreting service nearby
+03:32 <bikcmp> i'm hoping that next school year (2 months...), i'll be able to find a kid with speech disabilities
+03:32 <`|gabapentin> maybe you can go there and glean some info
+03:32 <bikcmp> speech or hearing
+03:32 <`|gabapentin> see if there's something like DNOs
+03:32 <bikcmp> dno's?
+03:32 <`|gabapentin> Deaf Night OUt
+03:32 <bikcmp> oh
+03:32 <bikcmp> who would drive
+03:32 <bikcmp> :-P
+03:32 <`|gabapentin> usually happens once a month
+03:32 <`|gabapentin> but you basically need to gtfo
+03:32 <`|gabapentin> and find info
+03:32 <bikcmp> i know right
+03:33 <bikcmp> dude
+03:33 <bikcmp> i've tried
+03:33 <bikcmp> i've called
+03:33 <bikcmp> everything
+03:33 <bikcmp> VCO is very useful to me
+03:33 <`|gabapentin> nada?
+03:33 <bikcmp> know if convowhatever has it?
+03:33 <bikcmp> so i could at the least learn from VCO
+03:33 <`|gabapentin> well
+03:33 <`|gabapentin> i think it does VCO
+03:34 <`|gabapentin> hold on
+03:34 <bikcmp> but you need to tell the operator
+03:34 <`|gabapentin> i'll call back
+03:34 <bikcmp> in which i don't know how to do
+03:34 <bikcmp> lol
+03:34 <bikcmp> when you call back i want to pretend to be some user
+03:34 <bikcmp> like, pretend to want vco or something
+03:34 <bikcmp> i'd like to at the least get down the stuff that they'd most likely say
+03:34 <bikcmp> lol
+03:34 <bikcmp> say stuff like 'hold', 'hung up'
+03:35 <`|gabapentin> okay
+03:35 <`|gabapentin> i just spoke with an operator
+03:35 <`|gabapentin> they say that they have two ways of doing VCO
+03:35 <`|gabapentin> they can accept mic input directly from the convo app
+03:36 <bikcmp> or call me back
+03:36 <`|gabapentin> and then carry that over (VCO)
+03:36 <bikcmp> yeah
+03:36 <`|gabapentin> or use an separate phone line
+03:36 <`|gabapentin> and use that to carry voic
+03:36 <`|gabapentin> e
+03:36 <bikcmp> seperate phone line?
+03:36 <`|gabapentin> thats the "old" way
+03:36 <`|gabapentin> no need to do that, really, last resort
+03:37 <bikcmp> well
+03:37 <bikcmp> here's the thing
+03:37 <bikcmp> i can't tell the operator 
+03:37 <bikcmp> i don't know how to sign it.
+03:37 <bikcmp> here, i'll call you
+03:37 <bikcmp> and pretend to want vco
+03:37 <bikcmp> ok
+03:37 <`|gabapentin> you need to center your hand
+03:37 <`|gabapentin> in the camera
+03:38 <bikcmp> oh
+03:38 <`|gabapentin> so the interp can see it clearly
+03:38 <bikcmp> sign that again slowly
+03:38 <bikcmp> this way or that way
+03:39 <`|gabapentin> always sideway
+03:39 <bikcmp> for o?
+03:39 <bikcmp> and c?
+03:39 <`|gabapentin> yes
+03:39 <`|gabapentin> for the camera, anyway
+03:39 <`|gabapentin> irl doesnt matter
+03:39 <`|gabapentin> but
+03:39 <`|gabapentin> dont separate your fingers for the C
+03:39 <bikcmp> yeah
+03:39 <`|gabapentin> make sure it's togheter
+03:39 <`|gabapentin> like
+03:39 <`|gabapentin> you're actually cupping a cup
+03:39 <bikcmp> i also try to talk while i sign
+03:39 <bikcmp> don't know whether you noticed
+03:40 <`|gabapentin> you're still KINDA fudging the C
+03:40 <`|gabapentin> but we'll work ont hat
+03:40 <`|gabapentin> it takes practice :D
+03:40 <`|gabapentin> :D
+03:40 <`|gabapentin> it's all good, dont worry
+03:41 <`|gabapentin> 16
+03:41 <`|gabapentin> basically shaking the 6-9 letters to make a double digit
+03:41 <bikcmp> how do you sign '20'
+03:42 <bikcmp> bah
+03:42 <`|gabapentin> Sue need to join in
+03:42 <`|gabapentin> ffs
+03:42 <bikcmp> get him in
+03:42 <bikcmp> he can't be on this because he's not qualified, can he
+03:42 <`|gabapentin> he's not even at the level you are
+03:42 <bikcmp> wow
+03:43 <`|gabapentin> i'm frankly amazed at your progress
+03:43 <bikcmp> and he's fucking living with a deaf person
+03:43 <bikcmp> wtf
+03:43 <`|gabapentin> i know
+03:43 <`|gabapentin> i'm kinda .____.
+03:43 <bikcmp> how the fuck do i know more than someone living with a deaf person
+03:43 <bikcmp> imagine what it'd be like if i lived there
+03:43 <`|gabapentin> because i was looking forward to working with him, chilling, bs
+03:43 <bikcmp> i'd be like, deaf
+03:43 <bikcmp> lol
+03:43 <`|gabapentin> but nooo
+03:43 <bikcmp> :(
+03:43 <bikcmp> sucks
+03:43 <`|gabapentin> he's all moody and D:
+03:43 <bikcmp> he just wanted a place to trash
+03:43 <bikcmp> is it his time of the month?
+03:43 <`|gabapentin> i feel like smacking him
+03:43 <`|gabapentin> no
+03:43 <`|gabapentin> it's everyday, damn it
+03:44 <bikcmp> hm
+03:44 <bikcmp> have you noticed any blood in the trashcans?
+03:44 <bikcmp> they can either signal one of two things
+03:44 <`|gabapentin> fortunately, no
+03:44 <bikcmp> he's a heroin addict
+03:44 <bikcmp> or
+03:44 <bikcmp> he's a woman
+03:44 <bikcmp> likely the latter
+03:44 <`|gabapentin> lol
+03:44 <`|gabapentin> no blood.
+03:44 <bikcmp> damn.
+03:44 <bikcmp> maybe he's preggo.
+03:44 <bikcmp> now you go and show him these irc logs
+03:44 <`|gabapentin> what's up with you and fetishes
+03:45 <bikcmp> hah
+03:45 <bikcmp> heroin?
+03:45 <bikcmp> uncle sold heroin
+03:45 <bikcmp> he's in jail
+03:45 <bikcmp> lol
+03:45 <`|gabapentin> lol
+03:45 <bikcmp> he sold all sorts of weird shit
+03:45 <bikcmp> now my aunt is dating this awesome guy
+03:45 <bikcmp> just moved in
+03:45 <bikcmp> he's an awesome guy, into smartphones and all that
+03:45 <bikcmp> and best friends with my dad
+03:45 <bikcmp> he was neighbors with my dad
+03:45 <bikcmp> lol
+03:46 <`|gabapentin> fark
+03:46 <`|gabapentin> i need to find batteries
+03:46 <bikcmp> ?
+03:47 <bikcmp> for what
+03:47 <bikcmp> calculator?
+03:47 <bikcmp> actually
+03:47 <bikcmp> from now on
+03:47 <bikcmp> let me fs
+03:48 <`|gabapentin> fs?
+03:48 <`|gabapentin> and yeah, calculator
+03:48 <`|gabapentin> but it's acting funny now
+03:48 <`|gabapentin> D:
+03:48 <bikcmp> lol.
+03:48 <`|gabapentin> i think it needs batteries inline
+03:48 <bikcmp> use your fancy iphone
+03:48 <`|gabapentin> for some reason
+03:49 <bikcmp> that's weird
+03:49 <bikcmp> oh right
+03:49 <bikcmp> fs
+03:50 <`|gabapentin> press 8, and get 5's
+03:50 <`|gabapentin> *6's
+03:51 <`|gabapentin> fuck
+03:51 <`|gabapentin> im tired.
+03:51 <bikcmp> you're choppy as hell
+03:51 <`|gabapentin> and i'm peaking on gab.
+03:51 <`|gabapentin> so i'm like durrrrrr herp
+03:51 <bikcmp> gab/
+03:51 <`|gabapentin> <
+03:51 <bikcmp> ?
+03:51 <`|gabapentin> it's a painkiller
+03:51 <`|gabapentin> say again
+03:52 <`|gabapentin> "to"
+03:52 <`|gabapentin> when sue
+03:52 <bikcmp> eh?
+03:52 <bikcmp> oh
+03:52 <bikcmp> wait
+03:52 <bikcmp> i was signing when
+03:52 <bikcmp> wasn't i
+03:52 <`|gabapentin> yes.
+03:52 <bikcmp> how do you sign where
+03:53 <`|gabapentin> yo
+03:53 <`|gabapentin> you're all frozen
+03:53 <`|gabapentin> and there goes the call
+03:53 <`|gabapentin> lolinternetshititself
+03:54 <`|gabapentin> actually
+03:54 <`|gabapentin> lemme call you back
+03:54 <`|gabapentin> dude!
+--- Log closed Wed Jul 18 03:59:53 2012
+--- Log opened Wed Jul 18 04:16:10 2012
+04:16 <`|gabapentin> :D
+04:19 <bikcmp> ?
+04:19 <bikcmp> 04:54:00  <`|gabapentin> dude!
+04:19 <bikcmp> also
+04:19 <bikcmp> finally comcast
+--- Log closed Wed Jul 18 04:24:53 2012
+--- Log opened Wed Jul 18 04:35:45 2012
+04:35 <`> lols
+04:36 <`> sucks that they fuck with your connections
+04:36 <`> this is why i will never do comcast
+04:36 <`> i will never accept outages
+04:36 <`> ever.
+--- Log closed Wed Jul 18 04:41:53 2012
+--- Log opened Wed Jul 18 04:45:17 2012
+04:45 <`> i would go as far as getting satellite internuts
+04:45 <`> i will not deal with comcrap
+04:45 <`> if i had no other option
+--- Log closed Wed Jul 18 04:50:53 2012
+--- Log opened Wed Jul 18 20:56:17 2012
+20:56 -!- Irssi: Starting query in localhost with bikcmp
+20:56 <`> keep this to yourself, please
+20:56 <`> ok?
+20:56 <bikcmp> sure
+20:56 <`> ...great
+20:56 <`> [7/18/12 6:43:17 PM] Emily: mm?
+20:56 <`> [7/18/12 6:43:51 PM] Dustin: just got told that zach is giving up and going back to his mommy.
+20:56 <`> [7/18/12 6:44:17 PM] Dustin: his words: "i'm a manbaby."
+20:56 <`> [7/18/12 6:44:34 PM] Dustin: he hasn't shown any effort
+20:57 <`> damn it
+20:57 <bikcmp> ?
+20:57 <bikcmp> wrong paste?
+20:57 <`> this shitty emulator just... truncates my pastas
+20:57 <bikcmp> dgd.io it or something
+20:57 <bikcmp> lol
+20:58 <`> hold on
+20:58  * bikcmp plays jeopardy music
+20:59 <bikcmp> i'll be back in a second, i'll get whatever you paste at me
+20:59 <`> [7/18/12 6:39:04 PM] Dustin: ...great
+20:59 <`> [7/18/12 6:43:17 PM] Emily: mm?
+20:59 <`> [7/18/12 6:43:51 PM] Dustin: just got told that zach is giving up and going back to his mommy.
+20:59 <`> [7/18/12 6:44:17 PM] Dustin: his words: "i'm a manbaby."
+21:00 <`> [7/18/12 6:44:34 PM] Dustin: he hasn't shown any effort
+21:00 <`> [7/18/12 6:44:56 PM] Dustin: i told him i'll help whenever i can
+21:00 <`> [7/18/12 6:45:00 PM] Dustin: i see nothing.
+21:00 <`> [7/18/12 6:45:34 PM] Dustin: whatever.
+21:00 <`> [7/18/12 6:46:27 PM] Emily: mmmm
+21:00 <`> [7/18/12 6:46:32 PM] Emily: he's going back
+21:00 <`> [7/18/12 6:46:36 PM] Emily: because of the asl thing?
+21:00 <`> [7/18/12 6:47:21 PM] Dustin: [7/18/12 6:31:19 PM] Zachary Hardesty: i'm sorry i'm running
+21:00 <`> [7/18/12 6:31:30 PM] Zachary Hardesty: i just don't see myself getting anywhere without a car
+21:00 <`> [7/18/12 6:31:36 PM] Zachary Hardesty: anywhere in life
+21:00 <`> [7/18/12 6:47:41 PM] Emily: well how do you get a car?
+21:00 <`> [7/18/12 6:47:45 PM] Dustin: exactly
+21:00 <`> [7/18/12 6:47:59 PM] Dustin: i told him theres jobs to be had, that he can save up for a car.
+21:00 <`> [7/18/12 6:48:07 PM] Dustin: he's still pissmoaning.
+21:00 <`> [7/18/12 6:48:35 PM] Emily: lol
+21:00 <`> [7/18/12 6:48:42 PM] Dustin: so i dont know.
+21:00 <`> [7/18/12 6:48:57 PM] Dustin: fuck, i need a bowl
+21:00 <`> [7/18/12 6:48:59 PM] Dustin: and i have nothign.
+21:00 <`> [7/18/12 6:49:11 PM] Emily: i have some here
+21:00 <`> [7/18/12 6:49:16 PM] Dustin: yummy
+21:00 <`> [7/18/12 6:49:20 PM] Dustin: how is it?
+21:00 <`> [7/18/12 6:49:32 PM] Emily: haven't
+21:00 <`> [7/18/12 6:49:47 PM] Emily: i was offering, if you guys needed a break from each other
+21:00 <`> [7/18/12 6:50:22 PM] Dustin: its not even that
+21:00 <`> [7/18/12 6:50:25 PM] Dustin: we barely even talk
+21:00 <`> [7/18/12 6:50:31 PM] Dustin: he
+21:01 <bikcmp> mind if i ask who emily is?
+21:01 <`> one of my *good* deaf friends
+21:01 <bikcmp> ah
+21:01 <`> [7/18/12 6:50:37 PM] Emily: oooh i got it now
+21:01 <`> [7/18/12 6:50:41 PM] Dustin: he's doing nothing, basically
+21:01 <`> [7/18/12 6:51:15 PM] Emily: to learn asl?
+21:01 <`> [7/18/12 6:51:18 PM] Emily: or in general
+21:01 <bikcmp> well
+21:01 <bikcmp> between you and me
+21:01 <`> [7/18/12 6:51:21 PM] Dustin: not just that.
+21:01 <`> [7/18/12 6:51:26 PM] Dustin: yeah, in general.
+21:01 <`> [7/18/12 6:51:37 PM] Dustin: theres this one user in one of the chat networks i hang on
+21:01 <`> [7/18/12 6:51:45 PM] Dustin: he works with Zach
+21:01 <bikcmp> it sounds like zach is fucking lazy
+21:01 <`> [7/18/12 6:52:10 PM] Dustin: he knows WAY more sign than Zach does; and he has NEVER seen anybody sign until last night when we skyped.
+21:01 <`> [7/18/12 6:52:47 PM] Dustin: i helped him fix some of the signs he learned online, but frankly, i was amazed at his progress - especially without deaf interaction
+21:01 <`> [7/18/12 6:53:01 PM] Dustin: he's using VRS to learn, which is pretty clever
+21:01 <`> [7/18/12 6:53:08 PM] Dustin: he calls VRS and leaves himself messages
+21:01 <`> [7/18/12 6:53:20 PM] Dustin: and then watches the RO sign and learn from that
+21:01 <`> [7/18/12 6:53:22 PM] Dustin: clever.
+21:01 <`> [7/18/12 6:53:41 PM] Emily: i like when people show THAT much effort
+21:01 <`> [7/18/12 6:53:46 PM] Dustin: yes! that
+21:01 <bikcmp> :-)
+21:02 <bikcmp> i'm glad to, uh, hear that
+21:02 <`> ;)
+21:02 <`> but it illustrates what's up with Sue.
+21:02 <bikcmp> it's pretty sad when someone who's never signed with a deaf person in real life can sign better than someone living with you
+21:02 <bikcmp> sue knows this?
+21:02 <bikcmp> actually know what
+21:02 <`> no
+21:02 <bikcmp> why are we typing this
+21:02 <`> heh
+21:02 <bikcmp> let me restart into windows.
+21:02 <bikcmp> this time i'm wearing somehting more than just an undershirt
+21:02 <bikcmp> lol
+21:02 <`> heh
+21:06 <bikcmp> k
+21:06 <bikcmp> in windows
+21:06 <bikcmp> but like
+21:06 <bikcmp> so what happened
+21:06 <bikcmp> sue just ran away?
+21:07 <`> he's still here, but in effect, yes
+21:07 <bikcmp> so like
+21:07 <bikcmp> what will happen
+21:07 <`> he just told me that hes planning to go back up next week
+21:07 <`> i have no fucking clue.
+21:07 <bikcmp> he sounds like he has problems.
+21:07 <`> i'm seriously disappointed.
+21:07 <bikcmp> that's really weird.
+21:07 <bikcmp> he's just too lazy to sign with you?
+21:07 <`> i guess?
+21:08 <bikcmp> also
+21:08 <bikcmp> i know i keep forgetting this
+21:08 <bikcmp> last time, i swear
+21:08 <bikcmp> what was that sign that i did last night- the one where you put the thumb up to the chin
+21:08 <bikcmp> and the index finger moves.
+21:08 <bikcmp> it was when, who, or something
+21:08 <`> i'd need to see it
+21:08 <`> but that sounds like `who'
+21:09 <bikcmp> how would you sign who?
+21:09 <`> i'm on convo
+21:09 <bikcmp> ah
+21:09 <bikcmp> i know there's one that you go around your lips
+21:09 <bikcmp> i'm looking it up in an asl dictionary
+21:09 <bikcmp> i'm trying to learn 10 new words a day.
+21:10 <`> thats awesome
+21:10 <bikcmp> the difference with me and sue is the fact that i really want to try to learn
+21:10 <bikcmp> he's more of a "i want to just crash here"
+21:10 <bikcmp> i'm trying to do as much sign as i fucking can
+21:10 <bikcmp> sue doesn't feel stupid that someone who's never spoken to a deaf man before knows more than him?
+21:10 <`> :D
+21:11 <`> yeah i dunno
+21:11 <bikcmp> he sounds like a lazy asshat
+21:11 <`> its starting to look like it, too.
+21:11 <`> he just plays games most of the day.
+21:11 <`> i dont claim to be any better
+21:11 <`> but still.
+21:11  * bikcmp shrugs
+21:12 <`> i at least try to accomplish some things
+21:12 <bikcmp> here, so i try to get practice in
+21:12 <bikcmp> explain it to me on convorelay or something
+21:12 <bikcmp> second
+21:12 <`> i even asked him to give me a copy of his psp gameboy emulator
+21:12 <`> i still haven't seen anything.
+21:12 <bikcmp> i could give you one
+21:12 <`> i hate to rag on him
+21:12 <`> but grr.
+21:12 <bikcmp> i played it all the time in my engineering classes
+21:12 <bikcmp> lol
+21:12 <`> i know he can do better
+21:12 <`> fuck.
+21:12 <bikcmp> ?
+21:12 <`> i'm officially an adult bitching about a kid's laziness.
+21:13 <`> ._.
+21:13 <`> i'm getting old D:
+21:13 <bikcmp> news
+21:14 <bikcmp> sue isn't around you
+21:14 <bikcmp> right?
+21:14 <`> no.
+21:14 <`> we have our own rooms, but interconnected
+21:14 <`> if i open my door, i can see him at his desk
+21:15 <bikcmp> ah
+21:15 <bikcmp> i'll call you now
+21:15 <bikcmp> hm
+21:15 <bikcmp> i'll add you to the contacts, i don't have your number
+21:16 <bikcmp> Dustin, right?
+21:16 <`> yeah.
+21:16 <bikcmp> 909... what
+21:16 <`> 9099397002
+21:16 <bikcmp> got you
+21:18 <`> my vid is off right now, hold on
+21:19 <bikcmp> yeah
+21:19 <bikcmp> can you see me?
+21:19 <`> dark as fuck, man
+21:19 <`> even if it's bright
+21:19 <`> doesn't mean it can be brighter
+21:19 <bikcmp> sorry
+21:19 <`> lolshittyCCDsensors
+21:19 <bikcmp> this laptop sucks major butt
+21:19 <`> you love that shit, dont you
+21:19 <`> i'm big on Martinelli's
+21:20 <bikcmp> still says video off
+21:20 <`> yeah
+21:20 <bikcmp> * ` puts pants on
+21:20 <`> more like
+21:20  * ` burns a bowl in a bubbler.
+21:21 <bikcmp> how the heck do you do that
+21:21 <`> wasn't sure if you were ... comfortable watching me doing that
+21:21 <bikcmp> bubbler, hm
+21:21 <bikcmp> what is a bubbler
+21:21 <`> fuck it
+21:21 <`> i'll just show you
+21:22 <bikcmp> can't see
+21:22 <`> its basically a bong-pipe hybrid
+21:22 <bikcmp> picture is too blurry
+21:22 <bikcmp> blurry as hell
+21:22 <`> your internuts suck
+21:22 <bikcmp> no shit
+21:23 <`> you a ent?
+21:23 <`> *an
+21:23 <bikcmp> a what
+21:24 <bikcmp> ent?
+21:24 <`> lol
+21:24 <`> you a redditor?
+21:24 <bikcmp> nope
+21:24 <`> thats why, then.
+21:24 <`> http://reddit.com/r/trees
+21:24 <bikcmp> care
+21:24 <`> basically, weed subreddit.
+21:24 <bikcmp> oh
+21:24 <bikcmp> lol
+21:24 <`> :D
+21:24 <`> it's pretty interesting.
+21:24 <bikcmp> yeah
+21:24 <bikcmp> well
+21:24 <bikcmp> i don't want to have browsing history like that
+21:24 <bikcmp> haha
+21:25 <bikcmp> nj weed laws aren't as, uh
+21:25 <bikcmp> forgiving
+21:25 <`> no kidding
+21:25 <`> this is my weed license
+21:25 <bikcmp> frankly if cigs are legal
+21:25 <`> lol
+21:25 <bikcmp> i think weed should be
+21:26 <bikcmp> carry with you at all times
+21:26 <`> i agree
+21:26 <bikcmp> ll
+21:26 <`> yeah
+21:26 <`> i have a original doctor's recommendation
+21:26 <bikcmp> smoke weed in front of the president
+21:26 <bikcmp> lol
+21:26 <bikcmp> what do you do to get that
+21:26 <`> go to a MMA Clinic
+21:26 <`> (medial marj)
+21:26 <bikcmp> "I NEED WEED, MY ASS HURTS"
+21:26 <`> actually
+21:26 <bikcmp> yes, i know
+21:26 <bikcmp> that'll do it
+21:26 <bikcmp> lol
+21:26 <`> i have a legit thing
+21:27 <`> lower back pain
+21:27 <bikcmp> aw
+21:27 <`> thats why i have gabapentin
+21:27 <bikcmp> my dad is paralized
+21:27 <bikcmp> no weed for him though
+21:27 <bikcmp> :(
+21:27 <`> bummar.
+21:27 <`> if he had weed
+21:27 <bikcmp> yeah :(
+21:27 <`> he'd probably settle down
+21:27 <`> lol
+21:27 <bikcmp> lol
+21:27 <bikcmp> he's on some fucking heavvvvvvvvvvvvy meds
+21:27 <`> not be all FUUUUUUUUUUUUU
+21:27 <bikcmp> no, he's on meds that make him out of it
+21:27 <`> ah.
+21:27 <`> that bad, eh?
+21:27 <bikcmp> very very bad
+21:27 <bikcmp> but yeah
+21:27 <bikcmp> :(
+21:28 <`> bumamr.
+21:28 <`> *bummar.
+21:28 <`> k, takign hit
+21:29 <`> trying to hold it in as long as i can
+21:29 <`> since that was the only bowl i had
+21:29 <`> just turned ac back on
+21:29 <`> since it messes with the flame
+21:30 <`> do you sit indian-style on your chair sometimes?
+21:30 <bikcmp> indian style?
+21:30 <bikcmp> cross leged?
+21:30  * ` shrugs
+21:30 <`> yeah.
+21:30 <bikcmp> nope
+21:30 <bikcmp> never
+21:30 <`> i do it all the time
+21:30 <`> im weird like that
+21:30 <`> lol
+21:30 <bikcmp> my legs always fall numb
+21:30 <bikcmp> so yeah
+21:30 <`> i alternate
+21:31 <`> i X sue
+21:31 <bikcmp> tell me about sue
+21:31 <`> the 'about' sign threw me off
+21:31 <`> it's supposed to be:
+21:31 <bikcmp> how should i sign about
+21:31 <`> one loop and then touch finger
+21:32 <`> i missed that
+21:32 <`> :P
+21:32 <`> but basically, every time i go to the kitchen, i have to go thru his room
+21:32 <`> he does try
+21:33 <bikcmp> 'sue too lazy to sign with you'
+21:33 <`> but he doesn't .... keep up the effort
+21:33 <`> yeah
+21:33 <`> i got that
+21:33 <bikcmp> ok
+21:33 <bikcmp> uh
+21:33 <`> that sign kinda means "whoa"
+21:33 <bikcmp> "sue hangs out in that room?"
+21:33 <`> close
+21:33 <`> i was modifying your sentence
+21:33 <`> to modern ASL :P
+21:34 <`> "sue is whoa lazy"
+21:34 <`> tap L to top shoulder
+21:34 <`> that's whoa
+21:34 <`> yeah.
+21:35 <bikcmp> 'sue too lazy to sign with you', version 2:
+21:35 <`> with ASL
+21:35 <`> dont sign "to" so much
+21:35 <`> it's implied
+21:35 <`> alrady
+21:35 <`> *already
+21:35 <bikcmp> i'm pretty much doing signed english
+21:35 <bikcmp> i don't know asl syntx
+21:35 <`> right
+21:35 <bikcmp> ax
+21:35 <`> i'm helping you with that now ;)
+21:35 <bikcmp> yeah
+21:35 <`> seriously
+21:35 <`> if you have money
+21:35 <`> or can get money
+21:35 <bikcmp> asl syntax is weird
+21:36 <`> get this book.
+21:36 <bikcmp> is it online?
+21:36 <`> i'm not sure if someone ripped the book
+21:36 <`> but
+21:36 <bikcmp> or google book
+21:36 <bikcmp> who owns books anymore
+21:36 <bikcmp> :)
+21:37 <`> http://dgd.io/hXLP
+21:37 <bikcmp> 'out of stock.'
+21:38 <`> not from other sellers
+21:38 <`> and apparently
+21:38 <`> tpb has lessons 20-22
+21:38 <`> of the second edition of that book
+21:38 <bikcmp> argh
+21:38 <bikcmp> i want entire thing
+21:38 <`> i know
+21:38 <`> D:
+21:39 <`> might as well grab it and keep it just in case
+21:39 <`> http://thepiratebay.se/torrent/4931851/A_Basic_Course_in_ASL__Lessons_20-22
+21:39 <bikcmp> you forgot
+21:39 <bikcmp> comcast blocks torrents.
+21:39 <bikcmp> :-)
+21:40 <`> another reason i will never use communistcrap
+21:40 <bikcmp> ikr
+21:40 <`> and wasn't that fucking declared illegal
+21:40 <bikcmp> yep
+21:40 <bikcmp> "and?"
+21:40 <bikcmp> fuck comcast
+21:40 <`> so they're violating the law.
+21:40 <bikcmp> they say they don't
+21:40 <bikcmp> but like
+21:40 <bikcmp> the torrents just are SO SLOW
+21:40 <`> they perform DPI
+21:40 <bikcmp> and sometimes fail
+21:40 <`> yeah
+21:40 <`> DPI
+21:40 <bikcmp> they HAVE to be doing something.
+21:40 <`> Deep Packet Inspection
+21:40 <`> and QoS
+21:41 <bikcmp> ikr
+21:41 <`> QoS isn't illegal
+21:41 <bikcmp> qos isn't
+21:41 <bikcmp> DPI is
+21:41 <`> which is bullshit
+21:41 <bikcmp> eh
+21:41 <bikcmp> why wouldn't you want dpi
+21:41 <bikcmp> err
+21:41 <bikcmp> qos
+21:41 <`> DPI isn't illegal if not collecting the data
+21:41 <`> they just use DPI for their QoS systems
+21:41 <`> from what i understand
+21:41 <bikcmp> hm
+21:42 <`> so people can't go encapsulating packets with something else
+21:42 <`> etc
+21:42 <`> like i said
+21:42 <`> they're very fucking communist
+21:42 <bikcmp> yeah
+21:43 <bikcmp> i'm looking at two versions.
+21:43 <`> like you're including "everything" around you
+21:43 <bikcmp> i like the latter better.
+21:43 <bikcmp> you signed the first.
+21:44 <`> it really depends on context
+21:44 <bikcmp> that was the one i'm looking at
+21:44 <bikcmp> a then 'l
+21:44 <`> those two versions have distinct use
+21:44 <`> like
+21:44 <`> if you're saying about
+21:44 <`> the country
+21:44 <`> no fuck that analogy
+21:44 <bikcmp> i was about to say
+21:44 <`> ALL THE THINGS!
+21:45 <bikcmp> 'all of the country'
+21:45 <`> you use the fingerspelled sign
+21:45 <`> but if you're talking about like
+21:45 <`> all tof the food in the shopping cart
+21:45 <`> you'd say
+21:45 <bikcmp> like
+21:45 <bikcmp> i'm signing 'all', 'gone'
+21:45 <`> all gone.
+21:45 <`> that's for people
+21:46 <`> as in, they "all left"
+21:46 <`> that means "all out.
+21:46 <`> of whatever"
+21:46 <bikcmp> the store was all out
+21:46 <`> right
+21:46 <`> so you see there's distinct signs
+21:46 <`> for specific contextes
+21:46 <bikcmp> i don't get when you'd use sign #1 and #2
+21:46 <`> *contexts
+21:46 <bikcmp> like, you know?
+21:46 <bikcmp> all is all.
+21:47 <`> yeah hm.
+21:47 <`> honestly
+21:47 <bikcmp> it doesn't matter tbh
+21:47 <`> i fyou get that book
+21:47 <bikcmp> like
+21:47 <bikcmp> you know
+21:47 <bikcmp> i can understand people
+21:47 <bikcmp> and they can understand me
+21:47 <bikcmp> big deal
+21:47 <`> it'd be a huge difference since it also explains the SYNTAX of asl
+21:47 <bikcmp> hm
+21:47 <bikcmp> well
+21:47 <`> it doesn't just teach you about the signs, but about the grammar and syntax of ASL
+21:47 <bikcmp> one
+21:47 <bikcmp> it doesn't seem like that book will ship soon
+21:47 <`> dude
+21:47 <bikcmp> "we don't know when thi item will be back in stock"
+21:47 <`> never take amazon at face value
+21:47 <`> click used
+21:48 <bikcmp> oh
+21:48 <`> 18 new; 99 used
+21:48 <`> ;)
+21:48 <bikcmp> lol used book
+21:48 <`> so just click 18 new
+21:48 <`> if you want new.
+21:48 <bikcmp> yeah
+21:48 <bikcmp> obv i want used
+21:48 <bikcmp> or cheapest
+21:48 <bikcmp> does it also tech you signs?
+21:48 <bikcmp> teach
+21:49 <`> yes
+21:49 <bikcmp> might get it then
+21:49 <`> i have friends who took classes with that book
+21:49 <bikcmp> really wish there was a google book
+21:49 <`> came back being able to completely hold a conversation with me
+21:49 <`> without difficulty
+21:49 <bikcmp> i have a 100 dollar amazon credit
+21:49 <bikcmp> so
+21:49 <bikcmp> yeah
+21:49 <`> DO IT
+21:49 <`> damn it, do it
+21:49 <`> i've recommended that book to other people
+21:50 <`> but nooooooo
+21:50 <`> they wussed out on buying it
+21:50 <bikcmp> let me see if i can find an online copy
+21:50 <bikcmp> yes, even for a fee
+21:50  * bikcmp mumblemumble
+21:51 <`> jesus
+21:51 <`> get the hardcopy
+21:51 <`> it's MUCH easier to deal with/learn from
+21:51 <`> but ok
+21:51 <bikcmp> old book
+21:51 <bikcmp> 1993?
+21:51 <bikcmp> lol
+21:51 <`> ....trust me
+21:51 <`> it's a foundational book
+21:51 <bikcmp> i'm sure i thasn't changed much
+21:52 <bikcmp> No eBook available.
+21:52 <bikcmp> :(
+21:52 <`> as in, it sets up a VERY solid foundation
+21:52 <bikcmp> god this fucking sucks
+21:52 <bikcmp> ok amazon, what do you want from m
+21:52 <bikcmp> e
+21:52 <bikcmp> :(
+21:52 <bikcmp> why are all these sign books so old
+21:52 <bikcmp> 1983
+21:52 <bikcmp> lol
+21:53 <`> 1st gen is 1983
+21:53 <`> 2nd ed is '94
+21:54 <`> it's a good investment
+21:54 <`> i bought a copy
+21:54 <`> but a friend never returned it
+21:54 <`> sigh.
+21:54 <bikcmp> i'm sur eyou don't need it
+21:54 <`> i do.
+21:58 <bikcmp> hm
+21:58 <bikcmp> did my phone die
+21:58 <bikcmp> lol
+22:00 <`> fucking battery.
+22:02 <bikcmp> :(
+22:02 <bikcmp> dude
+22:02 <bikcmp> i hate that 911 button
+22:02 <bikcmp> i almost just clicked it
+22:02 <`> lolol
+22:03 <`> i actually clicked it
+22:03 <`> on purpose
+22:03 <bikcmp> then i wouldn't be able to say "no emergency"
+22:03 <`> and said
+22:03 <bikcmp> yeah?
+22:03 <`> "oops, i accidentally clicked it"
+22:03 <`> "oh, no problem"
+22:03 <`> because ultimately it reaches the RO first
+22:03 <bikcmp> i'm sure 99/100 calls they get are accidents
+22:03 <bikcmp> lol
+22:03 <bikcmp> don't they need to dispatch someone just in case?
+22:03 <bikcmp> that's hard wired 911
+22:03 <`> not necessarily
+22:04 <bikcmp> i know my dad accidently dialed 911 from our landline
+22:04 <bikcmp> don't ask me how
+22:04 <`> they send first responders to the address on file
+22:04 <bikcmp> lol
+22:04 <bikcmp> yeah
+22:04 <`> but
+22:04 <bikcmp> unless you tell them otherwise
+22:04 <`> fuck it
+22:04 <`> i'm gonna test it
+22:04 <bikcmp> lol
+22:04 <bikcmp> wait
+22:04 <`> see if anything's new
+22:04 <bikcmp> wait a second
+22:04 <bikcmp> can you record the entire convo?
+22:04 <bikcmp> like, you and the person?
+22:04 <bikcmp> i want to see how a vrs call normally goes.
+22:04 <bikcmp> arg. did you get that in time?
+22:05 <`> ?
+22:05 <bikcmp> record it
+22:05 <bikcmp> like, record what you sign
+22:05 <bikcmp> and what the ro signed
+22:05 <bikcmp> i want to see how a typical call goes
+22:06 <`> okay
+22:06 <bikcmp> are you able to do that, or no
+22:06 <bikcmp> lol
+22:06 <`> dubbing video track
+22:06 <bikcmp> as long as i see both idc
+22:06 <bikcmp> lol
+22:06 <`> but
+22:06 <`> this is basically me starting the 911 call and cancelling
+22:07 <bikcmp> well
+22:07 <bikcmp> i'd like to ee that too
+22:07 <bikcmp> but maybe afterwards call my cell phone or something
+22:09 <`> fuck you vlc
+22:09 <`> every now and then
+22:09 <bikcmp> didn't record? :(
+22:09 <`> it fucking ties up the entire program "rebuilding font cache"
+22:09 <`> fuck you.
+22:09 <bikcmp> ?
+22:09 <`> nothing
+22:09 <`> i hate things cockblocking me
+22:09 <bikcmp> you didn't get it? :(
+22:09 <`> when i like to do things quickly
+22:09 <`> i didnt do a vrs call
+22:09 <bikcmp> oh
+22:09 <bikcmp> what did you do
+22:10 <`> but lol shows what happened with 911 test
+22:10 <bikcmp> lol?
+22:10 <bikcmp> i'm confused as hell
+22:10 <`> i'll record the vrs call, though
+22:10 <bikcmp> do it
+22:10 <bikcmp> if you can, both sides
+22:10 <`> http://dgd.io/mV3S
+22:12 <bikcmp> k
+22:12 <bikcmp> downloading
+22:13 <bikcmp> you didn't even sign with the person
+22:13 <bikcmp> wasn't what i expected
+22:13 <bikcmp> lol
+22:13 <`> yeah
+22:14 <`> but it illustrated what i was trying to say
+22:14 <`> it hits the RO first
+22:14 <bikcmp> oh i know that
+22:14 <bikcmp> then the ro forwards it
+22:14 <bikcmp> yeah
+22:14 <bikcmp> i know
+22:14 <`> yeah.
+22:14 <bikcmp> try calling my cell phone or something and record it
+22:14 <bikcmp> leave a voicemail
+22:14 <`> heh
+22:14 <bikcmp> i'd like to see how someting like that goes
+22:14 <bikcmp> something*
+22:15 <bikcmp> 856 448 4221
+22:15 <bikcmp> it'll go right to voicemail
+22:15 <bikcmp> record it
+22:16 <bikcmp> doing it?
+22:19 <`> no
+22:19 <`> speaking with mom
+22:19 <bikcmp> oh
+22:20 <`> gonna stay over a friend's, i think
+22:20 <bikcmp> you or mom?
+22:20 <`> me.
+22:20 <bikcmp> nice
+22:20 <`> i dont really want to be here, sorta.
+22:20 <bikcmp> why?
+22:20 <bikcmp> sue?
+22:20 <`> sort of.
+22:21 <`> just frustrated.
+22:21 <bikcmp> oh
+22:21 <bikcmp> so the whole sue thing got you worked up
+22:21 <`> i went as far as to offer him a place to life
+22:21 <`> *live
+22:21 <`> and he halfasses it and then leaves at the end of the month
+22:21 <`> ...nice.
+22:21 <bikcmp> :(
+22:21 <bikcmp> fwiw
+22:21 <`> but
+22:21 <bikcmp> he still hasn't paid me the silly $50.
+22:21 <bikcmp> not that i really care
+22:21 <bikcmp> but yeah
+22:22 <`> he's really broke
+22:22 <bikcmp> yeah
+22:22 <bikcmp> i don't mind
+22:22 <`> probably contributing to his 'depression' or whatever it is
+22:22 <bikcmp> i didn't expect to be paid
+22:22 <`> he's all fuck me i dont have car, cant go anywhere, bs
+22:22 <bikcmp> i used a ton of that code in other stuff, so ;P
+22:22 <bikcmp> walk!
+22:22 <bikcmp> bike!
+22:22 <`> exactly.
+22:22 <bikcmp> hitchhike
+22:22 <bikcmp> whore
+22:22 <bikcmp> who cares
+22:23 <`> all i know is
+22:23 <`> he's not showing effort.
+22:23 <`> and it's really disappointing me
+22:23 <bikcmp> he just wanted a place to crash.
+22:23 <`> obviously.
+22:23 <bikcmp> i hate people like that.
+22:23 <bikcmp> "BOO HOO MY LIFE SUCKS :((((((((("
+22:23 <`> yeah
+22:23 <`> my mom and sister
+22:23 <bikcmp> when there are 10000's of other people who would love to have your life
+22:23 <`> actually put him down
+22:23 <bikcmp> huh
+22:23 <`> "what a baby, what a whiner"
+22:23 <bikcmp> OH
+22:23 <`> i actually said fuck you out loud
+22:23 <`> to them
+22:23 <bikcmp> the way you said 'put him down'
+22:24 <bikcmp> like
+22:24 <bikcmp> if you put your dog down
+22:24 <`> in defense of Sue
+22:24 <bikcmp> you get what i mean?
+22:24 <bikcmp> wait
+22:24 <bikcmp> so they defend sue?
+22:24 <`> *I* defended sue
+22:24 <bikcmp> start over
+22:24 <bikcmp> so
+22:24 <`> sue was whining and being a baby talking to my mom and sister
+22:24 <bikcmp> your mom and sister put him down
+22:24 <bikcmp> and you defended sue
+22:24 <`> so they put them down saying "what a whiner"
+22:24 <`> so i told them fuck you
+22:24 <`> and left
+22:24 <`> defending Sue
+22:25 <`> then today
+22:25 <bikcmp> he pays you back
+22:25 <bikcmp> i get it
+22:25 <`> power surged a bit and killed his computer
+22:25 <`> i offer to give him a line to my UPS so it doesnt happen to him
+22:25 <`> then he's all ahmmmm um
+22:26 <`> and then gestures (i also lipread) that he's going back up next week.
+22:26 <`> i'm like ..... um ok, and just came back into my room
+22:26 <bikcmp> good!
+22:26 <`> and he skyped me this
+22:26 <bikcmp> you don't sound like you're getting along.
+22:26 <bikcmp> yeah?
+22:27 <`> [7/18/12 6:31:19 PM] Zachary Hardesty: i'm sorry i'm running
+22:27 <`> [7/18/12 6:31:30 PM] Zachary Hardesty: i just don't see myself getting anywhere without a car
+22:27 <`> [7/18/12 6:31:36 PM] Zachary Hardesty: anywhere in life
+22:27 <bikcmp> ...
+22:27 <bikcmp> did he have a car before he moved there
+22:27 <`> yeah.
+22:27 <bikcmp> 'no'
+22:27 <`> the mercedes
+22:27 <bikcmp> so what changed
+22:27 <bikcmp> oh?
+22:27 <bikcmp> oh
+22:27 <`> he was trying to fix it
+22:27 <bikcmp> which he sold
+22:27 <bikcmp> right?
+22:27 <`> replaced it with new transmission
+22:27 <`> but somehow it overdrove the engine and exploded
+22:27 <bikcmp> .... lol
+22:27 <`> so no car
+22:27 <bikcmp> but that was before moving?
+22:27 <`> yes.
+22:27 <bikcmp> so what changed
+22:27 <bikcmp> lol
+22:28 <`> so he's all DDDDDDDDDD: about no car
+22:28 <`> and not being able to go anywhere and bullshit
+22:28 <`> whatever
+22:28 <bikcmp> be like most people
+22:28 <bikcmp> use public transport.
+22:28 <bikcmp> gmaps can't make it any easier
+22:28 <`> thank you
+22:28 <`> i told him that
+22:28 <`> he's all ehhh
+22:28 <bikcmp> "it's full of black people :((((((("
+22:28 <bikcmp> "buses are for minorities"
+22:28 <bikcmp> right?
+22:29 <bikcmp> too good for the bus
+22:29 <`> no
+22:29 <`> "it's too hot for that"
+22:29 <bikcmp> just too lazy?
+22:29 <`> i shit you not.
+22:29 <bikcmp> he sounds like he's a lazy bum.
+22:30 <`> he even admitted that his mother drinks every night
+22:30 <bikcmp> that is what i gather from that.
+22:30 <`> and he'll drink along with her getting drunk
+22:30 <bikcmp> ... point?
+22:30 <bikcmp> oh
+22:30 <`> when he goes back
+22:30 <bikcmp> well
+22:30 <`> what does that tell you?
+22:30 <bikcmp> dude
+22:30 <bikcmp> it sounds like he has some serious problems
+22:30 <`> no shit.
+22:30 <bikcmp> he doesn't sound like the kind of person you want around you, to say the least.
+22:30 <`> i dont mind him at all
+22:30 <`> he jsut...
+22:30 <bikcmp> if i were you, i would
+22:30 <`> doesn't make effort
+22:30 <`> thats all
+22:31 <bikcmp> he sounds like a lazyass bum.
+22:31 <bikcmp> just admit it.
+22:31 <bikcmp> he sounds very closed-minded.
+22:31 <`> i dont know him well enough, frankly.
+22:31 <`> he says he doesn't want to smoke weed because he's looking for a job
+22:31 <`> .....yeah
+22:32 <bikcmp> 23:31:03  <`> he says he doesn't want to smoke weed because he's looking for a job
+22:32 <bikcmp> tbh that's understandable
+22:32 <`> yes
+22:32 <bikcmp> i wouldn't be smoking any weed
+22:32 <`> then he turns around and plays pc games
+22:32 <bikcmp> the job part
+22:32 <bikcmp> well
+22:32 <bikcmp> you find jobs.
+22:32 <bikcmp> they don't find you.
+22:32 <`> right
+22:32 <`> thank you
+22:32 <bikcmp> most of the time anyway
+22:32 <bikcmp> for someone like sue, yeah, they don't
+22:33 <bikcmp> but i don't want to be hating on sue
+22:33 <bikcmp> i mean
+22:33 <bikcmp> i'm only hearing one side of the story
+22:33 <bikcmp> frankly it sounds like an issue you and him need to work out.
+22:33 <bikcmp> that, or have him go back to his mommy.
+22:34 <`> thats exactly what i want to avoid
+22:34 <`> but i have no clue of doing that.
+22:35 <bikcmp> rephrase that
+22:35 <bikcmp> 23:33:52  <`> but i have no clue of doing that.
+22:35 <bikcmp> what do you mean?
+22:35 <`> how to make him stay
+22:35 <`> and learn how to deal with shit.
+22:35 <`> *make him learn
+22:36 <bikcmp> well
+22:36 <bikcmp> it doesn't sound like you're in a position in which you can do that
+22:36 <bikcmp> all you can do is hope he sees the light
+22:36 <bikcmp> if he doesn't, oh well
+22:36 <bikcmp> it sounds like you've done as much as you can.
+22:39 <bikcmp> tbh
+22:39 <bikcmp> i haven't heard from sue in forever
+22:39 <bikcmp> it seems like he's ran away from me
+22:41 <`> my point exactly
+22:41 <`> he hasnt been on irc
+22:41 <`> etc
+22:41 <bikcmp> he seems depressed
+22:41 <bikcmp> or like
+22:41 <bikcmp> got problems.
+22:41 <bikcmp> i know, no shit ;p
+22:42 <bikcmp> well
+22:42 <bikcmp> like i said
+22:42 <bikcmp> there's nothing you can do
+22:46 <`> another thing that bugs me
+22:46 <bikcmp> yeah?
+22:46 <`> i pretty much had to prompt him in order for him to tell me that he's moving back
+22:46 <`> like, for sure
+22:46 <bikcmp> yes
+22:46 <bikcmp> he's being like
+22:46 <bikcmp> he isn't sure
+22:46 <`> no shit
+22:47 <`> brb
+22:47 <`> i'm getting ready
+22:47 <bikcmp> to?
+22:47 <bikcmp> go?
+22:50 <`> my friend's, remember?
+22:50 <bikcmp> oh
+22:50 <bikcmp> yeah
+22:50 <bikcmp> that's why i said 'go?'
+--- Log closed Wed Jul 18 22:56:53 2012
+--- Log opened Thu Jul 19 17:54:39 2012
+17:54 <bikcmp> Date	Time	Location	Event Details
+17:54 <bikcmp> July 19, 2012   7:30:00 AM  Seattle OR US Shipment has departed from Seattle-Tacoma International Airport (SEA) to Philadelphia International Airport
+17:54 <bikcmp> July 19, 2012   5:12:19 AM  Seattle OR US Shipment has arrived at Seattle-Tacoma International Airport (SEA)
+17:54 <bikcmp> July 19, 2012	3:11:22 AM	Redmond, WA US Shipment has left seller facility and is in transit
+17:54 <bikcmp> lol
+17:54 <bikcmp> and there's like
+17:54 <bikcmp> a google maps
+17:54 <bikcmp> to the side
+17:56 <bikcmp> Shipment Date:	July 19, 2012
+17:56 <bikcmp> Destination:	VOORHEES, NJ, US
+17:56 <bikcmp> Estimated Arrival:	July 20, 2012
+17:56 <bikcmp> <3
+--- Log closed Thu Jul 19 18:01:53 2012
+--- Log opened Thu Jul 19 18:18:57 2012
+18:18 <`> :D
+18:19 <`> do you have to login for that info, right?
+--- Log closed Thu Jul 19 18:24:53 2012
+--- Log opened Thu Jul 19 18:43:17 2012
+18:43 <bikcmp> yeah
+18:43 <bikcmp> i'm sorry
+18:43 <bikcmp> i didn't see the pm
+18:43 <bikcmp> :(
+--- Log closed Thu Jul 19 18:48:53 2012
+--- Log opened Thu Jul 19 21:00:09 2012
+21:00 <bikcmp> nice
+21:00 <bikcmp> you here?
+21:00 <bikcmp> ups is so amazing
+21:00 <bikcmp> lol
+--- Log closed Thu Jul 19 21:05:53 2012
+--- Log opened Sat Jul 21 04:28:14 2012
+04:28 -!- bikcmp [jason@dongs-AE18EB47.ip4.rev.irondust.net] has quit [FFFFFFFFFff-- Reconnecting]
+--- Log closed Sat Jul 21 04:33:53 2012
+--- Log opened Sat Jul 21 21:23:19 2012
+21:23 -!- bikcmp [jason@dongs-AC719961.ip4.rev.irondust.net] has quit [Ping timeout]
+--- Log closed Sat Jul 21 21:28:53 2012
+--- Log opened Mon Jul 23 02:59:57 2012
+02:59 <bikcmp> so
+02:59 <bikcmp> what's going on with sue
+--- Log closed Mon Jul 23 03:05:53 2012
+--- Log opened Mon Jul 23 03:21:10 2012
+03:21 <`> moving out, apparently.
+03:21 <`> whatever.
+--- Log closed Mon Jul 23 03:26:53 2012
+--- Log opened Mon Jul 23 15:52:10 2012
+15:52 <bikcmp> :(
+15:52 <bikcmp> are you on id? i want to talk about smth
+--- Log closed Mon Jul 23 15:57:53 2012
+--- Log opened Fri Jul 27 22:53:58 2012
+22:53 -!- bikcmp [jason@dongs-D4880710.blu-f6x-off-4b.ntwk.microsoft-office.com] has quit [Client exited]
+--- Log closed Fri Jul 27 22:59:53 2012
+--- Log opened Fri Aug 10 14:56:42 2012
+14:56 -!- Irssi: Starting query in localhost with bikcmp
+14:56 <bikcmp> your account was dropped due to a services bug.
+14:56 <bikcmp> it was not intentional, and by all means you're welcome on irondust.
+--- Log closed Fri Aug 10 15:01:59 2012
+--- Log opened Fri Aug 10 15:47:58 2012
+15:47 <bikcmp> also, what's up with your o:?
+15:48 <bikcmp> i really don't know.
+15:52 <`> couldn't oper up :|
+15:52 <`> but ok, i'll get on and see whats up
+--- Log closed Fri Aug 10 15:54:30 2012
+--- Log opened Fri Aug 10 17:08:49 2012
+17:08 -!- Irssi: Starting query in localhost with bikcmp
+17:08 <bikcmp> o
+17:08 <bikcmp> are you on?
+17:08 <bikcmp> ok, i mean.
+17:09 <bikcmp> bah. let me start over.
+17:09 <bikcmp> are you on irondust?
+--- Log closed Fri Aug 10 17:14:59 2012
+--- Log opened Fri Aug 10 17:25:27 2012
+17:25 <`> okay
+17:25 <`> i figured out
+17:25 <`> *it out
+17:25 <`> it was my own stupidity
+17:25 <`> i connected nonssl
+17:25 <`> and tried to oper up
+--- Log closed Fri Aug 10 17:30:59 2012
+--- Log opened Thu Aug 16 15:14:55 2012
+15:14 <bikcmp> someone offered me $200 for irondust.net
+15:15 <`> wolo.
+15:15 <`> for what.
+15:15 <bikcmp> the domain
+15:15 <bikcmp> lol
+15:15 <bikcmp> we currently have 240 users and we're dying
+15:15 <bikcmp> so i'm like
+15:15 <bikcmp> why the fuck not.
+15:15 <`> got a replacement domain?
+15:15 <bikcmp> sure, but i can't "officially" push it around
+15:15 <bikcmp> i mean, i could tell my friends abut it
+15:15 <bikcmp> <.<
+15:15 <bikcmp> lol
+15:16 <bikcmp> connectgate.net
+15:16 <`> so why not get a real .com?
+15:16 <bikcmp> .com is for business
+15:16 <bikcmp> .net is for networks
+15:16 <`> doesn't matter
+15:16 <bikcmp> personally it hink it looks nicer
+15:16 <`> it's all end-user perception
+15:17 <bikcmp> ikr
+15:17 <`> .com is plain more popular and understandable.
+15:17 <bikcmp> well
+15:17 <bikcmp> i originally was planning on using connectgate for a server host
+15:17 <bikcmp> and am as we peak
+15:17 <bikcmp> spea
+15:17 <bikcmp> speak.
+15:17 <bikcmp> lol
+--- Log closed Thu Aug 16 15:23:02 2012
+--- Log opened Sun Aug 19 02:02:57 2012
+02:02 -!- bikcmp [jason@dongs-DBB6C396.net.irondust.net] has quit [Client exited]
+--- Log closed Sun Aug 19 02:08:03 2012

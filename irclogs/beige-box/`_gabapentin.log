@@ -1,0 +1,16 @@
+--- Log opened Mon Feb 13 00:14:30 2012
+00:14 !irc.beige-box.com *** Notice -- WARNING: Time running backwards! Clock set back ~60 seconds (1329113829 -> 1329113769)
+00:14 !irc.beige-box.com *** Notice -- Incorrect time for IRC servers is a serious problem. Time being set backwards (either by TSCTL or by resetting the clock) is even more serious and can cause clients to freeze, channels to be taken over, and other issues.
+00:14 !irc.beige-box.com *** Notice -- Please be sure your clock is always synchronized before the IRCd is started or use the built-in timesynch feature.
+00:14 !irc.beige-box.com *** Notice -- [TimeShift] Resetting a few timers to prevent IRCd freeze!
+00:14 !irc.beige-box.com *** Notice -- [TimeShift] The (IRCd) clock was set backwards. Timers, nick- and channel-timestamps are possibly incorrect. This message will repeat itself until we catch up with the original time, which will be in 60 seconds
+--- Log closed Mon Feb 13 00:20:18 2012
+--- Log opened Mon Feb 13 06:54:54 2012
+06:54 !irc.beige-box.com *** Notice -- Client connecting on port 6667: Kel (44669e76@ircip1.mibbit.com) [clients] 
+--- Log closed Mon Feb 13 07:00:18 2012
+--- Log opened Mon Feb 13 07:14:12 2012
+07:14 !irc.beige-box.com *** Notice -- Client exiting: Kel (44669e76@ircip1.mibbit.com) [Quit: http://www.mibbit.com ajax IRC Client]
+--- Log closed Mon Feb 13 07:19:18 2012
+--- Log opened Mon Feb 13 07:45:40 2012
+07:45 !irc.beige-box.com *** Notice -- `|gabapentin (dissimulo@cookiemonster.deafgeeksdns.com) has changed his/her nickname to `
+--- Log closed Mon Feb 13 07:51:18 2012
