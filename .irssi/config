@@ -193,14 +193,6 @@ settings = {
   "fe-text" = { actlist_sort = "refnum"; };
   "fe-common/core" = { term_charset = "utf-8"; autolog = "yes"; };
   "irc/core" = { cmds_max_at_once = "999999"; cmd_queue_speed = "0ms"; };
-  "perl/core/scripts" = {
-    growl_host = "iamat.endofinternet.org";
-    growl_password = "weh9qeQU";
-    growl_port = "23053";
-    growl_net_host = "iamat.endofinternet.org";
-    growl_net_port = "23053";
-    growl_net_pass = "seifer8";
-  };
 };
 logs = { };
 ignores = ( { mask = "Sudos|PE2300"; level = "ALL"; } );
