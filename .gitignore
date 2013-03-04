@@ -1,4 +1,5 @@
 # Ignoring:
+.yadr/vim*
 .secrets*
 .zhistory
 examples.desktop
