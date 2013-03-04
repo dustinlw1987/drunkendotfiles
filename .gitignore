@@ -1,4 +1,6 @@
 # Ignoring:
+.neocon
+.viminfo
 .secrets*
 .zhistory
 examples.desktop
