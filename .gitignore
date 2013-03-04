@@ -1,6 +1,7 @@
 # Ignoring:
 .secrets*
 .zhistory
+examples.desktop
 .fasd
 .dmrc*
 .adobe*
