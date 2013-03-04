@@ -17,7 +17,7 @@
          "maximized": true,
          "right": 1050,
          "top": 0,
-         "work_area_bottom": 1024,
+         "work_area_bottom": 999,
          "work_area_left": 0,
          "work_area_right": 1280,
          "work_area_top": 0
@@ -1567,6 +1567,12 @@
                   "4": 100,
                   "5": 32,
                   "6": 0
+               },
+               "supports_spdy": true
+            },
+            "secure.gravatar.com:443": {
+               "settings": {
+                  "4": 100
                },
                "supports_spdy": true
             },

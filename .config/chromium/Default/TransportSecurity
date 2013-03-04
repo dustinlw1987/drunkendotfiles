@@ -1,4 +1,12 @@
 {
+   "bVzOnu6xyelN8iVLDSbFjyZVgXrXDyLSokjnq2hdUFs=": {
+      "created": 1362398163.836955,
+      "dynamic_spki_hashes_expiry": 0.0,
+      "expiry": 1364990166.021719,
+      "include_subdomains": false,
+      "mode": "force-https",
+      "static_spki_hashes": [  ]
+   },
    "ooKP2JZJsuuRymmK8RxvtrfR+asHf5T1wY9LQwNuvFA=": {
       "created": 1362373385.744963,
       "dynamic_spki_hashes_expiry": 0.0,

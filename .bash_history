@@ -19,3 +19,19 @@ sudo su -
 exit
 sudo aptitude install handbrake
 exit
+ls
+rm -rf drunkendotfiles
+git clone https://github.com/dustinlw1987/drunkendotfiles.git
+cd drunkendotfiles
+mv -Rv .* ~
+mv -rv .* ~
+man mv
+mv -fv .* ~
+ls
+mv -fv * ~
+cp -Rv * ~
+cd ..
+ls .git
+chsh -s /bin/zsh
+zsh
+exit
