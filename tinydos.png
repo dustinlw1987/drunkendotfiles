@@ -1,0 +1,9 @@
+Error: Homebrew doesn't know what compiler versions ship with your version of
+Xcode. Please file an issue with the output of `brew --config`:
+  https://github.com/mxcl/homebrew/issues
+
+Thanks!
+/usr/local/Library/Homebrew/macos.rb:209:in `compilers_standard?': undefined method `all?' for nil:NilClass (NoMethodError)
+	from /usr/local/Library/Homebrew/cmd/--config.rb:98:in `dump_build_config'
+	from /usr/local/Library/Homebrew/exceptions.rb:123:in `dump'
+	from /usr/local/bin/brew:109
