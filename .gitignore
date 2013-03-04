@@ -1,16 +1,15 @@
 # Ignoring:
-.yadr/vim*
 .secrets*
 .zhistory
 examples.desktop
 .fasd
-.dmrc*
-.adobe*
+.dmrc
+.adobe
 .aptitude
 .aprc
 .ICEauthority
 .cache*
-.ctags*
+.ctags
 Desktop*
 .ecryptfs*
 .local*
