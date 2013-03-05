@@ -1,6 +1,8 @@
 # Ignoring:
 .neocon
 .gnome2*
+.gksu*
+.icons*
 .gstreamer*
 .pki*
 .macromedia*
