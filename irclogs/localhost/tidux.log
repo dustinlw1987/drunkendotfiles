@@ -106,3 +106,46 @@
 --- Log opened Mon Jan 21 17:50:19 2013
 17:50 -!- tidux [tidux@4A96B954.980906CE.B9407173.IP] has quit [Quit: leaving]
 --- Log closed Mon Jan 21 17:55:47 2013
+--- Log opened Mon Mar 04 08:31:54 2013
+08:31 -!- Irssi: Starting query in localhost with tidux
+08:31 <tidux> can someone with +o here kickban him?
+08:31 <tidux> chanserv is down
+08:33 <`> heh
+08:33 <`>  /killing him is much more entertaining
+08:33 <tidux> it gets old
+08:33 <tidux> I'd rather he just stop shitting up the channel
+08:34 <`> lol
+08:34 <tidux> and mike gimped my o-line so I can't ban him outright
+08:34 <`> knowing jewform
+08:34 <`> he'll just bitch
+08:35 <`> just write a script
+08:35 <`> that automatically /kills him
+08:35 <`> after 3s of join
+08:35 <tidux> ugh fine
+08:35 <tidux> no
+08:35 <tidux> instakill
+08:35 <`> lol fine
+08:35 <tidux> we need server rules that if you /join more than ten times a minute you're banned for a month
+08:35 <`> its your funeral
+08:35 <tidux> because only gnuform does that
+08:37 <tidux> dammit
+08:38 <`> lol
+08:38 <tidux> I need chanops to make an autokicker work
+08:38  * tidux grumbles
+08:38 <`> you shouldn't
+08:38 <tidux> I can't gline or kickban
+08:38 <tidux> at all
+08:38 <tidux> :/
+08:38 <`> just make an manual script
+08:38 <`> that does a basic grep for any *ewform*
+08:38 <`> then automatically calling /kill
+08:39 <`> that way, it relies on your client only, and not on external priveleges (other than /oper, but you can have the script to oper up first in case, even)
+08:39 <tidux> true
+08:40 <`> nod
+08:41 <tidux> ` can you just give me +o in #wtfpwnt?
+08:42 <tidux> that way I have a working banscript while I hack my replacement together
+--- Log closed Mon Mar 04 08:47:04 2013
+--- Log opened Mon Mar 04 08:55:15 2013
+08:55 <tidux> I can still kline people
+08:55 <tidux> }:A
+--- Log closed Mon Mar 04 09:01:04 2013
