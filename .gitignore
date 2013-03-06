@@ -1,5 +1,7 @@
 # Ignoring:
 .yankring*
+.yadr/vim*
+.fontconfig*
 .neocon
 .gnome2*
 .gksu*
@@ -15,6 +17,7 @@
 .zhistory
 examples.desktop
 .fasd
+.nv*
 .dmrc
 .adobe
 .aptitude

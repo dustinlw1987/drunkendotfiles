@@ -63,3 +63,15 @@ cd ..
 rm -rf .yadr
 git clone https://github.com/skwp/dotfiles.git ~/.yadr
 cd ~/.yadr && rake install
+git clone https://github.com/dustinlw1987/drunkendotfiles.git
+cd drunkendotfiles/
+mv * ~
+mv .* ~
+ls -la
+cd ..
+ls
+sudo aptitude install zsh
+su -
+exit
+chsh -s /bin/zsh
+exit
