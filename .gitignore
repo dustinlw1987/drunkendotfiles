@@ -2,6 +2,9 @@
 .yankring*
 .yadr/vim*
 .fontconfig*
+.thumbnails
+.config*
+.gnash
 .neocon
 .gnome2*
 .gksu*
@@ -11,10 +14,9 @@
 .macromedia*
 .viminfo
 .secrets*
-.config/chromium/*
-.config/transmission/*
 .ssh*
 .zhistory
+.zcompdump*
 examples.desktop
 .fasd
 .nv*
