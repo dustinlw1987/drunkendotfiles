@@ -69073,3 +69073,501 @@
 10:30 -!- Keres [Keres@dongs-22404A88.dc.dc.cox.net] has joined #deafgeeks
 11:16 -!- _frozen [Frozen@dongs-4505C896.tc.ph.cox.net] has quit [Connection reset by peer]
 11:16 -!- _frozen [Frozen@dongs-4505C896.tc.ph.cox.net] has joined #deafgeeks
+21:10 -!- Keres [Keres@dongs-22404A88.dc.dc.cox.net] has quit [Ping timeout]
+21:16 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has joined #deafgeeks
+21:19 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has quit [Connection reset by peer]
+21:20 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has joined #deafgeeks
+21:24 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has quit [Connection reset by peer]
+21:26 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has joined #deafgeeks
+21:27 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has quit [Connection reset by peer]
+21:28 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has joined #deafgeeks
+--- Day changed Tue Mar 05 2013
+01:58 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+10:47 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has joined #deafgeeks
+11:46 < audist> `
+11:46 < audist> is it possible to spoof an IP route?
+11:46 < audist> so that it gives off a fake IP address when people try to trace you
+11:47 < audist> i'm not probably using technically correct terms
+11:50 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has quit [Ping timeout]
+11:52 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has joined #deafgeeks
+12:14 < `> audist: in other words, you're wondering if the pirate bay is being for real, being hosted in .kp
+12:14 < caption> lol
+12:14 < caption> spot on
+12:18 < `> Server:		173.203.4.8
+12:18 < `> Address:	173.203.4.8#53
+12:18 < `> Non-authoritative answer:
+12:18 < `> Name:	thepiratebay.se
+12:18 < `> Address: 194.71.107.15
+12:18 < `> % This is the RIPE Database query service.
+12:18 < `> % The objects are in RPSL format.
+12:18 < `> %
+12:18 < `> % The RIPE Database is subject to Terms and Conditions.
+12:18 < `> % See http://www.ripe.net/db/support/db-terms-conditions.pdf
+12:18 < `> % Note: this output has been filtered.
+12:18 < `> %       To receive output for a database update, use the "-B" flag.
+12:18 < `> % Information related to '194.71.107.0 - 194.71.107.255'
+12:18 < `> inetnum:        194.71.107.0 - 194.71.107.255
+12:18 < `> netname:        THEPIEATEBAY-NET
+12:18 < `> descr:          The Pirate Bay
+12:18 < `> country:        DE
+12:18 < `> admin-c:        RL4048-RIPE
+12:18 < `> tech-c:         RL4048-RIPE
+12:18 < `> status:         ASSIGNED PI
+12:18 < `> remarks:        ---------------------------------------------------------------
+12:18 < `> remarks:        ABUSE related questions mail to abuse@thepiratebay.org
+12:18 < `> remarks:        Abuse related questions to any other address will be ignored.
+12:18 < `> remarks:        ---------------------------------------------------------------
+12:18 < `> mnt-by:         MNT-RESERVELLA
+12:18 < `> mnt-routes:     MNT-STN
+12:18 < `> source:         RIPE # Filtered
+12:18 < `> person:         Reservella LTD
+12:18 < `> address:        P.O. Box 73852
+12:18 < `> phone:          +35738743131
+12:18 < `> nic-hdl:        RL4048-RIPE
+12:18 < `> mnt-by:         MNT-RESERVELLA
+12:18 < `> source:         RIPE # Filtered
+12:18 < `> % Information related to '194.71.107.0/24AS50066'
+12:18 < `> route:          194.71.107.0/24
+12:18 < `> descr:          The Pirate Bay
+12:18 < `> origin:         AS50066
+12:18 < `> mnt-by:         MNT-STN
+12:18 < `> source:         RIPE # Filtered
+12:18 < `> % Information related to '194.71.107.0/24AS51040'
+12:18 < `> route:          194.71.107.0/24
+12:18 < `> descr:          The Pirate Bay
+12:18 < `> origin:         AS51040
+12:18 < `> mnt-by:         MNT-STN
+12:18 < `> source:         RIPE # Filtered
+12:18 < `> % This query was served by the RIPE Database Query Service version 1.55 (WHOIS2)
+12:18 < `> now, you see
+12:18 < caption> what happened to dpaste?
+12:19 < `> they specifically OWN blocks of IP addresses
+12:19 < audist> oh shit, my nigga
+12:19 < `> which is BGP-routed to .kp
+12:19 < audist> [10:17:57 am] (`) Server:		173.203.4.8
+12:20 < audist> [10:17:57 am] (`) Address:	173.203.4.8#53
+12:20 < audist> that's the .kp address?
+12:20 < `> they own an /24 of the IPv4 internet (194.71.107.0 - 194.71.107.255)
+12:20 < `> no, that's DNS
+12:20 < `> look below
+12:20 < audist> ahh, gotcha
+12:20 < `> 12:18 < `> Name:Ithepiratebay.se
+12:20 < `> 12:18 < `> Address: 194.71.107.15
+12:20 < audist> wow
+12:21 < audist> it was difficult for me to believe that TPB was for real
+12:21 < `> now, lets see if we can tracert
+12:21 < `> okay, running.
+12:21 < `> level3
+12:21 < `> tusin
+12:21 < `> *tustin
+12:21 < `> back into los angeles, lol
+12:22 < audist> REPPIN
+12:22 < audist> REPPIN
+12:22 < `> hitting NTT networks
+12:22 < `> 21th hop, still on NTT
+12:23 < `> though it'd be interesting to do a tracert from a multipeered connection
+12:23 < `> PREPARE ANUS FOR TRACERT
+12:23  * audist prepares anus
+12:23 < `> traceroute to thepiratebay.se (194.71.107.15), 30 hops max, 60 byte packets
+12:23 < `>  1  50.56.63.130 (50.56.63.130)  1.589 ms  2.471 ms  2.450 ms
+12:23 < `>  2  core1-aggr401a-4.ord1.rackspace.net (173.203.0.216)  2.536 ms  2.491 ms  2.475 ms
+12:23 < `>  3  corea.ord1.rackspace.net (184.106.126.124)  2.445 ms corea.ord1.rackspace.net (184.106.126.128)  2.446 ms  2.414 ms
+12:23 < `>  4  edge2.ord1.rackspace.net (184.106.126.139)  2.370 ms edge2.ord1.rackspace.net (184.106.126.137)  2.316 ms  2.282 ms
+12:23 < `>  5  xe-1-0-7.ar1.ord6.us.nlayer.net (69.31.110.241)  3.166 ms  3.123 ms  3.104 ms
+12:23 < `>  6  ae5-40g.cr2.ord1.us.nlayer.net (69.31.110.253)  2.575 ms  1.969 ms  1.751 ms
+12:23 < `>  7  ae1-30g.ar1.ord1.us.nlayer.net (69.31.111.134)  5.345 ms  6.736 ms ae2-30g.ar1.ord1.us.nlayer.net (69.31.111.138)  7.441 ms
+12:23 < `>  8  xe-0-6-0-3.r06.chicgil09.us.bb.gin.ntt.net (128.242.186.129)  3.439 ms  3.426 ms  3.388 ms
+12:23 < `>  9  ae-7.r20.chcgil09.us.bb.gin.ntt.net (129.250.4.145)  2.839 ms  2.829 ms  3.216 ms
+12:23 < `> 10  ae-4.r23.nycmny01.us.bb.gin.ntt.net (129.250.2.41)  40.160 ms  29.709 ms  23.730 ms
+12:23 < `> 11  ae-6.r21.frnkge03.de.bb.gin.ntt.net (129.250.3.181)  118.142 ms  120.271 ms  118.992 ms
+12:23 < `> 12  ae-1.r02.frnkge03.de.bb.gin.ntt.net (129.250.4.163)  117.688 ms  120.837 ms  123.732 ms
+12:23 < `> 13  * * *
+12:23 < `> 14  213.198.77.122 (213.198.77.122)  118.175 ms  117.148 ms  117.807 ms
+12:23 < `> 15  * * *
+12:23 < `> 16  xe-3-2.r02.dsdfge01.de.bb.gin.ntt.net (129.250.5.174)  118.638 ms  111.914 ms  117.321 ms
+12:23 < `> 17  xe-0-3-0-6.r02.amstnl02.nl.bb.gin.ntt.net (129.250.2.64)  117.054 ms  122.507 ms  118.267 ms
+12:23 < `> 18  xe-0.sprint.amstnl02.nl.bb.gin.ntt.net (129.250.9.50)  123.245 ms  127.447 ms  117.842 ms
+12:23 < `> 19  sl-bb21-ams-0-0-0.sprintlink.net (217.149.32.206)  128.087 ms  135.425 ms  126.638 ms
+12:23 < `> 20  sl-bb23-lon-0-4-0-0.sprintlink.net (213.206.129.143)  126.359 ms  128.010 ms  130.383 ms
+12:23 < `> 21  sl-crs2-lon-0-8-0-0.sprintlink.net (213.206.128.184)  141.845 ms  137.512 ms  136.785 ms
+12:23 < `> 22  sl-crs1-nyc-0-5-2-0.sprintlink.net (144.232.9.163)  202.511 ms  201.885 ms  203.509 ms
+12:23 < `> 23  144.232.5.216 (144.232.5.216)  211.181 ms * *
+12:23 < `> 24  * * *
+12:23 < `> 25  * * *
+12:24 < `> 26  * * *
+12:24 < `> 27  * * *
+12:24 < `> 28  * * *
+12:24 < `> 29  * * *
+12:24 < `> 30  * * *
+12:24 < `> i believe 30 hops was the maximum.
+12:24 < audist> ah
+12:25 < `> i have to extend it, but it looked like it hit london
+12:25 < `> and boomeranged back to NYC
+12:25 < audist> *.ntt.net
+12:25 < `> LOL
+12:25 < audist> interesting
+12:25 < `> because look at hops 21 and 22
+12:25 < `> lon, then suddenly nyc
+12:25 < audist> yup
+12:25 < audist> what's the 10 to 18, though?
+12:25 < audist> looks like amsterdam?
+12:26 < audist> 16 is germany, i think
+12:26 < audist> so there's nothing that looks like a korean ip
+12:27 < `> chicago, nyc, then somewhere shortened to frnkge, then it hit further down into NTT's network... looking more, i see it hits amsterdam (amstnl02, hop 17)
+12:27 < audist> also hop 18
+12:27 < `> so it makes sense
+12:27 < audist> and possibly 19
+12:27 < `> because KCC Europe
+12:27 < audist> it does?
+12:27 < `> is based in Europe *and* Germany
+12:28 < audist> ah
+12:28 < `> makes sense that NK is peering with germany then europe
+12:28 < audist> why?
+12:28 < `> the fact that their IP routes look funny
+12:28 < `> is because they're using THEIR own IP blocks
+12:28 < `> instead of .kp's IP blocks
+12:28 < audist> ohh
+12:28 < `> if you can expose their north korean routers that they're using... then yeah
+12:29 < audist> international security level, bro
+12:29 < `> well
+12:29 < `> you pass through NK routers no matter what
+12:29 < `> if you access friends.com.kp or kcna.co.kp
+12:30 < `> * kcna.kp
+12:30 < audist> how?
+12:30 < `> well
+12:30 < audist> via browser or a tracert?
+12:31 < `> their routers have to pass such request to the webservers
+12:31 < `> (yes, they log shit)
+12:31 < audist> will they do anything?
+12:31 < `> but i'm laughing because all of these people doing all of these firewall hits
+12:31 < `> it's raping their logs
+12:31 < audist> lmao
+12:32 < `> i bet you they're well into gigabytes of logs
+12:32 < `> and racing to keep up
+12:34 < `> but yes. i believe theyre for real
+12:34 < `> because think about it
+12:35 < `> NK will give the US the giant finger
+12:35 < `> if the US/RIAA/MPAA tries to rape them
+12:37 < `> suddenly
+12:37 < `> i wonder.
+12:37 < `> Server:		173.203.4.8
+12:37 < `> Address:	173.203.4.8#53
+12:37 < `> ** server can't find thepiratebay.kp: NXDOMAIN
+12:37 < `> i thought not.
+12:38 < `> that'd be hilarious, though
+12:42 < audist> hahaha
+12:42 < audist> damn
+12:43 < caption> http://www.buzzfeed.com/catesish/turkish-oil-wrestling-is-a-totally-legit-sport
+12:49 < `> i love /exec -o
+12:49 < `> :D
+12:49 < `> lets me output commands directly
+12:50 < `>  12:50:05 up 54 days, 17:15, 23 users,  load average: 0.13, 0.10, 0.09
+12:50 < `>              total       used       free     shared    buffers     cached
+12:50 < `> Mem:          1017        940         76          0         65         88
+12:50 < `> -/+ buffers/cache:        787        230
+12:50 < `> Swap:         2047        685       1361
+12:50 < `> all values in MB
+12:50 < `> lolserver.
+12:51 < `> aaaand if you have toilet installed
+12:51 < `> it's fun to use
+12:53 < `> lol
+12:53 < `> damn
+12:53 < `> @ buzzfeed link
+12:54 < audist> haha
+12:54 < `> it's as gay as you can get without being gay
+12:55 < `> also, i'm so doing this, but better
+12:55 < `> http://imgur.com/a/qpxvZ
+12:56 < audist> haha awesome
+13:59 < `> damn
+13:59 < `> i want a 3d printer
+13:59 < `> http://arstechnica.com/gadgets/2013/03/download-this-bong-3d-printer-templates-for-getting-your-buzz-on/
+13:59 < `> er
+14:00 < `> http://dgd.io/qk67
+--- Log closed Tue Mar 05 17:06:23 2013
+--- Log opened Tue Mar 05 17:06:24 2013
+17:06 -!- ` [dissimulo@dongs-177F552B] has joined #deafgeeks
+17:06 -!- Irssi: #deafgeeks: Total of 5 nicks [0 ops, 0 halfops, 0 voices, 5 normal]
+17:06 -!- Irssi: Join to #deafgeeks was synced in 6 secs
+17:30 < caption> `: what do u think about ubuntu running away from X
+17:31 < caption> going for their own display server, Mir
+19:48 < `> i KNEW it
+21:10 < caption> ?
+21:34 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [Client exited]
+21:34 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has joined #deafgeeks
+--- Log closed Tue Mar 05 21:50:34 2013
+--- Log opened Tue Mar 05 21:50:36 2013
+21:50 -!- ` [dissimulo@dongs-177F552B] has joined #deafgeeks
+21:50 -!- Irssi: #deafgeeks: Total of 5 nicks [0 ops, 0 halfops, 0 voices, 5 normal]
+21:50 -!- Irssi: Join to #deafgeeks was synced in 5 secs
+--- Day changed Wed Mar 06 2013
+01:05 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+11:01 < Keres> http://www.theverge.com/2013/3/1/4042964/google-hangout-adds-sign-language-app-keyboard-shortcuts
+11:11 < `> Keres: i actually have the dev device from Leap Motion
+11:11 < `> Keres: http://leapmotion.com
+12:15 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has joined #deafgeeks
+13:47 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has quit [Ping timeout]
+13:52 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has joined #deafgeeks
+13:58 -!- Keres [Keres@dongs-C685872A.dc.dc.cox.net] has quit [Ping timeout]
+14:10 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+14:22 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+14:24 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+14:28 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Connection reset by peer]
+14:29 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+14:31 -!- Kers [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+14:32 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+14:56 -!- Kers [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+15:06 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+15:19 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+15:21 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+15:46 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+15:47 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+16:03 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+16:06 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+16:24 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+16:26 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+18:57 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Connection reset by peer]
+18:57 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+21:04 -!- _frozen [Frozen@dongs-4505C896.tc.ph.cox.net] has quit [Ping timeout]
+--- Day changed Thu Mar 07 2013
+01:11 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+01:36 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+01:36 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+09:13 -!- Kers [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+09:13 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+09:55 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has joined #deafgeeks
+10:05 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+10:06 -!- Kers [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+10:58 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+10:58 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+11:00 -!- Kers [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+11:01 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+11:02 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has joined #deafgeeks
+11:03 -!- Kers [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+11:18 -!- Keres [Keres@dongs-3670BAE3.dc.dc.cox.net] has quit [Ping timeout]
+16:55 < audist> yo, `
+16:56 < audist> zf.com page is now domain default
+18:23 < `> audist: i know. finally got it at that point.
+18:24 < `> audist: DNS provider fucked me sideways by not syncing their frontend/backend so things were REALLY confusing
+18:24 < `> audist: i'm now on first-name basis with most of their engineers at the U.S. datacenter
+18:24 < `> ._____________________.
+18:25 < `> (in other words, their systems showed one thing, but actually used old settings, etc)
+18:27 < audist> hahaha
+20:38 < `> caption: nice.
+20:38 < caption> ?
+20:38 < `> #ifihadglass
+20:38 < `> i had the same idea.
+20:38 < caption> oh yeah
+20:39 < caption> it wasnt mine
+20:39 < caption> it was one of the guys at Riverside.io
+20:39 < `> :P
+20:39 < `> damn, if you guys had an irc channel
+20:39 < `> i'd be on it 24/7, easy
+20:39 < caption> well i run a daemon that allows me to login campfire with weechat
+20:39 < `> eww weechat
+20:39 < `> irssi master race.
+20:39 < caption> https://github.com/blakesmith/flamethrower
+20:40  * ` researches on shoving campfire down irssi's throat
+20:40 < caption> haha irssi is archaic
+20:41 < caption> it should work for irssi
+20:41 < caption> any irc client
+20:41 < `> fuck yes.
+20:41 < caption> it just emulates CF rooms as irc rooms to connect to
+20:41 < `> camper_van
+20:42 < caption> yep thats another one
+20:42 < caption> i picked flamethrower bec it seemed simpler
+20:44 < `> yeah
+20:44 < `> that's much better.
+20:44 < `> i was thinking it was a weechat-specific plugin
+20:44 < caption> nah
+20:45 < `> now, what's the info needed to access riv.io's chats
+20:46 < `> caption: i'm also using mosh/tmux and my own modification of YADR that works with linux systems
+20:47 < `> and this system's compiling flamethrower
+20:47 < `> :)
+20:47 < caption> HAHAHAHAHAAHA
+20:47 < caption> i knew u would come to the dark side!
+20:47 < caption> fuck screen
+20:47 < `> i still use screen
+20:47 < `> it's good for daemonizing scripts.
+20:48 < `> but tmux for everything else, really
+20:48 < caption> haha but tmux is just better
+20:48 < `> anyway, i seem to require the riv.io api key
+20:48 < audist> i use vaseline
+20:48 < caption> i tried reading a .screenrc
+20:48 < `> lol
+20:48 < audist> it's good for daemonizing moms
+20:48 < caption> tramatizing
+20:48 < `> very.
+20:48 < caption> i use mosh/tmux every day, all day
+20:48 < `> because:
+20:48 < caption> i ve been working at CSDR
+20:48 < `> flamethrower -d <campfire_domain> -t <campfire_api_token>
+20:49 < caption> connected atw
+20:49 < caption> oh
+20:49 < caption> sorry i forgot
+20:49 < `> caption: ah, what's up at CSDR?
+20:49 < caption> well ull need ur own token
+20:49 < caption> signin ur 37signals account and get that info
+20:49 < caption> `: i've been subbing
+20:49 < caption> pretty sweet arrangement
+20:50 < caption> $160 per day, and good chance that allu do is play and DVD and do ur computer shit when kids watch
+20:50 < caption> and u decide when to work
+20:50 < `> hmm, oh i see.
+20:50 < `> caption: hah, nice!
+20:50 < caption> yup
+20:51 < caption> i think u could become one, if u pass CBEST
+20:51 < caption> i think thats all required to become one. but ive heard htat u need bachelors
+20:51 < caption> not sure
+20:52 < `> fuck.
+20:52 < `> i'm already running :6667
+20:52 < `> (since this is the same server running the ircd
+20:52 < `> )
+20:52 < `> so i need to figure out how to change the port of flamethrower
+20:52 < audist> config to change port?
+20:52 < caption> i think u can change 
+20:52 < caption> ack that shit
+20:52 < `> yeah
+20:53 < `> there's a myconfig.yml
+20:53 < `> looking for that
+20:53 < caption> oh
+20:53 < caption> it should be in .flamethrower
+20:53 < `> correct
+20:54 < `> however, it isn't there.
+20:54 < `> so i'm running updatedb to find it
+20:55 < caption> ok
+20:56 < audist> sudo apt-get your-mom
+20:56 < caption> u dont see it?
+20:57 < caption> ohh
+20:57 < caption> i think ure supposed to create it
+20:57 < caption> its simple
+20:57 < caption> YAML format
+20:57 < caption> domain: riverside
+20:57 < caption> token: sdjflksajdkflajslkfjslfjlsdj
+20:58 < caption> config.yml in .flamethrower is just default
+20:58 < `> i know that
+20:58 < caption> u can do flamethrower -c ~/wherever/config.yml
+20:58 < `> i dont care about that shit
+20:59 < `> i need to figure out how it needs to be configured to use a different port
+20:59 < caption> ohhhh
+20:59 < caption> lol right
+21:00 < `> mhmm
+21:02 < caption> its a gem
+21:02 < caption> so itll be wherever u put ur gems 
+21:02 < caption> if rvm, them .rvm/gems/dflksjfladfjld
+21:03 < caption> i need to move over to rbenv tho
+21:03 < `> gem install.
+21:04 < caption> lol what?
+21:04 < `> so it's /usr/lib/ruby/gems/1.8/gems
+21:04 < caption> u dont use rvm?
+21:04 < `> no
+21:04 < caption> or rbenv
+21:04 < caption> wtf
+21:04 < caption> well u should, if ure doing anyting substantial in ruby
+21:04 < caption> anything
+21:05 < caption> web dev without a ruby version manager is hell
+21:05 < caption> u can mess with the default ruby systems provided by the OS
+21:05 < caption> confuse versions of gems
+21:05 < caption> bs bs bs
+21:06 < caption> dab time
+21:06 < `> me too.
+21:06 < `> working heavily in commandline right now
+21:06 < `> :D
+21:09 < caption> haha cool
+21:10 < caption> what have u been up to, "professionally"?
+21:10 < `> just getting infra back up to date
+21:10 < `> then going from there
+21:11 < caption> still?
+21:11 < caption> damn, this is a long ass process
+21:11 < `> yeah
+21:11 < `> things went sideways
+21:11 < caption> im sure u learned a lot
+21:11 < `> i did
+21:11 < caption> cool
+21:12 < `> ...the fuck
+21:12 < `> i cant figure otu how to change the fucking port
+21:12 < caption> try camper van then
+21:12 < `> already am
+21:13 < `> gem is installing it.
+21:14 < `> also, i note the last update to flamethrower was 2 months ago
+21:14 < `> whilst camper_van was just a day over a week ago.
+21:16 < `> meh.
+21:16 < `> updating ruby via brew.
+21:16 < `> doing it on the local machine now.
+21:16 < caption> eh
+21:16 < caption> honestly u should do rbenv or rvm
+21:16 < caption> seriously
+21:17 < caption> its easy to install
+21:17 < `> i'll try rbenv
+21:17 < caption> project-specific gemsets are invaluable to me
+21:18 < `> rvm wasn't available in brew
+21:18 < caption> yep but its one line curl install tho
+21:18 < caption> https://rvm.io/
+21:18 < caption> scott motte uses rbenv, said its better
+21:18 < caption> and thats what i read too
+21:18 < caption> so i guess u can get a head start
+21:20 < `> okies.
+21:22 < `> okies
+21:22 < caption> http://www.rubyinside.com/rbenv-a-simple-new-ruby-version-management-tool-5302.html
+21:23 < `> looks like brew is using ruby-2.0.0-p0
+21:23 < caption> might want to install ruby-build
+21:23 < `> will do.
+21:23 < caption> yes!
+21:23 < caption> Rails 4 also uses Ruby 2.0
+21:23 < `> lols
+21:23 < caption> heard its faster bec of that
+21:23 < `> my mbp is at 204 F
+21:23 < caption> whoa
+21:23 < `> because of the stress of the compiles.
+21:23 < caption> SSD dick
+21:24 < `> 216
+21:24 < `> bahah
+21:24 < `> it's hovering between 210-218
+21:24 < caption> haha
+21:24 < `> the thermal shutdown of those cores is 250 F
+21:24 < caption> do u still have ur fans?
+21:24 < `> yes.
+21:24 < caption> desk/fan whatever that is
+21:24 < `> but atm, i'm not in my room
+21:25 < `> so it's strictly using its own internal fans
+21:25 < caption> aha
+21:25 < `> hm.
+21:25 < `> --enable-shared --disable-tcl
+21:25 < `> that's the options i can see for the ruby compile
+21:25 < `> heh
+21:26 < caption> no idea, probably unneeded
+21:26 < caption> lol
+21:26 < caption> unneccessary
+21:26 < caption> fk
+21:26 < `> ?
+21:26 < caption> nvm, just spelling
+21:27 < `> i really wish there's just a real ircd
+21:27 < caption> for?
+21:27 < `> so i dont have to fuck around with this
+21:27 < `> for riv.io
+21:27 < caption> oh yeah
+21:27 < caption> campfire :(
+21:27 < caption> its popular
+21:27 < caption> scott uses it for Riverside.io customer serv chat
+21:28 < caption> no
+21:28 < caption> i mean Signature.io
+21:28 < caption> u can drag n drop uploads n bs
+21:28 < caption> stuff u cant do on irc
+21:29 < caption> btw i really like the redesign
+21:30 < `> caption: /
+21:30 < `> *?
+21:31 < `> what redesign?
+21:31 < caption> Scott Motte is the guy who runs the campfire rooms, and he also runs Signature.io
+21:32 < caption> and Signature.io has a new site
+21:32 < caption> same colorway and logos but new site
+21:32 < caption> he obviously is using zurb foundation
+21:33 < caption> that's my framework of choice as of recent fyi
+21:36 < `> caption: http://accounts.deafgeeksdesign.com/
+21:36 < `> caption: that's the customer portal coming up soon
+21:39 < caption> http://goo.gl/3Imrn
+21:39 < caption> this is a picture of a dick 
+21:40 < caption> in two forms, flaccid and erect
+21:46 < audist> you could practically cook something on your mbp
+21:46 < audist> i was just scrolling down
+21:46 < audist> haha
+--- Day changed Fri Mar 08 2013
+02:35 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has quit [FFFFFFFFFff-- ]
+10:07 -!- audist [audist@484AE6C9.2663B89F.18A961E4.IP] has joined #deafgeeks
